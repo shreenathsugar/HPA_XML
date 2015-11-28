@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<devices>
+  <imeicode imei="123456789">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/123456789.xml</url>
+    <version>1</version>
+    <rstart>11</rstart>
+    <rend>1200</rend>
+  </imeicode>
+  <imeicode imei="357870064588309">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/357870064588309.xml</url>
+    <version>1</version>
+    <rstart>1000000</rstart>
+    <rend>1003000</rend>
+  </imeicode>
+  <imeicode imei="356430065376070">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/356430065376070.xml</url>
+    <version>1</version>
+    <rstart>1003001</rstart>
+    <rend>1013000</rend>
+  </imeicode>
+  <imeicode imei="911407303425644">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/911407303425644.xml</url>
+    <version>1</version>
+    <rstart>1013001</rstart>
+    <rend>1024000</rend>
+  </imeicode>
+  <imeicode imei="356430065427477">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/356430065427477.xml</url>
+    <version>1</version>
+    <rstart>1024001</rstart>
+    <rend>1028500</rend>
+  </imeicode>
+  <imeicode imei="911368007379745">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/911368007379745.xml</url>
+    <version>1</version>
+    <rstart>1028501</rstart>
+    <rend>1039000</rend>
+  </imeicode>
+  <imeicode imei="356430063234115">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/356430063234115.xml</url>
+    <version>1</version>
+    <rstart>1039001</rstart>
+    <rend>1049500</rend>
+  </imeicode>
+  <imeicode imei="868518021453370">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/868518021453370.xml</url>
+    <version>1</version>
+    <rstart>1049501</rstart>
+    <rend>1058500</rend>
+  </imeicode>
+  <imeicode imei="911426850838611">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/911426850838611.xml</url>
+    <version>1</version>
+    <rstart>1058501</rstart>
+    <rend>1061300</rend>
+  </imeicode>
+  <imeicode imei="354655050957847/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/354655050957847/01.xml</url>
+    <version>1</version>
+    <rstart>1061301</rstart>
+    <rend>1064600</rend>
+  </imeicode>
+  <imeicode imei="866392022760080">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/866392022760080.xml</url>
+    <version>1</version>
+    <rstart>1064601</rstart>
+    <rend>1067500</rend>
+  </imeicode>
+  <imeicode imei="911407303423631">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/911407303423631.xml</url>
+    <version>1</version>
+    <rstart>1067501</rstart>
+    <rend>1070700</rend>
+  </imeicode>
+  <imeicode imei="355596061702617/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/355596061702617/01.xml</url>
+    <version>1</version>
+    <rstart>1070701</rstart>
+    <rend>1073350</rend>
+  </imeicode>
+  <imeicode imei="865645022962142">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/865645022962142.xml</url>
+    <version>1</version>
+    <rstart>1073351</rstart>
+    <rend>1079350</rend>
+  </imeicode>
+  <imeicode imei="911407306368148">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/911407306368148.xml</url>
+    <version>1</version>
+    <rstart>1079351</rstart>
+    <rend>1088350</rend>
+  </imeicode>
+  <imeicode imei="357067063403883">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/357067063403883.xml</url>
+    <version>1</version>
+    <rstart>1088351</rstart>
+    <rend>1091550</rend>
+  </imeicode>
+  <imeicode imei="352840060247940/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/352840060247940/01.xml</url>
+    <version>1</version>
+    <rstart>1091551</rstart>
+    <rend>1094850</rend>
+  </imeicode>
+  <imeicode imei="352954061434025/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/352954061434025/01.xml</url>
+    <version>1</version>
+    <rstart>1094851</rstart>
+    <rend>1098050</rend>
+  </imeicode>
+  <imeicode imei="354699069404094/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/354699069404094/01.xml</url>
+    <version>1</version>
+    <rstart>1098051</rstart>
+    <rend>1100900</rend>
+  </imeicode>
+  <imeicode imei="352742069470269/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/352742069470269/01.xml</url>
+    <version>1</version>
+    <rstart>1100901</rstart>
+    <rend>1109900</rend>
+  </imeicode>
+  <imeicode imei="354023060142233">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/354023060142233.xml</url>
+    <version>1</version>
+    <rstart>1109901</rstart>
+    <rend>1113000</rend>
+  </imeicode>
+  <imeicode imei="354338054653981">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/354338054653981.xml</url>
+    <version>1</version>
+    <rstart>1113001</rstart>
+    <rend>1116300</rend>
+  </imeicode>
+  <imeicode imei="353508075419775/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/353508075419775/01.xml</url>
+    <version>1</version>
+    <rstart>1116301</rstart>
+    <rend>1118900</rend>
+  </imeicode>
+  <imeicode imei="353953067540347">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/353953067540347.xml</url>
+    <version>1</version>
+    <rstart>1118901</rstart>
+    <rend>1121600</rend>
+  </imeicode>
+  <imeicode imei="358827060269507/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/358827060269507/01.xml</url>
+    <version>1</version>
+    <rstart>1121601</rstart>
+    <rend>1124700</rend>
+  </imeicode>
+  <imeicode imei="866225028309587">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/866225028309587.xml</url>
+    <version>1</version>
+    <rstart>1124701</rstart>
+    <rend>1134700</rend>
+  </imeicode>
+  <imeicode imei="354786063675181/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/354786063675181/01.xml</url>
+    <version>1</version>
+    <rstart>1134701</rstart>
+    <rend>1138500</rend>
+  </imeicode>
+  <imeicode imei="911430508237010">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/911430508237010.xml</url>
+    <version>1</version>
+    <rstart>1138501</rstart>
+    <rend>1143500</rend>
+  </imeicode>
+  <imeicode imei="354324065518892/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/354324065518892/01.xml</url>
+    <version>1</version>
+    <rstart>1143501</rstart>
+    <rend>1146000</rend>
+  </imeicode>
+  <imeicode imei="911368004265731">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/911368004265731.xml</url>
+    <version>1</version>
+    <rstart>1146001</rstart>
+    <rend>1150000</rend>
+  </imeicode>
+  <imeicode imei="35231307475538/01">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/35231307475538/01.xml</url>
+    <version>1</version>
+    <rstart>1150001</rstart>
+    <rend>1154000</rend>
+  </imeicode>
+  <imeicode imei="353295061542915">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/353295061542915.xml</url>
+    <version>1</version>
+    <rstart>1154001</rstart>
+    <rend>1157000</rend>
+  </imeicode>
+  <imeicode imei="864596022750246">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/864596022750246.xml</url>
+    <version>1</version>
+    <rstart>1157001</rstart>
+    <rend>1161000</rend>
+  </imeicode>
+  <imeicode imei="911454751096923">
+    <url>https://raw.githubusercontent.com/nathsugar/HPA_XML/master/911454751096923.xml</url>
+    <version>1</version>
+    <rstart>1161001</rstart>
+    <rend>1166000</rend>
+  </imeicode>
+</devices>
