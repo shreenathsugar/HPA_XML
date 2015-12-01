@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReasonDetails>
+  <ReasonCode Code="1">
+    <Reason>बेण्यासाठी</Reason>
+  </ReasonCode>
+  <ReasonCode Code="2">
+    <Reason>पाण्या अभावी</Reason>
+  </ReasonCode>
+  <ReasonCode Code="3">
+    <Reason>चा-यासाठी</Reason>
+  </ReasonCode>
+  <ReasonCode Code="4">
+    <Reason>गू-हाळासाठी</Reason>
+  </ReasonCode>
+  <ReasonCode Code="5">
+    <Reason>इतर कारखाना</Reason>
+  </ReasonCode>
+  <ReasonCode Code="6">
+    <Reason>अन्यत्र विल्हेवाट</Reason>
+  </ReasonCode>
+</ReasonDetails>
