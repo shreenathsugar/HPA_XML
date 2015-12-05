@@ -222,4 +222,10 @@
     <rstart>1166001</rstart>
     <rend>1167001</rend>
   </imeicode>
+  <imeicode imei="352996068433955">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/352996068433955.xml</url>
+    <version>1</version>
+    <rstart>1167001</rstart>
+    <rend>1168001</rend>
+  </imeicode>
 </devices>
