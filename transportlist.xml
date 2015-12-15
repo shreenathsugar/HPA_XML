@@ -1175,11 +1175,5 @@
       <TrollyNoA>T68805-1</TrollyNoA>
       <TrollyNoB>T68805-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="1010">
-      <ContractorName>test contractor </ContractorName>
-      <VehicleNo>MH-12-JN-6583</VehicleNo>
-      <TrollyNoA>T68805-1</TrollyNoA>
-      <TrollyNoB>T68805-2</TrollyNoB>
-    </ContractorCode>
   </VechicleType>
 </ContractorDetails>
