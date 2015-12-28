@@ -270,12 +270,6 @@
     <rstart>1175001</rstart>
     <rend>1176001</rend>
   </imeicode>
-  <imeicode imei="35272407021221">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/35272407021221.xml</url>
-    <version>1</version>
-    <rstart>1176001</rstart>
-    <rend>1177001</rend>
-  </imeicode>
   <imeicode imei="911311400454103">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/911311400454103.xml</url>
     <version>1</version>
@@ -288,10 +282,10 @@
     <rstart>1000000</rstart>
     <rend>1003000</rend>
   </imeicode>
-  <imeicode imei="865072027983462">
-    <url>https://raw.githubusercontent.com/amardhade/HPA-XML/master/harvestingprogramdetails.xml</url>
+  <imeicode imei="352724070212211">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/352724070212211.xml</url>
     <version>1</version>
-    <rstart>100</rstart>
-    <rend>1000</rend>
+    <rstart>1176001</rstart>
+    <rend>1177001</rend>
   </imeicode>
 </devices>
