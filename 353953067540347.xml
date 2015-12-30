@@ -1,14 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HarvestingProgramDetailsList>
-  <PlotList plotNo="97731">
+  <PlotList plotNo="93532">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>60439</GrowerCode>
-    <GrowerName>लोखंडे शंकर बाजीराव</GrowerName>
+    <GrowerCode>67809</GrowerCode>
+    <GrowerName>सुतार शशिकांत सखाराम</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
-    <VillageCode>76</VillageCode>
-    <VillageName>मरकळ</VillageName>
-    <serveNo>871</serveNo>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>222</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93531">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56940</GrowerCode>
+    <GrowerName>सुतार दत्तात्रय तुकाराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>222</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -17,92 +34,7 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="93533">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67810</GrowerCode>
-    <GrowerName>काळे सत्यवान बाळू</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>225</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="93547">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>60477</GrowerCode>
-    <GrowerName>बनसोडे पारूबाई रामदास</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>412</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="94109">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>54409</GrowerCode>
-    <GrowerName>काकडे भरत विष्णु</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>78</VillageCode>
-    <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>458</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="93509">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>55112</GrowerCode>
-    <GrowerName>बनसोडे बाळासो गोविंद</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>413</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="94176">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>57056</GrowerCode>
-    <GrowerName>गव्हाणे आशा दशरथ</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>78</VillageCode>
-    <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>508</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="94092">
+  <PlotList plotNo="94093">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>54767</GrowerCode>
     <GrowerName>काकडे बाळासाहेब गंगाराम</GrowerName>
@@ -111,117 +43,151 @@
     <VillageCode>78</VillageCode>
     <VillageName>वडगाव शिंदे</VillageName>
     <serveNo>133</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="93456">
+  <PlotList plotNo="94095">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>55603</GrowerCode>
-    <GrowerName>कोळेकर शिवाजी हरीभाऊ</GrowerName>
+    <GrowerCode>57073</GrowerCode>
+    <GrowerName>काकडे मोहन गंगाराम</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>652</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="93530">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>63161</GrowerCode>
-    <GrowerName>कोळेकर गणपत सहादू</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>1550</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>136</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="94043">
+  <PlotList plotNo="94123">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>54376</GrowerCode>
-    <GrowerName>खांदवे पांडुरंग मारुती</GrowerName>
+    <GrowerCode>54162</GrowerCode>
+    <GrowerName>काकडे सोमाजी विष्णु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>30</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93548">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55601</GrowerCode>
+    <GrowerName>गायकवाड सुभाष विश्वनाथ</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>77</VillageCode>
     <VillageName>कोयाळी</VillageName>
-    <serveNo>125</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
+    <serveNo>812</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="94053">
+  <PlotList plotNo="94124">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>54376</GrowerCode>
-    <GrowerName>खांदवे पांडुरंग मारुती</GrowerName>
+    <GrowerCode>54164</GrowerCode>
+    <GrowerName>काकडे युवराज आबाजी</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>78</VillageCode>
     <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>301</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
+    <serveNo>443</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="94057">
+  <PlotList plotNo="94111">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67849</GrowerCode>
-    <GrowerName>काकडे तानाजी नाथु</GrowerName>
+    <GrowerCode>54767</GrowerCode>
+    <GrowerName>काकडे बाळासाहेब गंगाराम</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>78</VillageCode>
     <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>396</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
+    <serveNo>133</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93518">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55136</GrowerCode>
+    <GrowerName>दिघे भानुदास ज्ञानोबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>274</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89192">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57107</GrowerCode>
+    <GrowerName>गाडे शहाजी मल्हारी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>387</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
     <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="94056">
+  <PlotList plotNo="93514">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67848</GrowerCode>
-    <GrowerName>काकडे शिवराम रामचंद्र</GrowerName>
+    <GrowerCode>67807</GrowerCode>
+    <GrowerName>दिघे हौसाबाई सदाशिव</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
-    <VillageCode>78</VillageCode>
-    <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>80</serveNo>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1208</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
     <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="96823">
+  <PlotList plotNo="96824">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>60438</GrowerCode>
     <GrowerName>लोखंडे सुमन शंकर</GrowerName>
@@ -232,38 +198,582 @@
     <serveNo>750</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
     <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92729">
+  <PlotList plotNo="94046">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>55602</GrowerCode>
-    <GrowerName>बनसोडे राहुल भानुदास</GrowerName>
+    <GrowerCode>62348</GrowerCode>
+    <GrowerName>लोखंडे राहूल रोहिदास</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>418</serveNo>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>68</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="89190">
+  <PlotList plotNo="94222">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67435</GrowerCode>
-    <GrowerName>थिटे पांडुरंग गुलाब</GrowerName>
+    <GrowerCode>67869</GrowerCode>
+    <GrowerName>लोखंडे अनिल किसन (मरकळ)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>630</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94044">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>63934</GrowerCode>
+    <GrowerName>लोखंडे नवनाथ हनुमंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>1432</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94182">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>65142</GrowerCode>
+    <GrowerName>लोखंडे विजय विनायक</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>1326</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93541">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55333</GrowerCode>
+    <GrowerName>सातव गणपत बबन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>289</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94223">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67869</GrowerCode>
+    <GrowerName>लोखंडे अनिल किसन (मरकळ)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>134</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89249">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67444</GrowerCode>
+    <GrowerName>पोतले कैलास कुंडलिक</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>1528</VillageCode>
     <VillageName>मोहीतेवाडी</VillageName>
-    <serveNo>2491</serveNo>
+    <serveNo>2105</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94084">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49034</GrowerCode>
+    <GrowerName>काकडे बापु वामन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>78</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93542">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55333</GrowerCode>
+    <GrowerName>सातव गणपत बबन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>291</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94034">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49615</GrowerCode>
+    <GrowerName>शिंदे संभाजी रामचंद्र</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>199</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94054">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54376</GrowerCode>
+    <GrowerName>खांदवे पांडुरंग मारुती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>57</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93563">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55275</GrowerCode>
+    <GrowerName>गायकवाड गोविंद नाथु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>506</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93564">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55275</GrowerCode>
+    <GrowerName>गायकवाड गोविंद नाथु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>517/519</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89227">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59499</GrowerCode>
+    <GrowerName>साबळे देवराम पंढरीनाथ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>1847/1846</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93537">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55247</GrowerCode>
+    <GrowerName>शेख महेबुब अजीज</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1038</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93516">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60456</GrowerCode>
+    <GrowerName>पोकळे दत्तात्रय अर्जुन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1226</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94115">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57068</GrowerCode>
+    <GrowerName>काकडे ज्ञानेश्वर बापु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>395</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94181">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67858</GrowerCode>
+    <GrowerName>शिंदे रामभाऊ सिताराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>32</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94118">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58724</GrowerCode>
+    <GrowerName>गव्हाणे सुभाष गेणभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>49</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94087">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49379</GrowerCode>
+    <GrowerName>शिंदे समाधान शंकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>111</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93515">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60456</GrowerCode>
+    <GrowerName>पोकळे दत्तात्रय अर्जुन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1226</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94059">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49615</GrowerCode>
+    <GrowerName>शिंदे संभाजी रामचंद्र</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>427</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93552">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60456</GrowerCode>
+    <GrowerName>पोकळे दत्तात्रय अर्जुन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1226</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93501">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59282</GrowerCode>
+    <GrowerName>कर्नावट ललित चुनीलाल</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>77</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89228">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55568</GrowerCode>
+    <GrowerName>कोंढेकर लक्ष्मण मारुती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2318/1889</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94114">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67854</GrowerCode>
+    <GrowerName>काकडे आप्पा निवृत्ती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>404</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94086">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49379</GrowerCode>
+    <GrowerName>शिंदे समाधान शंकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>111</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94061">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59074</GrowerCode>
+    <GrowerName>शिंदे कांतीलाल अमृता</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>239</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94130">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49419</GrowerCode>
+    <GrowerName>काकडे उत्तम सिताराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>133</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89191">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55285</GrowerCode>
+    <GrowerName>मोहिते सुभाष साहेबराव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2452</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94113">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57042</GrowerCode>
+    <GrowerName>काकडे बाळासो निवृत्ती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>404</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94117">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54434</GrowerCode>
+    <GrowerName>बारणे मारुती नामदेव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>398</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94188">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>68403</GrowerCode>
+    <GrowerName>लोखंडे रामदास दत्तात्रेय</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>192</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89238">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64080</GrowerCode>
+    <GrowerName>मोहिते सुनिल बबन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2467</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -272,15 +782,49 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="93550">
+  <PlotList plotNo="93570">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>56940</GrowerCode>
-    <GrowerName>सुतार दत्तात्रय तुकाराम</GrowerName>
+    <GrowerCode>56951</GrowerCode>
+    <GrowerName>आल्हाट बाळासाहेब पोपट</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>77</VillageCode>
     <VillageName>कोयाळी</VillageName>
-    <serveNo>222</serveNo>
+    <serveNo>1103</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94047">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62348</GrowerCode>
+    <GrowerName>लोखंडे राहूल रोहिदास</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>1432</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94105">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49615</GrowerCode>
+    <GrowerName>शिंदे संभाजी रामचंद्र</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>400</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -289,32 +833,49 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="94042">
+  <PlotList plotNo="94070">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>54376</GrowerCode>
-    <GrowerName>खांदवे पांडुरंग मारुती</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>191</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="94099">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>49034</GrowerCode>
-    <GrowerName>काकडे बापु वामन</GrowerName>
+    <GrowerCode>67851</GrowerCode>
+    <GrowerName>शिंदे सुवर्णा शिवाजी</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>78</VillageCode>
     <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>276</serveNo>
+    <serveNo>77</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89188">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55661</GrowerCode>
+    <GrowerName>पोतले सिताराम कोंडीबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2554</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89221">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60122</GrowerCode>
+    <GrowerName>मोहिते शंकरराव रघुनाथ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo />
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -323,7 +884,398 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="89241">
+  <PlotList plotNo="94050">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>65653</GrowerCode>
+    <GrowerName>लोखंडे सुरेश जयवंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>162</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89229">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67439</GrowerCode>
+    <GrowerName>औटी पांडुरंग मारूती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2623</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89201">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55350</GrowerCode>
+    <GrowerName>मोहिते नामदेव दिनकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="96818">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56143</GrowerCode>
+    <GrowerName>आल्हाट सोपान दत्तु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1143</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93529">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67808</GrowerCode>
+    <GrowerName>शिंदे बायडाबाई सिताराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>554</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94119">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57043</GrowerCode>
+    <GrowerName>काकडे संतोष शरद</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>408</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94192">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67861</GrowerCode>
+    <GrowerName>चौधरी कुंडलिक दत्तु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <serveNo>374</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94085">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54351</GrowerCode>
+    <GrowerName>काकडे केरू रघुनाथ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>437</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93558">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56976</GrowerCode>
+    <GrowerName>बनसोडे वसंत मारुती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1110</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93544">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>61982</GrowerCode>
+    <GrowerName>साळुंके विशाल गोपाळ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>140</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93536">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55337</GrowerCode>
+    <GrowerName>पांढरे बापु शंकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>287</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94033">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49618</GrowerCode>
+    <GrowerName>काकडे पोपट रामभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>46</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93522">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62221</GrowerCode>
+    <GrowerName>टेंगले एकनाथ दिनकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>669</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93517">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60456</GrowerCode>
+    <GrowerName>पोकळे दत्तात्रय अर्जुन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1226</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94023">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55126</GrowerCode>
+    <GrowerName>लोखंडे कैलास ज्ञानोबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>408</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94045">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67846</GrowerCode>
+    <GrowerName>लोखंडे संतोष सुभाष</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>48</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93557">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56976</GrowerCode>
+    <GrowerName>बनसोडे वसंत मारुती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1111</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93464">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55601</GrowerCode>
+    <GrowerName>गायकवाड सुभाष विश्वनाथ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>19</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93545">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>61982</GrowerCode>
+    <GrowerName>साळुंके विशाल गोपाळ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>155</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94106">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>63903</GrowerCode>
+    <GrowerName>काकडे हरिभाऊ धोंडीबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>412</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94205">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57067</GrowerCode>
+    <GrowerName>काकडे बाबासाहेब ज्ञानेश्वर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>151</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89210">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55529</GrowerCode>
+    <GrowerName>गाडे हरीभाऊ दिनकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93565">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55373</GrowerCode>
+    <GrowerName>दिघे लिलाबाई बाळू</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>391</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89240">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>65223</GrowerCode>
     <GrowerName>मोहिते सर्जेराव यशवंत</GrowerName>
@@ -340,99 +1292,150 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="94100">
+  <PlotList plotNo="89209">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>57056</GrowerCode>
-    <GrowerName>गव्हाणे आशा दशरथ</GrowerName>
+    <GrowerCode>60123</GrowerCode>
+    <GrowerName>थिटे रोहिदास पंडित</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
-    <VillageCode>78</VillageCode>
-    <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>515</serveNo>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2501</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93474">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57023</GrowerCode>
+    <GrowerName>गायकवाड अर्जुन कुंडलिक(गणेश)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>598</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="96810">
+  <PlotList plotNo="94179">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>56122</GrowerCode>
-    <GrowerName>आल्हाट लक्ष्मण बाबुराव</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>1143</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="93540">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>55240</GrowerCode>
-    <GrowerName>गायकवाड शिवाजी किसन</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>861/62</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="96845">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>56142</GrowerCode>
-    <GrowerName>आल्हाट भिका बाबुराव</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>1138/1157</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="93502">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>59282</GrowerCode>
-    <GrowerName>कर्नावट ललित चुनीलाल</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>77</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="94089">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>60413</GrowerCode>
-    <GrowerName>शिंदे दिपराज रघुनाथ</GrowerName>
+    <GrowerCode>57038</GrowerCode>
+    <GrowerName>काकडे प्रकाश गणपत</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>78</VillageCode>
     <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>406</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94055">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67847</GrowerCode>
+    <GrowerName>काकडे संपत मल्हारी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>402</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94218">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67851</GrowerCode>
+    <GrowerName>शिंदे सुवर्णा शिवाजी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>77</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94060">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49618</GrowerCode>
+    <GrowerName>काकडे पोपट रामभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>475</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93538">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67813</GrowerCode>
+    <GrowerName>कोळेकर नामदेव दगडु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>151</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93465">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55319</GrowerCode>
+    <GrowerName>भुजबळ बाळकृष्ण विठोबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>865</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89208">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55286</GrowerCode>
+    <GrowerName>पोतले नाथु दादाभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
     <serveNo />
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
@@ -442,15 +1445,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="94090">
+  <PlotList plotNo="94107">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>57072</GrowerCode>
-    <GrowerName>काकडे प्रताप श्रीपती</GrowerName>
+    <GrowerCode>63901</GrowerCode>
+    <GrowerName>काकडे जयराम सिताराम</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>78</VillageCode>
     <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>151</serveNo>
+    <serveNo>130</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -459,83 +1462,168 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="96816">
+  <PlotList plotNo="94180">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>56119</GrowerCode>
-    <GrowerName>आल्हाट विठ्ठल नवनाथ</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>1143</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="89199">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>64084</GrowerCode>
-    <GrowerName>पोतले जयसिंग यशवंत</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>1528</VillageCode>
-    <VillageName>मोहीतेवाडी</VillageName>
-    <serveNo>2097/2105</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="96812">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>56121</GrowerCode>
-    <GrowerName>आल्हाट शिवाजी बाबुराव</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>77</VillageCode>
-    <VillageName>कोयाळी</VillageName>
-    <serveNo>1143</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="89186">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>61910</GrowerCode>
-    <GrowerName>मोहिते शत्रुघ्न पोपट</GrowerName>
-    <GatCode>18</GatCode>
-    <GatName>गेटकेन</GatName>
-    <VillageCode>1528</VillageCode>
-    <VillageName>मोहीतेवाडी</VillageName>
-    <serveNo>2403</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="94091">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>57048</GrowerCode>
-    <GrowerName>शिंदे मच्छिंद दत्तात्रय</GrowerName>
+    <GrowerCode>57037</GrowerCode>
+    <GrowerName>काकडे अंबर गणपत</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>78</VillageCode>
     <VillageName>वडगाव शिंदे</VillageName>
-    <serveNo>825</serveNo>
+    <serveNo>407</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93560">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62160</GrowerCode>
+    <GrowerName>आल्हाट ज्योती सुरेश</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1090</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93555">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62475</GrowerCode>
+    <GrowerName>बनसोडे हिराबाई वसंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1111/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94121">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57063</GrowerCode>
+    <GrowerName>काकडे चंद्रकांत महादु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>478</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89250">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55288</GrowerCode>
+    <GrowerName>पोतले सुदाम बंडु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2355,2427</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93473">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57023</GrowerCode>
+    <GrowerName>गायकवाड अर्जुन कुंडलिक(गणेश)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>612</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93441">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67805</GrowerCode>
+    <GrowerName>आल्हाट श्रीराम दशरथ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1054</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89207">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55353</GrowerCode>
+    <GrowerName>वाडेकर लिलाबाई ज्ञानेश्वर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89243">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55289</GrowerCode>
+    <GrowerName>पोतले चांगदेव सुदाम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2350</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93505">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57033</GrowerCode>
+    <GrowerName>गायकवाड इंदुबाई सोपान</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>401</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -544,15 +1632,117 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="96814">
+  <PlotList plotNo="94131">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>56124</GrowerCode>
-    <GrowerName>आल्हाट तुकाराम दत्तोबा</GrowerName>
+    <GrowerCode>49216</GrowerCode>
+    <GrowerName>शिंदे मोहन रामभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>391</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93526">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60460</GrowerCode>
+    <GrowerName>बनसोडे किसन रामचंद्र</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
     <VillageCode>77</VillageCode>
     <VillageName>कोयाळी</VillageName>
-    <serveNo>1143</serveNo>
+    <serveNo>1262</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94122">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67856</GrowerCode>
+    <GrowerName>काकडे रानु रामचंद्र</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>80</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94178">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54409</GrowerCode>
+    <GrowerName>काकडे भरत विष्णु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>458</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93527">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>61850</GrowerCode>
+    <GrowerName>बनसोडे अमोल देवराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1262</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89231">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58980</GrowerCode>
+    <GrowerName>औटी सुभाष महादेव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2625</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93539">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55784</GrowerCode>
+    <GrowerName>पोकळे नथु यशवंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1226</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -561,20 +1751,734 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="89193">
+  <PlotList plotNo="92740">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67436</GrowerCode>
-    <GrowerName>मोहिते अशोक रामदास</GrowerName>
+    <GrowerCode>61854</GrowerCode>
+    <GrowerName>ताम्हाणे अर्जुन बाळासाहेब</GrowerName>
     <GatCode>18</GatCode>
     <GatName>गेटकेन</GatName>
-    <VillageCode>1528</VillageCode>
-    <VillageName>मोहीतेवाडी</VillageName>
-    <serveNo>2403,2402</serveNo>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1262</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93559">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56976</GrowerCode>
+    <GrowerName>बनसोडे वसंत मारुती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1087</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93469">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>61858</GrowerCode>
+    <GrowerName>कोळेकर गुलाब राघू</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>805</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93556">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62475</GrowerCode>
+    <GrowerName>बनसोडे हिराबाई वसंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>611/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93562">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62160</GrowerCode>
+    <GrowerName>आल्हाट ज्योती सुरेश</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1090</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93506">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56978</GrowerCode>
+    <GrowerName>गायकवाड दशरथ कुंडलिक</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>693</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93566">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67815</GrowerCode>
+    <GrowerName>बनसोडे सागर वसंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1099</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93549">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67814</GrowerCode>
+    <GrowerName>गायकवाड विष्णू कुंडलिक</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1098</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94097">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49421</GrowerCode>
+    <GrowerName>शिंदे रामदास सुदाम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>84</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94096">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49030</GrowerCode>
+    <GrowerName>काकडे कालिदास आबाजी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>35</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93546">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55662</GrowerCode>
+    <GrowerName>पोकळे विठ्ठल यशवंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1226</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93543">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55400</GrowerCode>
+    <GrowerName>पोकळे लहु शंकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1226</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93567">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67815</GrowerCode>
+    <GrowerName>बनसोडे सागर वसंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1089</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94108">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54409</GrowerCode>
+    <GrowerName>काकडे भरत विष्णु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>80</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93444">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67806</GrowerCode>
+    <GrowerName>गायकवाड शुभांगी सुनिल</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>895</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89246">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67443</GrowerCode>
+    <GrowerName>पोतले कान्हु बंडू</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2350</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89217">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55489</GrowerCode>
+    <GrowerName>मोहिते केशव वामन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2453</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94036">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57863</GrowerCode>
+    <GrowerName>शिंदे बुधीवंत पंडित</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>412</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89219">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55304</GrowerCode>
+    <GrowerName>मोहिते महादेव वामन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2460</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89234">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67440</GrowerCode>
+    <GrowerName>मोहिते सुरेश ज्ञानेश्वर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2349</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93520">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62221</GrowerCode>
+    <GrowerName>टेंगले एकनाथ दिनकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>668</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94116">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54480</GrowerCode>
+    <GrowerName>काकडे दशरथ किसन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>82</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93446">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57026</GrowerCode>
+    <GrowerName>गायकवाड सुनिल सोपान</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>888</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94225">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59141</GrowerCode>
+    <GrowerName>भुसे गुलाब नामदेव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>580</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93521">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62221</GrowerCode>
+    <GrowerName>टेंगले एकनाथ दिनकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1622</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93459">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59439</GrowerCode>
+    <GrowerName>कर्नावट इंद्रभान चुनीलाल</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1149</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="96710">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>68283</GrowerCode>
+    <GrowerName>बनसोडे नवनाथ रामदास</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>405</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94088">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67852</GrowerCode>
+    <GrowerName>शिंदे विजय शंकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>64</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93525">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62224</GrowerCode>
+    <GrowerName>टेंगले मारूती दिनकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>1554</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93471">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57023</GrowerCode>
+    <GrowerName>गायकवाड अर्जुन कुंडलिक(गणेश)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>288</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94052">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>65653</GrowerCode>
+    <GrowerName>लोखंडे सुरेश जयवंत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>1412</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93448">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57032</GrowerCode>
+    <GrowerName>गायकवाड सोपान कुंडलिक</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <serveNo>41</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89224">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>63124</GrowerCode>
+    <GrowerName>गाडे पांडुरंग दादाभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2222</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89226">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67438</GrowerCode>
+    <GrowerName>गाडे दत्तात्रय दादाभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2480/2222</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94058">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67850</GrowerCode>
+    <GrowerName>काकडे अनिल देवराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>451</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94194">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67862</GrowerCode>
+    <GrowerName>चौधरी शंकर तुकाराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <serveNo>18</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89251">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55285</GrowerCode>
+    <GrowerName>मोहिते सुभाष साहेबराव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2452</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94120">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67855</GrowerCode>
+    <GrowerName>शिंदे सोमनाथ शहाजी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>390</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94185">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67860</GrowerCode>
+    <GrowerName>पाचपुते सखाराम गणपत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>76</VillageCode>
+    <VillageName>मरकळ</VillageName>
+    <serveNo>1430</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94069">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49031</GrowerCode>
+    <GrowerName>काकडे संदिप देवराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <serveNo>486</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89212">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55279</GrowerCode>
+    <GrowerName>मोहिते मल्हारी दिनकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2349</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="94195">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67863</GrowerCode>
+    <GrowerName>चौधरी संदिप ज्ञानेश्वर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <serveNo>191</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="89235">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67441</GrowerCode>
+    <GrowerName>थिटे राजेंद्र शिवराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <serveNo>2492/2501</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>

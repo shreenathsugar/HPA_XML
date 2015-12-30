@@ -1,99 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HarvestingProgramDetailsList>
-  <PlotList plotNo="91894">
+  <PlotList plotNo="91523">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>65972</GrowerCode>
-    <GrowerName>नागवडे दगडु गेणबा</GrowerName>
+    <GrowerCode>36499</GrowerCode>
+    <GrowerName>म्हेत्रे संदिप दशरथ</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>1119</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91914">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>38251</GrowerCode>
-    <GrowerName>नागवडे संतोष कोंडीबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>1098</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91948">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>64710</GrowerCode>
-    <GrowerName>मगर महेश प्रल्हाद</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>275</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91893">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67676</GrowerCode>
-    <GrowerName>नागवडे किरण सुरेश</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>1119</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91955">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>38511</GrowerCode>
-    <GrowerName>नागवडे अदिनाथ सोमनाथ</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>333</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="97585">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>19358</GrowerCode>
-    <GrowerName>जाधव शंकर बाळकृष्ण</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>1261</serveNo>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <serveNo>1/90</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -153,49 +68,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91791">
+  <PlotList plotNo="91289">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>7800</GrowerCode>
-    <GrowerName>म्हेत्रे अमोल धोंडिबा</GrowerName>
+    <GrowerCode>15770</GrowerCode>
+    <GrowerName>रासकर गौतम सोपान </GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>184</VillageCode>
-    <VillageName>बोरीभडक</VillageName>
-    <serveNo>303/312</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92131">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>41281</GrowerCode>
-    <GrowerName>शेळके सोपान दगडु</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>65</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91632">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>7800</GrowerCode>
-    <GrowerName>म्हेत्रे अमोल धोंडिबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>184</VillageCode>
-    <VillageName>बोरीभडक</VillageName>
-    <serveNo>456</serveNo>
+    <VillageCode>113</VillageCode>
+    <VillageName>यवत </VillageName>
+    <serveNo>853</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -221,20 +102,122 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91289">
+  <PlotList plotNo="91632">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>15770</GrowerCode>
-    <GrowerName>रासकर गौतम सोपान </GrowerName>
+    <GrowerCode>7800</GrowerCode>
+    <GrowerName>म्हेत्रे अमोल धोंडिबा</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>113</VillageCode>
-    <VillageName>यवत </VillageName>
-    <serveNo>853</serveNo>
+    <VillageCode>184</VillageCode>
+    <VillageName>बोरीभडक</VillageName>
+    <serveNo>456</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91791">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7800</GrowerCode>
+    <GrowerName>म्हेत्रे अमोल धोंडिबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>184</VillageCode>
+    <VillageName>बोरीभडक</VillageName>
+    <serveNo>303/312</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91893">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67676</GrowerCode>
+    <GrowerName>नागवडे किरण सुरेश</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>1119</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91894">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>65972</GrowerCode>
+    <GrowerName>नागवडे दगडु गेणबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>1119</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91914">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>38251</GrowerCode>
+    <GrowerName>नागवडे संतोष कोंडीबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>1098</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91948">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64710</GrowerCode>
+    <GrowerName>मगर महेश प्रल्हाद</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>275</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91955">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>38511</GrowerCode>
+    <GrowerName>नागवडे अदिनाथ सोमनाथ</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>333</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -289,6 +272,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92064">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10587</GrowerCode>
+    <GrowerName>कदम शिवाजीराव श्रीपतराव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <serveNo>99</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="92066">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>10588</GrowerCode>
@@ -298,23 +298,6 @@
     <VillageCode>99</VillageCode>
     <VillageName>नांदूर</VillageName>
     <serveNo>98</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91523">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>36499</GrowerCode>
-    <GrowerName>म्हेत्रे संदिप दशरथ</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>100</VillageCode>
-    <VillageName>सहजपूर</VillageName>
-    <serveNo>1/90</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -340,15 +323,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92064">
+  <PlotList plotNo="92131">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>10587</GrowerCode>
-    <GrowerName>कदम शिवाजीराव श्रीपतराव</GrowerName>
+    <GrowerCode>41281</GrowerCode>
+    <GrowerName>शेळके सोपान दगडु</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>99</VillageCode>
-    <VillageName>नांदूर</VillageName>
-    <serveNo>99</serveNo>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>65</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -417,6 +400,23 @@
     <VillageCode>99</VillageCode>
     <VillageName>नांदूर</VillageName>
     <serveNo>108</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97585">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>19358</GrowerCode>
+    <GrowerName>जाधव शंकर बाळकृष्ण</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>1261</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -527,23 +527,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91459">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58380</GrowerCode>
-    <GrowerName>काळभोर बबन बाबुराव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>98</VillageCode>
-    <VillageName>कासुर्डी</VillageName>
-    <serveNo>165</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="92687">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>2154</GrowerCode>
@@ -561,23 +544,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92652">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67742</GrowerCode>
-    <GrowerName>रायकर विशाल अरूण</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>93</VillageCode>
-    <VillageName>लडकतवाडी</VillageName>
-    <serveNo>1406</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91280">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>67626</GrowerCode>
@@ -587,6 +553,23 @@
     <VillageCode>144</VillageCode>
     <VillageName>यवत स्टेशन</VillageName>
     <serveNo>212</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91459">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58380</GrowerCode>
+    <GrowerName>काळभोर बबन बाबुराव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>98</VillageCode>
+    <VillageName>कासुर्डी</VillageName>
+    <serveNo>165</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -612,6 +595,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92652">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67742</GrowerCode>
+    <GrowerName>रायकर विशाल अरूण</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>93</VillageCode>
+    <VillageName>लडकतवाडी</VillageName>
+    <serveNo>1406</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="91878">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>55429</GrowerCode>
@@ -626,6 +626,91 @@
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91782">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>38407</GrowerCode>
+    <GrowerName>जाधव पोपट ज्ञानोबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>106</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91802">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30459</GrowerCode>
+    <GrowerName>म्हेत्रे संजय गेनबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>184</VillageCode>
+    <VillageName>बोरीभडक</VillageName>
+    <serveNo>54</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91405">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67640</GrowerCode>
+    <GrowerName>ठोंबरे सुहास धोंडीबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>101</VillageCode>
+    <VillageName>भरतगाव</VillageName>
+    <serveNo>52</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91349">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56610</GrowerCode>
+    <GrowerName>कुदळे शरद संभाजी</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>167</VillageCode>
+    <VillageName>बोरीऐंदी</VillageName>
+    <serveNo>364</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91995">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58400</GrowerCode>
+    <GrowerName>मुरकुटे अमृत जयवंत</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>169</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -714,23 +799,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91349">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>56610</GrowerCode>
-    <GrowerName>कुदळे शरद संभाजी</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>167</VillageCode>
-    <VillageName>बोरीऐंदी</VillageName>
-    <serveNo>364</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91350">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>61199</GrowerCode>
@@ -744,23 +812,6 @@
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91405">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67640</GrowerCode>
-    <GrowerName>ठोंबरे सुहास धोंडीबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>101</VillageCode>
-    <VillageName>भरतगाव</VillageName>
-    <serveNo>52</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>4</CaneCode>
-    <CaneType>पु.हंगामी</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
@@ -782,57 +833,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91782">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>38407</GrowerCode>
-    <GrowerName>जाधव पोपट ज्ञानोबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>106</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91802">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>30459</GrowerCode>
-    <GrowerName>म्हेत्रे संजय गेनबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>184</VillageCode>
-    <VillageName>बोरीभडक</VillageName>
-    <serveNo>54</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91995">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58400</GrowerCode>
-    <GrowerName>मुरकुटे अमृत जयवंत</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>169</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91355">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>67628</GrowerCode>
@@ -842,6 +842,40 @@
     <VillageCode>167</VillageCode>
     <VillageName>बोरीऐंदी</VillageName>
     <serveNo>53</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91846">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36251</GrowerCode>
+    <GrowerName>इनामके शैलेश पांडुरंग</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>66</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97645">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67244</GrowerCode>
+    <GrowerName>वांजरे सिंद्याबापू नामदेव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <serveNo>816</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -884,40 +918,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91846">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>36251</GrowerCode>
-    <GrowerName>इनामके शैलेश पांडुरंग</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>66</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="97645">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67244</GrowerCode>
-    <GrowerName>वांजरे सिंद्याबापू नामदेव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>94</VillageCode>
-    <VillageName>नाथाचीवाडी</VillageName>
-    <serveNo>816</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="92665">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>53725</GrowerCode>
@@ -932,6 +932,40 @@
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97685">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14012</GrowerCode>
+    <GrowerName>राऊत पांडुरंग आबाजी</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo />
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92653">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67743</GrowerCode>
+    <GrowerName>लडकत शालन दिलीप</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>93</VillageCode>
+    <VillageName>लडकतवाडी</VillageName>
+    <serveNo>970</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -969,32 +1003,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92653">
+  <PlotList plotNo="92686">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67743</GrowerCode>
-    <GrowerName>लडकत शालन दिलीप</GrowerName>
+    <GrowerCode>2154</GrowerCode>
+    <GrowerName>लडकत दिलीप यशवंत</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>93</VillageCode>
     <VillageName>लडकतवाडी</VillageName>
-    <serveNo>970</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="97685">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>14012</GrowerCode>
-    <GrowerName>राऊत पांडुरंग आबाजी</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo />
+    <serveNo>1373</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>1</CaneCode>
@@ -1017,23 +1034,6 @@
     <CaneCode>1</CaneCode>
     <CaneType>आडसाली</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92686">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>2154</GrowerCode>
-    <GrowerName>लडकत दिलीप यशवंत</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>93</VillageCode>
-    <VillageName>लडकतवाडी</VillageName>
-    <serveNo>1373</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>1</CaneCode>
-    <CaneType>आडसाली</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -1065,6 +1065,23 @@
     <serveNo>5/2</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91406">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67640</GrowerCode>
+    <GrowerName>ठोंबरे सुहास धोंडीबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>101</VillageCode>
+    <VillageName>भरतगाव</VillageName>
+    <serveNo>52</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
@@ -1105,23 +1122,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91406">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67640</GrowerCode>
-    <GrowerName>ठोंबरे सुहास धोंडीबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>101</VillageCode>
-    <VillageName>भरतगाव</VillageName>
-    <serveNo>52</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="92013">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>19284</GrowerCode>
@@ -1148,40 +1148,6 @@
     <VillageCode>1100</VillageCode>
     <VillageName>टिळेकर वाडी</VillageName>
     <serveNo>305</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91377">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>2728</GrowerCode>
-    <GrowerName>ठोंबरे मल्हारी आबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>98</VillageCode>
-    <VillageName>कासुर्डी</VillageName>
-    <serveNo>193</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92558">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>16647</GrowerCode>
-    <GrowerName>दोरगे प्रतापराव सोपानराव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>127</VillageCode>
-    <VillageName>उंडवडी</VillageName>
-    <serveNo>45/A</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1224,6 +1190,57 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92558">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16647</GrowerCode>
+    <GrowerName>दोरगे प्रतापराव सोपानराव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>127</VillageCode>
+    <VillageName>उंडवडी</VillageName>
+    <serveNo>45/A</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97873">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33225</GrowerCode>
+    <GrowerName>नातु राजाराम दिनकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <serveNo>313</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91377">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2728</GrowerCode>
+    <GrowerName>ठोंबरे मल्हारी आबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>98</VillageCode>
+    <VillageName>कासुर्डी</VillageName>
+    <serveNo>193</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="91381">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>67630</GrowerCode>
@@ -1258,23 +1275,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91929">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>19277</GrowerCode>
-    <GrowerName>नागवडे  सुबराव कोंडिबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>170/1</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91576">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>44048</GrowerCode>
@@ -1289,6 +1289,23 @@
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91929">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>19277</GrowerCode>
+    <GrowerName>नागवडे  सुबराव कोंडिबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>170/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -1343,40 +1360,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92193">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>10556</GrowerCode>
-    <GrowerName>खेडेकर जयश्री सोपान</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>218</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92028">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58611</GrowerCode>
-    <GrowerName>दाते दत्तात्रय भिवाजी</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>99</VillageCode>
-    <VillageName>नांदूर</VillageName>
-    <serveNo>68</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="92122">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>50591</GrowerCode>
@@ -1411,6 +1394,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92028">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58611</GrowerCode>
+    <GrowerName>दाते दत्तात्रय भिवाजी</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <serveNo>68</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="92123">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>11351</GrowerCode>
@@ -1428,15 +1428,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91950">
+  <PlotList plotNo="92193">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>11516</GrowerCode>
-    <GrowerName>काळभोर नंद्कुमार अमृता</GrowerName>
+    <GrowerCode>10556</GrowerCode>
+    <GrowerName>खेडेकर जयश्री सोपान</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>96</VillageCode>
     <VillageName>तांबेवाडी</VillageName>
-    <serveNo>101</serveNo>
+    <serveNo>218</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1445,20 +1445,20 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91991">
+  <PlotList plotNo="97658">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>2013</GrowerCode>
-    <GrowerName>नागवडे प्रशांत कोंडिबा</GrowerName>
+    <GrowerCode>69088</GrowerCode>
+    <GrowerName>गायकवाड बाळासाहेब उद्धवराव</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>170/2</serveNo>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>107</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -1471,23 +1471,6 @@
     <VillageCode>99</VillageCode>
     <VillageName>नांदूर</VillageName>
     <serveNo>67</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91460">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58380</GrowerCode>
-    <GrowerName>काळभोर बबन बाबुराव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>98</VillageCode>
-    <VillageName>कासुर्डी</VillageName>
-    <serveNo>165</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1513,15 +1496,49 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="97658">
+  <PlotList plotNo="91991">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>69088</GrowerCode>
-    <GrowerName>गायकवाड बाळासाहेब उद्धवराव</GrowerName>
+    <GrowerCode>2013</GrowerCode>
+    <GrowerName>नागवडे प्रशांत कोंडिबा</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>107</serveNo>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>170/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91460">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58380</GrowerCode>
+    <GrowerName>काळभोर बबन बाबुराव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>98</VillageCode>
+    <VillageName>कासुर्डी</VillageName>
+    <serveNo>165</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91950">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11516</GrowerCode>
+    <GrowerName>काळभोर नंद्कुमार अमृता</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>101</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1564,15 +1581,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91690">
+  <PlotList plotNo="92446">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>39319</GrowerCode>
-    <GrowerName>काळे विजय सुरेश</GrowerName>
+    <GrowerCode>15780</GrowerCode>
+    <GrowerName>शिंदे बारकु किसन</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>177</VillageCode>
-    <VillageName>खामगांव टेक</VillageName>
-    <serveNo>115</serveNo>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <serveNo>1211</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1598,15 +1615,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92446">
+  <PlotList plotNo="91690">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>15780</GrowerCode>
-    <GrowerName>शिंदे बारकु किसन</GrowerName>
+    <GrowerCode>39319</GrowerCode>
+    <GrowerName>काळे विजय सुरेश</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>94</VillageCode>
-    <VillageName>नाथाचीवाडी</VillageName>
-    <serveNo>1211</serveNo>
+    <VillageCode>177</VillageCode>
+    <VillageName>खामगांव टेक</VillageName>
+    <serveNo>115</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1632,20 +1649,20 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91696">
+  <PlotList plotNo="91680">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>42047</GrowerCode>
-    <GrowerName>बेंद्रे श्रीकृष्ण विष्णुपंथ</GrowerName>
+    <GrowerCode>39319</GrowerCode>
+    <GrowerName>काळे विजय सुरेश</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>177</VillageCode>
     <VillageName>खामगांव टेक</VillageName>
-    <serveNo>21</serveNo>
+    <serveNo>115</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -1666,32 +1683,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91680">
+  <PlotList plotNo="91696">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>39319</GrowerCode>
-    <GrowerName>काळे विजय सुरेश</GrowerName>
+    <GrowerCode>42047</GrowerCode>
+    <GrowerName>बेंद्रे श्रीकृष्ण विष्णुपंथ</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>177</VillageCode>
     <VillageName>खामगांव टेक</VillageName>
-    <serveNo>115</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91257">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11820</GrowerCode>
-    <GrowerName>देशपांडे मुकुंदराव वसंतराव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>144</VillageCode>
-    <VillageName>यवत स्टेशन</VillageName>
-    <serveNo>182</serveNo>
+    <serveNo>21</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1714,6 +1714,40 @@
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97132">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>68339</GrowerCode>
+    <GrowerName>आतकिरे वसंत निवृत्ती</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>184</VillageCode>
+    <VillageName>बोरीभडक</VillageName>
+    <serveNo>440</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91257">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11820</GrowerCode>
+    <GrowerName>देशपांडे मुकुंदराव वसंतराव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <serveNo>182</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -1785,23 +1819,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="97132">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>68339</GrowerCode>
-    <GrowerName>आतकिरे वसंत निवृत्ती</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>184</VillageCode>
-    <VillageName>बोरीभडक</VillageName>
-    <serveNo>440</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91922">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>19228</GrowerCode>
@@ -1853,15 +1870,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91936">
+  <PlotList plotNo="91607">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>54397</GrowerCode>
-    <GrowerName>बहिरट जयश्री बाळासो</GrowerName>
+    <GrowerCode>67659</GrowerCode>
+    <GrowerName>राऊत रामचंद्र दशरथ</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>1121</serveNo>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>148</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1870,32 +1887,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91910">
+  <PlotList plotNo="91281">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>15396</GrowerCode>
-    <GrowerName>टिळेकर  विकास कुंडलिक</GrowerName>
+    <GrowerCode>67626</GrowerCode>
+    <GrowerName>गडदे दिगांबर सिदा</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>103</VillageCode>
-    <VillageName>यादववाडी</VillageName>
-    <serveNo>803</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92252">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>10556</GrowerCode>
-    <GrowerName>खेडेकर जयश्री सोपान</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>97</serveNo>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <serveNo>212</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1921,6 +1921,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="91910">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15396</GrowerCode>
+    <GrowerName>टिळेकर  विकास कुंडलिक</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>यादववाडी</VillageName>
+    <serveNo>803</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="91637">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>51722</GrowerCode>
@@ -1938,49 +1955,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91399">
+  <PlotList plotNo="92444">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67638</GrowerCode>
-    <GrowerName>चोरमले हिरामण आप्पा</GrowerName>
+    <GrowerCode>3818</GrowerCode>
+    <GrowerName>रायकर अरुण गेनू</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>101</VillageCode>
-    <VillageName>भरतगाव</VillageName>
-    <serveNo>322</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92038">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>24273</GrowerCode>
-    <GrowerName>घुले मंगल अशोक</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>99</VillageCode>
-    <VillageName>नांदूर</VillageName>
-    <serveNo>119</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91994">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11360</GrowerCode>
-    <GrowerName>नागवडे  संदिप महादेव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>51</serveNo>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <serveNo>1113</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -1989,15 +1972,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92138">
+  <PlotList plotNo="91490">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>49390</GrowerCode>
-    <GrowerName>नागवडे अनिल चंद्रकांत</GrowerName>
+    <GrowerCode>67654</GrowerCode>
+    <GrowerName>राऊत छाया सत्यराज</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>325</serveNo>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <serveNo>402</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2040,83 +2023,32 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91770">
+  <PlotList plotNo="92138">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>56670</GrowerCode>
-    <GrowerName>टिळेकर संगिता सदाशिव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>116</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91281">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67626</GrowerCode>
-    <GrowerName>गडदे दिगांबर सिदा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>144</VillageCode>
-    <VillageName>यवत स्टेशन</VillageName>
-    <serveNo>212</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91960">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>44410</GrowerCode>
-    <GrowerName>नागवडे गणेश प्रकाश</GrowerName>
+    <GrowerCode>49390</GrowerCode>
+    <GrowerName>नागवडे अनिल चंद्रकांत</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>95</VillageCode>
     <VillageName>खामगांव </VillageName>
-    <serveNo>66</serveNo>
+    <serveNo>325</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92444">
+  <PlotList plotNo="91399">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>3818</GrowerCode>
-    <GrowerName>रायकर अरुण गेनू</GrowerName>
+    <GrowerCode>67638</GrowerCode>
+    <GrowerName>चोरमले हिरामण आप्पा</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>94</VillageCode>
-    <VillageName>नाथाचीवाडी</VillageName>
-    <serveNo>1113</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91490">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67654</GrowerCode>
-    <GrowerName>राऊत छाया सत्यराज</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>100</VillageCode>
-    <VillageName>सहजपूर</VillageName>
-    <serveNo>402</serveNo>
+    <VillageCode>101</VillageCode>
+    <VillageName>भरतगाव</VillageName>
+    <serveNo>322</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2142,15 +2074,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91607">
+  <PlotList plotNo="92038">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67659</GrowerCode>
-    <GrowerName>राऊत रामचंद्र दशरथ</GrowerName>
+    <GrowerCode>24273</GrowerCode>
+    <GrowerName>घुले मंगल अशोक</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>148</serveNo>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <serveNo>119</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2159,20 +2091,88 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="93994">
+  <PlotList plotNo="91770">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>50711</GrowerCode>
-    <GrowerName>दरवडे संतोष प्रभाकर</GrowerName>
+    <GrowerCode>56670</GrowerCode>
+    <GrowerName>टिळेकर संगिता सदाशिव</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>1100</VillageCode>
     <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo />
+    <serveNo>116</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91994">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11360</GrowerCode>
+    <GrowerName>नागवडे  संदिप महादेव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>51</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91936">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54397</GrowerCode>
+    <GrowerName>बहिरट जयश्री बाळासो</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>1121</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91960">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44410</GrowerCode>
+    <GrowerName>नागवडे गणेश प्रकाश</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>66</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92252">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10556</GrowerCode>
+    <GrowerName>खेडेकर जयश्री सोपान</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>97</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -2185,6 +2185,23 @@
     <VillageCode>93</VillageCode>
     <VillageName>लडकतवाडी</VillageName>
     <serveNo>1502</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="93994">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50711</GrowerCode>
+    <GrowerName>दरवडे संतोष प्रभाकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo />
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2210,23 +2227,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91491">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67655</GrowerCode>
-    <GrowerName>राऊत संतोष दशरथ</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>148</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="92165">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>65221</GrowerCode>
@@ -2236,6 +2236,23 @@
     <VillageCode>95</VillageCode>
     <VillageName>खामगांव </VillageName>
     <serveNo>366</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91491">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67655</GrowerCode>
+    <GrowerName>राऊत संतोष दशरथ</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>148</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2312,6 +2329,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92241">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44033</GrowerCode>
+    <GrowerName>खेडेकर पुनम सोपान</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>218</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="97402">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>68407</GrowerCode>
@@ -2346,32 +2380,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92241">
+  <PlotList plotNo="91413">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>44033</GrowerCode>
-    <GrowerName>खेडेकर पुनम सोपान</GrowerName>
+    <GrowerCode>42926</GrowerCode>
+    <GrowerName>कोळपे विष्णु बाळु</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>96</VillageCode>
     <VillageName>तांबेवाडी</VillageName>
-    <serveNo>218</serveNo>
-    <CaneVariety>19</CaneVariety>
-    <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91924">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58411</GrowerCode>
-    <GrowerName>माने रखमाबाई बापु</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>68</serveNo>
+    <serveNo>225</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2397,23 +2414,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91413">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>42926</GrowerCode>
-    <GrowerName>कोळपे विष्णु बाळु</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>225</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91370">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>15108</GrowerCode>
@@ -2423,40 +2423,6 @@
     <VillageCode>98</VillageCode>
     <VillageName>कासुर्डी</VillageName>
     <serveNo>192</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91268">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67623</GrowerCode>
-    <GrowerName>दाभाडे पुष्पा चंद्रकांत</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>144</VillageCode>
-    <VillageName>यवत स्टेशन</VillageName>
-    <serveNo>437</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92240">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>44033</GrowerCode>
-    <GrowerName>खेडेकर पुनम सोपान</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>218</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2482,6 +2448,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92240">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44033</GrowerCode>
+    <GrowerName>खेडेकर पुनम सोपान</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>218</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="92192">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>44191</GrowerCode>
@@ -2491,6 +2474,23 @@
     <VillageCode>96</VillageCode>
     <VillageName>तांबेवाडी</VillageName>
     <serveNo>218</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91268">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67623</GrowerCode>
+    <GrowerName>दाभाडे पुष्पा चंद्रकांत</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <serveNo>437</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2516,6 +2516,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="91924">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58411</GrowerCode>
+    <GrowerName>माने रखमाबाई बापु</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>68</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="92194">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>10556</GrowerCode>
@@ -2527,23 +2544,6 @@
     <serveNo>218</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92534">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58033</GrowerCode>
-    <GrowerName>कांबळे रुपेश विनायक</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>127</VillageCode>
-    <VillageName>उंडवडी</VillageName>
-    <serveNo>7</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
@@ -2584,6 +2584,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92534">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58033</GrowerCode>
+    <GrowerName>कांबळे रुपेश विनायक</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>127</VillageCode>
+    <VillageName>उंडवडी</VillageName>
+    <serveNo>7</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="92024">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>1298</GrowerCode>
@@ -2595,40 +2612,6 @@
     <serveNo>88</serveNo>
     <CaneVariety>19</CaneVariety>
     <CaneVarietyName>265</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91375">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>1262</GrowerCode>
-    <GrowerName>ठोंबरे किसन गजाबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>98</VillageCode>
-    <VillageName>कासुर्डी</VillageName>
-    <serveNo>52</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92068">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>6171</GrowerCode>
-    <GrowerName>घुले विठ्ठल जिजाबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>99</VillageCode>
-    <VillageName>नांदूर</VillageName>
-    <serveNo>208</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
@@ -2652,6 +2635,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="91375">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1262</GrowerCode>
+    <GrowerName>ठोंबरे किसन गजाबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>98</VillageCode>
+    <VillageName>कासुर्डी</VillageName>
+    <serveNo>52</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="91462">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>496</GrowerCode>
@@ -2661,6 +2661,23 @@
     <VillageCode>98</VillageCode>
     <VillageName>कासुर्डी</VillageName>
     <serveNo>165</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92068">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6171</GrowerCode>
+    <GrowerName>घुले विठ्ठल जिजाबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <serveNo>208</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2703,23 +2720,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92393">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>37847</GrowerCode>
-    <GrowerName>होले गुलाब भिकु</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>93</VillageCode>
-    <VillageName>लडकतवाडी</VillageName>
-    <serveNo>1116</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91277">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>16745</GrowerCode>
@@ -2729,6 +2729,23 @@
     <VillageCode>144</VillageCode>
     <VillageName>यवत स्टेशन</VillageName>
     <serveNo>380</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92393">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37847</GrowerCode>
+    <GrowerName>होले गुलाब भिकु</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>93</VillageCode>
+    <VillageName>लडकतवाडी</VillageName>
+    <serveNo>1116</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2771,15 +2788,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92597">
+  <PlotList plotNo="92137">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>58130</GrowerCode>
-    <GrowerName>कांबळे विनायक दादु</GrowerName>
+    <GrowerCode>64225</GrowerCode>
+    <GrowerName>खराडे शरद औंदुंबर</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>127</VillageCode>
-    <VillageName>उंडवडी</VillageName>
-    <serveNo>17/18</serveNo>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>1207</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2788,66 +2805,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91261">
+  <PlotList plotNo="91912">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>11820</GrowerCode>
-    <GrowerName>देशपांडे मुकुंदराव वसंतराव</GrowerName>
+    <GrowerCode>67679</GrowerCode>
+    <GrowerName>टिळेकर अनिल कुंडलिक</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>144</VillageCode>
-    <VillageName>यवत स्टेशन</VillageName>
-    <serveNo>183</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91276">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67625</GrowerCode>
-    <GrowerName>गडदे जयश्री दिगांबर</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>144</VillageCode>
-    <VillageName>यवत स्टेशन</VillageName>
-    <serveNo>212</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91334">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>20959</GrowerCode>
-    <GrowerName>पिंगळे अभिषेक रंजन</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>144</VillageCode>
-    <VillageName>यवत स्टेशन</VillageName>
-    <serveNo>380</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91368">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>64244</GrowerCode>
-    <GrowerName>भिसे अजित रमेश</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>98</VillageCode>
-    <VillageName>कासुर्डी</VillageName>
-    <serveNo>103</serveNo>
+    <VillageCode>103</VillageCode>
+    <VillageName>यादववाडी</VillageName>
+    <serveNo>803</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2865,6 +2831,40 @@
     <VillageCode>98</VillageCode>
     <VillageName>कासुर्डी</VillageName>
     <serveNo>51</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91717">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51142</GrowerCode>
+    <GrowerName>शेंडगे मल्हारी विठोबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>177</VillageCode>
+    <VillageName>खामगांव टेक</VillageName>
+    <serveNo>117/118</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97794">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69188</GrowerCode>
+    <GrowerName>इनामके  अशोक ज्ञानदेव </GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>184</VillageCode>
+    <VillageName>बोरीभडक</VillageName>
+    <serveNo>268</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -2907,57 +2907,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91481">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>56623</GrowerCode>
-    <GrowerName>इनामके नामदेव किसन</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>100</VillageCode>
-    <VillageName>सहजपूर</VillageName>
-    <serveNo>132</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91533">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>36497</GrowerCode>
-    <GrowerName>म्हेत्रे दिपक सुरेश</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>100</VillageCode>
-    <VillageName>सहजपूर</VillageName>
-    <serveNo>208</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91563">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>10821</GrowerCode>
-    <GrowerName>राऊत निमा सुनिल</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>100</VillageCode>
-    <VillageName>सहजपूर</VillageName>
-    <serveNo>58</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91673">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>42027</GrowerCode>
@@ -2975,66 +2924,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91717">
+  <PlotList plotNo="97211">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>51142</GrowerCode>
-    <GrowerName>शेंडगे मल्हारी विठोबा</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>177</VillageCode>
-    <VillageName>खामगांव टेक</VillageName>
-    <serveNo>117/118</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91852">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>35905</GrowerCode>
-    <GrowerName>टिळेकर सुनिल बाळासाहेब</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>177</VillageCode>
-    <VillageName>खामगांव टेक</VillageName>
-    <serveNo>15</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91854">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>38007</GrowerCode>
-    <GrowerName>टिळेकर अशिष बबन</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>177</VillageCode>
-    <VillageName>खामगांव टेक</VillageName>
-    <serveNo>15</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91898">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58400</GrowerCode>
-    <GrowerName>मुरकुटे अमृत जयवंत</GrowerName>
+    <GrowerCode>68364</GrowerCode>
+    <GrowerName>तांबे धोंडाबाई साहेबराव</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>96</VillageCode>
     <VillageName>तांबेवाडी</VillageName>
-    <serveNo>136</serveNo>
+    <serveNo>77/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3043,15 +2941,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91912">
+  <PlotList plotNo="97198">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67679</GrowerCode>
-    <GrowerName>टिळेकर अनिल कुंडलिक</GrowerName>
+    <GrowerCode>68357</GrowerCode>
+    <GrowerName>तांबे शिवाजी साहेबराव (तांबेवाडी)</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>103</VillageCode>
-    <VillageName>यादववाडी</VillageName>
-    <serveNo>803</serveNo>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>35/1</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3060,54 +2958,20 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91930">
+  <PlotList plotNo="97152">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>2252</GrowerCode>
-    <GrowerName>नागवडे अनिल दशरथ </GrowerName>
+    <GrowerCode>45149</GrowerCode>
+    <GrowerName>कुदळे हनुमंत लक्ष्मण</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>95</VillageCode>
     <VillageName>खामगांव </VillageName>
-    <serveNo>226</serveNo>
+    <serveNo>1276</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92044">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58444</GrowerCode>
-    <GrowerName>बोराटे अशोक खंडू</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>99</VillageCode>
-    <VillageName>नांदूर</VillageName>
-    <serveNo>173</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92137">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>64225</GrowerCode>
-    <GrowerName>खराडे शरद औंदुंबर</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>1207</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -3120,6 +2984,74 @@
     <VillageCode>95</VillageCode>
     <VillageName>खामगांव </VillageName>
     <serveNo>46</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92597">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58130</GrowerCode>
+    <GrowerName>कांबळे विनायक दादु</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>127</VillageCode>
+    <VillageName>उंडवडी</VillageName>
+    <serveNo>17/18</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91481">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56623</GrowerCode>
+    <GrowerName>इनामके नामदेव किसन</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <serveNo>132</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92567">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33407</GrowerCode>
+    <GrowerName>सोनवणे सुमन बाळकृष्ण</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>200</VillageCode>
+    <VillageName>भोसलेवाडी</VillageName>
+    <serveNo>133</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92559">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26897</GrowerCode>
+    <GrowerName>चव्हाण एकनाथ भिकोबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>200</VillageCode>
+    <VillageName>भोसलेवाडी</VillageName>
+    <serveNo>27/2</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3162,20 +3094,20 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92384">
+  <PlotList plotNo="91533">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>38785</GrowerCode>
-    <GrowerName>ढेकणे मथुराकांत विष्णु</GrowerName>
+    <GrowerCode>36497</GrowerCode>
+    <GrowerName>म्हेत्रे दिपक सुरेश</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>198</serveNo>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <serveNo>208</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -3213,15 +3145,134 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92510">
+  <PlotList plotNo="91898">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>56705</GrowerCode>
-    <GrowerName>लडकत सदाशिव खंडू</GrowerName>
+    <GrowerCode>58400</GrowerCode>
+    <GrowerName>मुरकुटे अमृत जयवंत</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>200</VillageCode>
-    <VillageName>भोसलेवाडी</VillageName>
-    <serveNo>80</serveNo>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>136</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91854">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>38007</GrowerCode>
+    <GrowerName>टिळेकर अशिष बबन</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>177</VillageCode>
+    <VillageName>खामगांव टेक</VillageName>
+    <serveNo>15</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91852">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35905</GrowerCode>
+    <GrowerName>टिळेकर सुनिल बाळासाहेब</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>177</VillageCode>
+    <VillageName>खामगांव टेक</VillageName>
+    <serveNo>15</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91930">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2252</GrowerCode>
+    <GrowerName>नागवडे अनिल दशरथ </GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>226</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91276">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67625</GrowerCode>
+    <GrowerName>गडदे जयश्री दिगांबर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <serveNo>212</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92044">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58444</GrowerCode>
+    <GrowerName>बोराटे अशोक खंडू</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <serveNo>173</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91334">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20959</GrowerCode>
+    <GrowerName>पिंगळे अभिषेक रंजन</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <serveNo>380</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91368">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64244</GrowerCode>
+    <GrowerName>भिसे अजित रमेश</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>98</VillageCode>
+    <VillageName>कासुर्डी</VillageName>
+    <serveNo>103</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3247,15 +3298,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92559">
+  <PlotList plotNo="92510">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>26897</GrowerCode>
-    <GrowerName>चव्हाण एकनाथ भिकोबा</GrowerName>
+    <GrowerCode>56705</GrowerCode>
+    <GrowerName>लडकत सदाशिव खंडू</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>200</VillageCode>
     <VillageName>भोसलेवाडी</VillageName>
-    <serveNo>27/2</serveNo>
+    <serveNo>80</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3264,100 +3315,49 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92567">
+  <PlotList plotNo="91563">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>33407</GrowerCode>
-    <GrowerName>सोनवणे सुमन बाळकृष्ण</GrowerName>
+    <GrowerCode>10821</GrowerCode>
+    <GrowerName>राऊत निमा सुनिल</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>200</VillageCode>
-    <VillageName>भोसलेवाडी</VillageName>
-    <serveNo>133</serveNo>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <serveNo>58</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="97152">
+  <PlotList plotNo="91261">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>45149</GrowerCode>
-    <GrowerName>कुदळे हनुमंत लक्ष्मण</GrowerName>
+    <GrowerCode>11820</GrowerCode>
+    <GrowerName>देशपांडे मुकुंदराव वसंतराव</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>1276</serveNo>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <serveNo>183</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="97198">
+  <PlotList plotNo="92384">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>68357</GrowerCode>
-    <GrowerName>तांबे शिवाजी साहेबराव (तांबेवाडी)</GrowerName>
+    <GrowerCode>38785</GrowerCode>
+    <GrowerName>ढेकणे मथुराकांत विष्णु</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
     <VillageCode>96</VillageCode>
     <VillageName>तांबेवाडी</VillageName>
-    <serveNo>35/1</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="97211">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>68364</GrowerCode>
-    <GrowerName>तांबे धोंडाबाई साहेबराव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>77/1</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="97794">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>69188</GrowerCode>
-    <GrowerName />
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>184</VillageCode>
-    <VillageName>बोरीभडक</VillageName>
-    <serveNo>268</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92398">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11593</GrowerCode>
-    <GrowerName>ठोंबरे सखाराम लक्ष्मण</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>94</VillageCode>
-    <VillageName>नाथाचीवाडी</VillageName>
-    <serveNo>1260</serveNo>
+    <serveNo>198</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3383,6 +3383,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92398">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11593</GrowerCode>
+    <GrowerName>ठोंबरे सखाराम लक्ष्मण</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <serveNo>1260</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="92042">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>38489</GrowerCode>
@@ -3392,6 +3409,23 @@
     <VillageCode>99</VillageCode>
     <VillageName>नांदूर</VillageName>
     <serveNo>173</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91703">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67663</GrowerCode>
+    <GrowerName>धायगुडे रंजना पोपट</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>177</VillageCode>
+    <VillageName>खामगांव टेक</VillageName>
+    <serveNo>39</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3417,23 +3451,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="92508">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>67727</GrowerCode>
-    <GrowerName>मेमाणे अनिल बाजीराव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>200</VillageCode>
-    <VillageName>भोसलेवाडी</VillageName>
-    <serveNo>97</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="91744">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>43848</GrowerCode>
@@ -3451,100 +3468,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91703">
+  <PlotList plotNo="92508">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>67663</GrowerCode>
-    <GrowerName>धायगुडे रंजना पोपट</GrowerName>
+    <GrowerCode>67727</GrowerCode>
+    <GrowerName>मेमाणे अनिल बाजीराव</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>177</VillageCode>
-    <VillageName>खामगांव टेक</VillageName>
-    <serveNo>39</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="97388">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>68414</GrowerCode>
-    <GrowerName>थोरात शहाजी बापू</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>103</VillageCode>
-    <VillageName>यादववाडी</VillageName>
-    <serveNo>379</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91504">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>36905</GrowerCode>
-    <GrowerName>राऊत दिलीप किसन</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>181</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91904">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58400</GrowerCode>
-    <GrowerName>मुरकुटे अमृत जयवंत</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>169</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91969">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>21627</GrowerCode>
-    <GrowerName>केदारी सुनिल बापु</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>103</VillageCode>
-    <VillageName>यादववाडी</VillageName>
-    <serveNo>959</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91423">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>7460</GrowerCode>
-    <GrowerName>गायकवाड सोपान लक्ष्मण</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>98</VillageCode>
-    <VillageName>कासुर्डी</VillageName>
-    <serveNo>59/56</serveNo>
+    <VillageCode>200</VillageCode>
+    <VillageName>भोसलेवाडी</VillageName>
+    <serveNo>97</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3584,6 +3516,74 @@
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91423">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7460</GrowerCode>
+    <GrowerName>गायकवाड सोपान लक्ष्मण</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>98</VillageCode>
+    <VillageName>कासुर्डी</VillageName>
+    <serveNo>59/56</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91904">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58400</GrowerCode>
+    <GrowerName>मुरकुटे अमृत जयवंत</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>169</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91969">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21627</GrowerCode>
+    <GrowerName>केदारी सुनिल बापु</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>यादववाडी</VillageName>
+    <serveNo>959</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91285">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11534</GrowerCode>
+    <GrowerName>कोपनर सोमनाथ शंकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <serveNo>285</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -3638,20 +3638,37 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91624">
+  <PlotList plotNo="91504">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>31015</GrowerCode>
-    <GrowerName>म्हेत्रे शिवाजी शंकर</GrowerName>
+    <GrowerCode>36905</GrowerCode>
+    <GrowerName>राऊत दिलीप किसन</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>100</VillageCode>
-    <VillageName>सहजपूर</VillageName>
-    <serveNo>11</serveNo>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>181</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97388">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>68414</GrowerCode>
+    <GrowerName>थोरात शहाजी बापू</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>यादववाडी</VillageName>
+    <serveNo>379</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -3672,40 +3689,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="97196">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>68356</GrowerCode>
-    <GrowerName>तांबे उशा दत्तात्रय</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>142</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91285">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>11534</GrowerCode>
-    <GrowerName>कोपनर सोमनाथ शंकर</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>144</VillageCode>
-    <VillageName>यवत स्टेशन</VillageName>
-    <serveNo>285</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="97225">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>68372</GrowerCode>
@@ -3715,6 +3698,40 @@
     <VillageCode>96</VillageCode>
     <VillageName>तांबेवाडी</VillageName>
     <serveNo>264/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91624">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>31015</GrowerCode>
+    <GrowerName>म्हेत्रे शिवाजी शंकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <serveNo>11</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97196">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>68356</GrowerCode>
+    <GrowerName>तांबे उशा दत्तात्रय</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>142</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3791,23 +3808,6 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="97200">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>68358</GrowerCode>
-    <GrowerName>गायकवाड प्रितम अंकुश</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>42</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
   <PlotList plotNo="97229">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>68376</GrowerCode>
@@ -3817,40 +3817,6 @@
     <VillageCode>96</VillageCode>
     <VillageName>तांबेवाडी</VillageName>
     <serveNo>142</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91742">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>36169</GrowerCode>
-    <GrowerName>राऊत सुखदेव चांगदेव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>145</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92316">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>37093</GrowerCode>
-    <GrowerName>नागवडे उज्वला संजय</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>135</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3876,6 +3842,57 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="92316">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37093</GrowerCode>
+    <GrowerName>नागवडे उज्वला संजय</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>135</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="97200">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>68358</GrowerCode>
+    <GrowerName>गायकवाड प्रितम अंकुश</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>42</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91742">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36169</GrowerCode>
+    <GrowerName>राऊत सुखदेव चांगदेव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>145</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="92130">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>34163</GrowerCode>
@@ -3885,23 +3902,6 @@
     <VillageCode>95</VillageCode>
     <VillageName>खामगांव </VillageName>
     <serveNo>66</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91683">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>58020</GrowerCode>
-    <GrowerName>थोरात अच्युत प्रभु</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>177</VillageCode>
-    <VillageName>खामगांव टेक</VillageName>
-    <serveNo>107</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -3944,6 +3944,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="91683">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58020</GrowerCode>
+    <GrowerName>थोरात अच्युत प्रभु</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>177</VillageCode>
+    <VillageName>खामगांव टेक</VillageName>
+    <serveNo>107</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="92412">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>58665</GrowerCode>
@@ -3975,6 +3992,74 @@
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92313">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33415</GrowerCode>
+    <GrowerName>तांबे विश्वास दिनकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>96</VillageCode>
+    <VillageName>तांबेवाडी</VillageName>
+    <serveNo>124</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91743">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>65497</GrowerCode>
+    <GrowerName>टिळेकर संदिप सुभाष</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>119</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="92307">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56724</GrowerCode>
+    <GrowerName>नागवडे प्रदिप सदाशिव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <serveNo>268</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91758">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15841</GrowerCode>
+    <GrowerName>राऊत बबन बाबुराव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>248</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -4012,88 +4097,20 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91758">
+  <PlotList plotNo="91572">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>15841</GrowerCode>
-    <GrowerName>राऊत बबन बाबुराव</GrowerName>
+    <GrowerCode>7812</GrowerCode>
+    <GrowerName>म्हेत्रे महादेव  नारायण</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>248</serveNo>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <serveNo>183</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91743">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>65497</GrowerCode>
-    <GrowerName>टिळेकर संदिप सुभाष</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>119</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91651">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>62413</GrowerCode>
-    <GrowerName>म्हेत्रे शंकर दत्तात्रय</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>184</VillageCode>
-    <VillageName>बोरीभडक</VillageName>
-    <serveNo>57</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92307">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>56724</GrowerCode>
-    <GrowerName>नागवडे प्रदिप सदाशिव</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>95</VillageCode>
-    <VillageName>खामगांव </VillageName>
-    <serveNo>268</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="92313">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>33415</GrowerCode>
-    <GrowerName>तांबे विश्वास दिनकर</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>96</VillageCode>
-    <VillageName>तांबेवाडी</VillageName>
-    <serveNo>124</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -4114,20 +4131,20 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91572">
+  <PlotList plotNo="91651">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>7812</GrowerCode>
-    <GrowerName>म्हेत्रे महादेव  नारायण</GrowerName>
+    <GrowerCode>62413</GrowerCode>
+    <GrowerName>म्हेत्रे शंकर दत्तात्रय</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>100</VillageCode>
-    <VillageName>सहजपूर</VillageName>
-    <serveNo>183</serveNo>
+    <VillageCode>184</VillageCode>
+    <VillageName>बोरीभडक</VillageName>
+    <serveNo>57</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
@@ -4140,23 +4157,6 @@
     <VillageCode>93</VillageCode>
     <VillageName>लडकतवाडी</VillageName>
     <serveNo>1319</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91757">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>43733</GrowerCode>
-    <GrowerName>लोणकर रविंद्र इंद्रभान</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>267</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -4182,6 +4182,40 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="91451">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21989</GrowerCode>
+    <GrowerName>होले अश्विनी सचिन</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <serveNo>373</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="91763">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50735</GrowerCode>
+    <GrowerName>टिळेकर राजेंद्र तुळशीराम</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>230</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
   <PlotList plotNo="91767">
     <ProgramNo>1</ProgramNo>
     <GrowerCode>44047</GrowerCode>
@@ -4199,15 +4233,15 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
-  <PlotList plotNo="91451">
+  <PlotList plotNo="91757">
     <ProgramNo>1</ProgramNo>
-    <GrowerCode>21989</GrowerCode>
-    <GrowerName>होले अश्विनी सचिन</GrowerName>
+    <GrowerCode>43733</GrowerCode>
+    <GrowerName>लोणकर रविंद्र इंद्रभान</GrowerName>
     <GatCode>19</GatCode>
     <GatName>खामगाव</GatName>
-    <VillageCode>100</VillageCode>
-    <VillageName>सहजपूर</VillageName>
-    <serveNo>373</serveNo>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <serveNo>267</serveNo>
     <CaneVariety>1</CaneVariety>
     <CaneVarietyName>86032</CaneVarietyName>
     <CaneCode>3</CaneCode>
@@ -4230,23 +4264,6 @@
     <CaneCode>3</CaneCode>
     <CaneType>खोडवा</CaneType>
     <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
-    <Irrigation>विहीर</Irrigation>
-    <Plotend>N</Plotend>
-  </PlotList>
-  <PlotList plotNo="91763">
-    <ProgramNo>1</ProgramNo>
-    <GrowerCode>50735</GrowerCode>
-    <GrowerName>टिळेकर राजेंद्र तुळशीराम</GrowerName>
-    <GatCode>19</GatCode>
-    <GatName>खामगाव</GatName>
-    <VillageCode>1100</VillageCode>
-    <VillageName>टिळेकर वाडी</VillageName>
-    <serveNo>230</serveNo>
-    <CaneVariety>1</CaneVariety>
-    <CaneVarietyName>86032</CaneVarietyName>
-    <CaneCode>3</CaneCode>
-    <CaneType>खोडवा</CaneType>
-    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
