@@ -115,9 +115,6 @@
     <ContractorName>बतुले  बाबासो  लक्ष्मण (BG)</ContractorName>
     <GadiwanCode>241</GadiwanCode>
     <GadiwanName>बतुले  नवनाथ  लक्ष्मण</GadiwanName>
-    <ContractorName>बतुले  बाबासो  लक्ष्मण (BG)</ContractorName>
-    <GadiwanCode>241</GadiwanCode>
-    <GadiwanName>बतुले  नवनाथ  लक्ष्मण</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="21360">
     <ContractorName>गरकळ  महादेव  बाजीराव  (BG)</ContractorName>
@@ -171,9 +168,6 @@
     <ContractorName>गरकळ  महादेव  बाजीराव  (BG)</ContractorName>
     <GadiwanCode>262</GadiwanCode>
     <GadiwanName>गरकळ  अंबादास  महादेव </GadiwanName>
-    <ContractorName>गरकळ  महादेव  बाजीराव  (BG)</ContractorName>
-    <GadiwanCode>292</GadiwanCode>
-    <GadiwanName>घोक्षे समीर विजय</GadiwanName>
     <ContractorName>गरकळ  महादेव  बाजीराव  (BG)</ContractorName>
     <GadiwanCode>292</GadiwanCode>
     <GadiwanName>घोक्षे समीर विजय</GadiwanName>
@@ -420,8 +414,8 @@
     <GadiwanCode>258</GadiwanCode>
     <GadiwanName>खाडे  रामनाथ  अजिनाथ </GadiwanName>
     <ContractorName>खडे  अजिनाथ  मधुकर  (BG)</ContractorName>
-    <GadiwanCode>258</GadiwanCode>
-    <GadiwanName>खाडे  रामनाथ  अजिनाथ </GadiwanName>
+    <GadiwanCode>2589999</GadiwanCode>
+    <GadiwanName />
   </ContractorCode>
   <ContractorCode Code="43175">
     <ContractorName>बतुले  नवनाथ  विश्वनाथ (BG)</ContractorName>
@@ -557,15 +551,12 @@
     <GadiwanName>गरकळ  माणिक  बापू </GadiwanName>
     <ContractorName>बतुले  संजय  सुरायाभान (BG)</ContractorName>
     <GadiwanCode>297</GadiwanCode>
-    <GadiwanName />
+    <GadiwanName>बटूळे अतुल संजय</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="53037">
     <ContractorName>राठोड  राजू  गंगाराम (BG)</ContractorName>
     <GadiwanCode>134</GadiwanCode>
     <GadiwanName>राठोड  संजय  गंगाराम </GadiwanName>
-    <ContractorName>राठोड  राजू  गंगाराम (BG)</ContractorName>
-    <GadiwanCode>135</GadiwanCode>
-    <GadiwanName>राठोड  राजू  गंगाराम </GadiwanName>
     <ContractorName>राठोड  राजू  गंगाराम (BG)</ContractorName>
     <GadiwanCode>135</GadiwanCode>
     <GadiwanName>राठोड  राजू  गंगाराम </GadiwanName>
@@ -578,12 +569,6 @@
     <ContractorName>राठोड  राजू  गंगाराम (BG)</ContractorName>
     <GadiwanCode>289</GadiwanCode>
     <GadiwanName>राठोड विक्रम पोपट</GadiwanName>
-    <ContractorName>राठोड  राजू  गंगाराम (BG)</ContractorName>
-    <GadiwanCode>289</GadiwanCode>
-    <GadiwanName>राठोड विक्रम पोपट</GadiwanName>
-    <ContractorName>राठोड  राजू  गंगाराम (BG)</ContractorName>
-    <GadiwanCode>290</GadiwanCode>
-    <GadiwanName>राठोड रामदास पोपट</GadiwanName>
     <ContractorName>राठोड  राजू  गंगाराम (BG)</ContractorName>
     <GadiwanCode>290</GadiwanCode>
     <GadiwanName>राठोड रामदास पोपट</GadiwanName>
@@ -651,9 +636,6 @@
     <ContractorName>जाधव  धरसिंग  माम्राज (BG)</ContractorName>
     <GadiwanCode>42</GadiwanCode>
     <GadiwanName>जाधव  अनिल  मोतीराम  </GadiwanName>
-    <ContractorName>जाधव  धरसिंग  माम्राज (BG)</ContractorName>
-    <GadiwanCode>295</GadiwanCode>
-    <GadiwanName>पवार एकनाथ भोरा</GadiwanName>
     <ContractorName>जाधव  धरसिंग  माम्राज (BG)</ContractorName>
     <GadiwanCode>295</GadiwanCode>
     <GadiwanName>पवार एकनाथ भोरा</GadiwanName>
@@ -751,9 +733,6 @@
     <ContractorName>शिरसाठ  अजिनाथ  उत्तम (BG)</ContractorName>
     <GadiwanCode>142</GadiwanCode>
     <GadiwanName>नाकाडे  बाळू  महादेव </GadiwanName>
-    <ContractorName>शिरसाठ  अजिनाथ  उत्तम (BG)</ContractorName>
-    <GadiwanCode>291</GadiwanCode>
-    <GadiwanName>शिरसाट विठ्ठल अजिनाथ</GadiwanName>
     <ContractorName>शिरसाठ  अजिनाथ  उत्तम (BG)</ContractorName>
     <GadiwanCode>291</GadiwanCode>
     <GadiwanName>शिरसाट विठ्ठल अजिनाथ</GadiwanName>
@@ -932,12 +911,6 @@
     <ContractorName>बडे  शेषराव  खंडू </ContractorName>
     <GadiwanCode>293</GadiwanCode>
     <GadiwanName>बडे प्रभू तुळशीराम</GadiwanName>
-    <ContractorName>बडे  शेषराव  खंडू </ContractorName>
-    <GadiwanCode>293</GadiwanCode>
-    <GadiwanName>बडे प्रभू तुळशीराम</GadiwanName>
-    <ContractorName>बडे  शेषराव  खंडू </ContractorName>
-    <GadiwanCode>294</GadiwanCode>
-    <GadiwanName>बडे दत्तू श्रीधर</GadiwanName>
     <ContractorName>बडे  शेषराव  खंडू </ContractorName>
     <GadiwanCode>294</GadiwanCode>
     <GadiwanName>बडे दत्तू श्रीधर</GadiwanName>
