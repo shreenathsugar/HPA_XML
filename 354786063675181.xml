@@ -22534,4 +22534,101 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98085">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7404</GrowerCode>
+    <GrowerName>दोरगे कैलास देवराम</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1798</SubVillageCode>
+    <SubVillageName>दोरगेवस्ती(१५)(टायर/टा.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98086">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40575</GrowerCode>
+    <GrowerName>दरेकर विठ्ठल बापुराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>33</VillageCode>
+    <VillageName>सणसवाडी</VillageName>
+    <SubVillageCode>1768</SubVillageCode>
+    <SubVillageName>सणसवाडी(२४)(विठ्ठलववाडीमार्गे)</SubVillageName>
+    <serveNo>304</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98087">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40575</GrowerCode>
+    <GrowerName>दरेकर विठ्ठल बापुराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>33</VillageCode>
+    <VillageName>सणसवाडी</VillageName>
+    <SubVillageCode>1768</SubVillageCode>
+    <SubVillageName>सणसवाडी(२४)(विठ्ठलववाडीमार्गे)</SubVillageName>
+    <serveNo>307</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98088">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>24787</GrowerCode>
+    <GrowerName>ढमढेरे किसन दगडोबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1762</SubVillageCode>
+    <SubVillageName>विठ्ठलवाडी(१२)(विठ्ठलववाडीमाल्गे</SubVillageName>
+    <serveNo>367</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98089">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4567</GrowerCode>
+    <GrowerName>दोरगे बाळासाहेब पार्वती</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1798</SubVillageCode>
+    <SubVillageName>दोरगेवस्ती(१५)(टायर/टा.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
