@@ -32643,4 +32643,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98130">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44297</GrowerCode>
+    <GrowerName>टिळेकर मनोहर जयवंत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>68</VillageCode>
+    <VillageName>उरुळी कांचन</VillageName>
+    <SubVillageCode>1483</SubVillageCode>
+    <SubVillageName>टिळेकरमळा(उरुळीमार्गे)(३२)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
