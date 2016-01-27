@@ -22648,4 +22648,64 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98127">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56426</GrowerCode>
+    <GrowerName>सुर्वे राजेंद्र दत्तात्रय</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1305</VillageCode>
+    <VillageName>गार</VillageName>
+    <SubVillageCode>1642</SubVillageCode>
+    <SubVillageName>गार(४५)नानगावमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98128">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67239</GrowerCode>
+    <GrowerName>काटे नरेंद्र मुरलीधर</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>108</VillageCode>
+    <VillageName>एकेरीवाडी</VillageName>
+    <SubVillageCode>1613</SubVillageCode>
+    <SubVillageName>पानमळा(१८)पिंपळगावमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98129">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21770</GrowerCode>
+    <GrowerName>शेलार बापुराव नारायण</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>108</VillageCode>
+    <VillageName>एकेरीवाडी</VillageName>
+    <SubVillageCode>1613</SubVillageCode>
+    <SubVillageName>पानमळा(१८)पिंपळगावमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
