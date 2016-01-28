@@ -22822,4 +22822,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98153">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69376</GrowerCode>
+    <GrowerName>दिवेकर कुंडलिक रंगनाथ</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>112</VillageCode>
+    <VillageName>हातवळण</VillageName>
+    <SubVillageCode>1641</SubVillageCode>
+    <SubVillageName>हातवळण(३५)पारगावमार्गे</SubVillageName>
+    <serveNo>59</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98154">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69377</GrowerCode>
+    <GrowerName>भामे माणिक नरसिंग</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>151</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>304</SubVillageCode>
+    <SubVillageName>नानगाव(पारगावमार्गे])(२६)</SubVillageName>
+    <serveNo>244</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

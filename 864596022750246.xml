@@ -29432,4 +29432,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98158">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69378</GrowerCode>
+    <GrowerName>चौधरी सुनिल रामभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <SubVillageCode>1815</SubVillageCode>
+    <SubVillageName>गोलेगाव(४७) आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>214.</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
