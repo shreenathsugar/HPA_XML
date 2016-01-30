@@ -22860,4 +22860,81 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98185">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69384</GrowerCode>
+    <GrowerName>पठाण विस्माईल रसूलभाई</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>151</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>304</SubVillageCode>
+    <SubVillageName>नानगाव(पारगावमार्गे])(२६)</SubVillageName>
+    <serveNo>202</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98182">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69383</GrowerCode>
+    <GrowerName>फडके कुसुम सुरेश</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>112</VillageCode>
+    <VillageName>हातवळण</VillageName>
+    <SubVillageCode>1641</SubVillageCode>
+    <SubVillageName>हातवळण(३५)पारगावमार्गे</SubVillageName>
+    <serveNo>608</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98183">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11157</GrowerCode>
+    <GrowerName>कोर्‍हाळे सर्जेराव ज्ञानदेव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>106</VillageCode>
+    <VillageName>कानगाव</VillageName>
+    <SubVillageCode>897</SubVillageCode>
+    <SubVillageName>कानगांव(पारगावमार्गे])(४२)</SubVillageName>
+    <serveNo>947</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98184">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67241</GrowerCode>
+    <GrowerName>शेलार हरिभाऊ लक्ष्मण</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>108</VillageCode>
+    <VillageName>एकेरीवाडी</VillageName>
+    <SubVillageCode>1613</SubVillageCode>
+    <SubVillageName>पानमळा(१८)पिंपळगावमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
