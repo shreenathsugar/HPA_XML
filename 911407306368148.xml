@@ -26696,4 +26696,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98205">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69400</GrowerCode>
+    <GrowerName>यादव किरण शंकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>200</VillageCode>
+    <VillageName>भोसलेवाडी</VillageName>
+    <SubVillageCode>1824</SubVillageCode>
+    <SubVillageName>भोसलेवाडी(१४)बै</SubVillageName>
+    <serveNo>222</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
