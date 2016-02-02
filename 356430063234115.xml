@@ -41256,4 +41256,62 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98208">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32943</GrowerCode>
+    <GrowerName>धुमाळ सुरेखा कैलास</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>123</VillageCode>
+    <VillageName>मगरवाडी</VillageName>
+    <SubVillageCode>316</SubVillageCode>
+    <SubVillageName>मगरवाडी(७)</SubVillageName>
+    <serveNo>76</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98207">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>53793</GrowerCode>
+    <GrowerName>गलांडे सागर रमेश</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>123</VillageCode>
+    <VillageName>मगरवाडी</VillageName>
+    <SubVillageCode>316</SubVillageCode>
+    <SubVillageName>मगरवाडी(७)</SubVillageName>
+    <serveNo>338</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98206">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69401</GrowerCode>
+    <GrowerName>धुमाळ कमल बाळकृष्णा</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>123</VillageCode>
+    <VillageName>मगरवाडी</VillageName>
+    <SubVillageCode>316</SubVillageCode>
+    <SubVillageName>मगरवाडी(७)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
