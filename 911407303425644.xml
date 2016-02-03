@@ -41314,4 +41314,83 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="88493">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2487</GrowerCode>
+    <GrowerName>सायकर रामदास हरीभाऊ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>81</VillageCode>
+    <VillageName>राहु</VillageName>
+    <SubVillageCode>321</SubVillageCode>
+    <SubVillageName>गोरपट्टा(७)</SubVillageName>
+    <serveNo>1379</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98242">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67392</GrowerCode>
+    <GrowerName>दरवडे पोपट ज्ञानोबा</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>273</SubVillageCode>
+    <SubVillageName>पाटेठाण(२)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98243">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8174</GrowerCode>
+    <GrowerName>वडघुले संभाजी आनंदा</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>85</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>697</SubVillageCode>
+    <SubVillageName>गरदरेवाडी(९)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98244">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8174</GrowerCode>
+    <GrowerName>वडघुले संभाजी आनंदा</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>85</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>697</SubVillageCode>
+    <SubVillageName>गरदरेवाडी(९)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

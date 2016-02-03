@@ -29585,4 +29585,63 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98238">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69413</GrowerCode>
+    <GrowerName>ढगे प्रदीप बाळासाहेब</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>30</VillageCode>
+    <VillageName>आपटी</VillageName>
+    <SubVillageCode>1753</SubVillageCode>
+    <SubVillageName>आपटी (३५) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>116</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98239">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62761</GrowerCode>
+    <GrowerName>धुमाळ बुवाजी मारूती</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>पिंपळे धुमाळ</VillageName>
+    <SubVillageCode>1748</SubVillageCode>
+    <SubVillageName>पिंपळे धुमाळ (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98240">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62854</GrowerCode>
+    <GrowerName>धुमाळ संभाजी बाजीराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>पिंपळे धुमाळ</VillageName>
+    <SubVillageCode>1748</SubVillageCode>
+    <SubVillageName>पिंपळे धुमाळ (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
