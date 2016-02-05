@@ -6099,4 +6099,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98274">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69425</GrowerCode>
+    <GrowerName>घुमटकर शांताराम गेणुजी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1830</VillageCode>
+    <VillageName>--</VillageName>
+    <SubVillageCode>1831</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
