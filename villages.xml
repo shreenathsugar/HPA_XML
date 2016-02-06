@@ -758,6 +758,12 @@
         <SubVillageName>वाकी(५०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1830">
+      <VillageName>खेड</VillageName>
+      <SubVillageCode Code="1831">
+        <SubVillageName>खेड</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="19">
     <GatName>खामगाव</GatName>
@@ -964,9 +970,6 @@
     </VillageCode>
     <VillageCode Code="24">
       <VillageName>विठ्ठलवाडी</VillageName>
-      <SubVillageCode Code="375">
-        <SubVillageName>डाल वस्ती(वि.डँममार्गे)(१३)</SubVillageName>
-      </SubVillageCode>
       <SubVillageCode Code="1762">
         <SubVillageName>विठ्ठलवाडी(१२)(विठ्ठलववाडीमाल्गे</SubVillageName>
       </SubVillageCode>
