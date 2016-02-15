@@ -32384,4 +32384,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98417">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56255</GrowerCode>
+    <GrowerName>अभंग कैलास ज्ञानदेव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>रांजणगाव गणपती</VillageName>
+    <SubVillageCode>1770</SubVillageCode>
+    <SubVillageName>रांजनगाव गणपती(३७)(विठ्ठलवमार्गे)</SubVillageName>
+    <serveNo>239</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98418">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33657</GrowerCode>
+    <GrowerName>ढमढेरे ज्ञानोबा नाथोबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1776</SubVillageCode>
+    <SubVillageName>डाल वस्ती(१७)(विठ्ठलवमार्गे</SubVillageName>
+    <serveNo>501</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
