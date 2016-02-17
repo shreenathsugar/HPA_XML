@@ -568,17 +568,14 @@
       <SubVillageCode Code="326">
         <SubVillageName>बैलखिळा(राहूरोडमार्गे])(१२)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="523">
+        <SubVillageName>मिरवडी (राहूरोडमार्गे])(१४)</SubVillageName>
+      </SubVillageCode>
       <SubVillageCode Code="550">
         <SubVillageName>मेमाणेवाडी(राहूरोडमार्गे])(१२).</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1618">
         <SubVillageName>मिरवडी(अष्टापूरमार्गे)(१९)</SubVillageName>
-      </SubVillageCode>
-    </VillageCode>
-    <VillageCode Code="125">
-      <VillageName>मेमाण वाडी</VillageName>
-      <SubVillageCode Code="523">
-        <SubVillageName>मिरवडी (राहूरोडमार्गे])(१४)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="128">
@@ -763,6 +760,9 @@
       <SubVillageCode Code="1831">
         <SubVillageName>खेड</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1832">
+        <SubVillageName />
+      </SubVillageCode>
     </VillageCode>
   </GatCode>
   <GatCode Code="19">
@@ -793,9 +793,6 @@
       <SubVillageCode Code="596">
         <SubVillageName>गाडामोडी(१८)</SubVillageName>
       </SubVillageCode>
-    </VillageCode>
-    <VillageCode Code="96">
-      <VillageName>तांबेवाडी</VillageName>
       <SubVillageCode Code="1823">
         <SubVillageName>तांबेवाडी(१६)</SubVillageName>
       </SubVillageCode>
@@ -958,9 +955,6 @@
     </VillageCode>
     <VillageCode Code="23">
       <VillageName>भिमशेत</VillageName>
-      <SubVillageCode Code="1469">
-        <SubVillageName>भिमाशेत(बै)(२०)</SubVillageName>
-      </SubVillageCode>
       <SubVillageCode Code="1764">
         <SubVillageName>भिमशेत(17)(टायर/टा.गा)(विठ्ठलवमाश्गे</SubVillageName>
       </SubVillageCode>
