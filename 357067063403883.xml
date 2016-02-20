@@ -30173,4 +30173,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98481">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69533</GrowerCode>
+    <GrowerName>घुले ईश्वर विठ्ठल</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <SubVillageCode>1099</SubVillageCode>
+    <SubVillageName>टिळेकर वाडी(३५)उरुळीमार्गे]</SubVillageName>
+    <serveNo>88</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
