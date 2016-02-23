@@ -47,19 +47,19 @@
       <ContractorName>१५-१६ शिंदे अनिल ज्ञानेश्वर</ContractorName>
     </ContractorCode>
     <ContractorCode Code="69184">
-      <ContractorName>व्ही.एस.आय</ContractorName>
+      <ContractorName>१५-१६ व्ही.एस.आय</ContractorName>
     </ContractorCode>
     <ContractorCode Code="69204">
-      <ContractorName>ठाकर  मनोहर  बालू </ContractorName>
+      <ContractorName>१५-१६ ठाकर  मनोहर  बालू </ContractorName>
     </ContractorCode>
     <ContractorCode Code="69219">
-      <ContractorName>कोंडे  दत्तात्रय  कुंडलिक </ContractorName>
+      <ContractorName>१५-१६ कोंडे  दत्तात्रय  कुंडलिक </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="69489">
+      <ContractorName>१५-१६ पवार.एन.एस</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="68627">
-      <ContractorName>१५ -१६ भुजबळ संतोष विठोबा(जाधव गोपीचंद सरीचंद)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="68628">
       <ContractorName>१५ -१६  बुधवंत  नवनाथ  महादेव (राठोड  राजू  गंगाराम )</ContractorName>
     </ContractorCode>
@@ -333,8 +333,8 @@
     <ContractorCode Code="68727">
       <ContractorName>१५ -१६ पवार प्रकाश दादासो(पवार साहेबराव रतन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68606">
-      <ContractorName>१५ -१६ आवाळे उत्तम वामन(निकुंभ शिवाजी पोपट)</ContractorName>
+    <ContractorCode Code="68728">
+      <ContractorName>१५ -१६ पवार शरद हनुमंत(राठोड धारासिंग मदन)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68729">
       <ContractorName>१५ -१६ ढमे सुखदेव विठ्ठल(मोरे निंबा हिरामण)</ContractorName>
@@ -465,8 +465,8 @@
     <ContractorCode Code="68775">
       <ContractorName>१५ -१६ वाघचौरे राजेंद्र आनंदराव(पाटील धनराज उत्तम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68776">
-      <ContractorName>१५ -१६ श्रीराम बाळासो मारुती(चव्हाण सोमनाथ बापु)</ContractorName>
+    <ContractorCode Code="68606">
+      <ContractorName>१५ -१६ आवाळे उत्तम वामन(निकुंभ शिवाजी पोपट)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68777">
       <ContractorName>१५ -१६ वंजारी शिवाजी मदन</ContractorName>
@@ -510,8 +510,8 @@
     <ContractorCode Code="68902">
       <ContractorName>१५ -१६ जगताप बापूराव गणपत </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68728">
-      <ContractorName>१५ -१६ पवार शरद हनुमंत(राठोड धारासिंग मदन)</ContractorName>
+    <ContractorCode Code="68776">
+      <ContractorName>१५ -१६ श्रीराम बाळासो मारुती(चव्हाण सोमनाथ बापु)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68607">
       <ContractorName>१५ -१६ आवाळे बंडू वामन(राठोड नामदेव कनीराम)</ContractorName>
@@ -563,6 +563,9 @@
     </ContractorCode>
     <ContractorCode Code="68626">
       <ContractorName>१५ -१६ भुजबळ प्रकाश विठोबा(जाधव गोपीचंद सरीचंद)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68627">
+      <ContractorName>१५ -१६ भुजबळ संतोष विठोबा(जाधव गोपीचंद सरीचंद)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
