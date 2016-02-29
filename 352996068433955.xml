@@ -92162,4 +92162,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98625">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69141</GrowerCode>
+    <GrowerName>पाबळे रवींद्र शंकर</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>1827</SubVillageCode>
+    <SubVillageName>पाटेठाणशिव(३)</SubVillageName>
+    <serveNo>126</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98624">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58187</GrowerCode>
+    <GrowerName>कुंजीर गणेश वामन</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>1827</SubVillageCode>
+    <SubVillageName>पाटेठाणशिव(३)</SubVillageName>
+    <serveNo>41</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98623">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69632</GrowerCode>
+    <GrowerName>शेंडगे विशाल बाळू</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>डुबेवाडी</VillageName>
+    <SubVillageCode>314</SubVillageCode>
+    <SubVillageName>डूबेवाडी(५)</SubVillageName>
+    <serveNo>26</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98622">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62195</GrowerCode>
+    <GrowerName>बधे बाळासो रामचंद्र</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>81</VillageCode>
+    <VillageName>राहु</VillageName>
+    <SubVillageCode>318</SubVillageCode>
+    <SubVillageName>शिंदेनगर(१०)</SubVillageName>
+    <serveNo>1168</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98621">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11274</GrowerCode>
+    <GrowerName>डुबे विलास सोपान </GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>डुबेवाडी</VillageName>
+    <SubVillageCode>314</SubVillageCode>
+    <SubVillageName>डूबेवाडी(५)</SubVillageName>
+    <serveNo>150</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
