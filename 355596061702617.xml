@@ -30327,4 +30327,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98679">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69654</GrowerCode>
+    <GrowerName>शिर्के सुनिल गणपत</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>127</VillageCode>
+    <VillageName>उंडवडी</VillageName>
+    <SubVillageCode>1644</SubVillageCode>
+    <SubVillageName>उंडवडी(१४)</SubVillageName>
+    <serveNo>1275</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98678">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69660</GrowerCode>
+    <GrowerName>बोराटे प्रवीण सयाजी</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <SubVillageCode>292</SubVillageCode>
+    <SubVillageName>नांदूर(१६)</SubVillageName>
+    <serveNo>75</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
