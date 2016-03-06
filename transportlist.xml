@@ -7,6 +7,12 @@
       <TrollyNoA>T68598-1</TrollyNoA>
       <TrollyNoB>T68598-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="69669">
+      <ContractorName>देवकर सोमनाथ सोपान</ContractorName>
+      <VehicleNo>MH-26-3634</VehicleNo>
+      <TrollyNoA>T69669-1</TrollyNoA>
+      <TrollyNoB>T69669-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="68427">
       <ContractorName>आवाळे बंडू वामन</ContractorName>
       <VehicleNo>MH-42-F-1058</VehicleNo>
@@ -964,6 +970,14 @@
     <ContractorCode Code="68436">
       <ContractorName>१५ -१६ बीडगर एम. आर</ContractorName>
       <VehicleNo>MH-42-QA-9584</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="69671">
+      <ContractorName>१५-१६ देवकर नवनाथ सोपान</ContractorName>
+      <VehicleNo>MH-12-R-9801</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="69672">
+      <ContractorName>१५-१६. देवकर एन.एस.</ContractorName>
+      <VehicleNo>MH-04H-2092</VehicleNo>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
