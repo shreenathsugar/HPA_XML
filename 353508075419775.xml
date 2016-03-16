@@ -44982,4 +44982,44 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98899">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69827</GrowerCode>
+    <GrowerName>राउत काळूराम पिराजी</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>128</VillageCode>
+    <VillageName>तुळापुर</VillageName>
+    <SubVillageCode>1617</SubVillageCode>
+    <SubVillageName>नागरमलaवस्ती(४०)आळंदीफाटामार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98898">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69826</GrowerCode>
+    <GrowerName>येवले दिलीप नामदेव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>65</VillageCode>
+    <VillageName>पेरणे</VillageName>
+    <SubVillageCode>258</SubVillageCode>
+    <SubVillageName>पेरणे(२७)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

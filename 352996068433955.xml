@@ -94541,4 +94541,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98892">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11667</GrowerCode>
+    <GrowerName>देवकर बन्सीरामा मारुती</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>82</VillageCode>
+    <VillageName>दहीटणे</VillageName>
+    <SubVillageCode>1656</SubVillageCode>
+    <SubVillageName>गणेशनगर(७)</SubVillageName>
+    <serveNo>219</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="98893">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>24261</GrowerCode>
+    <GrowerName>बराटे दिलीप केरबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1763</SubVillageCode>
+    <SubVillageName>टाकळी भिमा (१९)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

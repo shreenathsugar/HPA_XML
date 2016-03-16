@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="68769">
-      <ContractorName>१५ -१६ ताकवणे अर्जुन विठ्ठल</ContractorName>
+    <ContractorCode Code="68772">
+      <ContractorName>१५ -१६ टेंगले कोंडीबा दगडू(वारे कडुबा किसन)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68607">
       <ContractorName>१५ -१६ आवाळे बंडू वामन(राठोड नामदेव कनीराम)</ContractorName>
@@ -100,15 +100,6 @@
     <ContractorCode Code="68641">
       <ContractorName>१५ -१६ फडके सोमनाथ मल्हारी(माळी धर्मा वामन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68855">
-      <ContractorName>१५ -१६ थोरात सूचित दत्तात्रय</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="68883">
-      <ContractorName>१५ -१६ गायकवाड प्रशांत पोपट(वाघ नाना भास्कर)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="68902">
-      <ContractorName>१५ -१६ जगताप बापूराव गणपत </ContractorName>
-    </ContractorCode>
     <ContractorCode Code="69666">
       <ContractorName>१५ -१६ देवकर सोमनाथ सोपान(महेंद्र विठ्ठल सोनवणे)</ContractorName>
     </ContractorCode>
@@ -165,6 +156,15 @@
     </ContractorCode>
     <ContractorCode Code="69816">
       <ContractorName>१५-१६ कापसे रामचंद्र किसन(अनिल)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="69819">
+      <ContractorName>१५-१६ थोरात अमित बाळासो(मोरे गणेश रुपचंद)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="69820">
+      <ContractorName>१५-१६ भोसले अतुल दशरथ</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="69824">
+      <ContractorName>१५-१६ काळाने राजाराम भाऊसाहेब</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68643">
       <ContractorName>१५ -१६ घाडगे राजेंद्र शिवाजी(पाटील धनराज उत्तम)</ContractorName>
@@ -508,8 +508,8 @@
     <ContractorCode Code="68768">
       <ContractorName>१५ -१६ ताकवणे धनाजी जनार्दन(पवार ईश्वर शंकर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68606">
-      <ContractorName>१५ -१६ आवाळे उत्तम वामन(निकुंभ शिवाजी पोपट)</ContractorName>
+    <ContractorCode Code="68769">
+      <ContractorName>१५ -१६ ताकवणे अर्जुन विठ्ठल</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68770">
       <ContractorName>१५ -१६ तळेकर विष्णु भानुदास(जाधव धारासिंग ममराज)</ContractorName>
@@ -517,8 +517,8 @@
     <ContractorCode Code="68771">
       <ContractorName>१५ -१६ तळेकर व्ही.बी(जाधव धारासिंग ममराज)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68772">
-      <ContractorName>१५ -१६ टेंगले कोंडीबा दगडू(वारे कडुबा किसन)</ContractorName>
+    <ContractorCode Code="68606">
+      <ContractorName>१५ -१६ आवाळे उत्तम वामन(निकुंभ शिवाजी पोपट)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68773">
       <ContractorName>१५ -१६ वाघोले उल्हास नारायण(पवार बाबूलाल जालम)</ContractorName>
@@ -564,6 +564,15 @@
     </ContractorCode>
     <ContractorCode Code="68790">
       <ContractorName>१५ -१६ धायगुडे संदिप शंकर(राठोड दिलीप किसन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68855">
+      <ContractorName>१५ -१६ थोरात सूचित दत्तात्रय</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68883">
+      <ContractorName>१५ -१६ गायकवाड प्रशांत पोपट(वाघ नाना भास्कर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68902">
+      <ContractorName>१५ -१६ जगताप बापूराव गणपत </ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="डोकी सेंटर">

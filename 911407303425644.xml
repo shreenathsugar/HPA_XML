@@ -56762,4 +56762,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="98892">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11667</GrowerCode>
+    <GrowerName>देवकर बन्सीरामा मारुती</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>82</VillageCode>
+    <VillageName>दहीटणे</VillageName>
+    <SubVillageCode>1656</SubVillageCode>
+    <SubVillageName>गणेशनगर(७)</SubVillageName>
+    <serveNo>219</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
