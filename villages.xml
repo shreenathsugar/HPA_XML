@@ -761,7 +761,7 @@
         <SubVillageName>खेड</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1832">
-        <SubVillageName />
+        <SubVillageName>चाकण</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1147,6 +1147,9 @@
       <SubVillageCode Code="1759">
         <SubVillageName>राऊतवाडी (२४) (टायर/ट्र.गा.) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1833">
+        <SubVillageName>शिक्रापूर(२०)(टायर.ट्र.गाडी)(विठ्ठलवाडी मार्गे)</SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="34">
       <VillageName>करंदी</VillageName>
@@ -1194,6 +1197,12 @@
       <VillageName>पिंपळे जगताप</VillageName>
       <SubVillageCode Code="1755">
         <SubVillageName>पिंपळे जगताप (३४) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1559">
+      <VillageName>खंडाळा</VillageName>
+      <SubVillageCode Code="1834">
+        <SubVillageName>खंडळा(०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1561">
