@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="68605">
-      <ContractorName>धायगुडे संदिप शंकर</ContractorName>
-      <VehicleNo>MH-42-Y-4481</VehicleNo>
-      <TrollyNoA>T68605-1</TrollyNoA>
-      <TrollyNoB>T68605-2</TrollyNoB>
+    <ContractorCode Code="69693">
+      <ContractorName>नागवडे संजय बापूराव</ContractorName>
+      <VehicleNo>MH-12-AH-2260</VehicleNo>
+      <TrollyNoA>T69693-1</TrollyNoA>
+      <TrollyNoB>T69693-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68427">
       <ContractorName>आवाळे बंडू वामन</ContractorName>
@@ -54,30 +54,6 @@
       <VehicleNo>MH-42-Q-3158</VehicleNo>
       <TrollyNoA>T68435-1</TrollyNoA>
       <TrollyNoB>T68435-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68574">
-      <ContractorName>सुर्वे कुमार दत्तात्रय</ContractorName>
-      <VehicleNo>MH-42-Y-5223</VehicleNo>
-      <TrollyNoA>T68574-1</TrollyNoA>
-      <TrollyNoB>T68574-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68575">
-      <ContractorName>ताकवणे चंद्रकांत रामराव</ContractorName>
-      <VehicleNo>MH-42-3684</VehicleNo>
-      <TrollyNoA>T68575-1</TrollyNoA>
-      <TrollyNoB>T68575-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68577">
-      <ContractorName>ताकवणे विठ्ठल नामदेव</ContractorName>
-      <VehicleNo>MH-42-Q-420</VehicleNo>
-      <TrollyNoA>T68577-1</TrollyNoA>
-      <TrollyNoB>T68577-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68578">
-      <ContractorName>ताकवणे नामदेव रघुनाथ</ContractorName>
-      <VehicleNo>MH-42-6444</VehicleNo>
-      <TrollyNoA>T68578-1</TrollyNoA>
-      <TrollyNoB>T68578-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68579">
       <ContractorName>ताकवणे रामचंद्र गोविंद</ContractorName>
@@ -211,11 +187,11 @@
       <TrollyNoA>T68604-1</TrollyNoA>
       <TrollyNoB>T68604-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68426">
-      <ContractorName>आवाळे उत्तम वामन</ContractorName>
-      <VehicleNo>MH-12-1058</VehicleNo>
-      <TrollyNoA>T68426-1</TrollyNoA>
-      <TrollyNoB>T68426-2</TrollyNoB>
+    <ContractorCode Code="68605">
+      <ContractorName>धायगुडे संदिप शंकर</ContractorName>
+      <VehicleNo>MH-42-Y-4481</VehicleNo>
+      <TrollyNoA>T68605-1</TrollyNoA>
+      <TrollyNoB>T68605-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68461">
       <ContractorName>गाढवे गणपत भिकु</ContractorName>
@@ -312,6 +288,30 @@
       <VehicleNo>MH-42-Q-4003</VehicleNo>
       <TrollyNoA>T69792-1</TrollyNoA>
       <TrollyNoB>T69792-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="69718">
+      <ContractorName>साळुंखे गणेश शिवाजी</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T69718-1</TrollyNoA>
+      <TrollyNoB>T69718-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="69717">
+      <ContractorName>साळुंखे सोमनाथ ज्ञानदेव</ContractorName>
+      <VehicleNo>MH-12-BB-1178</VehicleNo>
+      <TrollyNoA>T69717-1</TrollyNoA>
+      <TrollyNoB>T69717-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="69702">
+      <ContractorName>सोनवणे रोहिदास नरसिंग</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T69702-1</TrollyNoA>
+      <TrollyNoB>T69702-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68426">
+      <ContractorName>आवाळे उत्तम वामन</ContractorName>
+      <VehicleNo>MH-12-1058</VehicleNo>
+      <TrollyNoA>T68426-1</TrollyNoA>
+      <TrollyNoB>T68426-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68437">
       <ContractorName>बीडगर महादेव रघुनाथ</ContractorName>
@@ -948,6 +948,30 @@
       <VehicleNo>MH-42-Q-2118</VehicleNo>
       <TrollyNoA>T68573-1</TrollyNoA>
       <TrollyNoB>T68573-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68574">
+      <ContractorName>सुर्वे कुमार दत्तात्रय</ContractorName>
+      <VehicleNo>MH-42-Y-5223</VehicleNo>
+      <TrollyNoA>T68574-1</TrollyNoA>
+      <TrollyNoB>T68574-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68575">
+      <ContractorName>ताकवणे चंद्रकांत रामराव</ContractorName>
+      <VehicleNo>MH-42-3684</VehicleNo>
+      <TrollyNoA>T68575-1</TrollyNoA>
+      <TrollyNoB>T68575-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68577">
+      <ContractorName>ताकवणे विठ्ठल नामदेव</ContractorName>
+      <VehicleNo>MH-42-Q-420</VehicleNo>
+      <TrollyNoA>T68577-1</TrollyNoA>
+      <TrollyNoB>T68577-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68578">
+      <ContractorName>ताकवणे नामदेव रघुनाथ</ContractorName>
+      <VehicleNo>MH-42-6444</VehicleNo>
+      <TrollyNoA>T68578-1</TrollyNoA>
+      <TrollyNoB>T68578-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
