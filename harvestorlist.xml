@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="68772">
-      <ContractorName>१५ -१६ टेंगले कोंडीबा दगडू(वारे कडुबा किसन)</ContractorName>
+    <ContractorCode Code="68773">
+      <ContractorName>१५ -१६ वाघोले उल्हास नारायण(पवार बाबूलाल जालम)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68607">
       <ContractorName>१५ -१६ आवाळे बंडू वामन(राठोड नामदेव कनीराम)</ContractorName>
@@ -100,9 +100,6 @@
     <ContractorCode Code="68641">
       <ContractorName>१५ -१६ फडके सोमनाथ मल्हारी(माळी धर्मा वामन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="69666">
-      <ContractorName>१५ -१६ देवकर सोमनाथ सोपान(महेंद्र विठ्ठल सोनवणे)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="69667">
       <ContractorName>१५ -१६ देवकर नवनाथ सोपान(सुरेश गणपत राठोड)</ContractorName>
     </ContractorCode>
@@ -165,6 +162,9 @@
     </ContractorCode>
     <ContractorCode Code="69824">
       <ContractorName>१५-१६ काळाने राजाराम भाऊसाहेब</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="69847">
+      <ContractorName>१५-१६ काळाने ए.एन.(उगालाल)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68643">
       <ContractorName>१५ -१६ घाडगे राजेंद्र शिवाजी(पाटील धनराज उत्तम)</ContractorName>
@@ -517,11 +517,11 @@
     <ContractorCode Code="68771">
       <ContractorName>१५ -१६ तळेकर व्ही.बी(जाधव धारासिंग ममराज)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="68772">
+      <ContractorName>१५ -१६ टेंगले कोंडीबा दगडू(वारे कडुबा किसन)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="68606">
       <ContractorName>१५ -१६ आवाळे उत्तम वामन(निकुंभ शिवाजी पोपट)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="68773">
-      <ContractorName>१५ -१६ वाघोले उल्हास नारायण(पवार बाबूलाल जालम)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68774">
       <ContractorName>१५ -१६ वाघोले कैलास उल्हास(राठोड गोरख रंगनाथ)</ContractorName>
@@ -573,6 +573,9 @@
     </ContractorCode>
     <ContractorCode Code="68902">
       <ContractorName>१५ -१६ जगताप बापूराव गणपत </ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="69666">
+      <ContractorName>१५ -१६ देवकर सोमनाथ सोपान(महेंद्र विठ्ठल सोनवणे)</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="डोकी सेंटर">
