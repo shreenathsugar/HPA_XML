@@ -154,6 +154,9 @@
       <SubVillageCode Code="285">
         <SubVillageName>पिंपळगाव (११)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="820">
+        <SubVillageName>शितोळेवस्ती(१४)</SubVillageName>
+      </SubVillageCode>
       <SubVillageCode Code="891">
         <SubVillageName>वाढे(१३)</SubVillageName>
       </SubVillageCode>
@@ -174,12 +177,6 @@
       <VillageName>मगरवाडी</VillageName>
       <SubVillageCode Code="316">
         <SubVillageName>मगरवाडी(७)</SubVillageName>
-      </SubVillageCode>
-    </VillageCode>
-    <VillageCode Code="784">
-      <VillageName>शितोळे वस्ती</VillageName>
-      <SubVillageCode Code="820">
-        <SubVillageName>शितोळेवस्ती(१४)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -1132,9 +1129,6 @@
     </VillageCode>
     <VillageCode Code="32">
       <VillageName>शिक्रापूर</VillageName>
-      <SubVillageCode Code="853">
-        <SubVillageName>मुखई](४१)</SubVillageName>
-      </SubVillageCode>
       <SubVillageCode Code="1739">
         <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
       </SubVillageCode>
@@ -1161,6 +1155,12 @@
       <VillageName>जातेगाव ब्रु</VillageName>
       <SubVillageCode Code="1747">
         <SubVillageName>जातेगाव बु (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="146">
+      <VillageName>बुरुजवाडी</VillageName>
+      <SubVillageCode Code="1836">
+        <SubVillageName />
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="148">
@@ -1192,11 +1192,20 @@
       <SubVillageCode Code="1742">
         <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1837">
+        <SubVillageName />
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1106">
       <VillageName>पिंपळे जगताप</VillageName>
       <SubVillageCode Code="1755">
         <SubVillageName>पिंपळे जगताप (३४) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1383">
+      <VillageName>मुखई</VillageName>
+      <SubVillageCode Code="1835">
+        <SubVillageName />
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1559">
