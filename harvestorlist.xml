@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="Doki">
-    <ContractorCode Code="68785">
-      <ContractorName>१५ -१६ थोरात सुभाष शांताराम(पावरा छगन भिमा)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="69719">
       <ContractorName>१५-१६ साळुंखे सोमनाथ ज्ञानदेव</ContractorName>
     </ContractorCode>
@@ -70,14 +67,17 @@
     <ContractorCode Code="69859">
       <ContractorName>१५-१६ ठोंबरे नितीन नारायण</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="69867">
+      <ContractorName>१५-१६ खांदवे शिवाजी बाबुराव</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68785">
+      <ContractorName>१५ -१६ थोरात सुभाष शांताराम(पावरा छगन भिमा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="69888">
+      <ContractorName>१५-१६ भोंडवे प्रशांत गुलाब</ContractorName>
+    </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="68632">
-      <ContractorName>१५ -१६  चव्हाण गोकुळ खुबा</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="68633">
-      <ContractorName>१५ -१६  चव्हाण कैलास बल्लू</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="68634">
       <ContractorName>१५ -१६ चव्हाण समाधान गोकुळ</ContractorName>
     </ContractorCode>
@@ -510,14 +510,14 @@
     <ContractorCode Code="68902">
       <ContractorName>१५ -१६ जगताप बापूराव गणपत </ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68606">
-      <ContractorName>१५ -१६ आवाळे उत्तम वामन(निकुंभ शिवाजी पोपट)</ContractorName>
+    <ContractorCode Code="69666">
+      <ContractorName>१५ -१६ देवकर सोमनाथ सोपान(महेंद्र विठ्ठल सोनवणे)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="69667">
       <ContractorName>१५ -१६ देवकर नवनाथ सोपान(सुरेश गणपत राठोड)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="69668">
-      <ContractorName>१५ -१६ देवकर एन. एस.(सुरेश गणपत राठोड)</ContractorName>
+    <ContractorCode Code="68606">
+      <ContractorName>१५ -१६ आवाळे उत्तम वामन(निकुंभ शिवाजी पोपट)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="69692">
       <ContractorName>१५ -१६ नागवडे संजय बापूराव</ContractorName>
@@ -579,8 +579,11 @@
     <ContractorCode Code="69847">
       <ContractorName>१५-१६ काळाने ए.एन.(उगालाल)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="69666">
-      <ContractorName>१५ -१६ देवकर सोमनाथ सोपान(महेंद्र विठ्ठल सोनवणे)</ContractorName>
+    <ContractorCode Code="69871">
+      <ContractorName>१५-१६ मुथाळ वसंत भाऊसाहेब</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="69668">
+      <ContractorName>१५ -१६ देवकर एन. एस.(सुरेश गणपत राठोड)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68607">
       <ContractorName>१५ -१६ आवाळे बंडू वामन(राठोड नामदेव कनीराम)</ContractorName>
@@ -647,6 +650,12 @@
     </ContractorCode>
     <ContractorCode Code="68631">
       <ContractorName>१५ -१६  चौधरी हनुमंत भुजंग(चव्हाण शालीक बद्री)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68632">
+      <ContractorName>१५ -१६  चव्हाण गोकुळ खुबा</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68633">
+      <ContractorName>१५ -१६  चव्हाण कैलास बल्लू</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>

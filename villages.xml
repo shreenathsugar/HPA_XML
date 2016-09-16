@@ -323,6 +323,12 @@
         <SubVillageName>मेरगळवाडी(६०)पाटसमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1839">
+      <VillageName>मळद</VillageName>
+      <SubVillageCode Code="1838">
+        <SubVillageName>मळद(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="14">
     <GatName>रांजणगाव सांडस</GatName>
@@ -694,9 +700,6 @@
       <SubVillageCode Code="1623">
         <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
       </SubVillageCode>
-      <SubVillageCode Code="1816">
-        <SubVillageName>पिपंळगाव फडके(४५) मरकळमार्गे</SubVillageName>
-      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="78">
       <VillageName>वडगाव शिंदे</VillageName>
@@ -759,6 +762,12 @@
       </SubVillageCode>
       <SubVillageCode Code="1832">
         <SubVillageName>चाकण</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1840">
+      <VillageName>पिंपळगाव फडके</VillageName>
+      <SubVillageCode Code="1816">
+        <SubVillageName>पिपंळगाव फडके(४५) मरकळमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
@@ -841,6 +850,9 @@
       <SubVillageCode Code="1644">
         <SubVillageName>उंडवडी(१४)</SubVillageName>
       </SubVillageCode>
+      <SubVillageCode Code="1824">
+        <SubVillageName>भोसलेवाडी(१४)बै</SubVillageName>
+      </SubVillageCode>
     </VillageCode>
     <VillageCode Code="144">
       <VillageName>यवत स्टेशन</VillageName>
@@ -873,15 +885,6 @@
       <VillageName>बोरीभडक</VillageName>
       <SubVillageCode Code="1650">
         <SubVillageName>बोरीभडक(३०)</SubVillageName>
-      </SubVillageCode>
-    </VillageCode>
-    <VillageCode Code="200">
-      <VillageName>भोसलेवाडी</VillageName>
-      <SubVillageCode Code="1717">
-        <SubVillageName>भोसलेवाडी(१८)पिंपळगाव मार्गे</SubVillageName>
-      </SubVillageCode>
-      <SubVillageCode Code="1824">
-        <SubVillageName>भोसलेवाडी(१४)बै</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1100">
@@ -1160,7 +1163,7 @@
     <VillageCode Code="146">
       <VillageName>बुरुजवाडी</VillageName>
       <SubVillageCode Code="1836">
-        <SubVillageName />
+        <SubVillageName>बुरंजवाडी(२४)(टायर/ट्र.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="148">
@@ -1193,7 +1196,7 @@
         <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1837">
-        <SubVillageName />
+        <SubVillageName>गणेगाव खालसा(२७)(टायर/ट्र.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1106">
@@ -1205,7 +1208,7 @@
     <VillageCode Code="1383">
       <VillageName>मुखई</VillageName>
       <SubVillageCode Code="1835">
-        <SubVillageName />
+        <SubVillageName>मुखई(३४)(विठ्ठलवाडीमार्गे)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1559">
@@ -1236,6 +1239,12 @@
       <VillageName>पिंपरी दुमाला</VillageName>
       <SubVillageCode Code="1757">
         <SubVillageName>पिंपरी दुमाला (३८) (टायर/ट्र.गा.) (विठ्ठलवाडीमार्गे)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1841">
+      <VillageName>वरुडे</VillageName>
+      <SubVillageCode Code="1842">
+        <SubVillageName>वरुडे(०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
