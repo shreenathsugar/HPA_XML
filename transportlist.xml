@@ -1079,6 +1079,8 @@
   <VechicleType type="TractorHarvestor">
     <ContractorCode Code="68808">
       <ContractorName>१५ -१६ ताकवणे चंद्रकांत कृष्णाजी </ContractorName>
+      <TrollyNoA>T68808-1</TrollyNoA>
+      <TrollyNoB>T68808-2</TrollyNoB>
       <VehicleNo>MH-42-Y-2431</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="68809">
