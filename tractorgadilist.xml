@@ -4,11 +4,13 @@
     <ContractorName>जायभाये  केशव  विठ्ठल (टा.गाडी) </ContractorName>
     <GadiwanCode>1050</GadiwanCode>
     <GadiwanName>गर्जे भाऊराव दिगंबर </GadiwanName>
-    <VehicleNo>MH-16-3445</VehicleNo>
-    <Trolly1>T1050-1</Trolly1>
-    <Trolly2>T1050-2</Trolly2>
+    <TrollyNoA>T1050-1</TrollyNoA>
+    <TrollyNoB>T1050-2</TrollyNoB>
+    <VehicleNo>MH-16-3445</VehicleNo>    
     <GadiwanCode>1030</GadiwanCode>
     <GadiwanName>गर्जे भाऊसाहेब मुरलीधर </GadiwanName>
+    <TrollyNoA>T1030-1</TrollyNoA>
+    <TrollyNoB>T1030-2</TrollyNoB>
     <VehicleNo>MH-44-D-214</VehicleNo>
     <GadiwanCode>1029</GadiwanCode>
     <GadiwanName>जायभाये  सुभाष  शंकर </GadiwanName>
