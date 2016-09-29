@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ReasonDetails>
   <ReasonCode Code="1">
     <Reason>बेण्यासाठी</Reason>
@@ -16,6 +16,6 @@
     <Reason>इतर कारखाना</Reason>
   </ReasonCode>
   <ReasonCode Code="6">
-    <Reason>अन्यत्र विल्हेवाट</Reason>
+    <Reason>गळीतास आलेले</Reason>
   </ReasonCode>
 </ReasonDetails>
