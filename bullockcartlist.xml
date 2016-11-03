@@ -13,6 +13,58 @@
     <ContractorName>राठोड विजय नरसिंग</ContractorName>
     <GadiwanCode>17</GadiwanCode>
     <GadiwanName>राठोड राहुल वसंत</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>25</GadiwanCode>
+    <GadiwanName>चव्हाण युवराज मलखान</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>26</GadiwanCode>
+    <GadiwanName>राठोड ज्ञानेश्वर रावसाहेब</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>27</GadiwanCode>
+    <GadiwanName>चव्हाण रमेश मलखान</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>28</GadiwanCode>
+    <GadiwanName>राठोड रमेश धोंडीबा</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>29</GadiwanCode>
+    <GadiwanName>राठोड अर्जुन धोंडीराम</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="12463">
+    <ContractorName>खाडे सोमनाथ बापूराव</ContractorName>
+    <GadiwanCode>40</GadiwanCode>
+    <GadiwanName>बनगर सोमनाथ भुजंग</GadiwanName>
+    <ContractorName>खाडे सोमनाथ बापूराव</ContractorName>
+    <GadiwanCode>41</GadiwanCode>
+    <GadiwanName>बटूळे भास्कर बाप्पा</GadiwanName>
+    <ContractorName>खाडे सोमनाथ बापूराव</ContractorName>
+    <GadiwanCode>42</GadiwanCode>
+    <GadiwanName>खाडे संजय बापू</GadiwanName>
+    <ContractorName>खाडे सोमनाथ बापूराव</ContractorName>
+    <GadiwanCode>43</GadiwanCode>
+    <GadiwanName>खाडे हरिभाऊ सोमनाथ</GadiwanName>
+    <ContractorName>खाडे सोमनाथ बापूराव</ContractorName>
+    <GadiwanCode>44</GadiwanCode>
+    <GadiwanName>जावरे शेषराव रामभाऊ</GadiwanName>
+    <ContractorName>खाडे सोमनाथ बापूराव</ContractorName>
+    <GadiwanCode>45</GadiwanCode>
+    <GadiwanName>दराडे बाबासाहेब सर्जेराव</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="12464">
+    <ContractorName>बटुळे बाबासाहेब लक्ष्मण</ContractorName>
+    <GadiwanCode>32</GadiwanCode>
+    <GadiwanName>खाडे नारायण शिवनाथ</GadiwanName>
+    <ContractorName>बटुळे बाबासाहेब लक्ष्मण</ContractorName>
+    <GadiwanCode>33</GadiwanCode>
+    <GadiwanName>बटूळे ज्ञानदेव लक्ष्मण</GadiwanName>
+    <ContractorName>बटुळे बाबासाहेब लक्ष्मण</ContractorName>
+    <GadiwanCode>34</GadiwanCode>
+    <GadiwanName>बटूळे नवनाथ लक्ष्मण</GadiwanName>
+    <ContractorName>बटुळे बाबासाहेब लक्ष्मण</ContractorName>
+    <GadiwanCode>35</GadiwanCode>
+    <GadiwanName>बटूळे सुरेश विट्ठल</GadiwanName>
+    <ContractorName>बटुळे बाबासाहेब लक्ष्मण</ContractorName>
+    <GadiwanCode>36</GadiwanCode>
+    <GadiwanName>बटूळे भगवान बाळासाहेब</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="21360">
     <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
@@ -24,6 +76,15 @@
     <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
     <GadiwanCode>12</GadiwanCode>
     <GadiwanName>खेडेकर संजय भागवान</GadiwanName>
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>71</GadiwanCode>
+    <GadiwanName>गर्कळ अंबादास विनायक</GadiwanName>
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>72</GadiwanCode>
+    <GadiwanName>गर्कळ शिवाजी हरिभाऊ</GadiwanName>
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>73</GadiwanCode>
+    <GadiwanName>घोक्षे अशोक अश्रू</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="35383">
     <ContractorName>जायभाये केशव विठ्ठल</ContractorName>
@@ -45,10 +106,123 @@
     <GadiwanCode>9</GadiwanCode>
     <GadiwanName>गजरे शिवाजी आसाराम</GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="35389">
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>46</GadiwanCode>
+    <GadiwanName>राठोड गौरव काशिनाथ</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>47</GadiwanCode>
+    <GadiwanName>चव्हाण कैलास बन्सी</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>48</GadiwanCode>
+    <GadiwanName>राठोड काळू तुकाराम</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>49</GadiwanCode>
+    <GadiwanName>राठोड नंदू काळू</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>50</GadiwanCode>
+    <GadiwanName>जाधव दिलीप गबरू</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>51</GadiwanCode>
+    <GadiwanName>जाधव मचिंद्र फकिरा</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>52</GadiwanCode>
+    <GadiwanName>जाधव मधुकर फकिरा</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="35489">
+    <ContractorName>खाडे अजिनाथ मधुकर</ContractorName>
+    <GadiwanCode>21</GadiwanCode>
+    <GadiwanName>बटूळे बाबासाहेब नामदेव</GadiwanName>
+    <ContractorName>खाडे अजिनाथ मधुकर</ContractorName>
+    <GadiwanCode>22</GadiwanCode>
+    <GadiwanName>बटूळे हरिभाऊ नामदेव</GadiwanName>
+    <ContractorName>खाडे अजिनाथ मधुकर</ContractorName>
+    <GadiwanCode>23</GadiwanCode>
+    <GadiwanName>खाडे संभाजी शंकर</GadiwanName>
+    <ContractorName>खाडे अजिनाथ मधुकर</ContractorName>
+    <GadiwanCode>24</GadiwanCode>
+    <GadiwanName>बटूळे अंबादास उत्तम</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="43177">
+    <ContractorName>बटुळे रमेश नामदेव</ContractorName>
+    <GadiwanCode>37</GadiwanCode>
+    <GadiwanName>खेडकर जगन्नाथ रघुनाथ</GadiwanName>
+    <ContractorName>बटुळे रमेश नामदेव</ContractorName>
+    <GadiwanCode>38</GadiwanCode>
+    <GadiwanName>खाडे राम विठोबा</GadiwanName>
+    <ContractorName>बटुळे रमेश नामदेव</ContractorName>
+    <GadiwanCode>39</GadiwanCode>
+    <GadiwanName>खाडे रामहरी नामदेव</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="53035">
     <ContractorName>बटुळे संजय सूर्यभान</ContractorName>
     <GadiwanCode>13</GadiwanCode>
     <GadiwanName>गाडे प्रवीण शिवाजी</GadiwanName>
+    <ContractorName>बटुळे संजय सूर्यभान</ContractorName>
+    <GadiwanCode>18</GadiwanCode>
+    <GadiwanName>नागरे राजेंद्र सर्जेराव</GadiwanName>
+    <ContractorName>बटुळे संजय सूर्यभान</ContractorName>
+    <GadiwanCode>19</GadiwanCode>
+    <GadiwanName>गर्कळ सोपान माणिक</GadiwanName>
+    <ContractorName>बटुळे संजय सूर्यभान</ContractorName>
+    <GadiwanCode>20</GadiwanCode>
+    <GadiwanName>गर्कळ सुरज जालिंदर</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="53045">
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>53</GadiwanCode>
+    <GadiwanName>राठोड संदिप अर्जुन</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>54</GadiwanCode>
+    <GadiwanName>जाधव अनिल मोतीराम</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>55</GadiwanCode>
+    <GadiwanName>जाधव विशाल धोंडू</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>56</GadiwanCode>
+    <GadiwanName>पवार विनोद धर्मा</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>57</GadiwanCode>
+    <GadiwanName>राठोड वाडीलाल किसन</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>58</GadiwanCode>
+    <GadiwanName>राठोड विलास बद्री</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>59</GadiwanCode>
+    <GadiwanName>राठोड सुनिल वसराम</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>60</GadiwanCode>
+    <GadiwanName>पवार दिलीप बद्री</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>61</GadiwanCode>
+    <GadiwanName>पवार अनिल भारमल</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>62</GadiwanCode>
+    <GadiwanName>पवार सुनिल अनिल</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>63</GadiwanCode>
+    <GadiwanName>पवार सुनिल भगवान</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>64</GadiwanCode>
+    <GadiwanName>जाधव रविंद्र भाऊशिंग</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>65</GadiwanCode>
+    <GadiwanName>पवार उडल पितांबर</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>66</GadiwanCode>
+    <GadiwanName>चव्हाण पिंदू गणपत</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>67</GadiwanCode>
+    <GadiwanName>चव्हाण रामेश्वर गणपत</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>68</GadiwanCode>
+    <GadiwanName>चव्हाण सुनिल नथू</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>69</GadiwanCode>
+    <GadiwanName>राठोड विष्णू विट्ठल</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>70</GadiwanCode>
+    <GadiwanName>राठोड विट्ठल भाऊ</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="53538">
     <ContractorName>शिरसाठ आजिनाथ उत्तम</ContractorName>
@@ -60,6 +234,14 @@
     <ContractorName>शिरसाठ आजिनाथ उत्तम</ContractorName>
     <GadiwanCode>3</GadiwanCode>
     <GadiwanName>गायकवाड जालीधर विश्वनाथ</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="68843">
+    <ContractorName>बटुळे माणिक रामराव</ContractorName>
+    <GadiwanCode>30</GadiwanCode>
+    <GadiwanName>खाडे शिवाजी शंकर</GadiwanName>
+    <ContractorName>बटुळे माणिक रामराव</ContractorName>
+    <GadiwanCode>31</GadiwanCode>
+    <GadiwanName>कराड बाबासाहेब नामदेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="69198">
     <ContractorName>श्री.जनसेवा प्रतीष्ठान,शिक्रापूर(गाडीतळ कांड्या टिपरी)</ContractorName>
