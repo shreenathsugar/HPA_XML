@@ -1,19 +1,135 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
-  <ContractorCode Code="71499">
-    <ContractorName>मापारे रूपेश</ContractorName>
-    <GadiwanCode>5001</GadiwanCode>
-    <GadiwanName>टेस्ट ५००१</GadiwanName>
-    <TrollyNoA>T5001-1</TrollyNoA>
-    <TrollyNoB>T5001-2</TrollyNoB>
-    <VehicleNo>mh-12 test</VehicleNo>
-  </ContractorCode>
-  <ContractorCode Code="71639">
-    <ContractorName>श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+  <ContractorCode Code="61778">
+    <ContractorName>जायभाये केशव विठ्ठल</ContractorName>
+    <GadiwanCode>1003</GadiwanCode>
+    <GadiwanName>पालवे बाबासाहेब रामराव</GadiwanName>
+    <TrollyNoA>T1003-1</TrollyNoA>
+    <TrollyNoB>T1003-2</TrollyNoB>
+    <VehicleNo>MH-16-AM-0753</VehicleNo>
+    <GadiwanCode>1004</GadiwanCode>
+    <GadiwanName>इथापे महेंद्र भानुदास</GadiwanName>
+    <TrollyNoA>T1004-1</TrollyNoA>
+    <TrollyNoB>T1004-2</TrollyNoB>
+    <VehicleNo>MH-43-B-7609</VehicleNo>
     <GadiwanCode>1001</GadiwanCode>
-    <GadiwanName>श्रीनाथ म्हस्कोबा साखर कारखाना.लि</GadiwanName>
+    <GadiwanName>केदार संदीप रमेश</GadiwanName>
     <TrollyNoA>T1001-1</TrollyNoA>
     <TrollyNoB>T1001-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1009</GadiwanCode>
+    <GadiwanName>जायभाये सुभाष शंकर</GadiwanName>
+    <TrollyNoA>T1009-1</TrollyNoA>
+    <TrollyNoB>T1009-2</TrollyNoB>
+    <VehicleNo>MH-16-AV-7468</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="61824">
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>1008</GadiwanCode>
+    <GadiwanName>वडघुले विशाल सतीश</GadiwanName>
+    <TrollyNoA>T1008-1</TrollyNoA>
+    <TrollyNoB>T1008-2</TrollyNoB>
+    <VehicleNo>MH-12-G-6883</VehicleNo>
+    <GadiwanCode>1012</GadiwanCode>
+    <GadiwanName>गिरी भाऊसाहेब लक्ष्मन</GadiwanName>
+    <TrollyNoA>T1012-1</TrollyNoA>
+    <TrollyNoB>T1012-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+    <GadiwanCode>1005</GadiwanCode>
+    <GadiwanName>माळी भीमराव शामराव</GadiwanName>
+    <TrollyNoA>T1005-1</TrollyNoA>
+    <TrollyNoB>T1005-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+    <GadiwanCode>1006</GadiwanCode>
+    <GadiwanName>माळी शामराव राजाराम</GadiwanName>
+    <TrollyNoA>T1006-1</TrollyNoA>
+    <TrollyNoB>T1006-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+    <GadiwanCode>1007</GadiwanCode>
+    <GadiwanName>गव्हाणे बाबुराव उत्तम</GadiwanName>
+    <TrollyNoA>T1007-1</TrollyNoA>
+    <TrollyNoB>T1007-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+    <GadiwanCode>1011</GadiwanCode>
+    <GadiwanName>घोळे हरिदास बापू</GadiwanName>
+    <TrollyNoA>T1011-1</TrollyNoA>
+    <TrollyNoB>T1011-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+    <GadiwanCode>1013</GadiwanCode>
+    <GadiwanName>ढवळे भाऊसाहेब रावसहेब</GadiwanName>
+    <TrollyNoA>T1013-1</TrollyNoA>
+    <TrollyNoB>T1013-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="65146">
+    <ContractorName>पाटील संजय ज्ञानदेव</ContractorName>
+    <GadiwanCode>1002</GadiwanCode>
+    <GadiwanName>पाटील संजय ज्ञानदेव</GadiwanName>
+    <TrollyNoA>T1002-1</TrollyNoA>
+    <TrollyNoB>T1002-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="65147">
+    <ContractorName>शेकडे बाबासाहेब बापू</ContractorName>
+    <GadiwanCode>1018</GadiwanCode>
+    <GadiwanName>शेकडे राजेंद किसन</GadiwanName>
+    <TrollyNoA>T1018-1</TrollyNoA>
+    <TrollyNoB>T1018-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="65155">
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>1019</GadiwanCode>
+    <GadiwanName>पवार साईदास गुलाब</GadiwanName>
+    <TrollyNoA>T1019-1</TrollyNoA>
+    <TrollyNoB>T1019-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+    <GadiwanCode>1020</GadiwanCode>
+    <GadiwanName>राठोड अविनाश गुलाब</GadiwanName>
+    <TrollyNoA>T1020-1</TrollyNoA>
+    <TrollyNoB>T1020-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="65213">
+    <ContractorName>खाडे सोमनाथ बापूराव</ContractorName>
+    <GadiwanCode>1021</GadiwanCode>
+    <GadiwanName>दौंड रामदास अर्जुन</GadiwanName>
+    <TrollyNoA>T1021-1</TrollyNoA>
+    <TrollyNoB>T1021-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="68824">
+    <ContractorName>सातव विकास चंद्रकांत</ContractorName>
+    <GadiwanCode>1016</GadiwanCode>
+    <GadiwanName>सातव विकास चंद्रकांत</GadiwanName>
+    <TrollyNoA>T1016-1</TrollyNoA>
+    <TrollyNoB>T1016-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="68832">
+    <ContractorName>गर्जे नितीन किसन</ContractorName>
+    <GadiwanCode>1014</GadiwanCode>
+    <GadiwanName>गजरे भाऊसाहेब मुरलीधर</GadiwanName>
+    <TrollyNoA>T1014-1</TrollyNoA>
+    <TrollyNoB>T1014-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+    <GadiwanCode>1010</GadiwanCode>
+    <GadiwanName>गिरी किशोर अंकुश</GadiwanName>
+    <TrollyNoA>T1010-1</TrollyNoA>
+    <TrollyNoB>T1010-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+    <GadiwanCode>1015</GadiwanCode>
+    <GadiwanName>आंधळे कोंडीबा सुभाष</GadiwanName>
+    <TrollyNoA>T1015-1</TrollyNoA>
+    <TrollyNoB>T1015-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="71815">
+    <ContractorName>शितोळे शामराव रामचंद्र</ContractorName>
+    <GadiwanCode>1017</GadiwanCode>
+    <GadiwanName>शितोळे शामराव रामचंद्र</GadiwanName>
+    <TrollyNoA>T1017-1</TrollyNoA>
+    <TrollyNoB>T1017-2</TrollyNoB>
+    <VehicleNo>-</VehicleNo>
   </ContractorCode>
 </ContractorDetails>
