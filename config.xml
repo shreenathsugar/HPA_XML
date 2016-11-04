@@ -6,12 +6,6 @@
     <rstart>1254101</rstart>
     <rend>1258600</rend>
   </imeicode>
-  <imeicode imei="354786063675181">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/354786063675181.xml</url>
-    <version>1</version>
-    <rstart>1232101</rstart>
-    <rend>1236100</rend>
-  </imeicode>
   <imeicode imei="357067063403883">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/357067063403883.xml</url>
     <version>1</version>
@@ -197,6 +191,12 @@
     <version>1</version>
     <rstart>1280101</rstart>
     <rend>1282600</rend>
+  </imeicode>
+  <imeicode imei="354786063675181">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/354786063675181.xml</url>
+    <version>1</version>
+    <rstart>1232110</rstart>
+    <rend>1236100</rend>
   </imeicode>
   <imeicode imei="355259079502046">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/355259079502046.xml</url>
