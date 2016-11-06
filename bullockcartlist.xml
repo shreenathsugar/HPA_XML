@@ -715,6 +715,14 @@
     <GadiwanCode>1000</GadiwanCode>
     <GadiwanName>श्री जनसेवा प्रतिष्ठान,शिक्रापूर(गाडीतळ,कांडी,टिपरी)</GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="71030">
+    <ContractorName>शिरसाट छगन कोंडीबा</ContractorName>
+    <GadiwanCode>105</GadiwanCode>
+    <GadiwanName>आघाव गिज्ञादेव दादा</GadiwanName>
+    <ContractorName>शिरसाट छगन कोंडीबा</ContractorName>
+    <GadiwanCode>106</GadiwanCode>
+    <GadiwanName>जायभाये कुंडलिक कारभारी</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="71031">
     <ContractorName>जायभाय देविदास बाबुराव</ContractorName>
     <GadiwanCode>104</GadiwanCode>
@@ -745,14 +753,6 @@
     <ContractorName>जायभाय विष्णुपंथ बाबुराव</ContractorName>
     <GadiwanCode>103</GadiwanCode>
     <GadiwanName>जायभाये अश्रुबा लक्ष्मन</GadiwanName>
-  </ContractorCode>
-  <ContractorCode Code="71826">
-    <ContractorName>मिसाळ छगन कोंडीबा</ContractorName>
-    <GadiwanCode>105</GadiwanCode>
-    <GadiwanName>आघाव गिज्ञादेव दादा</GadiwanName>
-    <ContractorName>मिसाळ छगन कोंडीबा</ContractorName>
-    <GadiwanCode>106</GadiwanCode>
-    <GadiwanName>जायभाये कुंडलिक कारभारी</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="71830">
     <ContractorName>खरमाटे विष्णु आश्रुबा</ContractorName>
