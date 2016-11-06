@@ -74,6 +74,20 @@
     <ContractorName>बटुळे बाबासाहेब लक्ष्मण</ContractorName>
     <GadiwanCode>224</GadiwanCode>
     <GadiwanName>केदार गणेश श्रीधर</GadiwanName>
+    <ContractorName>बटुळे बाबासाहेब लक्ष्मण</ContractorName>
+    <GadiwanCode>263</GadiwanCode>
+    <GadiwanName>बटूळे विष्णू बाबासाहेब</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="12495">
+    <ContractorName>सोनवणे गोरख रामभाऊ</ContractorName>
+    <GadiwanCode>260</GadiwanCode>
+    <GadiwanName>बडे मच्छिंद्र एकनाथ</GadiwanName>
+    <ContractorName>सोनवणे गोरख रामभाऊ</ContractorName>
+    <GadiwanCode>261</GadiwanCode>
+    <GadiwanName>गर्जे रावसाहेब अश्रुबा</GadiwanName>
+    <ContractorName>सोनवणे गोरख रामभाऊ</ContractorName>
+    <GadiwanCode>262</GadiwanCode>
+    <GadiwanName>शेकडे बाबासाहेब सुदाम</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="21360">
     <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
@@ -141,6 +155,9 @@
     <ContractorName>कराड लक्ष्मण किसन</ContractorName>
     <GadiwanCode>230</GadiwanCode>
     <GadiwanName>राठोड लक्ष्मन भानुदास</GadiwanName>
+    <ContractorName>कराड लक्ष्मण किसन</ContractorName>
+    <GadiwanCode>249</GadiwanCode>
+    <GadiwanName>बटूळे आबादेव प्रल्हाद</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="21420">
     <ContractorName>बटुळे नामदेव कुंडलिक</ContractorName>
@@ -282,6 +299,9 @@
     <ContractorName>गर्कळ बबन आश्रू</ContractorName>
     <GadiwanCode>232</GadiwanCode>
     <GadiwanName>गर्कळ बाळासाहेब भगवान</GadiwanName>
+    <ContractorName>गर्कळ बबन आश्रू</ContractorName>
+    <GadiwanCode>250</GadiwanCode>
+    <GadiwanName>ढगे महादेव विठोबा</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="35489">
     <ContractorName>खाडे अजिनाथ मधुकर</ContractorName>
@@ -507,6 +527,24 @@
     <ContractorName>जाधव धारासिंग ममराज</ContractorName>
     <GadiwanCode>70</GadiwanCode>
     <GadiwanName>राठोड विट्ठल भाऊ</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>243</GadiwanCode>
+    <GadiwanName>पवार दीपक भाईदास</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>244</GadiwanCode>
+    <GadiwanName>पवार अर्जुन विकास</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>245</GadiwanCode>
+    <GadiwanName>पवार ज्ञानेश्वर रघुनाथ</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>246</GadiwanCode>
+    <GadiwanName>पवार तुळशीराम नाथू</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>247</GadiwanCode>
+    <GadiwanName>पवार शंकर नाथू</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>248</GadiwanCode>
+    <GadiwanName>जाधव विष्णू भुरा</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="53326">
     <ContractorName>राठोड बाबू झब्बू</ContractorName>
@@ -585,6 +623,18 @@
     <ContractorName>चव्हाण बंडू गणपत</ContractorName>
     <GadiwanCode>172</GadiwanCode>
     <GadiwanName>चव्हाण रामेश्वर लक्ष्मन</GadiwanName>
+    <ContractorName>चव्हाण बंडू गणपत</ContractorName>
+    <GadiwanCode>239</GadiwanCode>
+    <GadiwanName>चव्हाण लिंबा हरीलाल</GadiwanName>
+    <ContractorName>चव्हाण बंडू गणपत</ContractorName>
+    <GadiwanCode>240</GadiwanCode>
+    <GadiwanName>राठोड पंडित तुकाराम</GadiwanName>
+    <ContractorName>चव्हाण बंडू गणपत</ContractorName>
+    <GadiwanCode>241</GadiwanCode>
+    <GadiwanName>चव्हाण राजेंद्र भिका</GadiwanName>
+    <ContractorName>चव्हाण बंडू गणपत</ContractorName>
+    <GadiwanCode>242</GadiwanCode>
+    <GadiwanName>जाधव सुखदेव भिकन</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="53538">
     <ContractorName>शिरसाठ आजिनाथ उत्तम</ContractorName>
@@ -790,5 +840,34 @@
     <ContractorName>चव्हाण जोहरसिंग धर्मा</ContractorName>
     <GadiwanCode>201</GadiwanCode>
     <GadiwanName>चव्हाण गोरख इंदल</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="71858">
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>251</GadiwanCode>
+    <GadiwanName>पवार रामदास साहेबराव</GadiwanName>
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>252</GadiwanCode>
+    <GadiwanName>पवार प्रवीण साहेबराव</GadiwanName>
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>253</GadiwanCode>
+    <GadiwanName>पवार बालचंद लक्ष्मण</GadiwanName>
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>254</GadiwanCode>
+    <GadiwanName>पवार दिनेश पिरा</GadiwanName>
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>255</GadiwanCode>
+    <GadiwanName>पवार पिरा रायसिंग</GadiwanName>
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>256</GadiwanCode>
+    <GadiwanName>राठोड गणेश सारीचंद</GadiwanName>
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>257</GadiwanCode>
+    <GadiwanName>राठोड दिलीप सारीचंद</GadiwanName>
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>258</GadiwanCode>
+    <GadiwanName>जाधव गंगाराम अर्जुन</GadiwanName>
+    <ContractorName>मोरे निंबा हिरामण</ContractorName>
+    <GadiwanCode>259</GadiwanCode>
+    <GadiwanName>जाधव भाऊसाहेब अर्जुन</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
