@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="71863">
-      <ContractorName>१६-१७ गवळी भुजंग दशरथ</ContractorName>
-      <VehicleNo>MH-42-Y-2338</VehicleNo>
-      <TrollyNoA>T71863-1</TrollyNoA>
-      <TrollyNoB>T71863-2</TrollyNoB>
+    <ContractorCode Code="71875">
+      <ContractorName>१६-१७ शेळके नवनाथ लव्हाजी</ContractorName>
+      <VehicleNo>MH-12-Y-3486</VehicleNo>
+      <TrollyNoA>T71875-1</TrollyNoA>
+      <TrollyNoB>T71875-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68427">
       <ContractorName>आवाळे बंडू वामन</ContractorName>
@@ -169,12 +169,6 @@
       <TrollyNoA>T68481-1</TrollyNoA>
       <TrollyNoB>T68481-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="71539">
-      <ContractorName>१६-१७ झाडगे आर. बी</ContractorName>
-      <VehicleNo>MH-42-Q-3932</VehicleNo>
-      <TrollyNoA>T71539-1</TrollyNoA>
-      <TrollyNoB>T71539-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="71540">
       <ContractorName>१६-१७ झाडगे रामदास बापु</ContractorName>
       <VehicleNo>MH-42-Q-894</VehicleNo>
@@ -312,6 +306,12 @@
       <VehicleNo>MH-42-Y-4721</VehicleNo>
       <TrollyNoA>T71836-1</TrollyNoA>
       <TrollyNoB>T71836-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="71863">
+      <ContractorName>१६-१७ गवळी भुजंग दशरथ</ContractorName>
+      <VehicleNo>MH-42-Y-2338</VehicleNo>
+      <TrollyNoA>T71863-1</TrollyNoA>
+      <TrollyNoB>T71863-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68426">
       <ContractorName>आवाळे उत्तम वामन</ContractorName>
@@ -906,6 +906,12 @@
       <VehicleNo>MH-12-AH-2878</VehicleNo>
       <TrollyNoA>T71538-1</TrollyNoA>
       <TrollyNoB>T71538-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="71539">
+      <ContractorName>१६-१७ झाडगे आर. बी</ContractorName>
+      <VehicleNo>MH-42-Q-3932</VehicleNo>
+      <TrollyNoA>T71539-1</TrollyNoA>
+      <TrollyNoB>T71539-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
