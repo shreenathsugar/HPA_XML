@@ -157,6 +157,12 @@
       <TrollyNoA>T71886-1</TrollyNoA>
       <TrollyNoB>T71886-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="68554">
+      <ContractorName>१६-१७ राठोड मोतीराम गुलाब</ContractorName>
+      <VehicleNo>MH-19-BG-3929</VehicleNo>
+      <TrollyNoA>T68554-1</TrollyNoA>
+      <TrollyNoB>T68554-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="68490">
       <ContractorName>शिवले निलेश ज्ञानेश्वर</ContractorName>
       <VehicleNo>MH-12-JN-3610</VehicleNo>
@@ -607,18 +613,6 @@
       <TrollyNoA>T68549-1</TrollyNoA>
       <TrollyNoB>T68549-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68552">
-      <ContractorName>१६-१७ राठोड एम .जी</ContractorName>
-      <VehicleNo>MH-19-AP-5635</VehicleNo>
-      <TrollyNoA>T68552-1</TrollyNoA>
-      <TrollyNoB>T68552-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68554">
-      <ContractorName>१६-१७ राठोड मोतीराम गुलाब</ContractorName>
-      <VehicleNo>MH-19-BG-3929</VehicleNo>
-      <TrollyNoA>T68554-1</TrollyNoA>
-      <TrollyNoB>T68554-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="68556">
       <ContractorName>१६-१७ राठोड रोहिदास धनु</ContractorName>
       <VehicleNo>MH-17-V-8113</VehicleNo>
@@ -786,6 +780,12 @@
       <VehicleNo>MH-42-Y-2187</VehicleNo>
       <TrollyNoA>T68596-1</TrollyNoA>
       <TrollyNoB>T68596-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68552">
+      <ContractorName>१६-१७ राठोड एम .जी</ContractorName>
+      <VehicleNo>MH-19-AP-5635</VehicleNo>
+      <TrollyNoA>T68552-1</TrollyNoA>
+      <TrollyNoB>T68552-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68598">
       <ContractorName>१६-१७ थोरात राजकुमार जनार्धन</ContractorName>
