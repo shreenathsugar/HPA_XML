@@ -416,19 +416,24 @@
   </ContractorCode>
   <ContractorCode Code="71856">
     <ContractorName>जाधव शिवलाल पोमा</ContractorName>
-    <GadiwanCode>1064</GadiwanCode>
-    <GadiwanName>पवार कुंडलिक दुबा</GadiwanName>
-    <TrollyNoA>T1064-1</TrollyNoA>
-    <TrollyNoB>T1064-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1063</GadiwanCode>
     <GadiwanName>चव्हाण शेषराव दुबा</GadiwanName>
     <TrollyNoA>T1063-1</TrollyNoA>
     <TrollyNoB>T1063-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1064</GadiwanCode>
+    <GadiwanName>पवार कुंडलिक दुबा</GadiwanName>
+    <TrollyNoA>T1064-1</TrollyNoA>
+    <TrollyNoB>T1064-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="71857">
     <ContractorName>किर्तने अजिनाथ भगवान</ContractorName>
+    <GadiwanCode>1072</GadiwanCode>
+    <GadiwanName>किर्तने अजिनाथ भगवान</GadiwanName>
+    <TrollyNoA>T1072-1</TrollyNoA>
+    <TrollyNoB>T1072-2</TrollyNoB>
+    <VehicleNo>MH-23-3541</VehicleNo>
     <GadiwanCode>1066</GadiwanCode>
     <GadiwanName>सूळ सोमनाथ बबन</GadiwanName>
     <TrollyNoA>T1066-1</TrollyNoA>
@@ -439,11 +444,11 @@
     <TrollyNoA>T1065-1</TrollyNoA>
     <TrollyNoB>T1065-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
-    <GadiwanCode>1072</GadiwanCode>
-    <GadiwanName>किर्तने अजिनाथ भगवान</GadiwanName>
-    <TrollyNoA>T1072-1</TrollyNoA>
-    <TrollyNoB>T1072-2</TrollyNoB>
-    <VehicleNo>MH-23-3541</VehicleNo>
+    <GadiwanCode>1082</GadiwanCode>
+    <GadiwanName>तांदळे नारयण मसू</GadiwanName>
+    <TrollyNoA>T1082-1</TrollyNoA>
+    <TrollyNoB>T1082-2</TrollyNoB>
+    <VehicleNo>MH-16-AV-6816</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="71864">
     <ContractorName>खरमाटे विष्णु आश्रुबा</ContractorName>
@@ -459,7 +464,7 @@
     <VehicleNo>NEW</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="71900">
-    <ContractorName>राठोड रामेश्वर पुनाजी</ContractorName>
+    <ContractorName>राठोड ज्ञानेश्वर पुनाजी</ContractorName>
     <GadiwanCode>1075</GadiwanCode>
     <GadiwanName>राठोड कृष्णा पुनाजी</GadiwanName>
     <TrollyNoA>T1075-1</TrollyNoA>
