@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="68487">
-      <ContractorName>शिवले अंकुश खंडू</ContractorName>
-      <VehicleNo>MH-14-AV-9226</VehicleNo>
-      <TrollyNoA>T68487-1</TrollyNoA>
-      <TrollyNoB>T68487-2</TrollyNoB>
+    <ContractorCode Code="68592">
+      <ContractorName>१६-१७ वंजारी शिवाजी मदन</ContractorName>
+      <VehicleNo>MH-19-BC-8991</VehicleNo>
+      <TrollyNoA>T68592-1</TrollyNoA>
+      <TrollyNoB>T68592-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68427">
       <ContractorName>आवाळे बंडू वामन</ContractorName>
@@ -54,12 +54,6 @@
       <VehicleNo>MH-42-F-1377</VehicleNo>
       <TrollyNoA>T71532-1</TrollyNoA>
       <TrollyNoB>T71532-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68598">
-      <ContractorName>१६-१७ थोरात राजकुमार जनार्धन</ContractorName>
-      <VehicleNo>MH-42-Q-2764</VehicleNo>
-      <TrollyNoA>T68598-1</TrollyNoA>
-      <TrollyNoB>T68598-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68599">
       <ContractorName>१६-१७ थोरात शहाजी दत्तोबा</ContractorName>
@@ -204,6 +198,12 @@
       <VehicleNo>MH-42-680</VehicleNo>
       <TrollyNoA>T71925-1</TrollyNoA>
       <TrollyNoB>T71925-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="71967">
+      <ContractorName>१६-१७ शेरेकर दिलीप आनंदा</ContractorName>
+      <VehicleNo>MH-42-4506</VehicleNo>
+      <TrollyNoA>T71967-1</TrollyNoA>
+      <TrollyNoB>T71967-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68439">
       <ContractorName>१६-१७ बनकर दौलत किसन</ContractorName>
@@ -352,8 +352,8 @@
     <ContractorCode Code="68436">
       <ContractorName>१६-१७ बीडगर एम. आर</ContractorName>
       <VehicleNo>MH-42-QA-9584</VehicleNo>
-      <TrollyNoA>T68436-1</TrollyNoA>
-      <TrollyNoB>T68436-2</TrollyNoB>
+      <TrollyNoA />
+      <TrollyNoB>N</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68477">
       <ContractorName>पिलाणे गणेश नामदेव</ContractorName>
@@ -403,11 +403,11 @@
       <TrollyNoA>T68484-1</TrollyNoA>
       <TrollyNoB>T68484-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68426">
-      <ContractorName>आवाळे उत्तम वामन</ContractorName>
-      <VehicleNo>MH-42-Y-3330</VehicleNo>
-      <TrollyNoA>T68426-1</TrollyNoA>
-      <TrollyNoB>T68426-2</TrollyNoB>
+    <ContractorCode Code="68487">
+      <ContractorName>शिवले अंकुश खंडू</ContractorName>
+      <VehicleNo>MH-14-AV-9226</VehicleNo>
+      <TrollyNoA>T68487-1</TrollyNoA>
+      <TrollyNoB>T68487-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68488">
       <ContractorName>शिवले बाजीराव शिवाजी</ContractorName>
@@ -931,11 +931,11 @@
       <TrollyNoA>T71558-1</TrollyNoA>
       <TrollyNoB>T71558-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68592">
-      <ContractorName>१६-१७ वंजारी शिवाजी मदन</ContractorName>
-      <VehicleNo>MH-19-BC-8991</VehicleNo>
-      <TrollyNoA>T68592-1</TrollyNoA>
-      <TrollyNoB>T68592-2</TrollyNoB>
+    <ContractorCode Code="68426">
+      <ContractorName>आवाळे उत्तम वामन</ContractorName>
+      <VehicleNo>MH-42-Y-3330</VehicleNo>
+      <TrollyNoA>T68426-1</TrollyNoA>
+      <TrollyNoB>T68426-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68593">
       <ContractorName>१६-१७ थोरात अक्षय सुभाष</ContractorName>
@@ -954,6 +954,12 @@
       <VehicleNo>MH-42-Y-2187</VehicleNo>
       <TrollyNoA>T68596-1</TrollyNoA>
       <TrollyNoB>T68596-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68598">
+      <ContractorName>१६-१७ थोरात राजकुमार जनार्धन</ContractorName>
+      <VehicleNo>MH-42-Q-2764</VehicleNo>
+      <TrollyNoA>T68598-1</TrollyNoA>
+      <TrollyNoB>T68598-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
