@@ -89562,4 +89562,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="115562">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>71979</GrowerCode>
+    <GrowerName>शिंदे संतोष बापु</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>81</VillageCode>
+    <VillageName>राहु</VillageName>
+    <SubVillageCode>274</SubVillageCode>
+    <SubVillageName>राहू(७)</SubVillageName>
+    <serveNo>662</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="115563">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>71979</GrowerCode>
+    <GrowerName>शिंदे संतोष बापु</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>पिलाणवाडी</VillageName>
+    <SubVillageCode>284</SubVillageCode>
+    <SubVillageName>पिलाणवाडी(५)</SubVillageName>
+    <serveNo>304</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="115564">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15966</GrowerCode>
+    <GrowerName>गायकवाड लिलाबाई केरबा</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>81</VillageCode>
+    <VillageName>राहु</VillageName>
+    <SubVillageCode>274</SubVillageCode>
+    <SubVillageName>राहू(७)</SubVillageName>
+    <serveNo>534</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="115565">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>3123</GrowerCode>
+    <GrowerName>देवकर नंदु विठ्ठल</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>82</VillageCode>
+    <VillageName>दहीटणे</VillageName>
+    <SubVillageCode>1655</SubVillageCode>
+    <SubVillageName>दहीटणे(११)</SubVillageName>
+    <serveNo>127</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="115566">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56395</GrowerCode>
+    <GrowerName>शिंदे सविता राजाराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>273</SubVillageCode>
+    <SubVillageName>पाटेठाण(२)</SubVillageName>
+    <serveNo>1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
