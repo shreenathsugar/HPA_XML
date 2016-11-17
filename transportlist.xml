@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="68593">
-      <ContractorName>१६-१७ थोरात अक्षय सुभाष</ContractorName>
-      <VehicleNo>MH-12-JN-3877</VehicleNo>
-      <TrollyNoA>T68593-1</TrollyNoA>
-      <TrollyNoB>T68593-2</TrollyNoB>
+    <ContractorCode Code="68596">
+      <ContractorName>१६-१७ थोरात नंदकुमार दत्तोबा</ContractorName>
+      <VehicleNo>MH-42-Y-2187</VehicleNo>
+      <TrollyNoA>T68596-1</TrollyNoA>
+      <TrollyNoB>T68596-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68427">
       <ContractorName>आवाळे बंडू वामन</ContractorName>
@@ -54,18 +54,6 @@
       <VehicleNo>MH-42-F-1377</VehicleNo>
       <TrollyNoA>T71532-1</TrollyNoA>
       <TrollyNoB>T71532-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68600">
-      <ContractorName>१६-१७ थोरात सुभाष शांताराम</ContractorName>
-      <VehicleNo>MH-12-JN-6055</VehicleNo>
-      <TrollyNoA>T68600-1</TrollyNoA>
-      <TrollyNoB>T68600-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68602">
-      <ContractorName>१६-१७ धायगुडे अलका विठ्ठल</ContractorName>
-      <VehicleNo>MH-42-F-3067</VehicleNo>
-      <TrollyNoA>T68602-1</TrollyNoA>
-      <TrollyNoB>T68602-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68603">
       <ContractorName>१६-१७ धायगुडे विशाल विठ्ठल</ContractorName>
@@ -204,6 +192,18 @@
       <VehicleNo>NEW</VehicleNo>
       <TrollyNoA>T71931-1</TrollyNoA>
       <TrollyNoB>T71931-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68433">
+      <ContractorName>१६-१७ भापकर दत्तात्रय बबन</ContractorName>
+      <VehicleNo>MH-42-Y-4119</VehicleNo>
+      <TrollyNoA>T68433-1</TrollyNoA>
+      <TrollyNoB>T68433-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="72019">
+      <ContractorName>१६-१७ पिसे संतोष मारुती</ContractorName>
+      <VehicleNo>MH-42-1101</VehicleNo>
+      <TrollyNoA>T72019-1</TrollyNoA>
+      <TrollyNoB>T72019-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68439">
       <ContractorName>१६-१७ बनकर दौलत किसन</ContractorName>
@@ -937,11 +937,11 @@
       <TrollyNoA>T68592-1</TrollyNoA>
       <TrollyNoB>T68592-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68426">
-      <ContractorName>आवाळे उत्तम वामन</ContractorName>
-      <VehicleNo>MH-42-Y-3330</VehicleNo>
-      <TrollyNoA>T68426-1</TrollyNoA>
-      <TrollyNoB>T68426-2</TrollyNoB>
+    <ContractorCode Code="68593">
+      <ContractorName>१६-१७ थोरात अक्षय सुभाष</ContractorName>
+      <VehicleNo>MH-12-JN-3877</VehicleNo>
+      <TrollyNoA>T68593-1</TrollyNoA>
+      <TrollyNoB>T68593-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68594">
       <ContractorName>१६-१७ थोरात निळ्कंठ जनार्धन</ContractorName>
@@ -949,11 +949,11 @@
       <TrollyNoA>T68594-1</TrollyNoA>
       <TrollyNoB>T68594-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68596">
-      <ContractorName>१६-१७ थोरात नंदकुमार दत्तोबा</ContractorName>
-      <VehicleNo>MH-42-Y-2187</VehicleNo>
-      <TrollyNoA>T68596-1</TrollyNoA>
-      <TrollyNoB>T68596-2</TrollyNoB>
+    <ContractorCode Code="68426">
+      <ContractorName>आवाळे उत्तम वामन</ContractorName>
+      <VehicleNo>MH-42-Y-3330</VehicleNo>
+      <TrollyNoA>T68426-1</TrollyNoA>
+      <TrollyNoB>T68426-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68598">
       <ContractorName>१६-१७ थोरात राजकुमार जनार्धन</ContractorName>
@@ -966,6 +966,18 @@
       <VehicleNo>MH-42-Q-556</VehicleNo>
       <TrollyNoA>T68599-1</TrollyNoA>
       <TrollyNoB>T68599-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68600">
+      <ContractorName>१६-१७ थोरात सुभाष शांताराम</ContractorName>
+      <VehicleNo>MH-12-JN-6055</VehicleNo>
+      <TrollyNoA>T68600-1</TrollyNoA>
+      <TrollyNoB>T68600-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68602">
+      <ContractorName>१६-१७ धायगुडे अलका विठ्ठल</ContractorName>
+      <VehicleNo>MH-42-F-3067</VehicleNo>
+      <TrollyNoA>T68602-1</TrollyNoA>
+      <TrollyNoB>T68602-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
