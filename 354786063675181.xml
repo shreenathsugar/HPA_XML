@@ -16646,4 +16646,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="115655">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9871</GrowerCode>
+    <GrowerName>गवारे कांतीलाल शंकरराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1791</SubVillageCode>
+    <SubVillageName>विठ्ठलवाडी(१०)(टायर/टा.गा)(विठ्ठलववाडीमार्गे)</SubVillageName>
+    <serveNo>177</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="115656">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7476</GrowerCode>
+    <GrowerName>गवारे आनंदराव शंकरराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1791</SubVillageCode>
+    <SubVillageName>विठ्ठलवाडी(१०)(टायर/टा.गा)(विठ्ठलववाडीमार्गे)</SubVillageName>
+    <serveNo>177</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
