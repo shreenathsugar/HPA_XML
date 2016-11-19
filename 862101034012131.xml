@@ -14676,4 +14676,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="115701">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72047</GrowerCode>
+    <GrowerName>गोते रंगनाथ तात्याबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>175</VillageCode>
+    <VillageName>बिवरी</VillageName>
+    <SubVillageCode>615</SubVillageCode>
+    <SubVillageName>बिवरी(अष्टापूरमार्गे])(२९)</SubVillageName>
+    <serveNo>310</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
