@@ -916,6 +916,9 @@
     <ContractorName>शिरसाट दिनकर भगवान</ContractorName>
     <GadiwanCode>290</GadiwanCode>
     <GadiwanName>नरुटे बाबासाहेब शेषराव</GadiwanName>
+    <ContractorName>शिरसाट दिनकर भगवान</ContractorName>
+    <GadiwanCode>301</GadiwanCode>
+    <GadiwanName>शिरसाट दिपक दिनकर</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="71901">
     <ContractorName>किर्तने महादेव भगवान</ContractorName>
@@ -990,5 +993,10 @@
     <ContractorName>परकड बलभिम धोंडीबा</ContractorName>
     <GadiwanCode>298</GadiwanCode>
     <GadiwanName>परकड केशव सोपान</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="72055">
+    <ContractorName />
+    <GadiwanCode>1090</GadiwanCode>
+    <GadiwanName />
   </ContractorCode>
 </ContractorDetails>
