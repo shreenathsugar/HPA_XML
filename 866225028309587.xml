@@ -18285,4 +18285,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="115740">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42273</GrowerCode>
+    <GrowerName>साठे संतोष गुलाब</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>178</VillageCode>
+    <VillageName>भवरापूर</VillageName>
+    <SubVillageCode>335</SubVillageCode>
+    <SubVillageName>भवरापूर(अष्टापूरमार्गे])(२२)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
