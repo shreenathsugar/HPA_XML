@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <devices>
+  <imeicode imei="869162026923886">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/869162026923886.xml</url>
+    <version>1</version>
+    <rstart>1224222</rstart>
+    <rend>1228100</rend>
+  </imeicode>
   <imeicode imei="352742069470269">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/352742069470269.xml</url>
     <version>1</version>
@@ -245,12 +251,6 @@
     <version>1</version>
     <rstart>1315101</rstart>
     <rend>1317100</rend>
-  </imeicode>
-  <imeicode imei="869162026923886">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/869162026923886.xml</url>
-    <version>1</version>
-    <rstart>1224222</rstart>
-    <rend>1228100</rend>
   </imeicode>
   <imeicode imei="911417455146047">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/911417455146047.xml</url>
