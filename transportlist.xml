@@ -1,11 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="68507">
-      <ContractorName>१६-१७ कोंडे बापू म्हस्कु</ContractorName>
-      <VehicleNo>MH-42-Q-1573</VehicleNo>
-      <TrollyNoA>T68507-1</TrollyNoA>
-      <TrollyNoB>T68507-2</TrollyNoB>
+    <ContractorCode Code="68505">
+      <ContractorName>१६-१७ काळे टी. वाय</ContractorName>
+      <VehicleNo>AP-25-8839</VehicleNo>
+      <TrollyNoA>T68505-1</TrollyNoA>
+      <TrollyNoB>T68505-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="72083">
+      <ContractorName>१६-१७ सुळ संजय बबन</ContractorName>
+      <VehicleNo>MH-42-Y-4559</VehicleNo>
+      <TrollyNoA>T72083-1</TrollyNoA>
+      <TrollyNoB>T72083-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68426">
       <ContractorName>आवाळे उत्तम वामन</ContractorName>
@@ -283,17 +289,17 @@
       <TrollyNoA>T68504-1</TrollyNoA>
       <TrollyNoB>T68504-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68505">
-      <ContractorName>१६-१७ काळे टी. वाय</ContractorName>
-      <VehicleNo>AP-25-8839</VehicleNo>
-      <TrollyNoA>T68505-1</TrollyNoA>
-      <TrollyNoB>T68505-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="72054">
       <ContractorName>१६-१७ सुळ संतोष बबन</ContractorName>
       <VehicleNo>MH-42-Y-4959</VehicleNo>
       <TrollyNoA>T72054-1</TrollyNoA>
       <TrollyNoB>T72054-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68507">
+      <ContractorName>१६-१७ कोंडे बापू म्हस्कु</ContractorName>
+      <VehicleNo>MH-42-Q-1573</VehicleNo>
+      <TrollyNoA>T68507-1</TrollyNoA>
+      <TrollyNoB>T68507-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68508">
       <ContractorName>१६-१७ कोंडे नंदकुमार म्हस्कु</ContractorName>
