@@ -1014,8 +1014,6 @@
     <ContractorCode Code="68438">
       <ContractorName>१६-१७ भंडारी रविंद्र सुर्यकांत</ContractorName>
       <VehicleNo>MH-04-H-6988</VehicleNo>
-      <TrollyNoA />
-      <TrollyNoB>N</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68460">
       <ContractorName>१६-१७ घाडगे राजेंद्र शिवाजी</ContractorName>
@@ -1054,6 +1052,8 @@
     <ContractorCode Code="68809">
       <ContractorName>१६-१७ ताकवणे गोरख महादेव</ContractorName>
       <VehicleNo>MH-42-Y-3011</VehicleNo>
+      <TrollyNoA>T68809-1</TrollyNoA>
+      <TrollyNoB>T68809-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68810">
       <ContractorName>१६-१७ ताकवले मनीषा गोरख</ContractorName>
