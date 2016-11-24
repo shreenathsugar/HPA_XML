@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="Doki">
-    <ContractorCode Code="71708">
-      <ContractorName>१६-१७ ताकवणे रविंद्र गोविंद(राठोड पिंटू दिनकर)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="71813">
       <ContractorName>१६-१७ कापरे सुभाष विलास</ContractorName>
     </ContractorCode>
@@ -13,38 +10,38 @@
     <ContractorCode Code="71837">
       <ContractorName>१६-१७ चितळकर विजय नारायण</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="71634">
-      <ContractorName>१६-१७ झाडगे आर. बी(जाधव देविदास उत्तम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71635">
-      <ContractorName>१६-१७ झाडगे रामदास बापू(जाधव देविदास उत्तम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71840">
-      <ContractorName>१६-१७ शेंडगे धनाजी भगवान</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="71647">
       <ContractorName>१६-१७ कोडलींगे बाजीराव अम</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71692">
       <ContractorName>१६-१७ सातव दत्तात्रय गेनबा(शेख अल्ली रमजू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="12961">
-      <ContractorName>थोरात प्रवीण विठ्ठल</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71880">
-      <ContractorName>१६-१७ नातू रविंद्र बापुराव</ContractorName>
+    <ContractorCode Code="71840">
+      <ContractorName>१६-१७ शेंडगे धनाजी भगवान</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71579">
       <ContractorName>१६-१७ भोसले विश्वास राजाराम(चव्हाण छगन बाबुराव)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="71620">
+      <ContractorName>१६-१७ शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="71695">
       <ContractorName>१६-१७ शेख अलि रमजू</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71880">
+      <ContractorName>१६-१७ नातू रविंद्र बापुराव</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71696">
       <ContractorName>१६-१७ शेख गफुर रमजू</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="71620">
-      <ContractorName>१६-१७ शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
+    <ContractorCode Code="71497">
+      <ContractorName>मापारे रूपेश</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71623">
+      <ContractorName>१६-१७ शिंदे सोमेश्वर दिनकर(मोरे भिमराव भिवसेन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71611">
+      <ContractorName>१६-१७ गर्जे नितीन किसन</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71907">
       <ContractorName>१६-१७ शेलार भाऊसाहेब मारुती</ContractorName>
@@ -52,35 +49,29 @@
     <ContractorCode Code="71910">
       <ContractorName>१६-१७ टुले वैभव भगवान</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="71497">
-      <ContractorName>मापारे रूपेश</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="71719">
       <ContractorName>१६-१७ थोरात अक्षय सुभाष(पावरा छगन भीमा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71623">
-      <ContractorName>१६-१७ शिंदे सोमेश्वर दिनकर(मोरे भिमराव भिवसेन)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71926">
-      <ContractorName>१६-१७ ताकवणे एन.आर(सोनवणे गिरीधर सुखदेव)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71611">
-      <ContractorName>१६-१७ गर्जे नितीन किसन</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71701">
-      <ContractorName>१६-१७  ताकवणे अमोल बाळासाहेब(पठारे वाल्मीक उत्तम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71702">
-      <ContractorName>१६-१७ ताकवणे चंद्रकांत रामराव(गायकवाड बाळू शिवा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71724">
-      <ContractorName>१६-१७ थोरात सुभाष शांताराम(पावरा छगन भिमा)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71591">
       <ContractorName>१६-१७ बटुळे बाबासाहेब दशरथ</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="71701">
+      <ContractorName>१६-१७  ताकवणे अमोल बाळासाहेब(पठारे वाल्मीक उत्तम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71926">
+      <ContractorName>१६-१७ ताकवणे एन.आर(सोनवणे गिरीधर सुखदेव)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71702">
+      <ContractorName>१६-१७ ताकवणे चंद्रकांत रामराव(गायकवाड बाळू शिवा)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="68861">
       <ContractorName>१६-१७ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71724">
+      <ContractorName>१६-१७ थोरात सुभाष शांताराम(पावरा छगन भिमा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71644">
+      <ContractorName>१६-१७ खळदकर बाळासो बाबुराव(चव्हाण विलास सिताराम)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71705">
       <ContractorName>१६-१७ ताकवणे मयूर चंद्रकांत(गायकवाड बाळू शिवा)</ContractorName>
@@ -88,14 +79,20 @@
     <ContractorCode Code="71706">
       <ContractorName>१६-१७ ताकवणे नामदेव रघुनाथ(मोरे जगन्नाथ दामोदर)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="71634">
+      <ContractorName>१६-१७ झाडगे आर. बी(जाधव देविदास उत्तम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71708">
+      <ContractorName>१६-१७ ताकवणे रविंद्र गोविंद(राठोड पिंटू दिनकर)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="72021">
       <ContractorName>१६-१७ भापकर दत्तात्रय बबन</ContractorName>
     </ContractorCode>
     <ContractorCode Code="72022">
       <ContractorName>१६-१७ पिसे संतोष मारुती</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="71644">
-      <ContractorName>१६-१७ खळदकर बाळासो बाबुराव(चव्हाण विलास सिताराम)</ContractorName>
+    <ContractorCode Code="71635">
+      <ContractorName>१६-१७ झाडगे रामदास बापू(जाधव देविदास उत्तम)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="72039">
       <ContractorName>१६-१७ लकडे जनार्धन पांडुरंग</ContractorName>
@@ -109,14 +106,17 @@
     <ContractorCode Code="72053">
       <ContractorName>१६-१७ सुळ संतोष बबन</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="72081">
+      <ContractorName>कदम पांडुरंग तुकाराम</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="72098">
+      <ContractorName>१६-१७ साळुंके सोमनाथ ज्ञानदेव(राठोड पिंटू दिनकर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="12961">
+      <ContractorName>थोरात प्रवीण विठ्ठल</ContractorName>
+    </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="71614">
-      <ContractorName>१६-१७ हाके दिलीप सिताराम</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71615">
-      <ContractorName>१६-१७ भिसे योगेश लक्ष्मणराव(पवार भाईदास जयसिंग)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="71616">
       <ContractorName>१६-१७ पिलाणे गणेश नामदेव(चव्हाण गोकुळ खुबा)</ContractorName>
     </ContractorCode>
@@ -154,10 +154,10 @@
       <ContractorName>१६-१७ शिवले खंडू दामू(राठोड पिंटू दिनकर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71631">
-      <ContractorName>१६-१७ शिवले कैलास किसन(राठोड नेमिचंद ताराचंद)</ContractorName>
+      <ContractorName>१६-१७ शिवले कैलास किसन(राठोड दिलीप ममराज)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71632">
-      <ContractorName>१६-१७ शिवले राजाराम किसन(राठोड दिलीप ममराज)</ContractorName>
+      <ContractorName>१६-१७ शिवले राजाराम किसन(चव्हाण नेमिचंद तारचंद)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71633">
       <ContractorName>१६-१७ विश्वासे जालिंदर मारुती(चव्हाण कल्याण बालू)</ContractorName>
@@ -321,6 +321,9 @@
     <ContractorCode Code="71691">
       <ContractorName>१६-१७ सातव डी.एम(चव्हाण संतोष झब्बू)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="71693">
+      <ContractorName>१६-१७ सातव दत्तात्रय महादेव(चव्हाण संतोष झब्बू)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="71694">
       <ContractorName>१६-१७ सातव मंगल दत्तात्रय(चव्हाण संतोष झब्बू)</ContractorName>
     </ContractorCode>
@@ -468,8 +471,8 @@
     <ContractorCode Code="72023">
       <ContractorName>१६-१७ म्हेत्रे अनिल विठ्ठल</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="71693">
-      <ContractorName>१६-१७ सातव दत्तात्रय महादेव(चव्हाण संतोष झब्बू)</ContractorName>
+    <ContractorCode Code="72100">
+      <ContractorName>१६-१७ हरगुडे विश्वनाथ नामदेव(पवार रमेश उदा)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71498">
       <ContractorName>मापारे रूपेश J</ContractorName>
@@ -575,6 +578,12 @@
     </ContractorCode>
     <ContractorCode Code="71613">
       <ContractorName>१६-१७ गवारे सुदाम चांगदेव(राठोड नामदेव महारू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71614">
+      <ContractorName>१६-१७ हाके दिलीप सिताराम</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71615">
+      <ContractorName>१६-१७ भिसे योगेश लक्ष्मणराव(पवार भाईदास जयसिंग)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
