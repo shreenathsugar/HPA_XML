@@ -18712,4 +18712,43 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="115875">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72094</GrowerCode>
+    <GrowerName>चौधरी वसंत नामदेव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <SubVillageCode>1815</SubVillageCode>
+    <SubVillageName>गोलेगाव(४७) आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>412</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="115880">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69492</GrowerCode>
+    <GrowerName>गायकवाड लता लक्ष्मन</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>191</VillageCode>
+    <VillageName>लोणी काळभोर</VillageName>
+    <SubVillageCode>686</SubVillageCode>
+    <SubVillageName>लोणी काळभोर(४२)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
