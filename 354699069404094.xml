@@ -8552,4 +8552,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="115965">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>66989</GrowerCode>
+    <GrowerName>मखर अनिल दत्तात्रय</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>39</VillageCode>
+    <VillageName>आरणगाव</VillageName>
+    <SubVillageCode>1822</SubVillageCode>
+    <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="115969">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72124</GrowerCode>
+    <GrowerName>होळकर निर्मला अशोक</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>49</VillageCode>
+    <VillageName>साद्लगाव</VillageName>
+    <SubVillageCode>1634</SubVillageCode>
+    <SubVillageName>सादलगाव(३६)पारगावमार्गे</SubVillageName>
+    <serveNo>461</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

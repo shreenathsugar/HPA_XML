@@ -23850,4 +23850,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="115970">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72125</GrowerCode>
+    <GrowerName>थोरात स्वप्नाली शिवाजी</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>119</VillageCode>
+    <VillageName>वाळकी संगम</VillageName>
+    <SubVillageCode>312</SubVillageCode>
+    <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
+    <serveNo>266</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
