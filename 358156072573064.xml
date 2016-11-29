@@ -8667,4 +8667,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116084">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15945</GrowerCode>
+    <GrowerName>भुजबळ अनिल जयवंतराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>46</VillageCode>
+    <VillageName>कुरुळी</VillageName>
+    <SubVillageCode>1631</SubVillageCode>
+    <SubVillageName>कुरुळी(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>166</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
