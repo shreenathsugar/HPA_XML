@@ -15794,4 +15794,43 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116113">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58770</GrowerCode>
+    <GrowerName>गायकवाड गणेश अशोक</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>हिंगणगाव</VillageName>
+    <SubVillageCode>1813</SubVillageCode>
+    <SubVillageName>पाटीलवस्ती (१७) हिंगनगावमार्गे</SubVillageName>
+    <serveNo>226/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116114">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13704</GrowerCode>
+    <GrowerName>धामणे बबनराव भिकाजी</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>155</VillageCode>
+    <VillageName>शिंदेवाडी(हवेली)</VillageName>
+    <SubVillageCode>532</SubVillageCode>
+    <SubVillageName>शिंदेवाडी (१३)हिंगणगाव मार्गे]</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

@@ -13131,4 +13131,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116107">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11581</GrowerCode>
+    <GrowerName>जगताप बाबासो पांडुरंग</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>112</VillageCode>
+    <VillageName>हातवळण</VillageName>
+    <SubVillageCode>1641</SubVillageCode>
+    <SubVillageName>हातवळण(३५)पारगावमार्गे</SubVillageName>
+    <serveNo>1274</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116108">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72168</GrowerCode>
+    <GrowerName>बारवकर गोविंद शिवराम</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>151</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>304</SubVillageCode>
+    <SubVillageName>नानगाव(पारगावमार्गे])(२६)</SubVillageName>
+    <serveNo>947/6</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116109">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30885</GrowerCode>
+    <GrowerName>जगताप बाळसो श्रीरंग</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>112</VillageCode>
+    <VillageName>हातवळण</VillageName>
+    <SubVillageCode>1641</SubVillageCode>
+    <SubVillageName>हातवळण(३५)पारगावमार्गे</SubVillageName>
+    <serveNo>268/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116110">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11234</GrowerCode>
+    <GrowerName>ताकवणे अभिमन्यु आनंदराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>105</VillageCode>
+    <VillageName>पारगाव</VillageName>
+    <SubVillageCode>1639</SubVillageCode>
+    <SubVillageName>पारगाव(२१)देलवडीमार्गे</SubVillageName>
+    <serveNo>1351</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116111">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>18722</GrowerCode>
+    <GrowerName>ताकवणे नंदा दत्तात्रय</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>105</VillageCode>
+    <VillageName>पारगाव</VillageName>
+    <SubVillageCode>1639</SubVillageCode>
+    <SubVillageName>पारगाव(२१)देलवडीमार्गे</SubVillageName>
+    <serveNo>597</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

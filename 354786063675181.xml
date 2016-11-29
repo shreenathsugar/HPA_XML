@@ -17815,4 +17815,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116105">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72167</GrowerCode>
+    <GrowerName>गव्हाणे निलेश रघुनाथ</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <SubVillageCode>1766</SubVillageCode>
+    <SubVillageName>डिंग्रजवाडी(२५)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>79</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116106">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>70527</GrowerCode>
+    <GrowerName>दरेकर अमित मधुकर</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>धानोरे</VillageName>
+    <SubVillageCode>1765</SubVillageCode>
+    <SubVillageName>धानोरे(२१)(विठ्ठलवमार्गे</SubVillageName>
+    <serveNo>208/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
