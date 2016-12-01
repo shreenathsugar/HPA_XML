@@ -13245,4 +13245,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116159">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>66268</GrowerCode>
+    <GrowerName>ताकवणे अदित्य धनंजय</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>105</VillageCode>
+    <VillageName>पारगाव</VillageName>
+    <SubVillageCode>1639</SubVillageCode>
+    <SubVillageName>पारगाव(२१)देलवडीमार्गे</SubVillageName>
+    <serveNo>1530</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
