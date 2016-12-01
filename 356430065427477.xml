@@ -24385,4 +24385,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116160">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6311</GrowerCode>
+    <GrowerName>कदम छाया बबन</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>पिलाणवाडी</VillageName>
+    <SubVillageCode>284</SubVillageCode>
+    <SubVillageName>पिलाणवाडी(५)</SubVillageName>
+    <serveNo>1160</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
