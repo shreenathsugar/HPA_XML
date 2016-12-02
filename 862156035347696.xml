@@ -24613,4 +24613,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116236">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11966</GrowerCode>
+    <GrowerName>तापकीर सुरेश दत्तात्रय</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>519</SubVillageCode>
+    <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+    <serveNo>226</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116238">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72196</GrowerCode>
+    <GrowerName>भंड अंकुश बबन</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>86</VillageCode>
+    <VillageName>पानवली</VillageName>
+    <SubVillageCode>279</SubVillageCode>
+    <SubVillageName>पानवली(१२)</SubVillageName>
+    <serveNo>39</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
