@@ -16206,4 +16206,43 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116247">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59254</GrowerCode>
+    <GrowerName>खुळे हरिभाऊ थामाजी</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>1101</VillageCode>
+    <VillageName>फुलगाव</VillageName>
+    <SubVillageCode>1094</SubVillageCode>
+    <SubVillageName>फुलगाव(३५)आळंदीफाटा मार्गे]</SubVillageName>
+    <serveNo>139</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116248">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54000</GrowerCode>
+    <GrowerName>मोरे राजेंद्र कोंडीबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>83</VillageCode>
+    <VillageName>मिरवडी</VillageName>
+    <SubVillageCode>523</SubVillageCode>
+    <SubVillageName>मिरवडी (राहूरोडमार्गे])(१४)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
