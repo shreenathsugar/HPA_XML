@@ -95281,4 +95281,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116223">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>24965</GrowerCode>
+    <GrowerName>मुलाणी सलीम चांदबाई</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1795</SubVillageCode>
+    <SubVillageName>टाकळी भिमा (१६)(टायर/टा.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>16</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
