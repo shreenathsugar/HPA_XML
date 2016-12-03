@@ -13617,4 +13617,43 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116300">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26993</GrowerCode>
+    <GrowerName>निगडे रंजना मधुकर</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>110</VillageCode>
+    <VillageName>गलांडवाडी</VillageName>
+    <SubVillageCode>540</SubVillageCode>
+    <SubVillageName>गलांडवाडी (खुटबावमार्गे])(२४)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116302">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72219</GrowerCode>
+    <GrowerName>परकाळे सुखदेव सिताराम</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>111</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>1844</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
