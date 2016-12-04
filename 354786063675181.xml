@@ -18570,4 +18570,82 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116331">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72225</GrowerCode>
+    <GrowerName>भाडळे काळूराम दगडू</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>193</VillageCode>
+    <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <SubVillageCode>1808</SubVillageCode>
+    <SubVillageName>निमगाव म्हाळुंगी(19)(विठ्ठलवमार्गे</SubVillageName>
+    <serveNo>881</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116332">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22821</GrowerCode>
+    <GrowerName>सुर्यवंशी सुनिल ज्ञानोबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1379</VillageCode>
+    <VillageName>कासारी</VillageName>
+    <SubVillageCode>1769</SubVillageCode>
+    <SubVillageName>कासारी(२७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>528</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116333">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>66036</GrowerCode>
+    <GrowerName>कोल्हे सुभाष नानाभाऊ</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1788</SubVillageCode>
+    <SubVillageName>केवटेमळा(१३)(टायर/टा.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116334">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59030</GrowerCode>
+    <GrowerName>शिवले गुलाब दामु</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>193</VillageCode>
+    <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <SubVillageCode>1805</SubVillageCode>
+    <SubVillageName>निमगाव म्हाळुंगी(10)(विठ्ठलवमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

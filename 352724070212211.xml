@@ -18305,4 +18305,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116335">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7700</GrowerCode>
+    <GrowerName>कोतवाल रामदास जिजाबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>63</VillageCode>
+    <VillageName>आष्टापूर</VillageName>
+    <SubVillageCode>256</SubVillageCode>
+    <SubVillageName>अष्टापूर(२०)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
