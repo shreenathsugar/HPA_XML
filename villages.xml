@@ -230,6 +230,12 @@
         <SubVillageName>गलांडवाडी(२०)ट्रक्टरगाडी-देलवडीमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="111">
+      <VillageName>नानगाव</VillageName>
+      <SubVillageCode Code="1844">
+        <SubVillageName />
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="112">
       <VillageName>हातवळण</VillageName>
       <SubVillageCode Code="1641">
@@ -270,12 +276,6 @@
       <VillageName>भांडगाव</VillageName>
       <SubVillageCode Code="361">
         <SubVillageName>भांडगाव(२५)</SubVillageName>
-      </SubVillageCode>
-    </VillageCode>
-    <VillageCode Code="151">
-      <VillageName>नानगाव</VillageName>
-      <SubVillageCode Code="304">
-        <SubVillageName>नानगाव(पारगावमार्गे])(२६)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="160">
