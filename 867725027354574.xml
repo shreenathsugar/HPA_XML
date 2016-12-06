@@ -12929,4 +12929,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116432">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72255</GrowerCode>
+    <GrowerName>भोंडवे शंकर शांताराम</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>34</VillageCode>
+    <VillageName>करंदी</VillageName>
+    <SubVillageCode>1744</SubVillageCode>
+    <SubVillageName>करंदी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>868/870</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116433">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72256</GrowerCode>
+    <GrowerName>गोगावले नंदा देवीदास</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>34</VillageCode>
+    <VillageName>करंदी</VillageName>
+    <SubVillageCode>1744</SubVillageCode>
+    <SubVillageName>करंदी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>412</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116434">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72257</GrowerCode>
+    <GrowerName>पवार पंडीत लक्ष्मण</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>34</VillageCode>
+    <VillageName>करंदी</VillageName>
+    <SubVillageCode>1744</SubVillageCode>
+    <SubVillageName>करंदी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>474/475</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
