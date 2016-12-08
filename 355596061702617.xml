@@ -15410,4 +15410,43 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116528">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44191</GrowerCode>
+    <GrowerName>खेडेकर शिवदास ज्ञानोबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <SubVillageCode>288</SubVillageCode>
+    <SubVillageName>खामगांव(१५)</SubVillageName>
+    <serveNo>99</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116529">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>34169</GrowerCode>
+    <GrowerName>शिंदे दिपक दत्तोबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <SubVillageCode>288</SubVillageCode>
+    <SubVillageName>खामगांव(१५)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
