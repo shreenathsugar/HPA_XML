@@ -163,6 +163,12 @@
       <TrollyNoA>T72241-1</TrollyNoA>
       <TrollyNoB>T72241-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="68601">
+      <ContractorName>१६-१७ थोरात वाल्मिक शंकर</ContractorName>
+      <VehicleNo>MH-42-Q-3204</VehicleNo>
+      <TrollyNoA>T68601-1</TrollyNoA>
+      <TrollyNoB>T68601-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="68426">
       <ContractorName>आवाळे उत्तम वामन</ContractorName>
       <VehicleNo>MH-42-Y-3330</VehicleNo>
@@ -1045,13 +1051,13 @@
       <ContractorName>१६-१७ कोळपे भाऊसो  लक्ष्मण</ContractorName>
       <VehicleNo>MH-12-GN-8192</VehicleNo>
     </ContractorCode>
-    <ContractorCode Code="68438">
-      <ContractorName>१६-१७ भंडारी रविंद्र सुर्यकांत</ContractorName>
-      <VehicleNo>MH-04-H-6988</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="68527">
       <ContractorName>१६-१७ मखर संजय अशोक</ContractorName>
       <VehicleNo>MH-14-AH-6001</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68438">
+      <ContractorName>१६-१७ भंडारी रविंद्र सुर्यकांत</ContractorName>
+      <VehicleNo>MH-04-H-6988</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="68590">
       <ContractorName>१६-१७ वाघचौरे राजेंद्र आनंदराव</ContractorName>
@@ -1071,6 +1077,12 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
+    <ContractorCode Code="68802">
+      <ContractorName>१६-१७ कुरुमकर महेंद्र  नामदेव</ContractorName>
+      <VehicleNo>MH-16-AM-5232</VehicleNo>
+      <TrollyNoA>T68802-1</TrollyNoA>
+      <TrollyNoB>T68802-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="68806">
       <ContractorName>१६-१७ रणपिसे महादेव किसान</ContractorName>
       <VehicleNo>MH-12-GN-9126</VehicleNo>
@@ -1160,12 +1172,6 @@
       <VehicleNo>MH-23-T-732</VehicleNo>
       <TrollyNoA>T68798-1</TrollyNoA>
       <TrollyNoB>T68798-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68802">
-      <ContractorName>१६-१७ कुरुमकर महेंद्र  नामदेव</ContractorName>
-      <VehicleNo>MH-16-AM-5232</VehicleNo>
-      <TrollyNoA>T68802-1</TrollyNoA>
-      <TrollyNoB>T68802-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
