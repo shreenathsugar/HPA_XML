@@ -36370,4 +36370,44 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116591">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69842</GrowerCode>
+    <GrowerName>गवारे अविनाश दादासाहेब</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1792</SubVillageCode>
+    <SubVillageName>मिरगव्हाण(९)(टायर/टा.गा)(विठ्ठलववाडीमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116595">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72297</GrowerCode>
+    <GrowerName>विधाटे सोमनाथ लहू</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>193</VillageCode>
+    <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <SubVillageCode>1808</SubVillageCode>
+    <SubVillageName>निमगाव म्हाळुंगी(19)(विठ्ठलवमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
