@@ -19295,4 +19295,43 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116634">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4553</GrowerCode>
+    <GrowerName>ढेरंगे शिवाजी बापुराव </GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1096</VillageCode>
+    <VillageName>कोरेगाव भिमा</VillageName>
+    <SubVillageCode>1754</SubVillageCode>
+    <SubVillageName>कोरेगाव भिमा (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116635">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72307</GrowerCode>
+    <GrowerName>भंडारे दशरथ नामदेव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1756</SubVillageCode>
+    <SubVillageName>रानोबाचीवाडी (३४) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>1102</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
