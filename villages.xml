@@ -779,6 +779,12 @@
         <SubVillageName>पिपंळगाव फडके(४५) मरकळमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1845">
+      <VillageName>वीर</VillageName>
+      <SubVillageCode Code="1846">
+        <SubVillageName>वीर</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="19">
     <GatName>खामगाव</GatName>
