@@ -28324,4 +28324,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116770">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41665</GrowerCode>
+    <GrowerName>भंडारे संभाजी शिवाजी</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>30</VillageCode>
+    <VillageName>आपटी</VillageName>
+    <SubVillageCode>1753</SubVillageCode>
+    <SubVillageName>आपटी (३५) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>219</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116771">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72339</GrowerCode>
+    <GrowerName>वाघ किसन गणपत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1845</VillageCode>
+    <VillageName>--</VillageName>
+    <SubVillageCode>1846</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>1664</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

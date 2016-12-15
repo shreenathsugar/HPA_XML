@@ -37010,4 +37010,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116769">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55095</GrowerCode>
+    <GrowerName>झगडे स्वप्नील कैलास</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>धानोरे</VillageName>
+    <SubVillageCode>1765</SubVillageCode>
+    <SubVillageName>धानोरे(२१)(विठ्ठलवमार्गे</SubVillageName>
+    <serveNo>424</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
