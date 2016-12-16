@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="71550">
-      <ContractorName>१६-१७  नवले सुनिल श्रीपती</ContractorName>
-      <VehicleNo>MH-12-HD-947</VehicleNo>
-      <TrollyNoA>T71550-1</TrollyNoA>
-      <TrollyNoB>T71550-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="71558">
-      <ContractorName>१६-१७ श्रीराम बी.एम</ContractorName>
-      <VehicleNo>MH-12-EB-3201</VehicleNo>
-      <TrollyNoA>T71558-1</TrollyNoA>
-      <TrollyNoB>T71558-2</TrollyNoB>
+    <ContractorCode Code="71551">
+      <ContractorName>१६-१७ पवार विकास तुकाराम</ContractorName>
+      <VehicleNo>MH-42-Y-4473</VehicleNo>
+      <TrollyNoA>T71551-1</TrollyNoA>
+      <TrollyNoB>T71551-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="71820">
       <ContractorName>१६-१७ थोरात आबा मारुती</ContractorName>
@@ -1003,11 +997,11 @@
       <TrollyNoA>T71549-1</TrollyNoA>
       <TrollyNoB>T71549-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="71551">
-      <ContractorName>१६-१७ पवार विकास तुकाराम</ContractorName>
-      <VehicleNo>MH-42-Y-4473</VehicleNo>
-      <TrollyNoA>T71551-1</TrollyNoA>
-      <TrollyNoB>T71551-2</TrollyNoB>
+    <ContractorCode Code="71550">
+      <ContractorName>१६-१७  नवले सुनिल श्रीपती</ContractorName>
+      <VehicleNo>MH-12-HD-947</VehicleNo>
+      <TrollyNoA>T71550-1</TrollyNoA>
+      <TrollyNoB>T71550-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="71552">
       <ContractorName>१६-१७ सोनवणे विजय नरसिंग</ContractorName>
@@ -1044,6 +1038,12 @@
       <VehicleNo>MH-42-Q-295</VehicleNo>
       <TrollyNoA>T71557-1</TrollyNoA>
       <TrollyNoB>T71557-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="71558">
+      <ContractorName>१६-१७ श्रीराम बी.एम</ContractorName>
+      <VehicleNo>MH-12-EB-3201</VehicleNo>
+      <TrollyNoA>T71558-1</TrollyNoA>
+      <TrollyNoB>T71558-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
@@ -1177,17 +1177,17 @@
       <TrollyNoA>T68808-1</TrollyNoA>
       <TrollyNoB>T68808-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68812">
-      <ContractorName>१६-१७ ताकवणे संकेत जनार्धन</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T68812-1</TrollyNoA>
-      <TrollyNoB>T68812-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="68809">
       <ContractorName>१६-१७ ताकवणे गोरख महादेव</ContractorName>
       <VehicleNo>MH-42-Y-3011</VehicleNo>
       <TrollyNoA>T68809-1</TrollyNoA>
       <TrollyNoB>T68809-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68812">
+      <ContractorName>१६-१७ ताकवणे संकेत जनार्धन</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T68812-1</TrollyNoA>
+      <TrollyNoB>T68812-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
