@@ -8855,4 +8855,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116790">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72352</GrowerCode>
+    <GrowerName>वाघ गोपाळ श्रीपती</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1845</VillageCode>
+    <VillageName>वीर</VillageName>
+    <SubVillageCode>1846</SubVillageCode>
+    <SubVillageName>वीर(०)</SubVillageName>
+    <serveNo>1641</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
