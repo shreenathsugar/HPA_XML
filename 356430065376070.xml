@@ -45240,4 +45240,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116803">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72357</GrowerCode>
+    <GrowerName>मेमाणे अरुण विठ्ठल</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>87</VillageCode>
+    <VillageName>वडगाव बांडे</VillageName>
+    <SubVillageCode>1659</SubVillageCode>
+    <SubVillageName>वडगाव बांडे(६)</SubVillageName>
+    <serveNo>326</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116804">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72358</GrowerCode>
+    <GrowerName>विश्वासे प्रतिमा हिरामण</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>86</VillageCode>
+    <VillageName>पानवली</VillageName>
+    <SubVillageCode>1658</SubVillageCode>
+    <SubVillageName>कांबळेनगर(१५)</SubVillageName>
+    <serveNo>123</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116805">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40021</GrowerCode>
+    <GrowerName>वडघुले संदिप दत्तात्रय</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>85</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>278</SubVillageCode>
+    <SubVillageName>टाकळी भिमा(६)</SubVillageName>
+    <serveNo>210</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
