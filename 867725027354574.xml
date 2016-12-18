@@ -28716,4 +28716,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116893">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72436</GrowerCode>
+    <GrowerName>चोधरी दिलीप सोपान</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <SubVillageCode>1815</SubVillageCode>
+    <SubVillageName>गोलेगाव(४७) आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>242</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116897">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72437</GrowerCode>
+    <GrowerName>चोधरी अशोक राजाराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <SubVillageCode>1815</SubVillageCode>
+    <SubVillageName>गोलेगाव(४७) आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>451</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
