@@ -19932,4 +19932,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="116988">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72446</GrowerCode>
+    <GrowerName>गोगावले राजेंद्र किसन</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1087</VillageCode>
+    <VillageName>कोंढापुरी</VillageName>
+    <SubVillageCode>1743</SubVillageCode>
+    <SubVillageName>कोंढापुरी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>107</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116989">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72447</GrowerCode>
+    <GrowerName>गोगावले विजय किसन</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1087</VillageCode>
+    <VillageName>कोंढापुरी</VillageName>
+    <SubVillageCode>1743</SubVillageCode>
+    <SubVillageName>कोंढापुरी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>108</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="116990">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21777</GrowerCode>
+    <GrowerName>घाडगे सुभाष रामराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1087</VillageCode>
+    <VillageName>कोंढापुरी</VillageName>
+    <SubVillageCode>1743</SubVillageCode>
+    <SubVillageName>कोंढापुरी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>835</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
