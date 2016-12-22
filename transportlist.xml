@@ -7,6 +7,18 @@
       <TrollyNoA>T71552-1</TrollyNoA>
       <TrollyNoB>T71552-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="71556">
+      <ContractorName>१६-१७ ताकवणे मयूर चंद्रकांत</ContractorName>
+      <VehicleNo>MH-42-Y-3684</VehicleNo>
+      <TrollyNoA>T71556-1</TrollyNoA>
+      <TrollyNoB>T71556-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="71557">
+      <ContractorName>१६-१७ ताकवणे रविंद्र गोविंद</ContractorName>
+      <VehicleNo>MH-42-Q-295</VehicleNo>
+      <TrollyNoA>T71557-1</TrollyNoA>
+      <TrollyNoB>T71557-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="71558">
       <ContractorName>१६-१७ श्रीराम बी.एम</ContractorName>
       <VehicleNo>MH-12-EB-3201</VehicleNo>
@@ -174,12 +186,6 @@
       <VehicleNo>MH-19-8570</VehicleNo>
       <TrollyNoA>T72323-1</TrollyNoA>
       <TrollyNoB>T72323-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="72486">
-      <ContractorName>१६-१७ राठोड मदन महादू</ContractorName>
-      <VehicleNo>MH-19-Z-1288</VehicleNo>
-      <TrollyNoA>T72486-1</TrollyNoA>
-      <TrollyNoB>T72486-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68426">
       <ContractorName>आवाळे उत्तम वामन</ContractorName>
@@ -1039,24 +1045,8 @@
       <TrollyNoA>T71555-1</TrollyNoA>
       <TrollyNoB>T71555-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="71556">
-      <ContractorName>१६-१७ ताकवणे मयूर चंद्रकांत</ContractorName>
-      <VehicleNo>MH-42-Y-3684</VehicleNo>
-      <TrollyNoA>T71556-1</TrollyNoA>
-      <TrollyNoB>T71556-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="71557">
-      <ContractorName>१६-१७ ताकवणे रविंद्र गोविंद</ContractorName>
-      <VehicleNo>MH-42-Q-295</VehicleNo>
-      <TrollyNoA>T71557-1</TrollyNoA>
-      <TrollyNoB>T71557-2</TrollyNoB>
-    </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
-    <ContractorCode Code="68438">
-      <ContractorName>१६-१७ भंडारी रविंद्र सुर्यकांत</ContractorName>
-      <VehicleNo>MH-04-H-6988</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="68591">
       <ContractorName>१६-१७ श्रीराम बाळासो मारुती</ContractorName>
       <VehicleNo>MH-12-CT-6438</VehicleNo>
@@ -1093,6 +1083,14 @@
       <ContractorName>१६-१७ कोळपे भाऊसो  लक्ष्मण</ContractorName>
       <VehicleNo>MH-12-GN-8192</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="72486">
+      <ContractorName>१६-१७ राठोड मदन महादू</ContractorName>
+      <VehicleNo>MH-19-Z-1288</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68438">
+      <ContractorName>१६-१७ भंडारी रविंद्र सुर्यकांत</ContractorName>
+      <VehicleNo>MH-04-H-6988</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="68527">
       <ContractorName>१६-१७ मखर संजय अशोक</ContractorName>
       <VehicleNo>MH-14-AH-6001</VehicleNo>
@@ -1107,6 +1105,42 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
+    <ContractorCode Code="68791">
+      <ContractorName>१६-१७  बन उमेश आत्माराम</ContractorName>
+      <VehicleNo>MH-42-A-7072</VehicleNo>
+      <TrollyNoA>T68791-1</TrollyNoA>
+      <TrollyNoB>T68791-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68794">
+      <ContractorName>१६-१७  घाडगे शिवाजी रघुनाथ</ContractorName>
+      <VehicleNo>MH-42-Y-1356</VehicleNo>
+      <TrollyNoA>T68794-1</TrollyNoA>
+      <TrollyNoB>T68794-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68795">
+      <ContractorName>१६-१७  काळभोर अमोल कुंडलिक</ContractorName>
+      <VehicleNo>MH-12-EB-4891</VehicleNo>
+      <TrollyNoA>T68795-1</TrollyNoA>
+      <TrollyNoB>T68795-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68796">
+      <ContractorName>१६-१७ काळभोर गणेश कुंडलिक</ContractorName>
+      <VehicleNo>MH-13-J-7187</VehicleNo>
+      <TrollyNoA>T68796-1</TrollyNoA>
+      <TrollyNoB>T68796-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68797">
+      <ContractorName>१६-१७ काळभोर संदीप कुंडलिक</ContractorName>
+      <VehicleNo>MH-12-BB-8445</VehicleNo>
+      <TrollyNoA>T68797-1</TrollyNoA>
+      <TrollyNoB>T68797-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68798">
+      <ContractorName>१६-१७ काळे तुकाराम योगाजी</ContractorName>
+      <VehicleNo>MH-23-T-732</VehicleNo>
+      <TrollyNoA>T68798-1</TrollyNoA>
+      <TrollyNoB>T68798-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="68802">
       <ContractorName>१६-१७ कुरुमकर महेंद्र  नामदेव</ContractorName>
       <VehicleNo>MH-16-AM-5232</VehicleNo>
@@ -1166,42 +1200,6 @@
       <VehicleNo>MH-12-AH-3502</VehicleNo>
       <TrollyNoA>T68817-12</TrollyNoA>
       <TrollyNoB>T68817-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68791">
-      <ContractorName>१६-१७  बन उमेश आत्माराम</ContractorName>
-      <VehicleNo>MH-42-A-7072</VehicleNo>
-      <TrollyNoA>T68791-1</TrollyNoA>
-      <TrollyNoB>T68791-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68794">
-      <ContractorName>१६-१७  घाडगे शिवाजी रघुनाथ</ContractorName>
-      <VehicleNo>MH-42-Y-1356</VehicleNo>
-      <TrollyNoA>T68794-1</TrollyNoA>
-      <TrollyNoB>T68794-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68795">
-      <ContractorName>१६-१७  काळभोर अमोल कुंडलिक</ContractorName>
-      <VehicleNo>MH-12-EB-4891</VehicleNo>
-      <TrollyNoA>T68795-1</TrollyNoA>
-      <TrollyNoB>T68795-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68796">
-      <ContractorName>१६-१७ काळभोर गणेश कुंडलिक</ContractorName>
-      <VehicleNo>MH-13-J-7187</VehicleNo>
-      <TrollyNoA>T68796-1</TrollyNoA>
-      <TrollyNoB>T68796-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68797">
-      <ContractorName>१६-१७ काळभोर संदीप कुंडलिक</ContractorName>
-      <VehicleNo>MH-12-BB-8445</VehicleNo>
-      <TrollyNoA>T68797-1</TrollyNoA>
-      <TrollyNoB>T68797-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68798">
-      <ContractorName>१६-१७ काळे तुकाराम योगाजी</ContractorName>
-      <VehicleNo>MH-23-T-732</VehicleNo>
-      <TrollyNoA>T68798-1</TrollyNoA>
-      <TrollyNoB>T68798-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
