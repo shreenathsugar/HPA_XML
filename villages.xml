@@ -785,6 +785,12 @@
         <SubVillageName>वीर(०)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1847">
+      <VillageName>मांडकी</VillageName>
+      <SubVillageCode Code="1848">
+        <SubVillageName>मांडकी</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="19">
     <GatName>खामगाव</GatName>
