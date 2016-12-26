@@ -1,14 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="72554">
-      <ContractorName>१६-१७ हिरे पंढरीनाथ एकनाथ</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71720">
-      <ContractorName>१६-१७ थोरात निळ्कंठ जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71721">
-      <ContractorName>१६-१७ थोरात नंदकुमार दत्तोबा(राठोड विजय कुर्‍हा)</ContractorName>
+    <ContractorCode Code="72564">
+      <ContractorName>१६-१७ हजारे हरीभाऊ रंगनाथ</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71722">
       <ContractorName>१६-१७ थोरात राजकुमार जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
@@ -126,6 +120,12 @@
     </ContractorCode>
     <ContractorCode Code="72515">
       <ContractorName>१६-१७ जाधव शामराव लक्ष्मण</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="72554">
+      <ContractorName>१६-१७ हिरे पंढरीनाथ एकनाथ</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="72560">
+      <ContractorName>१६-१७ चव्हाण तुकाराम तुळशिराम</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71498">
       <ContractorName>मापारे रूपेश J</ContractorName>
@@ -498,6 +498,12 @@
     </ContractorCode>
     <ContractorCode Code="71718">
       <ContractorName>१६-१७ वंजारी शिवाजी मदन</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71720">
+      <ContractorName>१६-१७ थोरात निळ्कंठ जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71721">
+      <ContractorName>१६-१७ थोरात नंदकुमार दत्तोबा(राठोड विजय कुर्‍हा)</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="डोकी सेंटर">
