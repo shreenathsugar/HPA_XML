@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="72515">
-      <ContractorName>१६-१७ जाधव शामराव लक्ष्मण</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="71718">
-      <ContractorName>१६-१७ वंजारी शिवाजी मदन</ContractorName>
+    <ContractorCode Code="72554">
+      <ContractorName>१६-१७ हिरे पंढरीनाथ एकनाथ</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71720">
       <ContractorName>१६-१७ थोरात निळ्कंठ जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
@@ -126,6 +123,9 @@
     </ContractorCode>
     <ContractorCode Code="72487">
       <ContractorName>१६-१७ राठोड मदन महादु</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="72515">
+      <ContractorName>१६-१७ जाधव शामराव लक्ष्मण</ContractorName>
     </ContractorCode>
     <ContractorCode Code="71498">
       <ContractorName>मापारे रूपेश J</ContractorName>
@@ -495,6 +495,9 @@
     </ContractorCode>
     <ContractorCode Code="71717">
       <ContractorName>१६-१७ श्रीराम बी.एम(जाधव रविंद्र थावरू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="71718">
+      <ContractorName>१६-१७ वंजारी शिवाजी मदन</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="डोकी सेंटर">
