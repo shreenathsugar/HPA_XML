@@ -9672,4 +9672,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="117334">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72607</GrowerCode>
+    <GrowerName>म्हेत्रे लक्ष्मण खंडू</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1849</VillageCode>
+    <VillageName>लपतडवाडी</VillageName>
+    <SubVillageCode>1850</SubVillageCode>
+    <SubVillageName>लपतडवाडी(०)</SubVillageName>
+    <serveNo>1431</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

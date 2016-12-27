@@ -791,6 +791,12 @@
         <SubVillageName>मांडकी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1849">
+      <VillageName>लपतडवाडी</VillageName>
+      <SubVillageCode Code="1850">
+        <SubVillageName>लपतडवाडी(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="19">
     <GatName>खामगाव</GatName>
