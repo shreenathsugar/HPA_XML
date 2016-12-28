@@ -782,19 +782,25 @@
     <VillageCode Code="1845">
       <VillageName>वीर</VillageName>
       <SubVillageCode Code="1846">
-        <SubVillageName>वीर(०)</SubVillageName>
+        <SubVillageName>वीर(११५)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1847">
       <VillageName>मांडकी</VillageName>
       <SubVillageCode Code="1848">
-        <SubVillageName>मांडकी</SubVillageName>
+        <SubVillageName>मांडकी(१०५)</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1849">
       <VillageName>लपतडवाडी</VillageName>
       <SubVillageCode Code="1850">
-        <SubVillageName>लपतडवाडी(०)</SubVillageName>
+        <SubVillageName>लपतडवाडी(११०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="1851">
+      <VillageName>परिचे</VillageName>
+      <SubVillageCode Code="1852">
+        <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
   </GatCode>
