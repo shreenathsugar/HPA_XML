@@ -21083,4 +21083,44 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="117421">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>43825</GrowerCode>
+    <GrowerName>रणसिंग आनंद धोंडीबा</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1087</VillageCode>
+    <VillageName>कोंढापुरी</VillageName>
+    <SubVillageCode>1743</SubVillageCode>
+    <SubVillageName>कोंढापुरी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117422">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22308</GrowerCode>
+    <GrowerName>राऊत निवृत्ती धर्माजी</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1740</SubVillageCode>
+    <SubVillageName>राऊतवाडी (२७) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
