@@ -31455,4 +31455,81 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="117492">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36747</GrowerCode>
+    <GrowerName>शिवले नाथु कृष्णाजी</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1752</SubVillageCode>
+    <SubVillageName>वढू बु (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>111</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117493">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>63159</GrowerCode>
+    <GrowerName>भंडारे गणेश विठ्ठल</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>30</VillageCode>
+    <VillageName>आपटी</VillageName>
+    <SubVillageCode>1753</SubVillageCode>
+    <SubVillageName>आपटी (३५) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>105</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117494">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26697</GrowerCode>
+    <GrowerName>भंडारे बबन नामदेव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1752</SubVillageCode>
+    <SubVillageName>वढू बु (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>109</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117498">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21813</GrowerCode>
+    <GrowerName>भोर बाळासो दत्तोबा</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1089</VillageCode>
+    <VillageName>वाजेवाडी</VillageName>
+    <SubVillageCode>1750</SubVillageCode>
+    <SubVillageName>वाजेवाडी (३६) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
