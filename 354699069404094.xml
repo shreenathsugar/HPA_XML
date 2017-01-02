@@ -13557,4 +13557,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="117568">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64555</GrowerCode>
+    <GrowerName>सिन्नरकर रंजना बाबुराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1539</VillageCode>
+    <VillageName>आंबळे</VillageName>
+    <SubVillageCode>1638</SubVillageCode>
+    <SubVillageName>आंबळेo(४०)पारगावमार्गे</SubVillageName>
+    <serveNo>995</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117569">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51787</GrowerCode>
+    <GrowerName>भुमकर शिवाजी शंकर</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>203</VillageCode>
+    <VillageName>निर्वी</VillageName>
+    <SubVillageCode>725</SubVillageCode>
+    <SubVillageName>निर्वी(पारगावमार्गे])(३८)</SubVillageName>
+    <serveNo>221</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
