@@ -39382,4 +39382,44 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="117600">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>38281</GrowerCode>
+    <GrowerName>भुमकर मारुती रामचंद्र</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>193</VillageCode>
+    <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <SubVillageCode>1772</SubVillageCode>
+    <SubVillageName>निमगाव म्हाळुंगी(31)(विठ्ठलवमार्गे</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117601">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72734</GrowerCode>
+    <GrowerName>खेडकर बाजीराव सखाराम</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>रांजणगाव गणपती</VillageName>
+    <SubVillageCode>1810</SubVillageCode>
+    <SubVillageName>रांजनगाव गणपती(30)(विठ्ठलवमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
