@@ -22169,4 +22169,24 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="117709">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49169</GrowerCode>
+    <GrowerName>पठारे ज्ञानेश्वर कैलास</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1089</VillageCode>
+    <VillageName>वाजेवाडी</VillageName>
+    <SubVillageCode>1750</SubVillageCode>
+    <SubVillageName>वाजेवाडी (३६) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>
+    </serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
