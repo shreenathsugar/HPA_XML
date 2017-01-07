@@ -33211,4 +33211,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="117933">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72804</GrowerCode>
+    <GrowerName>गाडेकर रामचंद्र सोमजी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1849</VillageCode>
+    <VillageName>लपतडवाडी</VillageName>
+    <SubVillageCode>1850</SubVillageCode>
+    <SubVillageName>लपतडवाडी(११०)</SubVillageName>
+    <serveNo>2100</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117934">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72805</GrowerCode>
+    <GrowerName>धुमाळ विनोद शिवाजी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1845</VillageCode>
+    <VillageName>वीर</VillageName>
+    <SubVillageCode>1846</SubVillageCode>
+    <SubVillageName>वीर(११५)</SubVillageName>
+    <serveNo>245</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117935">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72806</GrowerCode>
+    <GrowerName>वचकल समीर रामदास</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1845</VillageCode>
+    <VillageName>वीर</VillageName>
+    <SubVillageCode>1846</SubVillageCode>
+    <SubVillageName>वीर(११५)</SubVillageName>
+    <serveNo>1063</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="117936">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72807</GrowerCode>
+    <GrowerName>कदम नितीन बाजीराव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1849</VillageCode>
+    <VillageName>लपतडवाडी</VillageName>
+    <SubVillageCode>1850</SubVillageCode>
+    <SubVillageName>लपतडवाडी(११०)</SubVillageName>
+    <serveNo>1063</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
