@@ -1,8 +1,324 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
+  <ContractorCode Code="12452">
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>94</GadiwanCode>
+    <GadiwanName>राठोड अरुण नरसिंग</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>95</GadiwanCode>
+    <GadiwanName>राठोड संतोष सरीचंद\</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>96</GadiwanCode>
+    <GadiwanName>राठोड दत्तू श्रावण</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="12458">
+    <ContractorName>ढाकणे पांडुरंग नाथा</ContractorName>
+    <GadiwanCode>83</GadiwanCode>
+    <GadiwanName>ढाकणे नामदेव कचरू</GadiwanName>
+    <ContractorName>ढाकणे पांडुरंग नाथा</ContractorName>
+    <GadiwanCode>84</GadiwanCode>
+    <GadiwanName>ढाकणे सहदेव बाबाजी </GadiwanName>
+    <ContractorName>ढाकणे पांडुरंग नाथा</ContractorName>
+    <GadiwanCode>85</GadiwanCode>
+    <GadiwanName>ढाकणे विनायक घमाजी</GadiwanName>
+    <ContractorName>ढाकणे पांडुरंग नाथा</ContractorName>
+    <GadiwanCode>86</GadiwanCode>
+    <GadiwanName>खेडेकर आण्णा बाबासाहेब</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="35389">
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>87</GadiwanCode>
+    <GadiwanName>राठोड चंदू काळू</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>88</GadiwanCode>
+    <GadiwanName>राठोड नंदू काळू</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>89</GadiwanCode>
+    <GadiwanName>चव्हाण साहेबराव गुलाब</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>90</GadiwanCode>
+    <GadiwanName>राठोड रंगनाथ हंसराज</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>91</GadiwanCode>
+    <GadiwanName>जाधव मधुकर फकिरा</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>92</GadiwanCode>
+    <GadiwanName>जाधव दिलीप गबरू</GadiwanName>
+    <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
+    <GadiwanCode>93</GadiwanCode>
+    <GadiwanName>जाधव मच्छीन्द्र फकिरा</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="52548">
+    <ContractorName>निकुंभ शिवाजी पोपट</ContractorName>
+    <GadiwanCode>81</GadiwanCode>
+    <GadiwanName>राठोड वाल्मिक कनिराम</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="53038">
+    <ContractorName>पवार बाबूलाल जालम</ContractorName>
+    <GadiwanCode>82</GadiwanCode>
+    <GadiwanName>राठोड दादा धना</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="53045">
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>37</GadiwanCode>
+    <GadiwanName>पवार विनोद धर्मा</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>38</GadiwanCode>
+    <GadiwanName>पवार सखाराम धर्मा</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>38</GadiwanCode>
+    <GadiwanName>पवार सखाराम धर्मा</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>39</GadiwanCode>
+    <GadiwanName>राठोड वाडीलाल किसन </GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>40</GadiwanCode>
+    <GadiwanName>पवार संतोष नातू</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>41</GadiwanCode>
+    <GadiwanName>पवार दामू त्रिंबक</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>42</GadiwanCode>
+    <GadiwanName>पवार मोहन लिंबा</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>43</GadiwanCode>
+    <GadiwanName>पवार सुनिल संतोष</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>44</GadiwanCode>
+    <GadiwanName>पवार भाईदास धर्मा</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>45</GadiwanCode>
+    <GadiwanName>राठोड शामराव जानु</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>46</GadiwanCode>
+    <GadiwanName>चव्हाण संजय मानसिंग</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>47</GadiwanCode>
+    <GadiwanName>चव्हाण राहुल संजय </GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>48</GadiwanCode>
+    <GadiwanName>चव्हाण रामेश्वर गणपत</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>49</GadiwanCode>
+    <GadiwanName>पवार सुनिल अनिल</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>50</GadiwanCode>
+    <GadiwanName>पवार अनिल भारमल</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>51</GadiwanCode>
+    <GadiwanName>पवार धोंडू तोताराम</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>52</GadiwanCode>
+    <GadiwanName>पवार बळीराम नातू</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>53</GadiwanCode>
+    <GadiwanName>पवार उदल पितांबर</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>54</GadiwanCode>
+    <GadiwanName>पवार दिलीप बद्री</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>55</GadiwanCode>
+    <GadiwanName>पवार पिंटू उत्तम</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>56</GadiwanCode>
+    <GadiwanName>पवार सुनिल उत्तम </GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>57</GadiwanCode>
+    <GadiwanName>पवार अर्जुन विकास</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>58</GadiwanCode>
+    <GadiwanName>जाधव अनिल मोतिराम</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>59</GadiwanCode>
+    <GadiwanName>राठोड विठ्ठल भाऊ</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>60</GadiwanCode>
+    <GadiwanName>राठोड विष्णू विठ्ठल</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>61</GadiwanCode>
+    <GadiwanName>जाधव छोटू भाऊसिंग</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>62</GadiwanCode>
+    <GadiwanName>जाधव सुरेश मोरसिंग</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>63</GadiwanCode>
+    <GadiwanName>चव्हाण महेंद्र विठ्ठल</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>64</GadiwanCode>
+    <GadiwanName>जाधव रविंद्र भाऊसिंग</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>65</GadiwanCode>
+    <GadiwanName>जाधव विष्णू भुरा </GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>66</GadiwanCode>
+    <GadiwanName>पवार ईश्वर सुरेश</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>67</GadiwanCode>
+    <GadiwanName>राठोड किसन लाला</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>68</GadiwanCode>
+    <GadiwanName>राठोड कांतिलाल किसन</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>69</GadiwanCode>
+    <GadiwanName>राठोड तुकाराम लाला </GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>70</GadiwanCode>
+    <GadiwanName>पवार ज्ञानेश्वर रघुनाथ</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>71</GadiwanCode>
+    <GadiwanName>पवार सुभाष एकनाथ</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>72</GadiwanCode>
+    <GadiwanName>जाधव शिवराम मोरसिंग</GadiwanName>
+    <ContractorName>जाधव धारासिंग ममराज</ContractorName>
+    <GadiwanCode>73</GadiwanCode>
+    <GadiwanName>पवार लालचंद उत्तम </GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="57717">
+    <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
+    <GadiwanCode>79</GadiwanCode>
+    <GadiwanName>राठोड रमेश पेलाद </GadiwanName>
+    <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
+    <GadiwanCode>80</GadiwanCode>
+    <GadiwanName>राठोड प्रकाश पेलाद </GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="57744">
     <ContractorName>पवार ओंकार बाबू</ContractorName>
     <GadiwanCode>1</GadiwanCode>
     <GadiwanName>पवार गोकुळ गुलाब</GadiwanName>
+    <ContractorName>पवार ओंकार बाबू</ContractorName>
+    <GadiwanCode>2</GadiwanCode>
+    <GadiwanName>चव्हाण गोकुळ मोतीराम</GadiwanName>
+    <ContractorName>पवार ओंकार बाबू</ContractorName>
+    <GadiwanCode>3</GadiwanCode>
+    <GadiwanName>चव्हाण दादा मोतीराम</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="69198">
+    <ContractorName>श्री.जनसेवा प्रतीष्ठान,शिक्रापूर(गाडीतळ कांड्या टिपरी)</ContractorName>
+    <GadiwanCode>1000</GadiwanCode>
+    <GadiwanName>श्री जनसेवा प्रतिष्ठान,शिक्रापूर(गाडीतळ,कांडी,टिपरी)</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="71639">
+    <ContractorName />
+    <GadiwanCode>10001</GadiwanCode>
+    <GadiwanName>श्रीनाथ म्हस्कोबा साखर कारखाना लि</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="74789">
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>4</GadiwanCode>
+    <GadiwanName>पवार बद्रीनाथ आप्पा</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>5</GadiwanCode>
+    <GadiwanName>पवार गणेश ममराज</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>6</GadiwanCode>
+    <GadiwanName>पवार दशरथ नर्सिंग</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>7</GadiwanCode>
+    <GadiwanName>पवार विजय तुकाराम</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>8</GadiwanCode>
+    <GadiwanName>राठोड धर्मा बंडू</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>9</GadiwanCode>
+    <GadiwanName>चव्हाण साहेबराव जालम</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>10</GadiwanCode>
+    <GadiwanName>राठोड सुनिल धर्मा</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>11</GadiwanCode>
+    <GadiwanName>पवार शिवदास ममराज</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>12</GadiwanCode>
+    <GadiwanName>जाधव सुभाष खुशाल</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>13</GadiwanCode>
+    <GadiwanName>पवार सवेलाल बधू</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>14</GadiwanCode>
+    <GadiwanName>चव्हाण प्रकाश छगन</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>15</GadiwanCode>
+    <GadiwanName>राठोड गणेश हिरा</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>16</GadiwanCode>
+    <GadiwanName>राठोड समाधान हिरा</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>17</GadiwanCode>
+    <GadiwanName>पवार बधू जेमा</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>18</GadiwanCode>
+    <GadiwanName>चव्हाण संतोष जालम</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>19</GadiwanCode>
+    <GadiwanName>राठोड बालचंद मखराम</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>20</GadiwanCode>
+    <GadiwanName>पवार कुंडलीक चंद्रमल</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>21</GadiwanCode>
+    <GadiwanName>पवार मच्छिंद्र सरदार</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>22</GadiwanCode>
+    <GadiwanName>गव्हाणे शंकर गामा</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>23</GadiwanCode>
+    <GadiwanName>जाधव रविंद्र हरसिंग</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>24</GadiwanCode>
+    <GadiwanName>पवार आधार मनोहर</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>25</GadiwanCode>
+    <GadiwanName>पवार नंदलाल धनराज</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>26</GadiwanCode>
+    <GadiwanName>पवार खंडू पराग</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>27</GadiwanCode>
+    <GadiwanName>पवार एकनाथ सुखलाल</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>28</GadiwanCode>
+    <GadiwanName>पवार रामनाथ पुराणी</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>29</GadiwanCode>
+    <GadiwanName>पावर दरबार सुभाष</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>30</GadiwanCode>
+    <GadiwanName>पवार आप्पा बाळू </GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>31</GadiwanCode>
+    <GadiwanName>पवार खेमराज पुरा</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>32</GadiwanCode>
+    <GadiwanName>राठोड सरीचंद सौजी</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>33</GadiwanCode>
+    <GadiwanName>चव्हाण ज्ञानेश्वर रमेश</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>34</GadiwanCode>
+    <GadiwanName>पवार रामलाल उखा</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>74</GadiwanCode>
+    <GadiwanName>पवार संतोष बिभिसेन</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>75</GadiwanCode>
+    <GadiwanName>पवार भाईदास मगन</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>76</GadiwanCode>
+    <GadiwanName>पवार जुगिलाल बिभिसेन</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>77</GadiwanCode>
+    <GadiwanName>राठोड जयराम मोतीराम</GadiwanName>
+    <ContractorName>पवार प्रल्हाद पितांबर</ContractorName>
+    <GadiwanCode>78</GadiwanCode>
+    <GadiwanName>पवार भाऊसिंग धनसिंग</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="74793">
+    <ContractorName>चव्हाण बापू बन्सी</ContractorName>
+    <GadiwanCode>35</GadiwanCode>
+    <GadiwanName>राठोड राजेंद्र कानिराम</GadiwanName>
+    <ContractorName>चव्हाण बापू बन्सी</ContractorName>
+    <GadiwanCode>36</GadiwanCode>
+    <GadiwanName>पवार ज्ञानदेव सोनू</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
