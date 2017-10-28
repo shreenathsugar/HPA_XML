@@ -10,6 +10,15 @@
     <ContractorName>राठोड विजय नरसिंग</ContractorName>
     <GadiwanCode>96</GadiwanCode>
     <GadiwanName>राठोड दत्तू श्रावण</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>98</GadiwanCode>
+    <GadiwanName>चव्हाण युवराज मलखान</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>99</GadiwanCode>
+    <GadiwanName>चव्हाण रमेश मलखान</GadiwanName>
+    <ContractorName>राठोड विजय नरसिंग</ContractorName>
+    <GadiwanCode>100</GadiwanCode>
+    <GadiwanName>राठोड ज्ञानेश्वर रावसाहेब</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="12458">
     <ContractorName>ढाकणे पांडुरंग नाथा</ContractorName>
@@ -24,6 +33,19 @@
     <ContractorName>ढाकणे पांडुरंग नाथा</ContractorName>
     <GadiwanCode>86</GadiwanCode>
     <GadiwanName>खेडेकर आण्णा बाबासाहेब</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="21360">
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>97</GadiwanCode>
+    <GadiwanName>ढगे दादा महादेव</GadiwanName>
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>107</GadiwanCode>
+    <GadiwanName>बडे रुशिन्द्र भीमराव</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="21420">
+    <ContractorName>बटुळे नामदेव कुंडलिक</ContractorName>
+    <GadiwanCode>108</GadiwanCode>
+    <GadiwanName>खेडकर अंबादास भगवान</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="35389">
     <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
@@ -47,6 +69,31 @@
     <ContractorName>राठोड चुनिलाल मलखान</ContractorName>
     <GadiwanCode>93</GadiwanCode>
     <GadiwanName>जाधव मच्छीन्द्र फकिरा</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="35469">
+    <ContractorName>चव्हाण रमेश मंगतू</ContractorName>
+    <GadiwanCode>101</GadiwanCode>
+    <GadiwanName>चव्हाण सकरू उत्तम</GadiwanName>
+    <ContractorName>चव्हाण रमेश मंगतू</ContractorName>
+    <GadiwanCode>102</GadiwanCode>
+    <GadiwanName>चव्हाण भगवान कट्टू</GadiwanName>
+    <ContractorName>चव्हाण रमेश मंगतू</ContractorName>
+    <GadiwanCode>103</GadiwanCode>
+    <GadiwanName>पवार सदाशिव नर्सिंग</GadiwanName>
+    <ContractorName>चव्हाण रमेश मंगतू</ContractorName>
+    <GadiwanCode>104</GadiwanCode>
+    <GadiwanName>पवार विकास नरसिंग</GadiwanName>
+    <ContractorName>चव्हाण रमेश मंगतू</ContractorName>
+    <GadiwanCode>105</GadiwanCode>
+    <GadiwanName>राठोड शंकर नथू</GadiwanName>
+    <ContractorName>चव्हाण रमेश मंगतू</ContractorName>
+    <GadiwanCode>106</GadiwanCode>
+    <GadiwanName>जाधव अशोक मुलचंद</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="52547">
+    <ContractorName>बटुळे भास्कर रामकिसन</ContractorName>
+    <GadiwanCode>109</GadiwanCode>
+    <GadiwanName>खेडकर भगवान सुर्भान</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="52548">
     <ContractorName>निकुंभ शिवाजी पोपट</ContractorName>
@@ -173,6 +220,14 @@
     <ContractorName>जाधव धारासिंग ममराज</ContractorName>
     <GadiwanCode>73</GadiwanCode>
     <GadiwanName>पवार लालचंद उत्तम </GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="53538">
+    <ContractorName>शिरसाठ आजिनाथ उत्तम</ContractorName>
+    <GadiwanCode>110</GadiwanCode>
+    <GadiwanName>नकाडे बाळू महादेव</GadiwanName>
+    <ContractorName>शिरसाठ आजिनाथ उत्तम</ContractorName>
+    <GadiwanCode>111</GadiwanCode>
+    <GadiwanName>नाकडे बाबासाहेब महादेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="57717">
     <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
