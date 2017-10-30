@@ -34,6 +34,11 @@
     <GadiwanCode>86</GadiwanCode>
     <GadiwanName>खेडेकर आण्णा बाबासाहेब</GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="12463">
+    <ContractorName>खाडे सोमनाथ बापूराव</ContractorName>
+    <GadiwanCode>195</GadiwanCode>
+    <GadiwanName>बटूळे भास्कर बाप्पा</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="12464">
     <ContractorName>बटुळे बाबासाहेब लक्ष्मण</ContractorName>
     <GadiwanCode>112</GadiwanCode>
@@ -55,6 +60,15 @@
     <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
     <GadiwanCode>107</GadiwanCode>
     <GadiwanName>बडे रुशिन्द्र भीमराव</GadiwanName>
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>178</GadiwanCode>
+    <GadiwanName>गर्कळ अंबादास नामदेव</GadiwanName>
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>179</GadiwanCode>
+    <GadiwanName>गर्कळ अर्जुन विनायक</GadiwanName>
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>180</GadiwanCode>
+    <GadiwanName>गर्कळ रावसाहेब नामदेव</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="21420">
     <ContractorName>बटुळे नामदेव कुंडलिक</ContractorName>
@@ -292,6 +306,43 @@
     <GadiwanCode>73</GadiwanCode>
     <GadiwanName>पवार लालचंद उत्तम </GadiwanName>
   </ContractorCode>
+  <ContractorCode Code="53359">
+    <ContractorName>चव्हाण ताराचंद गणपत</ContractorName>
+    <GadiwanCode>182</GadiwanCode>
+    <GadiwanName>पवार पुनमचंद वसंत</GadiwanName>
+    <ContractorName>चव्हाण ताराचंद गणपत</ContractorName>
+    <GadiwanCode>183</GadiwanCode>
+    <GadiwanName>पवार सुनील वसंत</GadiwanName>
+    <ContractorName>चव्हाण ताराचंद गणपत</ContractorName>
+    <GadiwanCode>184</GadiwanCode>
+    <GadiwanName>जाधव वडिलाल भानुदास</GadiwanName>
+    <ContractorName>चव्हाण ताराचंद गणपत</ContractorName>
+    <GadiwanCode>185</GadiwanCode>
+    <GadiwanName>जाधव मेघराज भानुदास</GadiwanName>
+    <ContractorName>चव्हाण ताराचंद गणपत</ContractorName>
+    <GadiwanCode>186</GadiwanCode>
+    <GadiwanName>चव्हाण विनोद विक्रम</GadiwanName>
+    <ContractorName>चव्हाण ताराचंद गणपत</ContractorName>
+    <GadiwanCode>187</GadiwanCode>
+    <GadiwanName>राठोड गोटू भास्कर</GadiwanName>
+    <ContractorName>चव्हाण ताराचंद गणपत</ContractorName>
+    <GadiwanCode>188</GadiwanCode>
+    <GadiwanName>चव्हाण नितीन भुरसिंग</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="53371">
+    <ContractorName>चव्हाण बंडू गणपत</ContractorName>
+    <GadiwanCode>189</GadiwanCode>
+    <GadiwanName>चव्हाण कुशल लिंबा</GadiwanName>
+    <ContractorName>चव्हाण बंडू गणपत</ContractorName>
+    <GadiwanCode>190</GadiwanCode>
+    <GadiwanName>चव्हाण मनोज शिवाजी</GadiwanName>
+    <ContractorName>चव्हाण बंडू गणपत</ContractorName>
+    <GadiwanCode>191</GadiwanCode>
+    <GadiwanName>जाधव विशाल किसन</GadiwanName>
+    <ContractorName>चव्हाण बंडू गणपत</ContractorName>
+    <GadiwanCode>192</GadiwanCode>
+    <GadiwanName>जाधव प्रविण किसन</GadiwanName>
+  </ContractorCode>
   <ContractorCode Code="53538">
     <ContractorName>शिरसाठ आजिनाथ उत्तम</ContractorName>
     <GadiwanCode>110</GadiwanCode>
@@ -314,6 +365,9 @@
     <ContractorName>शिरसाठ आजिनाथ उत्तम</ContractorName>
     <GadiwanCode>177</GadiwanCode>
     <GadiwanName>खुंटे पोपट वसंत</GadiwanName>
+    <ContractorName>शिरसाठ आजिनाथ उत्तम</ContractorName>
+    <GadiwanCode>181</GadiwanCode>
+    <GadiwanName>शिरसाठ गिज्ञानदेव उत्तम</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="57717">
     <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
@@ -322,6 +376,12 @@
     <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
     <GadiwanCode>80</GadiwanCode>
     <GadiwanName>राठोड प्रकाश पेलाद </GadiwanName>
+    <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
+    <GadiwanCode>193</GadiwanCode>
+    <GadiwanName>राठोड गोकुळ अर्जुन</GadiwanName>
+    <ContractorName>चव्हाण गोकुळ खुबा</ContractorName>
+    <GadiwanCode>194</GadiwanCode>
+    <GadiwanName>राठोड राजेंद्र मेरचंद</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="57744">
     <ContractorName>पवार ओंकार बाबू</ContractorName>
@@ -343,6 +403,11 @@
     <ContractorName />
     <GadiwanCode>10001</GadiwanCode>
     <GadiwanName>श्रीनाथ म्हस्कोबा साखर कारखाना लि</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="71830">
+    <ContractorName>खरमाटे विष्णु आश्रुबा</ContractorName>
+    <GadiwanCode>196</GadiwanCode>
+    <GadiwanName>ढाकणे वासुदेव भगवान</GadiwanName>
   </ContractorCode>
   <ContractorCode Code="71873">
     <ContractorName>शिरसाठ दिनकर भगवान</ContractorName>
