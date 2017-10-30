@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="74775">
-      <ContractorName>थोरात एस.बी</ContractorName>
-      <VehicleNo>MH-42-Q-2252</VehicleNo>
-      <TrollyNoA>T74775-1</TrollyNoA>
-      <TrollyNoB>T74775-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="74412">
-      <ContractorName>सोनवणे सोमनाथ रामदास</ContractorName>
-      <VehicleNo>MH-11-U-1824</VehicleNo>
-      <TrollyNoA>T74412-1</TrollyNoA>
-      <TrollyNoB>T74412-2</TrollyNoB>
+    <ContractorCode Code="74872">
+      <ContractorName>जगताप सचिन नारायण</ContractorName>
+      <VehicleNo>MH-42-Z-1270</VehicleNo>
+      <TrollyNoA>T74872-1</TrollyNoA>
+      <TrollyNoB>T74872-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74413">
       <ContractorName>सातपुते समाधान आंबादास</ContractorName>
@@ -186,6 +180,12 @@
       <VehicleNo>MH-42-Y-5605</VehicleNo>
       <TrollyNoA>T74776-1</TrollyNoA>
       <TrollyNoB>T74776-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="74775">
+      <ContractorName>थोरात एस.बी</ContractorName>
+      <VehicleNo>MH-42-Q-2252</VehicleNo>
+      <TrollyNoA>T74775-1</TrollyNoA>
+      <TrollyNoB>T74775-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68439">
       <ContractorName>बनकर दौलत किसन</ContractorName>
@@ -1266,6 +1266,12 @@
       <VehicleNo>MH-42-Y-5371</VehicleNo>
       <TrollyNoA>T74411-1</TrollyNoA>
       <TrollyNoB>T74411-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="74412">
+      <ContractorName>सोनवणे सोमनाथ रामदास</ContractorName>
+      <VehicleNo>MH-11-U-1824</VehicleNo>
+      <TrollyNoA>T74412-1</TrollyNoA>
+      <TrollyNoB>T74412-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
