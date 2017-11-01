@@ -7,6 +7,12 @@
       <TrollyNoA>T74396-1</TrollyNoA>
       <TrollyNoB>T74396-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="74409">
+      <ContractorName>राठोड सी.एम</ContractorName>
+      <VehicleNo>MH-19-AL-126</VehicleNo>
+      <TrollyNoA>T74409-1</TrollyNoA>
+      <TrollyNoB>T74409-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="74410">
       <ContractorName>राठोड संजय मल्लू</ContractorName>
       <VehicleNo>NEW</VehicleNo>
@@ -1273,14 +1279,12 @@
       <TrollyNoA>T74408-1</TrollyNoA>
       <TrollyNoB>T74408-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="74409">
-      <ContractorName>राठोड सी.एम</ContractorName>
-      <VehicleNo>MH-19-AL-126</VehicleNo>
-      <TrollyNoA>T74409-1</TrollyNoA>
-      <TrollyNoB>T74409-2</TrollyNoB>
-    </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
+    <ContractorCode Code="49261">
+      <ContractorName>पाचपिल्ले अशोक सदाशिव</ContractorName>
+      <VehicleNo>MH-19-J-3702</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="57390">
       <ContractorName>घाडगे शिवाजी व्यंकट</ContractorName>
       <VehicleNo>MH-12-6995</VehicleNo>
