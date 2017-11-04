@@ -22116,4 +22116,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="119311">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58611</GrowerCode>
+    <GrowerName>दाते दत्तात्रय भिवाजी</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <SubVillageCode>292</SubVillageCode>
+    <SubVillageName>नांदूर(१६)</SubVillageName>
+    <serveNo>66/1</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

@@ -1,12 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="Doki">
-    <ContractorCode Code="74731">
-      <ContractorName>गर्जे नितीन किसन</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74732">
-      <ContractorName>हाके दिलीप सिताराम</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="74733">
       <ContractorName>हंडाळ बाळू बाबासाहेब(सोनवणे दादाभाऊ सदा)</ContractorName>
     </ContractorCode>
@@ -165,14 +159,20 @@
     <ContractorCode Code="74730">
       <ContractorName>भोसले विश्वास राजाराम(राठोड प्रेम)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="74731">
+      <ContractorName>गर्जे नितीन किसन</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74916">
+      <ContractorName>चव्हाण मोरेश्वर शरद</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74732">
+      <ContractorName>हाके दिलीप सिताराम</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="68861">
       <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="74596">
-      <ContractorName>हाके संतोष बबन(राठोड आत्माराम सरदार)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="74597">
       <ContractorName>पिलाणे गणेश नामदेव(राठोड राजू गंगाराम)</ContractorName>
     </ContractorCode>
@@ -483,7 +483,7 @@
       <ContractorName>ताकवणे निलेश विलास(आहिरे गणेश गोविंद)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74701">
-      <ContractorName>ताकवणे विठ्ठल नामदेव(जाधव रमेश गोरख</ContractorName>
+      <ContractorName>ताकवणे विठ्ठल नामदेव(जाधव देवीदास मांगू)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74702">
       <ContractorName>ताकवणे व्ही.एन(जाधव देविदास मांगू)</ContractorName>
@@ -575,6 +575,12 @@
     <ContractorCode Code="74880">
       <ContractorName>थोरात ज्ञानेश्वर गोरख(चव्हाण सुभाष)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="74920">
+      <ContractorName>भंडारी आर.एस(राठोड रामेश्वर हजारी)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74921">
+      <ContractorName>खराडे हर्षद रजनीकांत (राठोड नवलसिंग वसराम)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="74545">
       <ContractorName>आशान बापू बाळू</ContractorName>
     </ContractorCode>
@@ -585,7 +591,7 @@
       <ContractorName>आवाळे बंडू वामन(निकुंभ शिवदास पोपट)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74548">
-      <ContractorName>आवाळे नंदू उत्तम(खिलारे भैरवनाथ दत्तू)</ContractorName>
+      <ContractorName>आवाळे नंदू उत्तम(निकुंभ शिवाजी पोपट)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74549">
       <ContractorName>भांडवलकर गणेश तात्याबा(मोरे निंबा हिरामण)</ContractorName>
@@ -724,6 +730,9 @@
     </ContractorCode>
     <ContractorCode Code="74595">
       <ContractorName>गवळी राजेंद्र दशरथ(ढिवरे साहेबराव आनंदा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74596">
+      <ContractorName>हाके संतोष बबन(राठोड आत्माराम सरदार)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
