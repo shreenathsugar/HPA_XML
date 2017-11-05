@@ -13870,4 +13870,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127468">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62098</GrowerCode>
+    <GrowerName>चौधरी भगवान दत्तु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <SubVillageCode>1815</SubVillageCode>
+    <SubVillageName>गोलेगाव(४७) आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>243</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127428">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69335</GrowerCode>
+    <GrowerName>पोतले स्वामिनाथ आनंदा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <SubVillageCode>1534</SubVillageCode>
+    <SubVillageName>शेल पिंपळगाव (०)</SubVillageName>
+    <serveNo>654</serveNo>
+    <CaneVariety>4</CaneVariety>
+    <CaneVarietyName>8014</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
