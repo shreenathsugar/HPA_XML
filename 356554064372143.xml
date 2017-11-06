@@ -18734,4 +18734,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127517">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1723</GrowerCode>
+    <GrowerName>दिवेकर रावसाहेब नामदेव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>114</VillageCode>
+    <VillageName>वरवंड</VillageName>
+    <SubVillageCode>1643</SubVillageCode>
+    <SubVillageName>वरवंड(३५)कडेठाणमार्गे</SubVillageName>
+    <serveNo>1329</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
