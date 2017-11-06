@@ -24149,4 +24149,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127478">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74977</GrowerCode>
+    <GrowerName>पिलाणे किसन रामचंद्र</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1849</VillageCode>
+    <VillageName>लपतडवाडी</VillageName>
+    <SubVillageCode>1850</SubVillageCode>
+    <SubVillageName>लपतडवाडी(११०) निरामार्गे</SubVillageName>
+    <serveNo>2046</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127483">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74978</GrowerCode>
+    <GrowerName>जगताप मोहन संपत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1847</VillageCode>
+    <VillageName>मांडकी</VillageName>
+    <SubVillageCode>1848</SubVillageCode>
+    <SubVillageName>मांडकी(१०५) निरामार्गे</SubVillageName>
+    <serveNo>1628</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127482">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72339</GrowerCode>
+    <GrowerName>वाघ कृष्णा गणपत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1845</VillageCode>
+    <VillageName>वीर</VillageName>
+    <SubVillageCode>1846</SubVillageCode>
+    <SubVillageName>वीर(११५) निरामार्गे</SubVillageName>
+    <serveNo>1120</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
