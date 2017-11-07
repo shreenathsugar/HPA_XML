@@ -32946,4 +32946,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127524">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72260</GrowerCode>
+    <GrowerName>ठाकुर अभिजीत सर्जेराव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1540</VillageCode>
+    <VillageName>सोळू</VillageName>
+    <SubVillageCode>1817</SubVillageCode>
+    <SubVillageName>सोळू(४५)मरकळमार्गे</SubVillageName>
+    <serveNo>111</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127535">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75004</GrowerCode>
+    <GrowerName>पिलाणे विलास किसन(लपतडवाडी)</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1849</VillageCode>
+    <VillageName>लपतडवाडी</VillageName>
+    <SubVillageCode>1850</SubVillageCode>
+    <SubVillageName>लपतडवाडी(११०) निरामार्गे</SubVillageName>
+    <serveNo>1619</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
