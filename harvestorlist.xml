@@ -141,8 +141,8 @@
     <ContractorCode Code="74774">
       <ContractorName>थोरात सुभाष शांताराम(पावरा अमरसिंग नागेश्वर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74647">
-      <ContractorName>मेमाणे उद्धव किसन(राठोड रोहिदास ताराचंद)</ContractorName>
+    <ContractorCode Code="68861">
+      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74845">
       <ContractorName>राठोड सुदाम शुकलाल</ContractorName>
@@ -156,8 +156,8 @@
     <ContractorCode Code="74848">
       <ContractorName>पवार मलखान ताराचंद</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68861">
-      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+    <ContractorCode Code="74647">
+      <ContractorName>मेमाणे उद्धव किसन(राठोड रोहिदास ताराचंद)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74728">
       <ContractorName>आवाळे योगेश भाऊसाहेब(ठाकरे कांतीलाल सिताराम)</ContractorName>
@@ -183,14 +183,14 @@
     <ContractorCode Code="74973">
       <ContractorName>म्हेत्रे राहुल नाना(भिल्ल गंगाधर भाईदास)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="75031">
+      <ContractorName>थोरात प्रविण उल्हास</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75041">
+      <ContractorName>गिरमे अलोक सुरेन्द्र</ContractorName>
+    </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="74601">
-      <ContractorName>शिंदे एस.पी(चव्हाण बापू बन्सी)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74602">
-      <ContractorName>शिंदे नवनाथ मारुती(गोरबंजारा सुभाष पोपट)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="74604">
       <ContractorName>शिंदे सचिन परशराम(चव्हाण बापू बन्सी)</ContractorName>
     </ContractorCode>
@@ -467,8 +467,8 @@
     <ContractorCode Code="74696">
       <ContractorName>शेरेकर सागर दिलीप</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74698">
-      <ContractorName>सुळ ज्ञानदेव खंडू(चव्हाण दादा हरसिंग)</ContractorName>
+    <ContractorCode Code="74697">
+      <ContractorName>सस्ते महेंद्र बाळासो(चव्हाण रामदास बाबुराव)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74699">
       <ContractorName>ताकवणे हनुमंत किसन(सोनवणे राजेंद्र बन्सी)</ContractorName>
@@ -575,8 +575,8 @@
     <ContractorCode Code="74921">
       <ContractorName>खराडे हर्षद रजनीकांत (राठोड नवलसिंग वसराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74697">
-      <ContractorName>सस्ते महेंद्र बाळासो(चव्हाण रामदास बाबुराव)</ContractorName>
+    <ContractorCode Code="74698">
+      <ContractorName>सुळ ज्ञानदेव खंडू(चव्हाण दादा हरसिंग)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74545">
       <ContractorName>आशान बापू बाळू</ContractorName>
@@ -742,6 +742,12 @@
     </ContractorCode>
     <ContractorCode Code="74600">
       <ContractorName>शिंदे एन.एम(पवार शिवाजी मदन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74601">
+      <ContractorName>शिंदे एस.पी(चव्हाण बापू बन्सी)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74602">
+      <ContractorName>शिंदे नवनाथ मारुती(गोरबंजारा सुभाष पोपट)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
