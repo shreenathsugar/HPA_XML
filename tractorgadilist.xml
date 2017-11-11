@@ -602,11 +602,11 @@
   </ContractorCode>
   <ContractorCode Code="74840">
     <ContractorName>वंजारी पोपट भजनू</ContractorName>
-    <GadiwanCode>1081</GadiwanCode>
-    <GadiwanName>पवार सुरेश दिलीप </GadiwanName>
-    <TrollyNoA>T1081-1</TrollyNoA>
-    <TrollyNoB>T1081-2</TrollyNoB>
-    <VehicleNo>MH-19-AN-2090</VehicleNo>
+    <GadiwanCode>1080</GadiwanCode>
+    <GadiwanName>चव्हाण आण्णा सक्रू</GadiwanName>
+    <TrollyNoA>T1080-1</TrollyNoA>
+    <TrollyNoB>T1080-2</TrollyNoB>
+    <VehicleNo>MH-19-P-3181</VehicleNo>
     <GadiwanCode>1082</GadiwanCode>
     <GadiwanName>राठोड लक्ष्मण शिवराम </GadiwanName>
     <TrollyNoA>T1082-1</TrollyNoA>
@@ -617,11 +617,11 @@
     <TrollyNoA>T1079-1</TrollyNoA>
     <TrollyNoB>T1079-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
-    <GadiwanCode>1080</GadiwanCode>
-    <GadiwanName>चव्हाण आण्णा सक्रू</GadiwanName>
-    <TrollyNoA>T1080-1</TrollyNoA>
-    <TrollyNoB>T1080-2</TrollyNoB>
-    <VehicleNo>MH-19-P-3181</VehicleNo>
+    <GadiwanCode>1081</GadiwanCode>
+    <GadiwanName>पवार सुरेश दिलीप </GadiwanName>
+    <TrollyNoA>T1081-1</TrollyNoA>
+    <TrollyNoB>T1081-2</TrollyNoB>
+    <VehicleNo>MH-19-AN-2090</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74841">
     <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
@@ -739,5 +739,28 @@
     <TrollyNoA>T1117-1</TrollyNoA>
     <TrollyNoB>T1117-2</TrollyNoB>
     <VehicleNo>MH-14-BM-2062</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="75077">
+    <ContractorName>आडे मलखान बाबु</ContractorName>
+    <GadiwanCode>1120</GadiwanCode>
+    <GadiwanName>खाडे लक्ष्मन भावडू</GadiwanName>
+    <TrollyNoA>T1120-1</TrollyNoA>
+    <TrollyNoB>T1120-2</TrollyNoB>
+    <VehicleNo>MH-18-8676</VehicleNo>
+    <GadiwanCode>1118</GadiwanCode>
+    <GadiwanName>पवार धारा दौलत</GadiwanName>
+    <TrollyNoA>T1118-1</TrollyNoA>
+    <TrollyNoB>T1118-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1119</GadiwanCode>
+    <GadiwanName>जाधव समाधान पापालाल</GadiwanName>
+    <TrollyNoA>T1119-1</TrollyNoA>
+    <TrollyNoB>T1119-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1121</GadiwanCode>
+    <GadiwanName>चव्हाण अनिल विश्राम</GadiwanName>
+    <TrollyNoA>T1121-1</TrollyNoA>
+    <TrollyNoB>T1121-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
   </ContractorCode>
 </ContractorDetails>
