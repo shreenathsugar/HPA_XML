@@ -35302,4 +35302,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127561">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36339</GrowerCode>
+    <GrowerName>म्हेत्रे सविता विकास</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <SubVillageCode>293</SubVillageCode>
+    <SubVillageName>सहजपूर (२२)</SubVillageName>
+    <serveNo>321</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127562">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74999</GrowerCode>
+    <GrowerName>कापरे सदाशिव भिकोबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <SubVillageCode>293</SubVillageCode>
+    <SubVillageName>सहजपूर (२२)</SubVillageName>
+    <serveNo>241</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127563">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37289</GrowerCode>
+    <GrowerName>म्हेत्रे अर्जुन लक्ष्मण</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <SubVillageCode>293</SubVillageCode>
+    <SubVillageName>सहजपूर (२२)</SubVillageName>
+    <serveNo>342</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
