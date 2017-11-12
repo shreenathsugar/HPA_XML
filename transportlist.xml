@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="75042">
-      <ContractorName>गिरमे अलोक सुरेन्द्र</ContractorName>
-      <VehicleNo>MH-12-BB-605</VehicleNo>
-      <TrollyNoA>T75042-1</TrollyNoA>
-      <TrollyNoB>T75042-2</TrollyNoB>
+    <ContractorCode Code="74384">
+      <ContractorName>हंडाळ बी. बी</ContractorName>
+      <VehicleNo>MH-42-F-2523</VehicleNo>
+      <TrollyNoA>T74384-1</TrollyNoA>
+      <TrollyNoB>T74384-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68481">
       <ContractorName>शिंदे नवनाथ मारुती</ContractorName>
@@ -547,11 +547,23 @@
       <TrollyNoA>T75030-1</TrollyNoA>
       <TrollyNoB>T75030-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68479">
-      <ContractorName>शिंदे एन.एम</ContractorName>
-      <VehicleNo>MH-42-Q-3936</VehicleNo>
-      <TrollyNoA>T68479-1</TrollyNoA>
-      <TrollyNoB>T68479-2</TrollyNoB>
+    <ContractorCode Code="75042">
+      <ContractorName>गिरमे अलोक सुरेन्द्र</ContractorName>
+      <VehicleNo>MH-12-BB-605</VehicleNo>
+      <TrollyNoA>T75042-1</TrollyNoA>
+      <TrollyNoB>T75042-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="71532">
+      <ContractorName>भोंगळे राजेंद्र निवृत्ती</ContractorName>
+      <VehicleNo>MH-42-F-1370</VehicleNo>
+      <TrollyNoA>T71532-1</TrollyNoA>
+      <TrollyNoB>T71532-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75092">
+      <ContractorName>म्हेत्रे अनिल विठ्ठल</ContractorName>
+      <VehicleNo>MH-16-AM-5812</VehicleNo>
+      <TrollyNoA>T75092-1</TrollyNoA>
+      <TrollyNoB>T75092-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
@@ -781,6 +793,12 @@
       <TrollyNoA>T68580-1</TrollyNoA>
       <TrollyNoB>T68580-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="68582">
+      <ContractorName>ताकवणे व्ही.एन</ContractorName>
+      <VehicleNo>MH-42-Y-680</VehicleNo>
+      <TrollyNoA>T68582-1</TrollyNoA>
+      <TrollyNoB>T68582-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="68583">
       <ContractorName>ताकवणे धनाजी जनार्धन</ContractorName>
       <VehicleNo>MH-42-Q-2185</VehicleNo>
@@ -918,12 +936,6 @@
       <VehicleNo>MH-14-AV-9843</VehicleNo>
       <TrollyNoA>T71531-1</TrollyNoA>
       <TrollyNoB>T71531-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="71532">
-      <ContractorName>भोंगळे राजेंद्र निवृत्ती</ContractorName>
-      <VehicleNo>MH-42-F-1370</VehicleNo>
-      <TrollyNoA>T71532-1</TrollyNoA>
-      <TrollyNoB>T71532-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="71535">
       <ContractorName>गायकवाड पोपट लक्ष्मण</ContractorName>
@@ -1177,17 +1189,11 @@
       <TrollyNoA>T74383-1</TrollyNoA>
       <TrollyNoB>T74383-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="74384">
-      <ContractorName>हंडाळ बी. बी</ContractorName>
-      <VehicleNo>MH-42-F-2523</VehicleNo>
-      <TrollyNoA>T74384-1</TrollyNoA>
-      <TrollyNoB>T74384-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="74385">
-      <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
-      <VehicleNo>MH-17-T-7262</VehicleNo>
-      <TrollyNoA>T74385-1</TrollyNoA>
-      <TrollyNoB>T74385-2</TrollyNoB>
+    <ContractorCode Code="68479">
+      <ContractorName>शिंदे एन.एम</ContractorName>
+      <VehicleNo>MH-42-Q-3936</VehicleNo>
+      <TrollyNoA>T68479-1</TrollyNoA>
+      <TrollyNoB>T68479-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74387">
       <ContractorName>शितोळे लक्ष्मण रंगराव</ContractorName>
@@ -1311,77 +1317,9 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
-    <ContractorCode Code="68590">
-      <ContractorName>वाघचौरे राजेंद्र आनंदराव</ContractorName>
-      <VehicleNo>MH-17-A-9388</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="68591">
-      <ContractorName>श्रीराम बाळासो मारुती</ContractorName>
-      <VehicleNo>MH-12-CT-6438</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="71967">
-      <ContractorName>शेरेकर दिलीप आनंदा</ContractorName>
-      <VehicleNo>MH-19-1705</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74331">
-      <ContractorName>आवाळे न्ंदु उत्तम</ContractorName>
-      <VehicleNo>MH-12-CT-0842</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74337">
-      <ContractorName>भोरडे संपत गुलाबराव</ContractorName>
-      <VehicleNo>MH-12-DT-1168</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74369">
-      <ContractorName>आशान बापू बाळू</ContractorName>
-      <VehicleNo>MH-17-T-8592</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74377">
-      <ContractorName>गायकवाड अरुण बाबासो</ContractorName>
-      <VehicleNo>MH-11-M-4042</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74382">
-      <ContractorName>गदादे गोरख गणपत</ContractorName>
-      <VehicleNo>MH-16-B-67</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74386">
-      <ContractorName>शिरसाठ साईनाथ दशरथ</ContractorName>
-      <VehicleNo>MH-04-P-9121</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="74393">
       <ContractorName>कोंडे दादासो दत्तू</ContractorName>
       <VehicleNo>MH-12-AF-8380</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74406">
-      <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव</ContractorName>
-      <VehicleNo>MH-12-CT-5483</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74413">
-      <ContractorName>सातपुते समाधान आंबादास</ContractorName>
-      <VehicleNo>MH-12-HB-2011</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74416">
-      <ContractorName>शेरेकर सागर दिलीप</ContractorName>
-      <VehicleNo>MH-18-AA-1621</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74423">
-      <ContractorName>श्रीराम बापू ज्ञानदेव</ContractorName>
-      <VehicleNo>MH-12-CT-4747</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="74877">
-      <ContractorName>पिलाणे राजेश नामदेव</ContractorName>
-      <VehicleNo>MH-14-AH-7521</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="49261">
-      <ContractorName>पाचपिल्ले अशोक सदाशिव</ContractorName>
-      <VehicleNo>MH-19-J-3702</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="57390">
-      <ContractorName>घाडगे शिवाजी व्यंकट</ContractorName>
-      <VehicleNo>MH-12-6995</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="68436">
-      <ContractorName>बीडगर एम. आर</ContractorName>
-      <VehicleNo>MH-12-QA-9584</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="68438">
       <ContractorName>भंडारी रविंद्र सूर्यकांत</ContractorName>
@@ -1403,14 +1341,76 @@
       <ContractorName>मखर संजय अशोक</ContractorName>
       <VehicleNo>MH-14-AH-6001</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="68590">
+      <ContractorName>वाघचौरे राजेंद्र आनंदराव</ContractorName>
+      <VehicleNo>MH-17-A-9388</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68591">
+      <ContractorName>श्रीराम बाळासो मारुती</ContractorName>
+      <VehicleNo>MH-12-CT-6438</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="71967">
+      <ContractorName>शेरेकर दिलीप आनंदा</ContractorName>
+      <VehicleNo>MH-19-1705</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74331">
+      <ContractorName>आवाळे न्ंदु उत्तम</ContractorName>
+      <VehicleNo>MH-12-CT-0842</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74337">
+      <ContractorName>भोरडे संपत गुलाबराव</ContractorName>
+      <VehicleNo>MH-12-DT-1168</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74377">
+      <ContractorName>गायकवाड अरुण बाबासो</ContractorName>
+      <VehicleNo>MH-11-M-4042</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74382">
+      <ContractorName>गदादे गोरख गणपत</ContractorName>
+      <VehicleNo>MH-16-B-67</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74386">
+      <ContractorName>शिरसाठ साईनाथ दशरथ</ContractorName>
+      <VehicleNo>MH-04-P-9121</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74406">
+      <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव</ContractorName>
+      <VehicleNo>MH-12-CT-5483</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74413">
+      <ContractorName>सातपुते समाधान आंबादास</ContractorName>
+      <VehicleNo>MH-12-HB-2011</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74416">
+      <ContractorName>शेरेकर सागर दिलीप</ContractorName>
+      <VehicleNo>MH-18-AA-1621</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74423">
+      <ContractorName>श्रीराम बापू ज्ञानदेव</ContractorName>
+      <VehicleNo>MH-12-CT-4747</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74877">
+      <ContractorName>पिलाणे राजेश नामदेव</ContractorName>
+      <VehicleNo>MH-14-AH-7521</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74369">
+      <ContractorName>आशान बापू बाळू</ContractorName>
+      <VehicleNo>MH-17-T-8592</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="49261">
+      <ContractorName>पाचपिल्ले अशोक सदाशिव</ContractorName>
+      <VehicleNo>MH-19-J-3702</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="57390">
+      <ContractorName>घाडगे शिवाजी व्यंकट</ContractorName>
+      <VehicleNo>MH-12-6995</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68436">
+      <ContractorName>बीडगर एम. आर</ContractorName>
+      <VehicleNo>MH-12-QA-9584</VehicleNo>
+    </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
-    <ContractorCode Code="75060">
-      <ContractorName>होळकर रामदास अंकुश</ContractorName>
-      <VehicleNo>MH-13-AJ-9917</VehicleNo>
-      <TrollyNoA>T75060-1</TrollyNoA>
-      <TrollyNoB>T75060-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="68794">
       <ContractorName>17-18  घाडगे शिवाजी रघुनाथ</ContractorName>
       <VehicleNo>MH-42-Y-1356</VehicleNo>
@@ -1495,17 +1495,35 @@
       <TrollyNoA>T74535-1</TrollyNoA>
       <TrollyNoB>T74535-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="75059">
-      <ContractorName>भोसले शरद दुर्गाजी</ContractorName>
-      <VehicleNo>MH-12-AN-3492</VehicleNo>
-      <TrollyNoA>T75059-1</TrollyNoA>
-      <TrollyNoB>T75059-2</TrollyNoB>
+    <ContractorCode Code="75096">
+      <ContractorName>काळे टी.वाय</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T75096-1</TrollyNoA>
+      <TrollyNoB>T75096-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68791">
       <ContractorName>बन उमेश आत्माराम</ContractorName>
       <VehicleNo>MH-23-AJ-1466</VehicleNo>
       <TrollyNoA>T68791-1</TrollyNoA>
       <TrollyNoB>T68791-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75097">
+      <ContractorName>भंडारी गोविंद आप्पाराव</ContractorName>
+      <VehicleNo>MH-06-K-7329</VehicleNo>
+      <TrollyNoA>T75097-1</TrollyNoA>
+      <TrollyNoB>T75097-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75059">
+      <ContractorName>भोसले शरद दुर्गाजी</ContractorName>
+      <VehicleNo>MH-12-AN-3492</VehicleNo>
+      <TrollyNoA>T75059-1</TrollyNoA>
+      <TrollyNoB>T75059-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75060">
+      <ContractorName>होळकर रामदास अंकुश</ContractorName>
+      <VehicleNo>MH-13-AJ-9917</VehicleNo>
+      <TrollyNoA>T75060-1</TrollyNoA>
+      <TrollyNoB>T75060-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
