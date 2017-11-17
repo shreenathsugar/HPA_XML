@@ -9158,4 +9158,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127714">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75136</GrowerCode>
+    <GrowerName>गायकवाड संपत केशव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1847</VillageCode>
+    <VillageName>मांडकी</VillageName>
+    <SubVillageCode>1848</SubVillageCode>
+    <SubVillageName>मांडकी(१०५) निरामार्गे</SubVillageName>
+    <serveNo>1497</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127715">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75137</GrowerCode>
+    <GrowerName>पिलाणे रविंद्र  लक्ष्मण</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1849</VillageCode>
+    <VillageName>लपतडवाडी</VillageName>
+    <SubVillageCode>1850</SubVillageCode>
+    <SubVillageName>लपतडवाडी(११०) निरामार्गे</SubVillageName>
+    <serveNo>2112</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
