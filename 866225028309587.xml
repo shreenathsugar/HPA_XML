@@ -15542,4 +15542,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127719">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36659</GrowerCode>
+    <GrowerName>जगताप तयाजी हौशिराम</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>63</VillageCode>
+    <VillageName>आष्टापूर</VillageName>
+    <SubVillageCode>256</SubVillageCode>
+    <SubVillageName>अष्टापूर(२०)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="114104">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>18759</GrowerCode>
+    <GrowerName>शितोळे संजय जगन्नाथ </GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>60</VillageCode>
+    <VillageName>न्हावी सांडस</VillageName>
+    <SubVillageCode>253</SubVillageCode>
+    <SubVillageName>न्हावी सांडस (११)पाटेठाणमार्गे]</SubVillageName>
+    <serveNo>115</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
