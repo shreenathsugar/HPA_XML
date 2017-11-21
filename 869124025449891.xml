@@ -15846,4 +15846,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127782">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9594</GrowerCode>
+    <GrowerName>दिगे शिवाजी येदू</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>हिंगणगाव</VillageName>
+    <SubVillageCode>1405</SubVillageCode>
+    <SubVillageName>हिंगणगाव(राहूरोडमार्गे)(१५)</SubVillageName>
+    <serveNo>141</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127749">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6525</GrowerCode>
+    <GrowerName>लवांडे पांडुरंग लक्ष्मण</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>155</VillageCode>
+    <VillageName>शिंदेवाडी(हवेली)</VillageName>
+    <SubVillageCode>532</SubVillageCode>
+    <SubVillageName>शिंदेवाडी (१३)हिंगणगाव मार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
