@@ -24871,4 +24871,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="127803">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9575</GrowerCode>
+    <GrowerName>खैरे काशिनाथ ज्ञानोबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>64</VillageCode>
+    <VillageName>डोंगरगाव</VillageName>
+    <SubVillageCode>257</SubVillageCode>
+    <SubVillageName>डोंगरगाव (२५)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>229</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
