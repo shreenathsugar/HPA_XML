@@ -35644,4 +35644,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128007">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11515</GrowerCode>
+    <GrowerName>थोरात प्रविण विठ्ठल</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>312</SubVillageCode>
+    <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
+    <serveNo>262</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128009">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20991</GrowerCode>
+    <GrowerName>काळे भाऊसो गुलाब</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>88</VillageCode>
+    <VillageName>कोरेगाव भिवर</VillageName>
+    <SubVillageCode>281</SubVillageCode>
+    <SubVillageName>कोरेगाव भिवर (१५)(बै)</SubVillageName>
+    <serveNo>171</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
