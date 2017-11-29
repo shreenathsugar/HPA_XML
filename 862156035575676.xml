@@ -19836,4 +19836,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128008">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75287</GrowerCode>
+    <GrowerName>पठाण मोसिम इसुफ</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>107</VillageCode>
+    <VillageName>देलवडी</VillageName>
+    <SubVillageCode>301</SubVillageCode>
+    <SubVillageName>एकेरीवाडी(देलवडीमार्गे])(१८)</SubVillageName>
+    <serveNo>57</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128014">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75291</GrowerCode>
+    <GrowerName>ताकवणे पोपट नारायण</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>118</VillageCode>
+    <VillageName>शिंदेवाडी (पारगाव)</VillageName>
+    <SubVillageCode>311</SubVillageCode>
+    <SubVillageName>शिंदेवाडी (२४)(पारगावमार्गे]</SubVillageName>
+    <serveNo>548</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127945">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>70800</GrowerCode>
+    <GrowerName>थोरात स्नेहल प्रशांत</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>117</VillageCode>
+    <VillageName>केडगाव</VillageName>
+    <SubVillageCode>310</SubVillageCode>
+    <SubVillageName>केडगाव(पिंपळगाव मार्गे])(२५)</SubVillageName>
+    <serveNo>478</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128003">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72227</GrowerCode>
+    <GrowerName>शेलार दिपाली बाळासो</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>107</VillageCode>
+    <VillageName>देलवडी</VillageName>
+    <SubVillageCode>1640</SubVillageCode>
+    <SubVillageName>देलवडी(पिंपळगावमार्गे)(१५)</SubVillageName>
+    <serveNo>688</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
