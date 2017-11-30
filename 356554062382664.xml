@@ -16853,4 +16853,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128031">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75303</GrowerCode>
+    <GrowerName>शिंदे राहुल जगन्नाथ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1847</VillageCode>
+    <VillageName>मांडकी</VillageName>
+    <SubVillageCode>1848</SubVillageCode>
+    <SubVillageName>मांडकी(१०५) निरामार्गे</SubVillageName>
+    <serveNo>1634</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128032">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75302</GrowerCode>
+    <GrowerName>मदने तात्याबा सोमा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1847</VillageCode>
+    <VillageName>मांडकी</VillageName>
+    <SubVillageCode>1848</SubVillageCode>
+    <SubVillageName>मांडकी(१०५) निरामार्गे</SubVillageName>
+    <serveNo>1819</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
