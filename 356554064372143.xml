@@ -19969,4 +19969,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="121034">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62248</GrowerCode>
+    <GrowerName>बनकर राजेश निवृत्ती</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>114</VillageCode>
+    <VillageName>वरवंड</VillageName>
+    <SubVillageCode>1643</SubVillageCode>
+    <SubVillageName>वरवंड(३५)कडेठाणमार्गे</SubVillageName>
+    <serveNo>259</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
