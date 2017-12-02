@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="75135">
-      <ContractorName>शिंदे विकास वामन</ContractorName>
-      <VehicleNo>MH-12-W-8727</VehicleNo>
-      <TrollyNoA>T75135-1</TrollyNoA>
-      <TrollyNoB>T75135-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="74401">
-      <ContractorName>नातु अशोक मारुती</ContractorName>
+    <ContractorCode Code="74400">
+      <ContractorName>नागरे धनंजय मुरलीधर</ContractorName>
       <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T74401-1</TrollyNoA>
-      <TrollyNoB>T74401-2</TrollyNoB>
+      <TrollyNoA>T74400-1</TrollyNoA>
+      <TrollyNoB>T74400-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74402">
       <ContractorName>नातु दत्तोबा त्रिंबक</ContractorName>
@@ -36,12 +30,6 @@
       <VehicleNo>MH-42-Q-2761</VehicleNo>
       <TrollyNoA>T74405-1</TrollyNoA>
       <TrollyNoB>T74405-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="74407">
-      <ContractorName>ठोंबरे गोपाळ जयवंत</ContractorName>
-      <VehicleNo>MH-42-Q-3360</VehicleNo>
-      <TrollyNoA>T74407-1</TrollyNoA>
-      <TrollyNoB>T74407-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74408">
       <ContractorName>ढवळे प्रदिप नामदेव</ContractorName>
@@ -78,6 +66,12 @@
       <VehicleNo>NEW</VehicleNo>
       <TrollyNoA>T74414-1</TrollyNoA>
       <TrollyNoB>T74414-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="74407">
+      <ContractorName>ठोंबरे गोपाळ जयवंत</ContractorName>
+      <VehicleNo>MH-42-Q-3360</VehicleNo>
+      <TrollyNoA>T74407-1</TrollyNoA>
+      <TrollyNoB>T74407-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74415">
       <ContractorName>शेंडगे ज्ञानदेव रघुनाथ</ContractorName>
@@ -300,6 +294,18 @@
       <VehicleNo>MH-16-AM-5812</VehicleNo>
       <TrollyNoA>T75092-1</TrollyNoA>
       <TrollyNoB>T75092-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75135">
+      <ContractorName>शिंदे विकास वामन</ContractorName>
+      <VehicleNo>MH-12-W-8727</VehicleNo>
+      <TrollyNoA>T75135-1</TrollyNoA>
+      <TrollyNoB>T75135-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="72080">
+      <ContractorName>कदम पांडुरंग तुकाराम</ContractorName>
+      <VehicleNo>MH-12-9144</VehicleNo>
+      <TrollyNoA>T72080-1</TrollyNoA>
+      <TrollyNoB>T72080-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
@@ -1315,18 +1321,14 @@
       <TrollyNoA>T74399-1</TrollyNoA>
       <TrollyNoB>T74399-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="74400">
-      <ContractorName>नागरे धनंजय मुरलीधर</ContractorName>
+    <ContractorCode Code="74401">
+      <ContractorName>नातु अशोक मारुती</ContractorName>
       <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T74400-1</TrollyNoA>
-      <TrollyNoB>T74400-2</TrollyNoB>
+      <TrollyNoA>T74401-1</TrollyNoA>
+      <TrollyNoB>T74401-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
-    <ContractorCode Code="68478">
-      <ContractorName>पिलाणे जी.एन</ContractorName>
-      <VehicleNo>MH-12-HD-3529</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="68506">
       <ContractorName>कोळपे भाऊसो लक्ष्मण</ContractorName>
       <VehicleNo>MH-12-GN-8192</VehicleNo>
@@ -1391,13 +1393,13 @@
       <ContractorName>गायकवाड अरुण बाबासो</ContractorName>
       <VehicleNo>MH-11-M-4042</VehicleNo>
     </ContractorCode>
-    <ContractorCode Code="68436">
-      <ContractorName>बीडगर एम. आर</ContractorName>
-      <VehicleNo>MH-12-QA-9584</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="74369">
       <ContractorName>आशान बापू बाळू</ContractorName>
       <VehicleNo>MH-17-T-8592</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68436">
+      <ContractorName>बीडगर एम. आर</ContractorName>
+      <VehicleNo>MH-12-QA-9584</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="74382">
       <ContractorName>गदादे गोरख गणपत</ContractorName>
@@ -1415,6 +1417,10 @@
       <ContractorName>घाडगे राजेंद्र शिवाजी</ContractorName>
       <VehicleNo>MH-12-6717</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="68478">
+      <ContractorName>पिलाणे जी.एन</ContractorName>
+      <VehicleNo>MH-12-HD-3529</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="49261">
       <ContractorName>पाचपिल्ले अशोक सदाशिव</ContractorName>
       <VehicleNo>MH-19-J-3702</VehicleNo>
@@ -1427,11 +1433,17 @@
       <TrollyNoA>T75298-1</TrollyNoA>
       <TrollyNoB>T75298-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="75099">
-      <ContractorName>कदम लक्ष्मण रामचंद्र</ContractorName>
-      <VehicleNo>MH-12-EQ-5790</VehicleNo>
-      <TrollyNoA>T75099-1</TrollyNoA>
-      <TrollyNoB>T75099-2</TrollyNoB>
+    <ContractorCode Code="75319">
+      <ContractorName>गायकवाड अतुल अशोक</ContractorName>
+      <VehicleNo>MH-12-JL-9405</VehicleNo>
+      <TrollyNoA>T75319-1</TrollyNoA>
+      <TrollyNoB>T75319-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75128">
+      <ContractorName>17-18 कोळपे लंकाबाई बाळासाहेब</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T75128-1</TrollyNoA>
+      <TrollyNoB>T75128-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68791">
       <ContractorName>बन उमेश आत्माराम</ContractorName>
@@ -1547,11 +1559,11 @@
       <TrollyNoA>T75097-1</TrollyNoA>
       <TrollyNoB>T75097-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="75128">
-      <ContractorName>17-18 कोळपे लंकाबाई बाळासाहेब</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T75128-1</TrollyNoA>
-      <TrollyNoB>T75128-2</TrollyNoB>
+    <ContractorCode Code="75099">
+      <ContractorName>कदम लक्ष्मण रामचंद्र</ContractorName>
+      <VehicleNo>MH-12-EQ-5790</VehicleNo>
+      <TrollyNoA>T75099-1</TrollyNoA>
+      <TrollyNoB>T75099-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="75195">
       <ContractorName>टुले काळूराम लक्ष्मण</ContractorName>
