@@ -17328,4 +17328,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128136">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64071</GrowerCode>
+    <GrowerName>शितोळे समीर दिपक</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>172</VillageCode>
+    <VillageName>कोरेगाव मूळ</VillageName>
+    <SubVillageCode>608</SubVillageCode>
+    <SubVillageName>कोरेगाव मूळ(२६)भवरापूरमार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128137">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75353</GrowerCode>
+    <GrowerName>टिळेकर योगेश नंदकुमार</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>130</VillageCode>
+    <VillageName>भवरापूर</VillageName>
+    <SubVillageCode>1605</SubVillageCode>
+    <SubVillageName>भवरापूर(२४)गोळीबारमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
