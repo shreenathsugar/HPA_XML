@@ -25821,4 +25821,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128180">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>38331</GrowerCode>
+    <GrowerName>विधाटे खंडेराव महादेव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <SubVillageCode>293</SubVillageCode>
+    <SubVillageName>सहजपूर (२२)</SubVillageName>
+    <serveNo>160</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128181">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>38331</GrowerCode>
+    <GrowerName>विधाटे खंडेराव महादेव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <SubVillageCode>293</SubVillageCode>
+    <SubVillageName>सहजपूर (२२)</SubVillageName>
+    <serveNo>160</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

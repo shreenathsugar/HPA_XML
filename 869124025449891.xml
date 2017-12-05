@@ -17613,4 +17613,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128160">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49357</GrowerCode>
+    <GrowerName>ठोंबरे मेघा बबन</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>62</VillageCode>
+    <VillageName>बुर्केगावा</VillageName>
+    <SubVillageCode>255</SubVillageCode>
+    <SubVillageName>बुर्केगाव(२१)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>69</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128093">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9721</GrowerCode>
+    <GrowerName>शितोळे बबन शिवाजी</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>60</VillageCode>
+    <VillageName>न्हावी सांडस</VillageName>
+    <SubVillageCode>253</SubVillageCode>
+    <SubVillageName>न्हावी सांडस (११)पाटेठाणमार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128179">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35719</GrowerCode>
+    <GrowerName>टिळेकर पुजा चंद्रकांत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>130</VillageCode>
+    <VillageName>भवरापूर</VillageName>
+    <SubVillageCode>1605</SubVillageCode>
+    <SubVillageName>भवरापूर(२४)गोळीबारमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128170">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10942</GrowerCode>
+    <GrowerName>थोरात कांताबाई लक्ष्मण</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>हिंगणगाव</VillageName>
+    <SubVillageCode>1405</SubVillageCode>
+    <SubVillageName>हिंगणगाव(राहूरोडमार्गे)(१५)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
