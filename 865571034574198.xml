@@ -25783,4 +25783,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128126">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>66068</GrowerCode>
+    <GrowerName>टिळेकर अशोक भिकोबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>113</VillageCode>
+    <VillageName>यवत </VillageName>
+    <SubVillageCode>306</SubVillageCode>
+    <SubVillageName>यवत(२७)</SubVillageName>
+    <serveNo>632</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
