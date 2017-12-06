@@ -12521,4 +12521,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128183">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59358</GrowerCode>
+    <GrowerName>कोकरे कैलास दत्तात्रय </GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>37</VillageCode>
+    <VillageName>पारोडी</VillageName>
+    <SubVillageCode>1774</SubVillageCode>
+    <SubVillageName>पारोडी(33)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>312</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
