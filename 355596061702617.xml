@@ -25859,4 +25859,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128167">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50589</GrowerCode>
+    <GrowerName>केदारी स्वप्नील सुनिल</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>103</VillageCode>
+    <VillageName>यादववाडी</VillageName>
+    <SubVillageCode>296</SubVillageCode>
+    <SubVillageName>यादववाडी (१९)</SubVillageName>
+    <serveNo>123</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
