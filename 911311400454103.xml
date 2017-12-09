@@ -36043,4 +36043,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128284">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32611</GrowerCode>
+    <GrowerName>चोरमले विलास लक्ष्मण</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>519</SubVillageCode>
+    <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+    <serveNo>111</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128286">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32611</GrowerCode>
+    <GrowerName>चोरमले विलास लक्ष्मण</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>519</SubVillageCode>
+    <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+    <serveNo>119</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128283">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32927</GrowerCode>
+    <GrowerName>थोरात संभाजी ज्ञानदेव</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>519</SubVillageCode>
+    <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+    <serveNo>97</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128285">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58185</GrowerCode>
+    <GrowerName>थोरात शिवाजी ज्ञानोबा(वाळकी)</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>519</SubVillageCode>
+    <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+    <serveNo>97</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
