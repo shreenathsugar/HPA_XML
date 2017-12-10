@@ -25878,4 +25878,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128289">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57944</GrowerCode>
+    <GrowerName>शिवले बाळू बबन(बाबुराव)</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>128</VillageCode>
+    <VillageName>तुळापुर</VillageName>
+    <SubVillageCode>333</SubVillageCode>
+    <SubVillageName>तुळापुर(३९)आळंदी फाटा मार्गे]</SubVillageName>
+    <serveNo>333</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128290">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>43210</GrowerCode>
+    <GrowerName>शिवले मोहन जयवंत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>128</VillageCode>
+    <VillageName>तुळापुर</VillageName>
+    <SubVillageCode>333</SubVillageCode>
+    <SubVillageName>तुळापुर(३९)आळंदी फाटा मार्गे]</SubVillageName>
+    <serveNo>331</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
