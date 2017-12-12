@@ -10,31 +10,46 @@
   </ContractorCode>
   <ContractorCode Code="61824">
     <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
-    <GadiwanCode>1089</GadiwanCode>
-    <GadiwanName>पवळे बंडू दिनकर</GadiwanName>
-    <TrollyNoA>T1089-1</TrollyNoA>
-    <TrollyNoB>T1089-2</TrollyNoB>
-    <VehicleNo>MH-16-5284</VehicleNo>
-    <GadiwanCode>1103</GadiwanCode>
-    <GadiwanName>ससाणे महादेव नाथा</GadiwanName>
-    <TrollyNoA>T1103-1</TrollyNoA>
-    <TrollyNoB>T1103-2</TrollyNoB>
-    <VehicleNo>MH-12-V-8660</VehicleNo>
+    <GadiwanCode>1078</GadiwanCode>
+    <GadiwanName>वाकडे भानुदास अंबादास </GadiwanName>
+    <TrollyNoA>T1078-1</TrollyNoA>
+    <TrollyNoB>T1078-2</TrollyNoB>
+    <VehicleNo>MH-16-AV-7885</VehicleNo>
     <GadiwanCode>1083</GadiwanCode>
     <GadiwanName>लगासे भाऊसाहेब अंबादास </GadiwanName>
     <TrollyNoA>T1083-1</TrollyNoA>
     <TrollyNoB>T1083-2</TrollyNoB>
     <VehicleNo>MH-16-BY-3697</VehicleNo>
-    <GadiwanCode>1109</GadiwanCode>
-    <GadiwanName>शेख समीर बबन</GadiwanName>
-    <TrollyNoA>T1109-1</TrollyNoA>
-    <TrollyNoB>T1109-2</TrollyNoB>
-    <VehicleNo>MH-16-7774</VehicleNo>
     <GadiwanCode>1084</GadiwanCode>
     <GadiwanName>शैख इमान फत्तू </GadiwanName>
     <TrollyNoA>T1084-1</TrollyNoA>
     <TrollyNoB>T1084-2</TrollyNoB>
     <VehicleNo>MH-23-B-6018</VehicleNo>
+    <GadiwanCode>1109</GadiwanCode>
+    <GadiwanName>शेख समीर बबन</GadiwanName>
+    <TrollyNoA>T1109-1</TrollyNoA>
+    <TrollyNoB>T1109-2</TrollyNoB>
+    <VehicleNo>MH-16-7774</VehicleNo>
+    <GadiwanCode>1086</GadiwanCode>
+    <GadiwanName>निकालगे शिवाजी रामभाऊ </GadiwanName>
+    <TrollyNoA>T1086-1</TrollyNoA>
+    <TrollyNoB>T1086-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1103</GadiwanCode>
+    <GadiwanName>ससाणे महादेव नाथा</GadiwanName>
+    <TrollyNoA>T1103-1</TrollyNoA>
+    <TrollyNoB>T1103-2</TrollyNoB>
+    <VehicleNo>MH-12-V-8660</VehicleNo>
+    <GadiwanCode>1089</GadiwanCode>
+    <GadiwanName>पवळे बंडू दिनकर</GadiwanName>
+    <TrollyNoA>T1089-1</TrollyNoA>
+    <TrollyNoB>T1089-2</TrollyNoB>
+    <VehicleNo>MH-16-5284</VehicleNo>
+    <GadiwanCode>1087</GadiwanCode>
+    <GadiwanName>बोरुडे गोरक्ष नाथा</GadiwanName>
+    <TrollyNoA>T1087-1</TrollyNoA>
+    <TrollyNoB>T1087-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1076</GadiwanCode>
     <GadiwanName>शिंदे रमेश दशरथ </GadiwanName>
     <TrollyNoA>T1076-1</TrollyNoA>
@@ -45,21 +60,6 @@
     <TrollyNoA>T1077-1</TrollyNoA>
     <TrollyNoB>T1077-2</TrollyNoB>
     <VehicleNo>MH-16-A-7691</VehicleNo>
-    <GadiwanCode>1078</GadiwanCode>
-    <GadiwanName>वाकडे भानुदास अंबादास </GadiwanName>
-    <TrollyNoA>T1078-1</TrollyNoA>
-    <TrollyNoB>T1078-2</TrollyNoB>
-    <VehicleNo>MH-16-AV-7885</VehicleNo>
-    <GadiwanCode>1087</GadiwanCode>
-    <GadiwanName>बोरुडे गोरक्ष नाथा</GadiwanName>
-    <TrollyNoA>T1087-1</TrollyNoA>
-    <TrollyNoB>T1087-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
-    <GadiwanCode>1086</GadiwanCode>
-    <GadiwanName>निकालगे शिवाजी रामभाऊ </GadiwanName>
-    <TrollyNoA>T1086-1</TrollyNoA>
-    <TrollyNoB>T1086-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="65146">
     <ContractorName>पाटील संजय ज्ञानदेव(ट्रॅ.गा)</ContractorName>
@@ -76,16 +76,16 @@
     <TrollyNoA>T1046-1</TrollyNoA>
     <TrollyNoB>T1046-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
-    <GadiwanCode>1045</GadiwanCode>
-    <GadiwanName>राठोड किरण चुनिलाल </GadiwanName>
-    <TrollyNoA>T1045-1</TrollyNoA>
-    <TrollyNoB>T1045-2</TrollyNoB>
-    <VehicleNo>MH-17-JV-7780</VehicleNo>
     <GadiwanCode>1044</GadiwanCode>
     <GadiwanName>जाधव दादा फकिरा</GadiwanName>
     <TrollyNoA>T1044-1</TrollyNoA>
     <TrollyNoB>T1044-2</TrollyNoB>
     <VehicleNo>MH-17-1302</VehicleNo>
+    <GadiwanCode>1045</GadiwanCode>
+    <GadiwanName>राठोड किरण चुनिलाल </GadiwanName>
+    <TrollyNoA>T1045-1</TrollyNoA>
+    <TrollyNoB>T1045-2</TrollyNoB>
+    <VehicleNo>MH-17-JV-7780</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="65150">
     <ContractorName>चव्हाण रमेश मंगतू(ट्रॅ.गा)</ContractorName>
@@ -169,6 +169,11 @@
     <TrollyNoA>T1035-1</TrollyNoA>
     <TrollyNoB>T1035-2</TrollyNoB>
     <VehicleNo>MH-193467</VehicleNo>
+    <GadiwanCode>1037</GadiwanCode>
+    <GadiwanName>पवार सुदाम धनराज</GadiwanName>
+    <TrollyNoA>T1037-1</TrollyNoA>
+    <TrollyNoB>T1037-2</TrollyNoB>
+    <VehicleNo>MH-18-0073</VehicleNo>
     <GadiwanCode>1039</GadiwanCode>
     <GadiwanName>पवार सुरेश बबन</GadiwanName>
     <TrollyNoA>T1039-1</TrollyNoA>
@@ -179,11 +184,6 @@
     <TrollyNoA>T1038-1</TrollyNoA>
     <TrollyNoB>T1038-2</TrollyNoB>
     <VehicleNo>MH-19-1432</VehicleNo>
-    <GadiwanCode>1037</GadiwanCode>
-    <GadiwanName>पवार सुदाम धनराज</GadiwanName>
-    <TrollyNoA>T1037-1</TrollyNoA>
-    <TrollyNoB>T1037-2</TrollyNoB>
-    <VehicleNo>MH-18-0073</VehicleNo>
     <GadiwanCode>1036</GadiwanCode>
     <GadiwanName>पवार सखाराम ठकाराम</GadiwanName>
     <TrollyNoA>T1036-1</TrollyNoA>
@@ -200,16 +200,16 @@
   </ContractorCode>
   <ContractorCode Code="68832">
     <ContractorName>गर्जे नितीन किसन(ट्रॅ.गा)</ContractorName>
-    <GadiwanCode>1052</GadiwanCode>
-    <GadiwanName>गर्जे भाऊसाहेब मुरलीधर</GadiwanName>
-    <TrollyNoA>T1052-1</TrollyNoA>
-    <TrollyNoB>T1052-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1092</GadiwanCode>
     <GadiwanName>गर्जे विष्णु एकनाथ</GadiwanName>
     <TrollyNoA>T1092-1</TrollyNoA>
     <TrollyNoB>T1092-2</TrollyNoB>
     <VehicleNo>MH-16-9016</VehicleNo>
+    <GadiwanCode>1052</GadiwanCode>
+    <GadiwanName>गर्जे भाऊसाहेब मुरलीधर</GadiwanName>
+    <TrollyNoA>T1052-1</TrollyNoA>
+    <TrollyNoB>T1052-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1051</GadiwanCode>
     <GadiwanName>गिरी कृष्णा अंकुश</GadiwanName>
     <TrollyNoA>T1051-1</TrollyNoA>
@@ -218,31 +218,31 @@
   </ContractorCode>
   <ContractorCode Code="68838">
     <ContractorName>पवार ओंकार बाबू(ट्रॅ.गा)</ContractorName>
-    <GadiwanCode>1014</GadiwanCode>
-    <GadiwanName>चव्हाण सुभाष सरदार</GadiwanName>
-    <TrollyNoA>T1014-1</TrollyNoA>
-    <TrollyNoB>T1014-2</TrollyNoB>
-    <VehicleNo>MH-19-3683</VehicleNo>
     <GadiwanCode>1012</GadiwanCode>
     <GadiwanName>पवार विठ्ठल बाबु</GadiwanName>
     <TrollyNoA>T1012-1</TrollyNoA>
     <TrollyNoB>T1012-2</TrollyNoB>
     <VehicleNo>MH-19-BG-6589</VehicleNo>
-    <GadiwanCode>1011</GadiwanCode>
-    <GadiwanName>राठोड गोकुळ शंकर</GadiwanName>
-    <TrollyNoA>T1011-1</TrollyNoA>
-    <TrollyNoB>T1011-2</TrollyNoB>
-    <VehicleNo>MH-19-BG-6821</VehicleNo>
-    <GadiwanCode>1010</GadiwanCode>
-    <GadiwanName>पवार ओंकार बाबू</GadiwanName>
-    <TrollyNoA>T1010-1</TrollyNoA>
-    <TrollyNoB>T1010-2</TrollyNoB>
-    <VehicleNo>MH-19-AP-5249</VehicleNo>
     <GadiwanCode>1013</GadiwanCode>
     <GadiwanName>पवार पिंटू भौलाल</GadiwanName>
     <TrollyNoA>T1013-1</TrollyNoA>
     <TrollyNoB>T1013-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1014</GadiwanCode>
+    <GadiwanName>चव्हाण सुभाष सरदार</GadiwanName>
+    <TrollyNoA>T1014-1</TrollyNoA>
+    <TrollyNoB>T1014-2</TrollyNoB>
+    <VehicleNo>MH-19-3683</VehicleNo>
+    <GadiwanCode>1010</GadiwanCode>
+    <GadiwanName>पवार ओंकार बाबू</GadiwanName>
+    <TrollyNoA>T1010-1</TrollyNoA>
+    <TrollyNoB>T1010-2</TrollyNoB>
+    <VehicleNo>MH-19-AP-5249</VehicleNo>
+    <GadiwanCode>1011</GadiwanCode>
+    <GadiwanName>राठोड गोकुळ शंकर</GadiwanName>
+    <TrollyNoA>T1011-1</TrollyNoA>
+    <TrollyNoB>T1011-2</TrollyNoB>
+    <VehicleNo>MH-19-BG-6821</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="68850">
     <ContractorName>चव्हाण गोकुळ खुबा(ट्रॅ.गा)</ContractorName>
@@ -272,16 +272,6 @@
   </ContractorCode>
   <ContractorCode Code="70813">
     <ContractorName>खरमाटे रामकिसन आश्रुबा</ContractorName>
-    <GadiwanCode>1056</GadiwanCode>
-    <GadiwanName>डुकरे संदीप रावसाहेब</GadiwanName>
-    <TrollyNoA>T1056-1</TrollyNoA>
-    <TrollyNoB>T1056-2</TrollyNoB>
-    <VehicleNo>MH-16-A-892</VehicleNo>
-    <GadiwanCode>1108</GadiwanCode>
-    <GadiwanName>ढाकणे भास्कर नामदेव</GadiwanName>
-    <TrollyNoA>T1108-1</TrollyNoA>
-    <TrollyNoB>T1108-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1055</GadiwanCode>
     <GadiwanName>गर्जे राहुल पोपट</GadiwanName>
     <TrollyNoA>T1055-1</TrollyNoA>
@@ -292,6 +282,24 @@
     <TrollyNoA>T1054-1</TrollyNoA>
     <TrollyNoB>T1054-2</TrollyNoB>
     <VehicleNo>MH-16-8044</VehicleNo>
+    <GadiwanCode>1108</GadiwanCode>
+    <GadiwanName>ढाकणे भास्कर नामदेव</GadiwanName>
+    <TrollyNoA>T1108-1</TrollyNoA>
+    <TrollyNoB>T1108-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1056</GadiwanCode>
+    <GadiwanName>डुकरे संदीप रावसाहेब</GadiwanName>
+    <TrollyNoA>T1056-1</TrollyNoA>
+    <TrollyNoB>T1056-2</TrollyNoB>
+    <VehicleNo>MH-16-A-892</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="71639">
+    <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+    <GadiwanCode>10001</GadiwanCode>
+    <GadiwanName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना लि</GadiwanName>
+    <TrollyNoA>T10001-1</TrollyNoA>
+    <TrollyNoB>T10001-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="71815">
     <ContractorName>शितोळे शामराव रामचंद्र(ट्रॅ.गा)</ContractorName>
@@ -324,21 +332,16 @@
   </ContractorCode>
   <ContractorCode Code="71969">
     <ContractorName>चव्हाण ज्ञानेश्वर अमरसिंग</ContractorName>
-    <GadiwanCode>1071</GadiwanCode>
-    <GadiwanName>चव्हान पंडित अमरसिंग</GadiwanName>
-    <TrollyNoA>T1071-1</TrollyNoA>
-    <TrollyNoB>T1071-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1070</GadiwanCode>
     <GadiwanName>पवार वाडीलाल नथू</GadiwanName>
     <TrollyNoA>T1070-1</TrollyNoA>
     <TrollyNoB>T1070-2</TrollyNoB>
     <VehicleNo>MH-19-BJ-5145</VehicleNo>
-    <GadiwanCode>1072</GadiwanCode>
-    <GadiwanName>पवार मिथुन लक्ष्मन</GadiwanName>
-    <TrollyNoA>T1072-1</TrollyNoA>
-    <TrollyNoB>T1072-2</TrollyNoB>
-    <VehicleNo>MH-19-B-4331</VehicleNo>
+    <GadiwanCode>1075</GadiwanCode>
+    <GadiwanName>राठोड जगदिस मलखान</GadiwanName>
+    <TrollyNoA>T1075-1</TrollyNoA>
+    <TrollyNoB>T1075-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1073</GadiwanCode>
     <GadiwanName>पवार भाईदास मोहन</GadiwanName>
     <TrollyNoA>T1073-1</TrollyNoA>
@@ -349,10 +352,15 @@
     <TrollyNoA>T1074-1</TrollyNoA>
     <TrollyNoB>T1074-2</TrollyNoB>
     <VehicleNo>MH-19-AB-8738</VehicleNo>
-    <GadiwanCode>1075</GadiwanCode>
-    <GadiwanName>राठोड जगदिस मलखान</GadiwanName>
-    <TrollyNoA>T1075-1</TrollyNoA>
-    <TrollyNoB>T1075-2</TrollyNoB>
+    <GadiwanCode>1072</GadiwanCode>
+    <GadiwanName>पवार मिथुन लक्ष्मन</GadiwanName>
+    <TrollyNoA>T1072-1</TrollyNoA>
+    <TrollyNoB>T1072-2</TrollyNoB>
+    <VehicleNo>MH-19-B-4331</VehicleNo>
+    <GadiwanCode>1071</GadiwanCode>
+    <GadiwanName>चव्हान पंडित अमरसिंग</GadiwanName>
+    <TrollyNoA>T1071-1</TrollyNoA>
+    <TrollyNoB>T1071-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="72013">
@@ -410,31 +418,16 @@
   </ContractorCode>
   <ContractorCode Code="74795">
     <ContractorName>गर्कळ कृष्णा महादेव</ContractorName>
-    <GadiwanCode>1002</GadiwanCode>
-    <GadiwanName>माळी शामराव राजाराम</GadiwanName>
-    <TrollyNoA>T1002-1</TrollyNoA>
-    <TrollyNoB>T1002-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
-    <GadiwanCode>1001</GadiwanCode>
-    <GadiwanName>माळी भीमा शामराव</GadiwanName>
-    <TrollyNoA>T1001-1</TrollyNoA>
-    <TrollyNoB>T1001-2</TrollyNoB>
-    <VehicleNo>MH-12-GN-6290</VehicleNo>
-    <GadiwanCode>1041</GadiwanCode>
-    <GadiwanName>घोळे हरिदास बापूराव</GadiwanName>
-    <TrollyNoA>T1041-1</TrollyNoA>
-    <TrollyNoB>T1041-2</TrollyNoB>
-    <VehicleNo>MH-23-4272</VehicleNo>
-    <GadiwanCode>1042</GadiwanCode>
-    <GadiwanName>ढवळे भाऊसाहेब रावसाहेब</GadiwanName>
-    <TrollyNoA>T1042-1</TrollyNoA>
-    <TrollyNoB>T1042-2</TrollyNoB>
-    <VehicleNo>MH-23-318</VehicleNo>
     <GadiwanCode>1043</GadiwanCode>
     <GadiwanName>वडघुले विशाल सतिश</GadiwanName>
     <TrollyNoA>T1043-1</TrollyNoA>
     <TrollyNoB>T1043-2</TrollyNoB>
     <VehicleNo>MH-12-6883</VehicleNo>
+    <GadiwanCode>1041</GadiwanCode>
+    <GadiwanName>घोळे हरिदास बापूराव</GadiwanName>
+    <TrollyNoA>T1041-1</TrollyNoA>
+    <TrollyNoB>T1041-2</TrollyNoB>
+    <VehicleNo>MH-23-4272</VehicleNo>
     <GadiwanCode>1057</GadiwanCode>
     <GadiwanName>घोक्षे नितीन हिरामण</GadiwanName>
     <TrollyNoA>T1057-1</TrollyNoA>
@@ -475,11 +468,26 @@
     <TrollyNoA>T1066-1</TrollyNoA>
     <TrollyNoB>T1066-2</TrollyNoB>
     <VehicleNo>MH-23-AG-0023</VehicleNo>
+    <GadiwanCode>1002</GadiwanCode>
+    <GadiwanName>माळी शामराव राजाराम</GadiwanName>
+    <TrollyNoA>T1002-1</TrollyNoA>
+    <TrollyNoB>T1002-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1001</GadiwanCode>
+    <GadiwanName>माळी भीमा शामराव</GadiwanName>
+    <TrollyNoA>T1001-1</TrollyNoA>
+    <TrollyNoB>T1001-2</TrollyNoB>
+    <VehicleNo>MH-12-GN-6290</VehicleNo>
     <GadiwanCode>1112</GadiwanCode>
     <GadiwanName>बडे परमेश्वर प्रभाकर</GadiwanName>
     <TrollyNoA>T1112-1</TrollyNoA>
     <TrollyNoB>T1112-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1042</GadiwanCode>
+    <GadiwanName>ढवळे भाऊसाहेब रावसाहेब</GadiwanName>
+    <TrollyNoA>T1042-1</TrollyNoA>
+    <TrollyNoB>T1042-2</TrollyNoB>
+    <VehicleNo>MH-23-318</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74797">
     <ContractorName>चव्हाण जोहरसिंग धर्मा(ट्रॅ.गा)</ContractorName>
@@ -541,16 +549,16 @@
     <TrollyNoA>T1053-1</TrollyNoA>
     <TrollyNoB>T1053-2</TrollyNoB>
     <VehicleNo>MH-14-B-2413</VehicleNo>
-    <GadiwanCode>1088</GadiwanCode>
-    <GadiwanName>बुधवंत गोरख लक्ष्मन</GadiwanName>
-    <TrollyNoA>T1088-1</TrollyNoA>
-    <TrollyNoB>T1088-2</TrollyNoB>
-    <VehicleNo>MH-16-1088</VehicleNo>
     <GadiwanCode>1050</GadiwanCode>
     <GadiwanName>इथापे महेंद्र भानुदास </GadiwanName>
     <TrollyNoA>T1050-1</TrollyNoA>
     <TrollyNoB>T1050-2</TrollyNoB>
     <VehicleNo>MH-23-7609</VehicleNo>
+    <GadiwanCode>1088</GadiwanCode>
+    <GadiwanName>बुधवंत गोरख लक्ष्मन</GadiwanName>
+    <TrollyNoA>T1088-1</TrollyNoA>
+    <TrollyNoB>T1088-2</TrollyNoB>
+    <VehicleNo>MH-16-1088</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74828">
     <ContractorName>राठोड दिलीप ममराज</ContractorName>
@@ -612,6 +620,11 @@
     <TrollyNoA>T1080-1</TrollyNoA>
     <TrollyNoB>T1080-2</TrollyNoB>
     <VehicleNo>MH-19-P-3181</VehicleNo>
+    <GadiwanCode>1082</GadiwanCode>
+    <GadiwanName>राठोड लक्ष्मण शिवराम </GadiwanName>
+    <TrollyNoA>T1082-1</TrollyNoA>
+    <TrollyNoB>T1082-2</TrollyNoB>
+    <VehicleNo>MH-19-0153</VehicleNo>
     <GadiwanCode>1079</GadiwanCode>
     <GadiwanName>चव्हाण राजू वरजन</GadiwanName>
     <TrollyNoA>T1079-1</TrollyNoA>
@@ -622,11 +635,6 @@
     <TrollyNoA>T1081-1</TrollyNoA>
     <TrollyNoB>T1081-2</TrollyNoB>
     <VehicleNo>MH-19-AN-2090</VehicleNo>
-    <GadiwanCode>1082</GadiwanCode>
-    <GadiwanName>राठोड लक्ष्मण शिवराम </GadiwanName>
-    <TrollyNoA>T1082-1</TrollyNoA>
-    <TrollyNoB>T1082-2</TrollyNoB>
-    <VehicleNo>MH-19-0153</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74841">
     <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
@@ -638,31 +646,31 @@
   </ContractorCode>
   <ContractorCode Code="74842">
     <ContractorName>बडे उत्तम हरीभाऊ</ContractorName>
-    <GadiwanCode>1101</GadiwanCode>
-    <GadiwanName>निंबाळकर राम भीमराव</GadiwanName>
-    <TrollyNoA>T1101-1</TrollyNoA>
-    <TrollyNoB>T1101-2</TrollyNoB>
-    <VehicleNo>MH-20-CK-1295</VehicleNo>
-    <GadiwanCode>1093</GadiwanCode>
-    <GadiwanName>जाधव भुजंग बबन</GadiwanName>
-    <TrollyNoA>T1093-1</TrollyNoA>
-    <TrollyNoB>T1093-2</TrollyNoB>
-    <VehicleNo>MH-17-V-9516</VehicleNo>
-    <GadiwanCode>1094</GadiwanCode>
-    <GadiwanName>सोनवणे संतोष राजेंद्र</GadiwanName>
-    <TrollyNoA>T1094-1</TrollyNoA>
-    <TrollyNoB>T1094-2</TrollyNoB>
-    <VehicleNo>MH-20-6248</VehicleNo>
-    <GadiwanCode>1095</GadiwanCode>
-    <GadiwanName>चव्हाण कानिफनाथ भाऊसो</GadiwanName>
-    <TrollyNoA>T1095-1</TrollyNoA>
-    <TrollyNoB>T1095-2</TrollyNoB>
-    <VehicleNo>MH-20-9668</VehicleNo>
     <GadiwanCode>1113</GadiwanCode>
     <GadiwanName>चौरे संदीप पांडुरंग</GadiwanName>
     <TrollyNoA>T1113-1</TrollyNoA>
     <TrollyNoB>T1113-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1095</GadiwanCode>
+    <GadiwanName>चव्हाण कानिफनाथ भाऊसो</GadiwanName>
+    <TrollyNoA>T1095-1</TrollyNoA>
+    <TrollyNoB>T1095-2</TrollyNoB>
+    <VehicleNo>MH-20-9668</VehicleNo>
+    <GadiwanCode>1094</GadiwanCode>
+    <GadiwanName>सोनवणे संतोष राजेंद्र</GadiwanName>
+    <TrollyNoA>T1094-1</TrollyNoA>
+    <TrollyNoB>T1094-2</TrollyNoB>
+    <VehicleNo>MH-20-6248</VehicleNo>
+    <GadiwanCode>1093</GadiwanCode>
+    <GadiwanName>जाधव भुजंग बबन</GadiwanName>
+    <TrollyNoA>T1093-1</TrollyNoA>
+    <TrollyNoB>T1093-2</TrollyNoB>
+    <VehicleNo>MH-17-V-9516</VehicleNo>
+    <GadiwanCode>1101</GadiwanCode>
+    <GadiwanName>निंबाळकर राम भीमराव</GadiwanName>
+    <TrollyNoA>T1101-1</TrollyNoA>
+    <TrollyNoB>T1101-2</TrollyNoB>
+    <VehicleNo>MH-20-CK-1295</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74843">
     <ContractorName>आशान बापू बाळू</ContractorName>
@@ -679,16 +687,16 @@
     <TrollyNoA>T1099-1</TrollyNoA>
     <TrollyNoB>T1099-2</TrollyNoB>
     <VehicleNo>MH-19-BG-1969</VehicleNo>
-    <GadiwanCode>1100</GadiwanCode>
-    <GadiwanName>मोरे अशोक हरिदास</GadiwanName>
-    <TrollyNoA>T1100-1</TrollyNoA>
-    <TrollyNoB>T1100-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1099</GadiwanCode>
     <GadiwanName>रणदिवे दादाभाऊ भिका</GadiwanName>
     <TrollyNoA>T1099-1</TrollyNoA>
     <TrollyNoB>T1099-2</TrollyNoB>
     <VehicleNo>MH-19-BG-1969</VehicleNo>
+    <GadiwanCode>1100</GadiwanCode>
+    <GadiwanName>मोरे अशोक हरिदास</GadiwanName>
+    <TrollyNoA>T1100-1</TrollyNoA>
+    <TrollyNoB>T1100-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74859">
     <ContractorName>जाधव पूनमचंद ताराचंद</ContractorName>
@@ -700,6 +708,11 @@
   </ContractorCode>
   <ContractorCode Code="74875">
     <ContractorName>चव्हाण रमेश भिका</ContractorName>
+    <GadiwanCode>1107</GadiwanCode>
+    <GadiwanName>चव्हाण प्रकाश प्रभू</GadiwanName>
+    <TrollyNoA>T1107-1</TrollyNoA>
+    <TrollyNoB>T1107-2</TrollyNoB>
+    <VehicleNo>MH-15-6356</VehicleNo>
     <GadiwanCode>1106</GadiwanCode>
     <GadiwanName>जाधव विश्वनाथ परसराम</GadiwanName>
     <TrollyNoA>T1106-1</TrollyNoA>
@@ -715,11 +728,6 @@
     <TrollyNoA>T1104-1</TrollyNoA>
     <TrollyNoB>T1104-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
-    <GadiwanCode>1107</GadiwanCode>
-    <GadiwanName>चव्हाण प्रकाश प्रभू</GadiwanName>
-    <TrollyNoA>T1107-1</TrollyNoA>
-    <TrollyNoB>T1107-2</TrollyNoB>
-    <VehicleNo>MH-15-6356</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74970">
     <ContractorName>जगताप बापूराव गणपत</ContractorName>
@@ -747,11 +755,6 @@
   </ContractorCode>
   <ContractorCode Code="75077">
     <ContractorName>आडे मलखान बाबु</ContractorName>
-    <GadiwanCode>1120</GadiwanCode>
-    <GadiwanName>खाडे लक्ष्मन भावडू</GadiwanName>
-    <TrollyNoA>T1120-1</TrollyNoA>
-    <TrollyNoB>T1120-2</TrollyNoB>
-    <VehicleNo>MH-18-8676</VehicleNo>
     <GadiwanCode>1121</GadiwanCode>
     <GadiwanName>चव्हाण अनिल विश्राम</GadiwanName>
     <TrollyNoA>T1121-1</TrollyNoA>
@@ -762,15 +765,20 @@
     <TrollyNoA>T1123-1</TrollyNoA>
     <TrollyNoB>T1123-2</TrollyNoB>
     <VehicleNo>MH-15-3957</VehicleNo>
-    <GadiwanCode>1119</GadiwanCode>
-    <GadiwanName>जाधव समाधान पापालाल</GadiwanName>
-    <TrollyNoA>T1119-1</TrollyNoA>
-    <TrollyNoB>T1119-2</TrollyNoB>
-    <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1118</GadiwanCode>
     <GadiwanName>पवार धारा दौलत</GadiwanName>
     <TrollyNoA>T1118-1</TrollyNoA>
     <TrollyNoB>T1118-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1120</GadiwanCode>
+    <GadiwanName>खाडे लक्ष्मन भावडू</GadiwanName>
+    <TrollyNoA>T1120-1</TrollyNoA>
+    <TrollyNoB>T1120-2</TrollyNoB>
+    <VehicleNo>MH-18-8676</VehicleNo>
+    <GadiwanCode>1119</GadiwanCode>
+    <GadiwanName>जाधव समाधान पापालाल</GadiwanName>
+    <TrollyNoA>T1119-1</TrollyNoA>
+    <TrollyNoB>T1119-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="75095">

@@ -443,11 +443,6 @@
     <GadiwanCode>1000</GadiwanCode>
     <GadiwanName>श्री जनसेवा प्रतिष्ठान,शिक्रापूर(गाडीतळ,कांडी,टिपरी)</GadiwanName>
   </ContractorCode>
-  <ContractorCode Code="71639">
-    <ContractorName />
-    <GadiwanCode>10001</GadiwanCode>
-    <GadiwanName>श्रीनाथ म्हस्कोबा साखर कारखाना लि</GadiwanName>
-  </ContractorCode>
   <ContractorCode Code="71830">
     <ContractorName>खरमाटे विष्णु आश्रुबा</ContractorName>
     <GadiwanCode>196</GadiwanCode>
@@ -705,5 +700,10 @@
     <ContractorName>राठोड रघुनाथ शंकर</ContractorName>
     <GadiwanCode>211</GadiwanCode>
     <GadiwanName>राठोड निलेश रघुनाथ</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="75452">
+    <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली.</ContractorName>
+    <GadiwanCode>999</GadiwanCode>
+    <GadiwanName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली.</GadiwanName>
   </ContractorCode>
 </ContractorDetails>
