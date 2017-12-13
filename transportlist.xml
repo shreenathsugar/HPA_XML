@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="71205">
-      <ContractorName>डुबे मल्हारी विठ्ठल</ContractorName>
-      <VehicleNo>MH-42-Y-2162</VehicleNo>
-      <TrollyNoA>T71205-1</TrollyNoA>
-      <TrollyNoB>T71205-2</TrollyNoB>
+    <ContractorCode Code="75460">
+      <ContractorName>थोरात विकास प्रभाकर</ContractorName>
+      <VehicleNo>MH-12-2189</VehicleNo>
+      <TrollyNoA>T75460-1</TrollyNoA>
+      <TrollyNoB>T75460-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74379">
       <ContractorName>गायकवाड एस.आर</ContractorName>
@@ -415,18 +415,6 @@
       <TrollyNoA>T75135-1</TrollyNoA>
       <TrollyNoB>T75135-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68603">
-      <ContractorName>धायगुडे विशाल विठ्ठल</ContractorName>
-      <VehicleNo>MH-17-V-2967</VehicleNo>
-      <TrollyNoA>T68603-1</TrollyNoA>
-      <TrollyNoB>T68603-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68604">
-      <ContractorName>धायगुडे राहुल शंकर</ContractorName>
-      <VehicleNo>MH-12-BB-1500</VehicleNo>
-      <TrollyNoA>T68604-1</TrollyNoA>
-      <TrollyNoB>T68604-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="68605">
       <ContractorName>धायगुडे संदिप शंकर</ContractorName>
       <VehicleNo>MH-42-Y-4481</VehicleNo>
@@ -475,11 +463,11 @@
       <TrollyNoA>T71204-1</TrollyNoA>
       <TrollyNoB>T71204-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="74378">
-      <ContractorName>गायकवाड ए.बी</ContractorName>
-      <VehicleNo>MH-16-T-4042</VehicleNo>
-      <TrollyNoA>T74378-1</TrollyNoA>
-      <TrollyNoB>T74378-2</TrollyNoB>
+    <ContractorCode Code="71205">
+      <ContractorName>डुबे मल्हारी विठ्ठल</ContractorName>
+      <VehicleNo>MH-42-Y-2162</VehicleNo>
+      <TrollyNoA>T71205-1</TrollyNoA>
+      <TrollyNoB>T71205-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="71530">
       <ContractorName>भांडवलकर गणेश तात्याबा</ContractorName>
@@ -726,6 +714,18 @@
       <VehicleNo>MH-25-H-7033</VehicleNo>
       <TrollyNoA>T75416-1</TrollyNoA>
       <TrollyNoB>T75416-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75449">
+      <ContractorName>केदार बबन अर्जुन</ContractorName>
+      <VehicleNo>MH-26-K-9211</VehicleNo>
+      <TrollyNoA>T75449-1</TrollyNoA>
+      <TrollyNoB>T75449-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="74378">
+      <ContractorName>गायकवाड ए.बी</ContractorName>
+      <VehicleNo>MH-16-T-4042</VehicleNo>
+      <TrollyNoA>T74378-1</TrollyNoA>
+      <TrollyNoB>T74378-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
@@ -1339,6 +1339,18 @@
       <TrollyNoA>T68601-1</TrollyNoA>
       <TrollyNoB>T68601-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="68603">
+      <ContractorName>धायगुडे विशाल विठ्ठल</ContractorName>
+      <VehicleNo>MH-17-V-2967</VehicleNo>
+      <TrollyNoA>T68603-1</TrollyNoA>
+      <TrollyNoB>T68603-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68604">
+      <ContractorName>धायगुडे राहुल शंकर</ContractorName>
+      <VehicleNo>MH-12-BB-1500</VehicleNo>
+      <TrollyNoA>T68604-1</TrollyNoA>
+      <TrollyNoB>T68604-2</TrollyNoB>
+    </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
     <ContractorCode Code="49261">
@@ -1443,6 +1455,12 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
+    <ContractorCode Code="68808">
+      <ContractorName>ताकवणे चंद्रकांत कृष्णाजी</ContractorName>
+      <VehicleNo>MH-42-Y-2431</VehicleNo>
+      <TrollyNoA>T68808-1</TrollyNoA>
+      <TrollyNoB>T68808-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="68809">
       <ContractorName>ताकवणे गोरख महादेव</ContractorName>
       <VehicleNo>MH-42-Y-3011</VehicleNo>
@@ -1598,12 +1616,6 @@
       <VehicleNo>MH-23-T-732</VehicleNo>
       <TrollyNoA>T68798-1</TrollyNoA>
       <TrollyNoB>T68798-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68808">
-      <ContractorName>ताकवणे चंद्रकांत कृष्णाजी</ContractorName>
-      <VehicleNo>MH-42-Y-2431</VehicleNo>
-      <TrollyNoA>T68808-1</TrollyNoA>
-      <TrollyNoB>T68808-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
