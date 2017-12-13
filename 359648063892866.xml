@@ -78356,4 +78356,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128399">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35793</GrowerCode>
+    <GrowerName>साठे नाथु बबन</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>26</VillageCode>
+    <VillageName>दरेकरवाडी</VillageName>
+    <SubVillageCode>1767</SubVillageCode>
+    <SubVillageName>दरेकरवाडी(२४)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>734</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
