@@ -36347,4 +36347,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128408">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10864</GrowerCode>
+    <GrowerName>जाधव मिराबाई पोपट</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>312</SubVillageCode>
+    <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
+    <serveNo>309</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128417">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>65695</GrowerCode>
+    <GrowerName>थोरात नागेश चंद्रकांत</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>312</SubVillageCode>
+    <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
+    <serveNo>324</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
