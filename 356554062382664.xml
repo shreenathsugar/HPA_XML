@@ -19513,4 +19513,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128422">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72573</GrowerCode>
+    <GrowerName>साळुंके प्रभाकर तात्याबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1847</VillageCode>
+    <VillageName>मांडकी</VillageName>
+    <SubVillageCode>1848</SubVillageCode>
+    <SubVillageName>मांडकी(१०५) निरामार्गे</SubVillageName>
+    <serveNo>351</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128416">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72523</GrowerCode>
+    <GrowerName>किन्हाळे संतोष त्रिंबक</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1847</VillageCode>
+    <VillageName>मांडकी</VillageName>
+    <SubVillageCode>1848</SubVillageCode>
+    <SubVillageName>मांडकी(१०५) निरामार्गे</SubVillageName>
+    <serveNo>192</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
