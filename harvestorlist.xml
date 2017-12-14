@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="Doki">
-    <ContractorCode Code="74733">
-      <ContractorName>हंडाळ बाळू बाबासाहेब(सोनवणे दादाभाऊ सदा)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="74734">
       <ContractorName>हंडाळ बी.बी(जाधव सुरेश परशुराम )</ContractorName>
     </ContractorCode>
@@ -19,8 +16,8 @@
     <ContractorCode Code="74738">
       <ContractorName>शितोळे लक्ष्मण रंगराव(गायकवाड शिवदास बिवाल)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="69184">
-      <ContractorName>व्ही.एस.आय</ContractorName>
+    <ContractorCode Code="68861">
+      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74740">
       <ContractorName>जाधव ताराचंद शंकर</ContractorName>
@@ -153,8 +150,8 @@
     <ContractorCode Code="74848">
       <ContractorName>पवार मलखान ताराचंद</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68861">
-      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+    <ContractorCode Code="69184">
+      <ContractorName>व्ही.एस.आय</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74728">
       <ContractorName>आवाळे योगेश भाऊसाहेब(ठाकरे कांतीलाल सिताराम)</ContractorName>
@@ -195,11 +192,14 @@
     <ContractorCode Code="75451">
       <ContractorName>महाडीक जे.जी</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="74733">
+      <ContractorName>हंडाळ बाळू बाबासाहेब(सोनवणे दादाभाऊ सदा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75468">
+      <ContractorName>थोरात मुकेश चंद्रकांत(पाटोळे संतोष रावसाहेब)</ContractorName>
+    </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="74606">
-      <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="74607">
       <ContractorName>शिरसाठ साईनाथ दशरथ</ContractorName>
     </ContractorCode>
@@ -473,8 +473,8 @@
     <ContractorCode Code="74698">
       <ContractorName>सुळ ज्ञानदेव खंडू(चव्हाण दादा हरसिंग)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74700">
-      <ContractorName>ताकवणे निलेश विलास(आहिरे गणेश गोविंद)</ContractorName>
+    <ContractorCode Code="74699">
+      <ContractorName>ताकवणे हनुमंत किसन(सोनवणे राजेंद्र बन्सी)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74701">
       <ContractorName>ताकवणे विठ्ठल नामदेव(जाधव देवीदास मांगू)</ContractorName>
@@ -584,8 +584,11 @@
     <ContractorCode Code="75415">
       <ContractorName>गायकवाड धनेश चांगदेव(सोनवणे डोंगरसिंग चत्रू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74699">
-      <ContractorName>ताकवणे हनुमंत किसन(सोनवणे राजेंद्र बन्सी)</ContractorName>
+    <ContractorCode Code="75459">
+      <ContractorName>थोरात विकास प्रभाकर</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74700">
+      <ContractorName>ताकवणे निलेश विलास(आहिरे गणेश गोविंद)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74545">
       <ContractorName>आशान बापू बाळू</ContractorName>
@@ -763,6 +766,9 @@
     </ContractorCode>
     <ContractorCode Code="74605">
       <ContractorName>शिंदे तान्हाजी नामदेव(राठोड संतोष सोमा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74606">
+      <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
