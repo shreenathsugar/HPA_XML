@@ -23997,4 +23997,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128507">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75473</GrowerCode>
+    <GrowerName>नळकांडे पुनम गणेश</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1103</VillageCode>
+    <VillageName>गणेगाव खालसा</VillageName>
+    <SubVillageCode>1742</SubVillageCode>
+    <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>228</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128411">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62761</GrowerCode>
+    <GrowerName>धुमाळ बुवाजी मारूती</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>पिंपळे धुमाळ</VillageName>
+    <SubVillageCode>1748</SubVillageCode>
+    <SubVillageName>पिंपळे धुमाळ (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>313</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128491">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59495</GrowerCode>
+    <GrowerName>वाबळे पांडुरंग गुलाबराव </GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1103</VillageCode>
+    <VillageName>गणेगाव खालसा</VillageName>
+    <SubVillageCode>1742</SubVillageCode>
+    <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>???</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128490">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20732</GrowerCode>
+    <GrowerName>वाबळे सुखदेव गुलाब</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1103</VillageCode>
+    <VillageName>गणेगाव खालसा</VillageName>
+    <SubVillageCode>1742</SubVillageCode>
+    <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>???</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128488">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67263</GrowerCode>
+    <GrowerName>दिघे चंद्रकांत कैलास</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1087</VillageCode>
+    <VillageName>कोंढापुरी</VillageName>
+    <SubVillageCode>1743</SubVillageCode>
+    <SubVillageName>कोंढापुरी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>???</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
