@@ -79211,4 +79211,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128554">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75494</GrowerCode>
+    <GrowerName>शेलार सविता मनोहर</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>106</VillageCode>
+    <VillageName>कानगाव</VillageName>
+    <SubVillageCode>897</SubVillageCode>
+    <SubVillageName>कानगांव(पारगावमार्गे])(४२)</SubVillageName>
+    <serveNo>754</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128555">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>53739</GrowerCode>
+    <GrowerName>ससाणे दिलीप शंकर</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>106</VillageCode>
+    <VillageName>कानगाव</VillageName>
+    <SubVillageCode>897</SubVillageCode>
+    <SubVillageName>कानगांव(पारगावमार्गे])(४२)</SubVillageName>
+    <serveNo>317</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
