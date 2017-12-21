@@ -80142,4 +80142,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128602">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>65639</GrowerCode>
+    <GrowerName>खांदवे नवनाथ चंद्रकांत</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>30</VillageCode>
+    <VillageName>आपटी</VillageName>
+    <SubVillageCode>1753</SubVillageCode>
+    <SubVillageName>आपटी (३५) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>321</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128612">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>30307</GrowerCode>
+    <GrowerName>गव्हाणे मंगल गोपीनाथ</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <SubVillageCode>1766</SubVillageCode>
+    <SubVillageName>डिंग्रजवाडी(२५)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>583</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128613">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33645</GrowerCode>
+    <GrowerName>गव्हाणे गोपीनाथ रामचंद्र</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <SubVillageCode>1766</SubVillageCode>
+    <SubVillageName>डिंग्रजवाडी(२५)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>583</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
