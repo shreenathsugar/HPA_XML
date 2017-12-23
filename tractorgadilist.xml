@@ -544,6 +544,11 @@
   </ContractorCode>
   <ContractorCode Code="74805">
     <ContractorName>शिरसाठ आजिनाथ उत्तम(ट्रॅ.गा)</ContractorName>
+    <GadiwanCode>1050</GadiwanCode>
+    <GadiwanName>इथापे महेंद्र भानुदास </GadiwanName>
+    <TrollyNoA>T1050-1</TrollyNoA>
+    <TrollyNoB>T1050-2</TrollyNoB>
+    <VehicleNo>MH-23-7609</VehicleNo>
     <GadiwanCode>1088</GadiwanCode>
     <GadiwanName>बुधवंत गोरख लक्ष्मन</GadiwanName>
     <TrollyNoA>T1088-1</TrollyNoA>
@@ -554,11 +559,6 @@
     <TrollyNoA>T1053-1</TrollyNoA>
     <TrollyNoB>T1053-2</TrollyNoB>
     <VehicleNo>MH-14-B-2413</VehicleNo>
-    <GadiwanCode>1050</GadiwanCode>
-    <GadiwanName>इथापे महेंद्र भानुदास </GadiwanName>
-    <TrollyNoA>T1050-1</TrollyNoA>
-    <TrollyNoB>T1050-2</TrollyNoB>
-    <VehicleNo>MH-23-7609</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74828">
     <ContractorName>राठोड दिलीप ममराज</ContractorName>
@@ -682,21 +682,21 @@
   </ContractorCode>
   <ContractorCode Code="74854">
     <ContractorName>रणदिवे दादाभाऊ भिका</ContractorName>
-    <GadiwanCode>1099</GadiwanCode>
-    <GadiwanName>रणदिवे दादाभाऊ भिका</GadiwanName>
-    <TrollyNoA>T1099-1</TrollyNoA>
-    <TrollyNoB>T1099-2</TrollyNoB>
-    <VehicleNo>MH-19-BG-1969</VehicleNo>
-    <GadiwanCode>1099</GadiwanCode>
-    <GadiwanName>रणदिवे दादाभाऊ भिका</GadiwanName>
-    <TrollyNoA>T1099-1</TrollyNoA>
-    <TrollyNoB>T1099-2</TrollyNoB>
-    <VehicleNo>MH-19-BG-1969</VehicleNo>
     <GadiwanCode>1100</GadiwanCode>
     <GadiwanName>मोरे अशोक हरिदास</GadiwanName>
     <TrollyNoA>T1100-1</TrollyNoA>
     <TrollyNoB>T1100-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1099</GadiwanCode>
+    <GadiwanName>रणदिवे दादाभाऊ भिका</GadiwanName>
+    <TrollyNoA>T1099-1</TrollyNoA>
+    <TrollyNoB>T1099-2</TrollyNoB>
+    <VehicleNo>MH-19-BG-1969</VehicleNo>
+    <GadiwanCode>1099</GadiwanCode>
+    <GadiwanName>रणदिवे दादाभाऊ भिका</GadiwanName>
+    <TrollyNoA>T1099-1</TrollyNoA>
+    <TrollyNoB>T1099-2</TrollyNoB>
+    <VehicleNo>MH-19-BG-1969</VehicleNo>
   </ContractorCode>
   <ContractorCode Code="74859">
     <ContractorName>जाधव पूनमचंद ताराचंद</ContractorName>
