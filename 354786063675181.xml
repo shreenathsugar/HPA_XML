@@ -13623,4 +13623,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="119598">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10994</GrowerCode>
+    <GrowerName>ढमढेरे हरिभाऊ दामोदर</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1775</SubVillageCode>
+    <SubVillageName>पुनर्वसन(१६)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>367</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
