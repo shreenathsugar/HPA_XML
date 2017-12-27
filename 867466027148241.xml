@@ -82251,4 +82251,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128972">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75582</GrowerCode>
+    <GrowerName>टिळेकर दत्तात्रय रामदास</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>93</VillageCode>
+    <VillageName>लडकतवाडी</VillageName>
+    <SubVillageCode>286</SubVillageCode>
+    <SubVillageName>लडकतवाडी (१५)</SubVillageName>
+    <serveNo>678</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128973">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56630</GrowerCode>
+    <GrowerName>नेवसे उमेश विलास</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>127</VillageCode>
+    <VillageName>उंडवडी</VillageName>
+    <SubVillageCode>1644</SubVillageCode>
+    <SubVillageName>उंडवडी(१४)</SubVillageName>
+    <serveNo>7</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
