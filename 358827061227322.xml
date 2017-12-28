@@ -21261,4 +21261,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="128992">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15643</GrowerCode>
+    <GrowerName>थोरात क्षितीजा विठ्ठल</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>107</VillageCode>
+    <VillageName>देलवडी</VillageName>
+    <SubVillageCode>301</SubVillageCode>
+    <SubVillageName>एकेरीवाडी(देलवडीमार्गे])(१८)</SubVillageName>
+    <serveNo>789</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
