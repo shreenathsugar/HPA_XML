@@ -26676,4 +26676,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129005">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75581</GrowerCode>
+    <GrowerName>बोराटे भोजराज केरू</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <SubVillageCode>292</SubVillageCode>
+    <SubVillageName>नांदूर(१६)</SubVillageName>
+    <serveNo>78</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129011">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14319</GrowerCode>
+    <GrowerName>टिळेकर  मिलिंद सुभाष</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <SubVillageCode>1825</SubVillageCode>
+    <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+    <serveNo>54</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129019">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69080</GrowerCode>
+    <GrowerName>टिळेकर भालचंद्र महादेव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>113</VillageCode>
+    <VillageName>यवत </VillageName>
+    <SubVillageCode>306</SubVillageCode>
+    <SubVillageName>यवत(२७)</SubVillageName>
+    <serveNo>456</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="128991">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>63354</GrowerCode>
+    <GrowerName>शेंडगे लक्ष्मण बबन</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>113</VillageCode>
+    <VillageName>यवत </VillageName>
+    <SubVillageCode>306</SubVillageCode>
+    <SubVillageName>यवत(२७)</SubVillageName>
+    <serveNo>367</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
