@@ -21432,4 +21432,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129028">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75627</GrowerCode>
+    <GrowerName>शेलार पुजा किशोर</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>107</VillageCode>
+    <VillageName>देलवडी</VillageName>
+    <SubVillageCode>301</SubVillageCode>
+    <SubVillageName>एकेरीवाडी(देलवडीमार्गे])(१८)</SubVillageName>
+    <serveNo>588</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129024">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10812</GrowerCode>
+    <GrowerName>म्हेत्रे प्रकाश मुरलीधर </GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>109</VillageCode>
+    <VillageName>खुटबाव</VillageName>
+    <SubVillageCode>302</SubVillageCode>
+    <SubVillageName>खुटबाव(पिंपळगाव मार्गे])(१९)</SubVillageName>
+    <serveNo>578</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
