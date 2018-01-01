@@ -37221,4 +37221,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="105893">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37777</GrowerCode>
+    <GrowerName>खळदे भगवान लक्ष्मण</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>84</VillageCode>
+    <VillageName>देवकरवाडी</VillageName>
+    <SubVillageCode>946</SubVillageCode>
+    <SubVillageName>देवकरवाडी(६)</SubVillageName>
+    <serveNo>499</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
