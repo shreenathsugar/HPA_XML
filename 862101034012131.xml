@@ -14402,4 +14402,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129130">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56146</GrowerCode>
+    <GrowerName>सिन्नरकर बाबुराव दिनकर</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1539</VillageCode>
+    <VillageName>आंबळे</VillageName>
+    <SubVillageCode>1638</SubVillageCode>
+    <SubVillageName>आंबळे(४०)पारगावमार्गे</SubVillageName>
+    <serveNo>456</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
