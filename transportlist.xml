@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="75636">
-      <ContractorName>गायकवाड एन.के</ContractorName>
-      <VehicleNo>MH-12-JN-8789</VehicleNo>
-      <TrollyNoA>T75636-1</TrollyNoA>
-      <TrollyNoB>T75636-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="74408">
-      <ContractorName>ढवळे प्रदिप नामदेव</ContractorName>
-      <VehicleNo>MH-42-Y-1144</VehicleNo>
-      <TrollyNoA>T74408-1</TrollyNoA>
-      <TrollyNoB>T74408-2</TrollyNoB>
+    <ContractorCode Code="75651">
+      <ContractorName>गदादे बाळू गणपत</ContractorName>
+      <VehicleNo>MH-12-JN-6383</VehicleNo>
+      <TrollyNoA>T75651-1</TrollyNoA>
+      <TrollyNoB>T75651-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74410">
       <ContractorName>राठोड संजय मल्लू</ContractorName>
@@ -342,6 +336,12 @@
       <VehicleNo>MH-42-Q-3360</VehicleNo>
       <TrollyNoA>T74407-1</TrollyNoA>
       <TrollyNoB>T74407-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75636">
+      <ContractorName>गायकवाड एन.के</ContractorName>
+      <VehicleNo>MH-12-JN-8789</VehicleNo>
+      <TrollyNoA>T75636-1</TrollyNoA>
+      <TrollyNoB>T75636-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="13005">
       <ContractorName>खेनट अरुण कोंडीबा</ContractorName>
@@ -1422,6 +1422,12 @@
       <VehicleNo>MH-42-Q-209</VehicleNo>
       <TrollyNoA>T74404-1</TrollyNoA>
       <TrollyNoB>T74404-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="74408">
+      <ContractorName>ढवळे प्रदिप नामदेव</ContractorName>
+      <VehicleNo>MH-42-Y-1144</VehicleNo>
+      <TrollyNoA>T74408-1</TrollyNoA>
+      <TrollyNoB>T74408-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
