@@ -774,4 +774,57 @@
     <TrollyNoB>T1118-2</TrollyNoB>
     <VehicleNo>NEW</VehicleNo>
     <GadiwanCode>1119</GadiwanCode>
-    <GadiwanName>जाधव समाधा
+    <GadiwanName>जाधव समाधान पापालाल</GadiwanName>
+    <TrollyNoA>T1119-1</TrollyNoA>
+    <TrollyNoB>T1119-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+    <GadiwanCode>1120</GadiwanCode>
+    <GadiwanName>खाडे लक्ष्मन भावडू</GadiwanName>
+    <TrollyNoA>T1120-1</TrollyNoA>
+    <TrollyNoB>T1120-2</TrollyNoB>
+    <VehicleNo>MH-18-8676</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="75095">
+    <ContractorName>राठोड हिम्मत बिना</ContractorName>
+    <GadiwanCode>1122</GadiwanCode>
+    <GadiwanName>राठोड हिम्मत बिना</GadiwanName>
+    <TrollyNoA>T1122-1</TrollyNoA>
+    <TrollyNoB>T1122-2</TrollyNoB>
+    <VehicleNo>MH-19-AB-8738</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="75110">
+    <ContractorName>शिर्के सुनिल गणपत</ContractorName>
+    <GadiwanCode>1124</GadiwanCode>
+    <GadiwanName>शिर्के सुनील गणपत</GadiwanName>
+    <TrollyNoA>T1124-1</TrollyNoA>
+    <TrollyNoB>T1124-2</TrollyNoB>
+    <VehicleNo>MH-42-0607</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="75193">
+    <ContractorName>ताकवणे नामदेव रघुनाथ</ContractorName>
+    <GadiwanCode>1125</GadiwanCode>
+    <GadiwanName>ताकवणे नामदेव रघुनाथ</GadiwanName>
+    <TrollyNoA>T1125-1</TrollyNoA>
+    <TrollyNoB>T1125-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="75356">
+    <ContractorName>पाटोळे संतोष रावसाहेब</ContractorName>
+    <GadiwanCode>1126</GadiwanCode>
+    <GadiwanName>पाटोळे संतोष रावसाहेब</GadiwanName>
+    <TrollyNoA>T1126-1</TrollyNoA>
+    <TrollyNoB>T1126-2</TrollyNoB>
+    <VehicleNo>MH-21-AD-6080</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="75386">
+    <ContractorName>राठोड पदम बद्री</ContractorName>
+    <GadiwanCode>1127</GadiwanCode>
+    <GadiwanName>राठोड पदम बद्री</GadiwanName>
+    <TrollyNoA>T1127-1</TrollyNoA>
+    <TrollyNoB>T1127-2</TrollyNoB>
+    <VehicleNo>NEW</VehicleNo>
+  </ContractorCode>
+  <ContractorCode Code="75503">
+    <ContractorName>भगत संतोष कुंडलिक</ContractorName>
+    <GadiwanCode>1129</GadiwanCode>
+    <GadiwanName
