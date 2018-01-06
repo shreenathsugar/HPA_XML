@@ -24909,4 +24909,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129177">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75686</GrowerCode>
+    <GrowerName>टेमगिरे केशर गणेश</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1741</SubVillageCode>
+    <SubVillageName>बुरुंजवाडी (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>???</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127755">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>73405</GrowerCode>
+    <GrowerName>धुमाळ सतिश नानासाहेब</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1383</VillageCode>
+    <VillageName>मुखई</VillageName>
+    <SubVillageCode>1835</SubVillageCode>
+    <SubVillageName>मुखई(३४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>355</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
