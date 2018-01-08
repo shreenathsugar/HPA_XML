@@ -86413,4 +86413,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129242">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75725</GrowerCode>
+    <GrowerName>ढमाळ सतिश चंद्र्कांत</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>49</VillageCode>
+    <VillageName>साद्लगाव</VillageName>
+    <SubVillageCode>1634</SubVillageCode>
+    <SubVillageName>सादलगाव(३६)पारगावमार्गे</SubVillageName>
+    <serveNo>54</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="127507">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>17231</GrowerCode>
+    <GrowerName>फडतरे सुनिल सुरेश</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>धानोरे</VillageName>
+    <SubVillageCode>1765</SubVillageCode>
+    <SubVillageName>धानोरे(२१)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>280</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
