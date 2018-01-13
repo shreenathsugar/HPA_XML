@@ -15200,4 +15200,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129435">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22110</GrowerCode>
+    <GrowerName>बोरकर अनिल संपत</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>46</VillageCode>
+    <VillageName>कुरुळी</VillageName>
+    <SubVillageCode>1631</SubVillageCode>
+    <SubVillageName>कुरुळी(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>205</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
