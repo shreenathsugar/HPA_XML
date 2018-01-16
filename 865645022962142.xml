@@ -14896,4 +14896,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="119262">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69427</GrowerCode>
+    <GrowerName>भुमाकर नारायण रामभाऊ</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1379</VillageCode>
+    <VillageName>कासारी</VillageName>
+    <SubVillageCode>1811</SubVillageCode>
+    <SubVillageName>कासारी(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>1085</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="119266">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41517</GrowerCode>
+    <GrowerName>भुजबळ रामदास बाबुराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>भिमशेत</VillageName>
+    <SubVillageCode>1800</SubVillageCode>
+    <SubVillageName>भिमशेत(14)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2732</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
