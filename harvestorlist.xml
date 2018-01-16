@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="74606">
-      <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
+    <ContractorCode Code="74608">
+      <ContractorName>शितोळे योगिराज किसन(चव्हाण कैलास बल्लू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74677">
+      <ContractorName>राठोड सी.एम</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74678">
+      <ContractorName>सकोरे विकास आत्माराम(राठोड नामदेव मारू)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74679">
       <ContractorName>साळुंके गणेश शिवाजी(पठाण राजु अकबर)</ContractorName>
@@ -77,7 +83,7 @@
       <ContractorName>ताकवणे व्ही.एन(जाधव देविदास मांगू)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74703">
-      <ContractorName>ताकवणे नामदेव रघुनाथ(जाधव रमेश गोरख</ContractorName>
+      <ContractorName>ताकवणे नामदेव रघुनाथ(राठोड शिवाजी काशिनाथ)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74704">
       <ContractorName>ताकवणे रामदास गोविंद(राठोड मोतीराम गुलाब)</ContractorName>
@@ -186,6 +192,9 @@
     </ContractorCode>
     <ContractorCode Code="75650">
       <ContractorName>गदादे बाळू गणपत(राठोड प्रकाश भुरा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75793">
+      <ContractorName>शेलार दत्तात्रय मारुती</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74545">
       <ContractorName>आशान बापू बाळू</ContractorName>
@@ -364,11 +373,11 @@
     <ContractorCode Code="74605">
       <ContractorName>शिंदे तान्हाजी नामदेव(राठोड संतोष सोमा)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="74606">
+      <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="74607">
       <ContractorName>शिरसाठ साईनाथ दशरथ</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74608">
-      <ContractorName>शितोळे योगिराज किसन(चव्हाण कैलास बल्लू)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74609">
       <ContractorName>शिवले अंकुश खंडू(राठोड पिंटू दिनकर)</ContractorName>
@@ -571,12 +580,6 @@
     <ContractorCode Code="74676">
       <ContractorName>राठोड रोहिदास धनू</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74677">
-      <ContractorName>राठोड सी.एम</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74678">
-      <ContractorName>सकोरे विकास आत्माराम(राठोड नामदेव मारू)</ContractorName>
-    </ContractorCode>
   </harvestorType>
   <harvestorType type="डोकी सेंटर">
     <ContractorCode Code="69184">
@@ -584,33 +587,6 @@
     </ContractorCode>
     <ContractorCode Code="72081">
       <ContractorName>कदम पांडुरंग तुकाराम</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="68861">
-      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="75031">
-      <ContractorName>थोरात प्रविण उल्हास</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="75041">
-      <ContractorName>गिरमे अलोक सुरेन्द्र</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="75134">
-      <ContractorName>शिंदे विकास वामन</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74916">
-      <ContractorName>चव्हाण मोरेश्वर शरद</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="75468">
-      <ContractorName>थोरात मुकेश चंद्रकांत(पाटोळे संतोष रावसाहेब)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="75451">
-      <ContractorName>महाडीक जे.जी</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74728">
-      <ContractorName>आवाळे योगेश भाऊसाहेब(ठाकरे कांतीलाल सिताराम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74729">
-      <ContractorName>भोंगळे राजेंद्र निवृत्ती(भोसले संजय भिवराव)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74730">
       <ContractorName>भोसले विश्वास राजाराम(राठोड प्रेम)</ContractorName>
@@ -639,8 +615,8 @@
     <ContractorCode Code="74738">
       <ContractorName>शितोळे लक्ष्मण रंगराव(गायकवाड शिवदास बिवाल)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74968">
-      <ContractorName>शितोळे सोपान माणिकराव(चव्हाण मांगीलाल संभाजी)</ContractorName>
+    <ContractorCode Code="75031">
+      <ContractorName>थोरात प्रविण उल्हास</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74740">
       <ContractorName>जाधव ताराचंद शंकर</ContractorName>
@@ -663,8 +639,8 @@
     <ContractorCode Code="74746">
       <ContractorName>ढवळे प्रदीप नामदेव(ठाकरे संतोष दादा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74972">
-      <ContractorName>खेनट अतुल नामदेव</ContractorName>
+    <ContractorCode Code="75041">
+      <ContractorName>गिरमे अलोक सुरेन्द्र</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74748">
       <ContractorName>राठोड संजय मल्लू</ContractorName>
@@ -708,9 +684,6 @@
     <ContractorCode Code="74761">
       <ContractorName>ताकवणे अमोल बाळासाहेब (म्हाळसे वाल्मिक रामचंद्र)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74647">
-      <ContractorName>मेमाणे उद्धव किसन(राठोड रोहिदास ताराचंद)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="74762">
       <ContractorName>ताकवणे निलेश लक्ष्मण(पठारे वाल्मिक उत्तम)</ContractorName>
     </ContractorCode>
@@ -728,6 +701,9 @@
     </ContractorCode>
     <ContractorCode Code="74767">
       <ContractorName>टुले सदाशिव नामदेव(चव्हाण संतोष आनंदा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74647">
+      <ContractorName>मेमाणे उद्धव किसन(राठोड रोहिदास ताराचंद)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74768">
       <ContractorName>टुले वैभव भगवान(ठाकरे संजय लालसिंग)</ContractorName>
@@ -761,8 +737,8 @@
     <ContractorCode Code="74774">
       <ContractorName>थोरात सुभाष शांताराम(पावरा अमरसिंग नागेश्वर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74973">
-      <ContractorName>म्हेत्रे राहुल नाना(भिल्ल गंगाधर भाईदास)</ContractorName>
+    <ContractorCode Code="75134">
+      <ContractorName>शिंदे विकास वामन</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74845">
       <ContractorName>राठोड सुदाम शुकलाल</ContractorName>
@@ -775,6 +751,42 @@
     </ContractorCode>
     <ContractorCode Code="74848">
       <ContractorName>पवार मलखान ताराचंद</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75804">
+      <ContractorName>शेलार दत्तात्रय नारायण</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75451">
+      <ContractorName>महाडीक जे.जी</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75779">
+      <ContractorName>श्रीराम अर्जुन दगडू</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74916">
+      <ContractorName>चव्हाण मोरेश्वर शरद</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75468">
+      <ContractorName>थोरात मुकेश चंद्रकांत(पाटोळे संतोष रावसाहेब)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75780">
+      <ContractorName>श्रीराम ए.डी</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74968">
+      <ContractorName>शितोळे सोपान माणिकराव(चव्हाण मांगीलाल संभाजी)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74972">
+      <ContractorName>खेनट अतुल नामदेव</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74973">
+      <ContractorName>म्हेत्रे राहुल नाना(भिल्ल गंगाधर भाईदास)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74728">
+      <ContractorName>आवाळे योगेश भाऊसाहेब(ठाकरे कांतीलाल सिताराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74729">
+      <ContractorName>भोंगळे राजेंद्र निवृत्ती(भोसले संजय भिवराव)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="68861">
+      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
