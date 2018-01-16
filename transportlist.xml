@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="68570">
-      <ContractorName>शेलार दत्तात्रय नारायण</ContractorName>
-      <VehicleNo>MH-42-F-2718</VehicleNo>
-      <TrollyNoA>T68570-1</TrollyNoA>
-      <TrollyNoB>T68570-2</TrollyNoB>
+    <ContractorCode Code="74922">
+      <ContractorName>खराडे हर्षद रजनीकांत</ContractorName>
+      <VehicleNo>MH-42-Y-4388</VehicleNo>
+      <TrollyNoA>T74922-1</TrollyNoA>
+      <TrollyNoB>T74922-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74415">
       <ContractorName>शेंडगे ज्ञानदेव रघुनाथ</ContractorName>
@@ -138,18 +138,6 @@
       <VehicleNo>MH-14-BM-3612</VehicleNo>
       <TrollyNoA>T74919-1</TrollyNoA>
       <TrollyNoB>T74919-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="74922">
-      <ContractorName>खराडे हर्षद रजनीकांत</ContractorName>
-      <VehicleNo>MH-42-Y-4388</VehicleNo>
-      <TrollyNoA>T74922-1</TrollyNoA>
-      <TrollyNoB>T74922-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="74922">
-      <ContractorName>खराडे हर्षद रजनीकांत</ContractorName>
-      <VehicleNo>MH-42-Y-4388</VehicleNo>
-      <TrollyNoA>T74922-1</TrollyNoA>
-      <TrollyNoB>T74922-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74971">
       <ContractorName>खेनट अतुल नामदेव</ContractorName>
@@ -348,6 +336,18 @@
       <VehicleNo>MH-16-2339</VehicleNo>
       <TrollyNoA>T75782-1</TrollyNoA>
       <TrollyNoB>T75782-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68570">
+      <ContractorName>शेलार दत्तात्रय नारायण</ContractorName>
+      <VehicleNo>MH-42-F-2718</VehicleNo>
+      <TrollyNoA>T68570-1</TrollyNoA>
+      <TrollyNoB>T68570-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="74922">
+      <ContractorName>खराडे हर्षद रजनीकांत</ContractorName>
+      <VehicleNo>MH-42-Y-4388</VehicleNo>
+      <TrollyNoA>T74922-1</TrollyNoA>
+      <TrollyNoB>T74922-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="13005">
       <ContractorName>खेनट अरुण कोंडीबा</ContractorName>
@@ -1571,23 +1571,23 @@
       <TrollyNoA>T68791-1</TrollyNoA>
       <TrollyNoB>T68791-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="75619">
-      <ContractorName>गुंड रमेश संभाजी</ContractorName>
-      <VehicleNo>MH-12-GN-8897</VehicleNo>
-      <TrollyNoA>T75619-1</TrollyNoA>
-      <TrollyNoB>T75619-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="75709">
-      <ContractorName>खळदकर दत्तात्रय साहेबराव</ContractorName>
-      <VehicleNo>MH-12-EB-4826</VehicleNo>
-      <TrollyNoA>T75709-1</TrollyNoA>
-      <TrollyNoB>T75709-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="62322">
       <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली.</ContractorName>
       <VehicleNo>NEW</VehicleNo>
       <TrollyNoA>T62322-1</TrollyNoA>
       <TrollyNoB>T62322-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75618">
+      <ContractorName>वनशिवे विलास गोविंद</ContractorName>
+      <VehicleNo>MH-12-JN-8193</VehicleNo>
+      <TrollyNoA>T75618-1</TrollyNoA>
+      <TrollyNoB>T75618-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75619">
+      <ContractorName>गुंड रमेश संभाजी</ContractorName>
+      <VehicleNo>MH-12-GN-8897</VehicleNo>
+      <TrollyNoA>T75619-1</TrollyNoA>
+      <TrollyNoB>T75619-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68794">
       <ContractorName>17-18  घाडगे शिवाजी रघुनाथ</ContractorName>
@@ -1739,11 +1739,11 @@
       <TrollyNoA>T75319-1</TrollyNoA>
       <TrollyNoB>T75319-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="75618">
-      <ContractorName>वनशिवे विलास गोविंद</ContractorName>
-      <VehicleNo>MH-12-JN-8193</VehicleNo>
-      <TrollyNoA>T75618-1</TrollyNoA>
-      <TrollyNoB>T75618-2</TrollyNoB>
+    <ContractorCode Code="75709">
+      <ContractorName>खळदकर दत्तात्रय साहेबराव</ContractorName>
+      <VehicleNo>MH-12-EB-4826</VehicleNo>
+      <TrollyNoA>T75709-1</TrollyNoA>
+      <TrollyNoB>T75709-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
