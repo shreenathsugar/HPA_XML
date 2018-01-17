@@ -11533,4 +11533,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129194">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50841</GrowerCode>
+    <GrowerName>टिळेकर दत्तात्रय आनंता</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <SubVillageCode>1099</SubVillageCode>
+    <SubVillageName>टिळेकर वाडी(३५)उरुळीमार्गे]</SubVillageName>
+    <serveNo>155</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129506">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58230</GrowerCode>
+    <GrowerName>सातव बाळासाहेब महादेव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <SubVillageCode>292</SubVillageCode>
+    <SubVillageName>नांदूर(१६)</SubVillageName>
+    <serveNo>1103</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129513">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>24247</GrowerCode>
+    <GrowerName>टकले प्रकाश बाजीराव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <SubVillageCode>288</SubVillageCode>
+    <SubVillageName>खामगांव(१५)</SubVillageName>
+    <serveNo>117</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
