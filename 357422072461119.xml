@@ -19723,4 +19723,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129524">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75838</GrowerCode>
+    <GrowerName>भरणे संतोष बबन</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>87</VillageCode>
+    <VillageName>वडगाव बांडे</VillageName>
+    <SubVillageCode>1659</SubVillageCode>
+    <SubVillageName>वडगाव बांडे(६)</SubVillageName>
+    <serveNo>342</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129525">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72032</GrowerCode>
+    <GrowerName>वडघुले अंजना सदाशिव</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>85</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>697</SubVillageCode>
+    <SubVillageName>गरदरेवाडी(९)</SubVillageName>
+    <serveNo>26</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
