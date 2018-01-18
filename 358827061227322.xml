@@ -22781,4 +22781,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129557">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75870</GrowerCode>
+    <GrowerName>पवार दिलीप लक्ष्मण</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>160</VillageCode>
+    <VillageName>खोपोडी</VillageName>
+    <SubVillageCode>1729</SubVillageCode>
+    <SubVillageName>खोपोडी(२६)</SubVillageName>
+    <serveNo>851</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
