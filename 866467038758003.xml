@@ -90764,4 +90764,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129560">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75873</GrowerCode>
+    <GrowerName>गायकवाड सुभाष सुरेश</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <SubVillageCode>1825</SubVillageCode>
+    <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+    <serveNo>356</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
