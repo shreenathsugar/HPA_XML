@@ -11837,4 +11837,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129229">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36127</GrowerCode>
+    <GrowerName>यादव सुभाष शंकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>113</VillageCode>
+    <VillageName>यवत </VillageName>
+    <SubVillageCode>306</SubVillageCode>
+    <SubVillageName>यवत(२७)</SubVillageName>
+    <serveNo>1250</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
