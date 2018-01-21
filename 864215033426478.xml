@@ -60838,4 +60838,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129631">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50595</GrowerCode>
+    <GrowerName>हंबीर सोपान गेणभाऊ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>1827</SubVillageCode>
+    <SubVillageName>पाटेठाणशिव(३)</SubVillageName>
+    <serveNo>321</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129638">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>73946</GrowerCode>
+    <GrowerName>बनसोडे नवनाथ बाबाजी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>418</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129639">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75767</GrowerCode>
+    <GrowerName>पांढरे संतोष विठोबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>533</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

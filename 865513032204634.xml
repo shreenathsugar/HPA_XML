@@ -27702,4 +27702,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129633">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11781</GrowerCode>
+    <GrowerName>आहेरकर चंद्रकांत विठ्ठल</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>111</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>1844</SubVillageCode>
+    <SubVillageName>नानगाव(पारगावमार्गे) २८</SubVillageName>
+    <serveNo>22</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129632">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75908</GrowerCode>
+    <GrowerName>दुरेकर भाऊसाहेब साहेबराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>112</VillageCode>
+    <VillageName>हातवळण</VillageName>
+    <SubVillageCode>1641</SubVillageCode>
+    <SubVillageName>हातवळण(३५)पारगावमार्गे</SubVillageName>
+    <serveNo>78</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129635">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75909</GrowerCode>
+    <GrowerName>कदम हनुमंत अर्जुन</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>118</VillageCode>
+    <VillageName>शिंदेवाडी (पारगाव)</VillageName>
+    <SubVillageCode>311</SubVillageCode>
+    <SubVillageName>शिंदेवाडी (२४)(पारगावमार्गे]</SubVillageName>
+    <serveNo>543</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129640">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75917</GrowerCode>
+    <GrowerName>गायकवाड बबन गुलाबराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1075</VillageCode>
+    <VillageName>पाटस</VillageName>
+    <SubVillageCode>174</SubVillageCode>
+    <SubVillageName>पाटस ( केडगावमार्गे ) (४२ )</SubVillageName>
+    <serveNo>537</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129641">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75916</GrowerCode>
+    <GrowerName>शेळके संगीता सुनिल</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>105</VillageCode>
+    <VillageName>पारगाव</VillageName>
+    <SubVillageCode>458</SubVillageCode>
+    <SubVillageName>लिफ्ट वस्ती(२३)पारगाव मार्गे]</SubVillageName>
+    <serveNo>794</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
