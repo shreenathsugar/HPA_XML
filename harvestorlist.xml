@@ -1,399 +1,226 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
-  <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="74608">
-      <ContractorName>शितोळे योगिराज किसन(चव्हाण कैलास बल्लू)</ContractorName>
+  <harvestorType type="Doki">
+    <ContractorCode Code="74742">
+      <ContractorName>खळदकर अनिल दत्तात्रय(चव्हाण पंडीत रामधन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74677">
-      <ContractorName>राठोड सी.एम</ContractorName>
+    <ContractorCode Code="74743">
+      <ContractorName>नागरे धनंजय मुरलीधर</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74678">
-      <ContractorName>सकोरे विकास आत्माराम(राठोड नामदेव मारू)</ContractorName>
+    <ContractorCode Code="74744">
+      <ContractorName>पाचपिल्ले अशोक सदाशिव(ठाकरे कांतीलाल सिताराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74679">
-      <ContractorName>साळुंके गणेश शिवाजी(पठाण राजु अकबर)</ContractorName>
+    <ContractorCode Code="74745">
+      <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव(ठाकरे कांतीलाल सिताराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74680">
-      <ContractorName>साळुंके जी.एस(राठोड संतोष परमा)</ContractorName>
+    <ContractorCode Code="74746">
+      <ContractorName>ढवळे प्रदीप नामदेव(ठाकरे संतोष दादा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74681">
-      <ContractorName>साळुंके शांताराम ज्ञानदेव(मोरे निंबा हिरामण)</ContractorName>
+    <ContractorCode Code="72081">
+      <ContractorName>कदम पांडुरंग तुकाराम</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74682">
-      <ContractorName>सोनवणे भाऊसो तानाजी(राठोड गणपत हंसराज)</ContractorName>
+    <ContractorCode Code="74748">
+      <ContractorName>राठोड संजय मल्लू</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74683">
-      <ContractorName>सोनवणे नरसिंग साहेबराव(चव्हाण संजय दुधा)</ContractorName>
+    <ContractorCode Code="74749">
+      <ContractorName>साळुंके सोमनाथ ज्ञानदेव(राठोड पिंटू दिनकर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74684">
-      <ContractorName>सोनवणे रोहिदास नरसिंग(चव्हाण दत्तात्रय रामधन)</ContractorName>
+    <ContractorCode Code="74750">
+      <ContractorName>सोडनवर अशोक अरुण(चव्हाण भिमराव सुपडू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74685">
-      <ContractorName>सोनवणे सोमनाथ रामदास(मोरे निंबा हिरामण)</ContractorName>
+    <ContractorCode Code="74751">
+      <ContractorName>सातव दत्तात्रय गेनबा(शेख अली रमजू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74686">
-      <ContractorName>सातपुते समाधान अंबादास</ContractorName>
+    <ContractorCode Code="74752">
+      <ContractorName>शेख अली रमजू</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74687">
-      <ContractorName>सातव डी.एम(चव्हाण कैलास झब्बू)</ContractorName>
+    <ContractorCode Code="74753">
+      <ContractorName>शेख गफुर रमजू</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74688">
-      <ContractorName>सातव दत्तात्रय महादेव(चव्हाण रमेश झब्बू)</ContractorName>
+    <ContractorCode Code="74754">
+      <ContractorName>शेलार भाऊसाहेब मारुती(राठोड रघुनाथ झिप्पा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74689">
-      <ContractorName>सातव मंगल दत्तात्रय(चव्हाण अंकुश झब्बू)</ContractorName>
+    <ContractorCode Code="74755">
+      <ContractorName>शेंडगे ज्ञानदेव रघुनाथ(पावरा कुट्वाल मल्या)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74690">
-      <ContractorName>सातव तानाजी दत्तात्रय(राठोड जयपाल शंकर)</ContractorName>
+    <ContractorCode Code="74756">
+      <ContractorName>शेंडगे धनाजी भगवान(राठोड सुभाष भिल्ला)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74691">
-      <ContractorName>शेलार दत्तात्रय अशोक(राठोड पंडीत गमन)</ContractorName>
+    <ContractorCode Code="74757">
+      <ContractorName>सुळ सागर दत्तात्रय(सरक भैयाजी गोकुळ)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74692">
-      <ContractorName>शेलार दिपक नानासो(ढिवरे साहेबराव आनंदा)</ContractorName>
+    <ContractorCode Code="74758">
+      <ContractorName>सुळ संजय बबन(सरक भैयाजी गोकुळ)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74693">
-      <ContractorName>शेळके प्रविण नामदेव(पवार रमेश अमलक)</ContractorName>
+    <ContractorCode Code="74759">
+      <ContractorName>ताकवणे आर.जी</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74694">
-      <ContractorName>शेरेकर डी.ए</ContractorName>
+    <ContractorCode Code="74760">
+      <ContractorName>ताकवणे अनिता निलेश(पठारे वाल्मिक उत्तम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74695">
-      <ContractorName>शेरेकर दिलीप आनंदा</ContractorName>
+    <ContractorCode Code="74761">
+      <ContractorName>ताकवणे अमोल बाळासाहेब (म्हाळसे वाल्मिक रामचंद्र)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74696">
-      <ContractorName>शेरेकर सागर दिलीप</ContractorName>
+    <ContractorCode Code="74762">
+      <ContractorName>ताकवणे निलेश लक्ष्मण(पठारे वाल्मिक उत्तम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74697">
-      <ContractorName>सस्ते महेंद्र बाळासो(चव्हाण रामदास बाबुराव)</ContractorName>
+    <ContractorCode Code="74763">
+      <ContractorName>ताकवणे मयूर चंद्रकांत(गायकवाड बाळू शिवा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74698">
-      <ContractorName>सुळ ज्ञानदेव खंडू(चव्हाण दादा हरसिंग)</ContractorName>
+    <ContractorCode Code="74764">
+      <ContractorName>ताकवणे रविंद्र गोविंद(राठोड विक्रम दिनकर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74699">
-      <ContractorName>ताकवणे हनुमंत किसन(सोनवणे राजेंद्र बन्सी)</ContractorName>
+    <ContractorCode Code="74765">
+      <ContractorName>ताकवणे शांताराम रामराव(गायकवाड बाळू शिवा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74700">
-      <ContractorName>ताकवणे निलेश विलास(आहिरे गणेश गोविंद)</ContractorName>
+    <ContractorCode Code="74766">
+      <ContractorName>टुले बापूराव आनंदराव</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74701">
-      <ContractorName>ताकवणे विठ्ठल नामदेव(जाधव देवीदास मांगू)</ContractorName>
+    <ContractorCode Code="74767">
+      <ContractorName>टुले सदाशिव नामदेव(चव्हाण संतोष आनंदा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74702">
-      <ContractorName>ताकवणे व्ही.एन(जाधव देविदास मांगू)</ContractorName>
+    <ContractorCode Code="74768">
+      <ContractorName>टुले वैभव भगवान(ठाकरे संजय लालसिंग)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74703">
-      <ContractorName>ताकवणे नामदेव रघुनाथ(राठोड शिवाजी काशिनाथ)</ContractorName>
+    <ContractorCode Code="74770">
+      <ContractorName>थोरात अमित भगवान(मालचे मुन्ना तुकाराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74704">
-      <ContractorName>ताकवणे रामदास गोविंद(राठोड मोतीराम गुलाब)</ContractorName>
+    <ContractorCode Code="74771">
+      <ContractorName>थोरात अक्षय सुभाष(मालचे संजय नानकू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74705">
-      <ContractorName>ताकवणे धनाजी जनार्धन(पवार ईश्वर शंकर)</ContractorName>
+    <ContractorCode Code="74772">
+      <ContractorName>थोरात एस.बी(कारंडे सुभाष दाजी)
+
+
+
+
+
+
+
+
+
+
+
+
+
+थोरात एस.बी(कारंडे सुभाष  दाजी)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74706">
-      <ContractorName>तावरे सतिश मुरलीधर(गोरबंजारा सुभाष पोपट)</ContractorName>
+    <ContractorCode Code="74773">
+      <ContractorName>थोरात शिवाजी भाऊसो(कारंडे सुभाष दाजी)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74707">
-      <ContractorName>तळेकर विष्णु भानुदास(जाधव धारासिंग ममराज)</ContractorName>
+    <ContractorCode Code="74774">
+      <ContractorName>थोरात सुभाष शांताराम(पावरा अमरसिंग नागेश्वर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74708">
-      <ContractorName>टेंगले कोंडीबा दगडू(वारे कडुबा किसन)</ContractorName>
+    <ContractorCode Code="68861">
+      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74709">
-      <ContractorName>वाघोले उल्हास नारायण(गिते शंकरराव रघुनाथ)</ContractorName>
+    <ContractorCode Code="74845">
+      <ContractorName>राठोड सुदाम शुकलाल</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74710">
-      <ContractorName>वाघचौरे राजेंद्र आनंदराव(पाटील धनराज उत्तम)</ContractorName>
+    <ContractorCode Code="74846">
+      <ContractorName>चव्हाण शत्रुघ्न शंकर</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74711">
-      <ContractorName>श्रीराम बाळासो मारुती(मोरे निंबा हिरामण)</ContractorName>
+    <ContractorCode Code="74847">
+      <ContractorName>राठोड देवीदास उत्तम</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74712">
-      <ContractorName>श्रीराम बापू ज्ञानदेव(राठोड ताराचंद सरीचंद)</ContractorName>
+    <ContractorCode Code="74848">
+      <ContractorName>पवार मलखान ताराचंद</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74713">
-      <ContractorName>श्रीराम बी.एम(जाधव रविंद्र थावरू)</ContractorName>
+    <ContractorCode Code="74647">
+      <ContractorName>मेमाणे उद्धव किसन(राठोड रोहिदास ताराचंद)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74714">
-      <ContractorName>वंजारी शिवाजी मदन</ContractorName>
+    <ContractorCode Code="74728">
+      <ContractorName>आवाळे योगेश भाऊसाहेब(ठाकरे कांतीलाल सिताराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74715">
-      <ContractorName>थोरात निळ्कंठ जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
+    <ContractorCode Code="74729">
+      <ContractorName>भोंगळे राजेंद्र निवृत्ती(भोसले संजय भिवराव)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74716">
-      <ContractorName>थोरात राजकुमार जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
+    <ContractorCode Code="74916">
+      <ContractorName>चव्हाण मोरेश्वर शरद</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74717">
-      <ContractorName>थोरात शहाजी दत्तोबा(गायकवाड रमेश वना)</ContractorName>
+    <ContractorCode Code="74730">
+      <ContractorName>भोसले विश्वास राजाराम(राठोड प्रेम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74718">
-      <ContractorName>थोरात सचिन रोहिदास</ContractorName>
+    <ContractorCode Code="74731">
+      <ContractorName>गर्जे नितीन किसन</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74719">
-      <ContractorName>थोरात सुचित दत्तात्रय(गायकवाड संतोष रंगनाथ)</ContractorName>
+    <ContractorCode Code="74968">
+      <ContractorName>शितोळे सोपान माणिकराव(चव्हाण मांगीलाल संभाजी)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74720">
-      <ContractorName>थोरात वाल्मिक शंकर(राठोड विजय कुर्‍हा)</ContractorName>
+    <ContractorCode Code="74972">
+      <ContractorName>खेनट अतुल नामदेव</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74721">
-      <ContractorName>थोरात योगेश वसंतराव(वारे कडुबा किसन)</ContractorName>
+    <ContractorCode Code="74973">
+      <ContractorName>म्हेत्रे राहुल नाना(भिल्ल गंगाधर भाईदास)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74722">
-      <ContractorName>धायगुडे नितीन विठ्ठल(राठोड बद्दू दलपत)</ContractorName>
+    <ContractorCode Code="75031">
+      <ContractorName>थोरात प्रविण उल्हास</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74723">
-      <ContractorName>धायगुडे विशाल विठ्ठल(मोरे निंबा हिरामण)</ContractorName>
+    <ContractorCode Code="75041">
+      <ContractorName>गिरमे अलोक सुरेन्द्र</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74724">
-      <ContractorName>धायगुडे राहुल शंकर(चव्हाण बापू बन्सी)</ContractorName>
+    <ContractorCode Code="75134">
+      <ContractorName>शिंदे विकास वामन</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74725">
-      <ContractorName>धायगुडे आर.एस.(चव्हाण बापू बन्सी)</ContractorName>
+    <ContractorCode Code="74732">
+      <ContractorName>हाके दिलीप सिताराम</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74726">
-      <ContractorName>धायगुडे सोनबा सखाराम(राठोड आत्माराम सरदार)</ContractorName>
+    <ContractorCode Code="75451">
+      <ContractorName>महाडीक जे.जी</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74727">
-      <ContractorName>धायगुडे संदिप शंकर(खिलारे भैरवनाथ दत्तू)</ContractorName>
+    <ContractorCode Code="74733">
+      <ContractorName>हंडाळ बाळू बाबासाहेब(सोनवणे दादाभाऊ सदा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74739">
-      <ContractorName>झाडगे रामदास बापू(चव्हाण रमेश भिका)</ContractorName>
+    <ContractorCode Code="75468">
+      <ContractorName>थोरात मुकेश चंद्रकांत(पाटोळे संतोष रावसाहेब)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74747">
-      <ContractorName>राठोड लक्ष्मण खेमा(राठोड सुभाष नामदेव)</ContractorName>
+    <ContractorCode Code="74734">
+      <ContractorName>हंडाळ बी.बी(जाधव सुरेश परशुराम )</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74779">
-      <ContractorName>चितळकर विजय नारायण(राठोड आनंदा देवीदास)</ContractorName>
+    <ContractorCode Code="74735">
+      <ContractorName>शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74871">
-      <ContractorName>जगताप सचिन नारायण(वंजारी शिवाजी मदन)</ContractorName>
+    <ContractorCode Code="75779">
+      <ContractorName>श्रीराम अर्जुन दगडू</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74878">
-      <ContractorName>पिलाणे राजेश नामदेव(चव्हाण अनिल रावसाहेब)</ContractorName>
+    <ContractorCode Code="75780">
+      <ContractorName>श्रीराम ए.डी</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74880">
-      <ContractorName>थोरात ज्ञानेश्वर गोरख(चव्हाण सुभाष)</ContractorName>
+    <ContractorCode Code="74736">
+      <ContractorName>शिंदे महादेव विठ्ठल</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74920">
-      <ContractorName>भंडारी आर.एस(राठोड रामेश्वर हजारी)</ContractorName>
+    <ContractorCode Code="75804">
+      <ContractorName>शेलार दत्तात्रय नारायण</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74921">
-      <ContractorName>खराडे हर्षद रजनीकांत (राठोड नवलसिंग वसराम)</ContractorName>
+    <ContractorCode Code="74737">
+      <ContractorName>शिंदे सोमेश्वर दिनकर(मोरे भिमराव भिवसेन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75415">
-      <ContractorName>गायकवाड धनेश चांगदेव(सोनवणे डोंगरसिंग चत्रू)</ContractorName>
+    <ContractorCode Code="74738">
+      <ContractorName>शितोळे लक्ष्मण रंगराव(गायकवाड शिवदास बिवाल)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75459">
-      <ContractorName>थोरात विकास प्रभाकर</ContractorName>
+    <ContractorCode Code="75877">
+      <ContractorName>ताकवणे मंगल संदीप</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75502">
-      <ContractorName>काळे अनिल बापूराव</ContractorName>
+    <ContractorCode Code="69184">
+      <ContractorName>व्ही.एस.आय</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75650">
-      <ContractorName>गदादे बाळू गणपत(राठोड प्रकाश भुरा)</ContractorName>
+    <ContractorCode Code="74740">
+      <ContractorName>जाधव ताराचंद शंकर</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75793">
-      <ContractorName>शेलार दत्तात्रय मारुती</ContractorName>
+    <ContractorCode Code="74741">
+      <ContractorName>जगताप सुनिल बापूराव(पवार शिवाजी लिंबा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74545">
-      <ContractorName>आशान बापू बाळू</ContractorName>
+    <ContractorCode Code="75901">
+      <ContractorName>आजबे हनुमंत नामदेव</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74546">
-      <ContractorName>आवाळे उत्तम वामन(निकुंभ शिवदास पोपट)</ContractorName>
+    <ContractorCode Code="75902">
+      <ContractorName>आजबे नामदेव शामराव</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74547">
-      <ContractorName>आवाळे बंडू वामन(निकुंभ शिवदास पोपट)</ContractorName>
+    <ContractorCode Code="75912">
+      <ContractorName>ताकवणे एम.एस</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74548">
-      <ContractorName>आवाळे नंदू उत्तम(निकुंभ शिवाजी पोपट)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74549">
-      <ContractorName>भांडवलकर गणेश तात्याबा(मोरे निंबा हिरामण)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74550">
-      <ContractorName>बोडके नवनाथ पांडुरंग(राठोड पिंटू दिनकर)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74551">
-      <ContractorName>भोंगळे गौत्तम निवृत्ती(खिलारी अशोक साळोबा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74552">
-      <ContractorName>भोरडे संपत गुलाबराव(मोरे निंबा हिरामण)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74553">
-      <ContractorName>भोसले आण्णा माणिक(मोरे गणेश रूपचंद)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74554">
-      <ContractorName>भापकर दत्तात्रय बबन(शिरसाठ रविंद्र सूर्यभान)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74555">
-      <ContractorName>भापकर राजु गोरख(चव्हाण रमेश भिका)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74556">
-      <ContractorName>बीडगर बापु रघुनाथ(राठोड विजय कुर्‍हा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74557">
-      <ContractorName>बीडगर महादेव रघुनाथ(राठोड एकनाथ रामधन)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74558">
-      <ContractorName>बीडगर एम.आर(राठोड विजय कुर्‍हा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74559">
-      <ContractorName>भंडारी रविंद्र सुर्यकांत(मोरे निंबा हिरामण)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74560">
-      <ContractorName>बनकर दौलत किसन(गोरे राजेंद्र रंगनाथ)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74561">
-      <ContractorName>बेंद्रे राजाराम रघुनाथ(मोरे निंबा हिरामण)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74562">
-      <ContractorName>भुजबळ बाळासाहेब बाबुराव(राठोड पंडीत प्रताप)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74563">
-      <ContractorName>भुजबळ प्रकाश विठोबा(जाधव गोपिंचंद सरीचंद)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74564">
-      <ContractorName>भुजबळ संतोष विठोबा(जाधव गोपीचंद सरीचंद)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74565">
-      <ContractorName>चांदगुडे चंद्रकांत महादेव(राठोड सुभाष सवईलाल)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74566">
-      <ContractorName>चव्हाण अजित सरदार</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74567">
-      <ContractorName>दाभाडे निवृत्ती सोपान(राठोड दिलीप ममराज)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74568">
-      <ContractorName>दाभाडे पांडुरंग नामदेव(राठोड दिलीप किसन)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74569">
-      <ContractorName>दगडे भागोजी मुकिंदा(राठोड ताराचंद सरीचंद)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74570">
-      <ContractorName>डुबे अंकुश विठ्ठल(राठोड मूलचंद कवरू)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74571">
-      <ContractorName>डुबे एम.एल(चव्हाण गोकुळ खुबा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74572">
-      <ContractorName>डुबे दिपक दादा(चव्हाण भाईदास भिल्लू)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74573">
-      <ContractorName>डुबे दिपक दादा(राठोड श्रावण काळू)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74574">
-      <ContractorName>डुबे दिपक दादा(पवार विजय जयराम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74575">
-      <ContractorName>डुबे मालोजी लक्ष्मण(चव्हाण गोकुळ खुबा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74576">
-      <ContractorName>डुबे मल्हारी विठ्ठल(राठोड जगदीश परमा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74577">
-      <ContractorName>इंगळे नंदाराम ज्ञानदेव(पठारे संजय देवराम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74578">
-      <ContractorName>फडके नामदेव बबन</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74579">
-      <ContractorName>घाडगे शिवाजी व्यंकट</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74580">
-      <ContractorName>घाडगे राजेंद्र शिवाजी(पाटील धनराज उत्तम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74581">
-      <ContractorName>गायकवाड अरुण बाबासो(चव्हाण गोकुळ खुबा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74582">
-      <ContractorName>गायकवाड ए.बी(चव्हाण गोकुळ खुबा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74583">
-      <ContractorName>गायकवाड एस.आर</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74584">
-      <ContractorName>गायकवाड नवनाथ कोंडीबा(पवार गोकुळ राजाराम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74585">
-      <ContractorName>गायकवाड प्रशांत पोपट(राठोड दशरथ शिवदास)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74586">
-      <ContractorName>गायकवाड पोपट लक्ष्मण(गिते शंकर)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74587">
-      <ContractorName>गायकवाड संतोष चांगदेव(गायकवाड राजाराम चिंधा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74588">
-      <ContractorName>गायकवाड संतोष कुमाजी(चव्हाण ताराचंद गणपत)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74590">
-      <ContractorName>गायकवाड संतोष रंगनाथ</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74591">
-      <ContractorName>गदादे गोरख गणपत(चव्हाण गोकुळ खुबा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74592">
-      <ContractorName>गवारी किरण दादासो</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74593">
-      <ContractorName>गवारे सुदाम चांगदेव(राठोड नामदेव मारू)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74594">
-      <ContractorName>गवळी भुजंग दशरथ(ढिवरे साहेबराव आनंदा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74595">
-      <ContractorName>गवळी राजेंद्र दशरथ(ढिवरे साहेबराव आनंदा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74596">
-      <ContractorName>हाके संतोष बबन(राठोड आत्माराम सरदार)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74597">
-      <ContractorName>पिलाणे गणेश नामदेव(राठोड राजू गंगाराम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74598">
-      <ContractorName>पिलाणे जी.एन(चव्हाण अनिल रावसाहेब)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74599">
-      <ContractorName>शिर्के लक्ष्मण संभाजी(राठोड निवृत्ती अनाजी)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74600">
-      <ContractorName>शिंदे एन.एम(पवार शिवाजी मदन)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74601">
-      <ContractorName>शिंदे एस.पी(चव्हाण बापू बन्सी)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74602">
-      <ContractorName>शिंदे नवनाथ मारुती(गोरबंजारा सुभाष पोपट)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74604">
-      <ContractorName>शिंदे सचिन परशराम(चव्हाण बापू बन्सी)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74605">
-      <ContractorName>शिंदे तान्हाजी नामदेव(राठोड संतोष सोमा)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74606">
-      <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74607">
-      <ContractorName>शिरसाठ साईनाथ दशरथ</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74609">
-      <ContractorName>शिवले अंकुश खंडू(राठोड पिंटू दिनकर)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74610">
-      <ContractorName>शिवले बाजीराव शिवाजी(पवार अंकुश बाबुराव)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74611">
-      <ContractorName>शिवले ए.के(राठोड पिंटू दिनकर)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74612">
-      <ContractorName>शिवले निलेश ज्ञानेश्वर(राठोड कैलास दिनकर)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74613">
-      <ContractorName>शिवले खंडू दामू(राठोड पिंटू दिनकर)</ContractorName>
-    </ContractorCode>
+  </harvestorType>
+  <harvestorType type="Gadi">
     <ContractorCode Code="74614">
       <ContractorName>शिवले कैलास किसन(राठोड दिलीप ममराज)</ContractorName>
     </ContractorCode>
@@ -580,213 +407,413 @@
     <ContractorCode Code="74676">
       <ContractorName>राठोड रोहिदास धनू</ContractorName>
     </ContractorCode>
-  </harvestorType>
-  <harvestorType type="डोकी सेंटर">
-    <ContractorCode Code="69184">
-      <ContractorName>व्ही.एस.आय</ContractorName>
+    <ContractorCode Code="74677">
+      <ContractorName>राठोड सी.एम</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="72081">
-      <ContractorName>कदम पांडुरंग तुकाराम</ContractorName>
+    <ContractorCode Code="74678">
+      <ContractorName>सकोरे विकास आत्माराम(राठोड नामदेव मारू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74730">
-      <ContractorName>भोसले विश्वास राजाराम(राठोड प्रेम)</ContractorName>
+    <ContractorCode Code="74679">
+      <ContractorName>साळुंके गणेश शिवाजी(पठाण राजु अकबर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74731">
-      <ContractorName>गर्जे नितीन किसन</ContractorName>
+    <ContractorCode Code="74680">
+      <ContractorName>साळुंके जी.एस(राठोड संतोष परमा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74732">
-      <ContractorName>हाके दिलीप सिताराम</ContractorName>
+    <ContractorCode Code="74681">
+      <ContractorName>साळुंके शांताराम ज्ञानदेव(मोरे निंबा हिरामण)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74733">
-      <ContractorName>हंडाळ बाळू बाबासाहेब(सोनवणे दादाभाऊ सदा)</ContractorName>
+    <ContractorCode Code="74682">
+      <ContractorName>सोनवणे भाऊसो तानाजी(राठोड गणपत हंसराज)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74734">
-      <ContractorName>हंडाळ बी.बी(जाधव सुरेश परशुराम )</ContractorName>
+    <ContractorCode Code="74683">
+      <ContractorName>सोनवणे नरसिंग साहेबराव(चव्हाण संजय दुधा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74735">
-      <ContractorName>शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
+    <ContractorCode Code="74684">
+      <ContractorName>सोनवणे रोहिदास नरसिंग(चव्हाण दत्तात्रय रामधन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74736">
-      <ContractorName>शिंदे महादेव विठ्ठल</ContractorName>
+    <ContractorCode Code="74685">
+      <ContractorName>सोनवणे सोमनाथ रामदास(मोरे निंबा हिरामण)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74737">
-      <ContractorName>शिंदे सोमेश्वर दिनकर(मोरे भिमराव भिवसेन)</ContractorName>
+    <ContractorCode Code="74686">
+      <ContractorName>सातपुते समाधान अंबादास</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74738">
-      <ContractorName>शितोळे लक्ष्मण रंगराव(गायकवाड शिवदास बिवाल)</ContractorName>
+    <ContractorCode Code="74687">
+      <ContractorName>सातव डी.एम(चव्हाण कैलास झब्बू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75031">
-      <ContractorName>थोरात प्रविण उल्हास</ContractorName>
+    <ContractorCode Code="74688">
+      <ContractorName>सातव दत्तात्रय महादेव(चव्हाण रमेश झब्बू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74740">
-      <ContractorName>जाधव ताराचंद शंकर</ContractorName>
+    <ContractorCode Code="74689">
+      <ContractorName>सातव मंगल दत्तात्रय(चव्हाण अंकुश झब्बू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74741">
-      <ContractorName>जगताप सुनिल बापूराव(पवार शिवाजी लिंबा)</ContractorName>
+    <ContractorCode Code="74690">
+      <ContractorName>सातव तानाजी दत्तात्रय(राठोड जयपाल शंकर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74742">
-      <ContractorName>खळदकर अनिल दत्तात्रय(चव्हाण पंडीत रामधन)</ContractorName>
+    <ContractorCode Code="74691">
+      <ContractorName>शेलार दत्तात्रय अशोक(राठोड पंडीत गमन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74743">
-      <ContractorName>नागरे धनंजय मुरलीधर</ContractorName>
+    <ContractorCode Code="74692">
+      <ContractorName>शेलार दिपक नानासो(ढिवरे साहेबराव आनंदा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74744">
-      <ContractorName>पाचपिल्ले अशोक सदाशिव(ठाकरे कांतीलाल सिताराम)</ContractorName>
+    <ContractorCode Code="74693">
+      <ContractorName>शेळके प्रविण नामदेव(पवार रमेश अमलक)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74745">
-      <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव(ठाकरे कांतीलाल सिताराम)</ContractorName>
+    <ContractorCode Code="74694">
+      <ContractorName>शेरेकर डी.ए</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74746">
-      <ContractorName>ढवळे प्रदीप नामदेव(ठाकरे संतोष दादा)</ContractorName>
+    <ContractorCode Code="74695">
+      <ContractorName>शेरेकर दिलीप आनंदा</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75041">
-      <ContractorName>गिरमे अलोक सुरेन्द्र</ContractorName>
+    <ContractorCode Code="74696">
+      <ContractorName>शेरेकर सागर दिलीप</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74748">
-      <ContractorName>राठोड संजय मल्लू</ContractorName>
+    <ContractorCode Code="74697">
+      <ContractorName>सस्ते महेंद्र बाळासो(चव्हाण रामदास बाबुराव)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74749">
-      <ContractorName>साळुंके सोमनाथ ज्ञानदेव(राठोड पिंटू दिनकर)</ContractorName>
+    <ContractorCode Code="74698">
+      <ContractorName>सुळ ज्ञानदेव खंडू(चव्हाण दादा हरसिंग)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74750">
-      <ContractorName>सोडनवर अशोक अरुण(चव्हाण भिमराव सुपडू)</ContractorName>
+    <ContractorCode Code="74699">
+      <ContractorName>ताकवणे हनुमंत किसन(सोनवणे राजेंद्र बन्सी)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74751">
-      <ContractorName>सातव दत्तात्रय गेनबा(शेख अली रमजू)</ContractorName>
+    <ContractorCode Code="74700">
+      <ContractorName>ताकवणे निलेश विलास(आहिरे गणेश गोविंद)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74752">
-      <ContractorName>शेख अली रमजू</ContractorName>
+    <ContractorCode Code="74701">
+      <ContractorName>ताकवणे विठ्ठल नामदेव(जाधव देवीदास मांगू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74753">
-      <ContractorName>शेख गफुर रमजू</ContractorName>
+    <ContractorCode Code="74702">
+      <ContractorName>ताकवणे व्ही.एन(जाधव देविदास मांगू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74754">
-      <ContractorName>शेलार भाऊसाहेब मारुती(राठोड रघुनाथ झिप्पा)</ContractorName>
+    <ContractorCode Code="74703">
+      <ContractorName>ताकवणे नामदेव रघुनाथ(राठोड शिवाजी काशिनाथ)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74755">
-      <ContractorName>शेंडगे ज्ञानदेव रघुनाथ(पावरा कुट्वाल मल्या)</ContractorName>
+    <ContractorCode Code="74704">
+      <ContractorName>ताकवणे रामदास गोविंद(राठोड मोतीराम गुलाब)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74756">
-      <ContractorName>शेंडगे धनाजी भगवान(राठोड सुभाष भिल्ला)</ContractorName>
+    <ContractorCode Code="74705">
+      <ContractorName>ताकवणे धनाजी जनार्धन(पवार ईश्वर शंकर)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74757">
-      <ContractorName>सुळ सागर दत्तात्रय(सरक भैयाजी गोकुळ)</ContractorName>
+    <ContractorCode Code="74706">
+      <ContractorName>तावरे सतिश मुरलीधर(गोरबंजारा सुभाष पोपट)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74758">
-      <ContractorName>सुळ संजय बबन(सरक भैयाजी गोकुळ)</ContractorName>
+    <ContractorCode Code="74707">
+      <ContractorName>तळेकर विष्णु भानुदास(जाधव धारासिंग ममराज)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74759">
-      <ContractorName>ताकवणे आर.जी</ContractorName>
+    <ContractorCode Code="74708">
+      <ContractorName>टेंगले कोंडीबा दगडू(वारे कडुबा किसन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74760">
-      <ContractorName>ताकवणे अनिता निलेश(पठारे वाल्मिक उत्तम)</ContractorName>
+    <ContractorCode Code="74709">
+      <ContractorName>वाघोले उल्हास नारायण(गिते शंकरराव रघुनाथ)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74761">
-      <ContractorName>ताकवणे अमोल बाळासाहेब (म्हाळसे वाल्मिक रामचंद्र)</ContractorName>
+    <ContractorCode Code="74711">
+      <ContractorName>श्रीराम बाळासो मारुती(मोरे निंबा हिरामण)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74762">
-      <ContractorName>ताकवणे निलेश लक्ष्मण(पठारे वाल्मिक उत्तम)</ContractorName>
+    <ContractorCode Code="74712">
+      <ContractorName>श्रीराम बापू ज्ञानदेव(राठोड ताराचंद सरीचंद)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74763">
-      <ContractorName>ताकवणे मयूर चंद्रकांत(गायकवाड बाळू शिवा)</ContractorName>
+    <ContractorCode Code="74713">
+      <ContractorName>श्रीराम बी.एम(जाधव रविंद्र थावरू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74764">
-      <ContractorName>ताकवणे रविंद्र गोविंद(राठोड विक्रम दिनकर)</ContractorName>
+    <ContractorCode Code="74714">
+      <ContractorName>वंजारी शिवाजी मदन</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74765">
-      <ContractorName>ताकवणे शांताराम रामराव(गायकवाड बाळू शिवा)</ContractorName>
+    <ContractorCode Code="74715">
+      <ContractorName>थोरात निळ्कंठ जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74766">
-      <ContractorName>टुले बापूराव आनंदराव</ContractorName>
+    <ContractorCode Code="74716">
+      <ContractorName>थोरात राजकुमार जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74767">
-      <ContractorName>टुले सदाशिव नामदेव(चव्हाण संतोष आनंदा)</ContractorName>
+    <ContractorCode Code="74717">
+      <ContractorName>थोरात शहाजी दत्तोबा(गायकवाड रमेश वना)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74647">
-      <ContractorName>मेमाणे उद्धव किसन(राठोड रोहिदास ताराचंद)</ContractorName>
+    <ContractorCode Code="74718">
+      <ContractorName>थोरात सचिन रोहिदास</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74768">
-      <ContractorName>टुले वैभव भगवान(ठाकरे संजय लालसिंग)</ContractorName>
+    <ContractorCode Code="74719">
+      <ContractorName>थोरात सुचित दत्तात्रय(गायकवाड संतोष रंगनाथ)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74770">
-      <ContractorName>थोरात अमित भगवान(मालचे मुन्ना तुकाराम)</ContractorName>
+    <ContractorCode Code="74720">
+      <ContractorName>थोरात वाल्मिक शंकर(राठोड विजय कुर्‍हा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74771">
-      <ContractorName>थोरात अक्षय सुभाष(मालचे संजय नानकू)</ContractorName>
+    <ContractorCode Code="74721">
+      <ContractorName>थोरात योगेश वसंतराव(वारे कडुबा किसन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74772">
-      <ContractorName>थोरात एस.बी(कारंडे सुभाष दाजी)
-
-
-
-
-
-
-
-
-
-
-
-
-
-थोरात एस.बी(कारंडे सुभाष  दाजी)</ContractorName>
+    <ContractorCode Code="74722">
+      <ContractorName>धायगुडे नितीन विठ्ठल(राठोड बद्दू दलपत)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74773">
-      <ContractorName>थोरात शिवाजी भाऊसो(कारंडे सुभाष दाजी)</ContractorName>
+    <ContractorCode Code="74723">
+      <ContractorName>धायगुडे विशाल विठ्ठल(मोरे निंबा हिरामण)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74774">
-      <ContractorName>थोरात सुभाष शांताराम(पावरा अमरसिंग नागेश्वर)</ContractorName>
+    <ContractorCode Code="74724">
+      <ContractorName>धायगुडे राहुल शंकर(चव्हाण बापू बन्सी)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75134">
-      <ContractorName>शिंदे विकास वामन</ContractorName>
+    <ContractorCode Code="74725">
+      <ContractorName>धायगुडे आर.एस.(चव्हाण बापू बन्सी)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74845">
-      <ContractorName>राठोड सुदाम शुकलाल</ContractorName>
+    <ContractorCode Code="74726">
+      <ContractorName>धायगुडे सोनबा सखाराम(राठोड आत्माराम सरदार)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74846">
-      <ContractorName>चव्हाण शत्रुघ्न शंकर</ContractorName>
+    <ContractorCode Code="74727">
+      <ContractorName>धायगुडे संदिप शंकर(खिलारे भैरवनाथ दत्तू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74847">
-      <ContractorName>राठोड देवीदास उत्तम</ContractorName>
+    <ContractorCode Code="74739">
+      <ContractorName>झाडगे रामदास बापू(चव्हाण रमेश भिका)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74848">
-      <ContractorName>पवार मलखान ताराचंद</ContractorName>
+    <ContractorCode Code="74747">
+      <ContractorName>राठोड लक्ष्मण खेमा(राठोड सुभाष नामदेव)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75804">
-      <ContractorName>शेलार दत्तात्रय नारायण</ContractorName>
+    <ContractorCode Code="74779">
+      <ContractorName>चितळकर विजय नारायण(राठोड आनंदा देवीदास)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75451">
-      <ContractorName>महाडीक जे.जी</ContractorName>
+    <ContractorCode Code="74871">
+      <ContractorName>जगताप सचिन नारायण(वंजारी शिवाजी मदन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75779">
-      <ContractorName>श्रीराम अर्जुन दगडू</ContractorName>
+    <ContractorCode Code="74878">
+      <ContractorName>पिलाणे राजेश नामदेव(चव्हाण अनिल रावसाहेब)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74916">
-      <ContractorName>चव्हाण मोरेश्वर शरद</ContractorName>
+    <ContractorCode Code="74880">
+      <ContractorName>थोरात ज्ञानेश्वर गोरख(चव्हाण सुभाष)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75468">
-      <ContractorName>थोरात मुकेश चंद्रकांत(पाटोळे संतोष रावसाहेब)</ContractorName>
+    <ContractorCode Code="74920">
+      <ContractorName>भंडारी आर.एस(राठोड रामेश्वर हजारी)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="75780">
-      <ContractorName>श्रीराम ए.डी</ContractorName>
+    <ContractorCode Code="74921">
+      <ContractorName>खराडे हर्षद रजनीकांत (राठोड नवलसिंग वसराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74968">
-      <ContractorName>शितोळे सोपान माणिकराव(चव्हाण मांगीलाल संभाजी)</ContractorName>
+    <ContractorCode Code="75415">
+      <ContractorName>गायकवाड धनेश चांगदेव(सोनवणे डोंगरसिंग चत्रू)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74972">
-      <ContractorName>खेनट अतुल नामदेव</ContractorName>
+    <ContractorCode Code="75459">
+      <ContractorName>थोरात विकास प्रभाकर</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74973">
-      <ContractorName>म्हेत्रे राहुल नाना(भिल्ल गंगाधर भाईदास)</ContractorName>
+    <ContractorCode Code="75502">
+      <ContractorName>काळे अनिल बापूराव</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74728">
-      <ContractorName>आवाळे योगेश भाऊसाहेब(ठाकरे कांतीलाल सिताराम)</ContractorName>
+    <ContractorCode Code="75650">
+      <ContractorName>गदादे बाळू गणपत(राठोड प्रकाश भुरा)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="74729">
-      <ContractorName>भोंगळे राजेंद्र निवृत्ती(भोसले संजय भिवराव)</ContractorName>
+    <ContractorCode Code="75793">
+      <ContractorName>शेलार दत्तात्रय मारुती</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68861">
-      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+    <ContractorCode Code="75875">
+      <ContractorName>मचाले विजय बापूराव</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75876">
+      <ContractorName>जगताप संजय बापूराव</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75878">
+      <ContractorName>गांगर्डे भरत मारुती</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75898">
+      <ContractorName>धस प्रशांत आत्माराम</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="75899">
+      <ContractorName>धस पी.ए</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74710">
+      <ContractorName>वाघचौरे राजेंद्र आनंदराव(पाटील धनराज उत्तम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74545">
+      <ContractorName>आशान बापू बाळू</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74546">
+      <ContractorName>आवाळे उत्तम वामन(निकुंभ शिवदास पोपट)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74547">
+      <ContractorName>आवाळे बंडू वामन(निकुंभ शिवदास पोपट)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74548">
+      <ContractorName>आवाळे नंदू उत्तम(निकुंभ शिवाजी पोपट)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74549">
+      <ContractorName>भांडवलकर गणेश तात्याबा(मोरे निंबा हिरामण)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74550">
+      <ContractorName>बोडके नवनाथ पांडुरंग(राठोड पिंटू दिनकर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74551">
+      <ContractorName>भोंगळे गौत्तम निवृत्ती(खिलारी अशोक साळोबा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74552">
+      <ContractorName>भोरडे संपत गुलाबराव(मोरे निंबा हिरामण)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74553">
+      <ContractorName>भोसले आण्णा माणिक(मोरे गणेश रूपचंद)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74554">
+      <ContractorName>भापकर दत्तात्रय बबन(शिरसाठ रविंद्र सूर्यभान)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74555">
+      <ContractorName>भापकर राजु गोरख(चव्हाण रमेश भिका)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74556">
+      <ContractorName>बीडगर बापु रघुनाथ(राठोड विजय कुर्‍हा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74557">
+      <ContractorName>बीडगर महादेव रघुनाथ(राठोड एकनाथ रामधन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74558">
+      <ContractorName>बीडगर एम.आर(राठोड विजय कुर्‍हा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74559">
+      <ContractorName>भंडारी रविंद्र सुर्यकांत(मोरे निंबा हिरामण)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74560">
+      <ContractorName>बनकर दौलत किसन(गोरे राजेंद्र रंगनाथ)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74561">
+      <ContractorName>बेंद्रे राजाराम रघुनाथ(मोरे निंबा हिरामण)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74562">
+      <ContractorName>भुजबळ बाळासाहेब बाबुराव(राठोड पंडीत प्रताप)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74563">
+      <ContractorName>भुजबळ प्रकाश विठोबा(जाधव गोपिंचंद सरीचंद)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74564">
+      <ContractorName>भुजबळ संतोष विठोबा(जाधव गोपीचंद सरीचंद)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74565">
+      <ContractorName>चांदगुडे चंद्रकांत महादेव(राठोड सुभाष सवईलाल)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74566">
+      <ContractorName>चव्हाण अजित सरदार</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74567">
+      <ContractorName>दाभाडे निवृत्ती सोपान(राठोड दिलीप ममराज)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74568">
+      <ContractorName>दाभाडे पांडुरंग नामदेव(राठोड दिलीप किसन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74569">
+      <ContractorName>दगडे भागोजी मुकिंदा(राठोड ताराचंद सरीचंद)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74570">
+      <ContractorName>डुबे अंकुश विठ्ठल(राठोड मूलचंद कवरू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74571">
+      <ContractorName>डुबे एम.एल(चव्हाण गोकुळ खुबा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74572">
+      <ContractorName>डुबे दिपक दादा(चव्हाण भाईदास भिल्लू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74573">
+      <ContractorName>डुबे दिपक दादा(राठोड श्रावण काळू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74574">
+      <ContractorName>डुबे दिपक दादा(पवार विजय जयराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74575">
+      <ContractorName>डुबे मालोजी लक्ष्मण(चव्हाण गोकुळ खुबा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74576">
+      <ContractorName>डुबे मल्हारी विठ्ठल(राठोड जगदीश परमा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74577">
+      <ContractorName>इंगळे नंदाराम ज्ञानदेव(पठारे संजय देवराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74578">
+      <ContractorName>फडके नामदेव बबन</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74579">
+      <ContractorName>घाडगे शिवाजी व्यंकट</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74580">
+      <ContractorName>घाडगे राजेंद्र शिवाजी(पाटील धनराज उत्तम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74581">
+      <ContractorName>गायकवाड अरुण बाबासो(चव्हाण गोकुळ खुबा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74582">
+      <ContractorName>गायकवाड ए.बी(चव्हाण गोकुळ खुबा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74583">
+      <ContractorName>गायकवाड एस.आर</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74584">
+      <ContractorName>गायकवाड नवनाथ कोंडीबा(पवार गोकुळ राजाराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74585">
+      <ContractorName>गायकवाड प्रशांत पोपट(राठोड दशरथ शिवदास)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74586">
+      <ContractorName>गायकवाड पोपट लक्ष्मण(गिते शंकर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74587">
+      <ContractorName>गायकवाड संतोष चांगदेव(गायकवाड राजाराम चिंधा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74588">
+      <ContractorName>गायकवाड संतोष कुमाजी(चव्हाण ताराचंद गणपत)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74590">
+      <ContractorName>गायकवाड संतोष रंगनाथ</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74591">
+      <ContractorName>गदादे गोरख गणपत(चव्हाण गोकुळ खुबा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74592">
+      <ContractorName>गवारी किरण दादासो</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74593">
+      <ContractorName>गवारे सुदाम चांगदेव(राठोड नामदेव मारू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74594">
+      <ContractorName>गवळी भुजंग दशरथ(ढिवरे साहेबराव आनंदा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74595">
+      <ContractorName>गवळी राजेंद्र दशरथ(ढिवरे साहेबराव आनंदा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74596">
+      <ContractorName>हाके संतोष बबन(राठोड आत्माराम सरदार)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74597">
+      <ContractorName>पिलाणे गणेश नामदेव(राठोड राजू गंगाराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74598">
+      <ContractorName>पिलाणे जी.एन(चव्हाण अनिल रावसाहेब)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74599">
+      <ContractorName>शिर्के लक्ष्मण संभाजी(राठोड निवृत्ती अनाजी)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74600">
+      <ContractorName>शिंदे एन.एम(पवार शिवाजी मदन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74601">
+      <ContractorName>शिंदे एस.पी(चव्हाण बापू बन्सी)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74602">
+      <ContractorName>शिंदे नवनाथ मारुती(गोरबंजारा सुभाष पोपट)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74604">
+      <ContractorName>शिंदे सचिन परशराम(चव्हाण बापू बन्सी)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74605">
+      <ContractorName>शिंदे तान्हाजी नामदेव(राठोड संतोष सोमा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74606">
+      <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74607">
+      <ContractorName>शिरसाठ साईनाथ दशरथ</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74608">
+      <ContractorName>शितोळे योगिराज किसन(चव्हाण कैलास बल्लू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74609">
+      <ContractorName>शिवले अंकुश खंडू(राठोड पिंटू दिनकर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74610">
+      <ContractorName>शिवले बाजीराव शिवाजी(पवार अंकुश बाबुराव)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74611">
+      <ContractorName>शिवले ए.के(राठोड पिंटू दिनकर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74612">
+      <ContractorName>शिवले निलेश ज्ञानेश्वर(राठोड कैलास दिनकर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74613">
+      <ContractorName>शिवले खंडू दामू(राठोड पिंटू दिनकर)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>

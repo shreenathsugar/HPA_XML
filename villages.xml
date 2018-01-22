@@ -391,8 +391,8 @@
       <SubVillageCode Code="1738">
         <SubVillageName>राक्षेवाडी(१८)(ट्रॅ.गा)सहकारनगरमार्गे</SubVillageName>
       </SubVillageCode>
-      <SubVillageCode Code="1819">
-        <SubVillageName>राक्षेवाडी (२१) वाळकीमार्गे</SubVillageName>
+      <SubVillageCode Code="1867">
+        <SubVillageName>राक्षेवाडी(२२) वाळकीमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="45">
@@ -474,6 +474,9 @@
       <VillageName>निमोणे</VillageName>
       <SubVillageCode Code="1863">
         <SubVillageName>निमोणे(०)</SubVillageName>
+      </SubVillageCode>
+      <SubVillageCode Code="1868">
+        <SubVillageName>भोसेवाडी(४३)पारगावमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1187">
@@ -648,6 +651,12 @@
       <VillageName>लोणीकंद</VillageName>
       <SubVillageCode Code="641">
         <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="181">
+      <VillageName>बकोरी</VillageName>
+      <SubVillageCode Code="1869">
+        <SubVillageName>बकोरी (०) केसनंदमार्गे</SubVillageName>
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="188">
@@ -1134,9 +1143,6 @@
       <VillageName>निमगाव म्हाळुंगी</VillageName>
       <SubVillageCode Code="1772">
         <SubVillageName>निमगाव म्हाळुंगी(31)(विठ्ठलवाडीमार्गे</SubVillageName>
-      </SubVillageCode>
-      <SubVillageCode Code="1805">
-        <SubVillageName>शिवतक्रार म्हाळुंगी(10)(म्हाळुंगीमार्गे )</SubVillageName>
       </SubVillageCode>
       <SubVillageCode Code="1807">
         <SubVillageName>निमगाव म्हाळुंगी(18)(विठ्ठलवाडीमार्गे</SubVillageName>
