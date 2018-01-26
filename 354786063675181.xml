@@ -33554,4 +33554,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129825">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9976</GrowerCode>
+    <GrowerName>भुजबळ नितिन देवराम</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>33</VillageCode>
+    <VillageName>सणसवाडी</VillageName>
+    <SubVillageCode>1768</SubVillageCode>
+    <SubVillageName>सणसवाडी(२४)(विठ्ठलववाडीमार्गे)</SubVillageName>
+    <serveNo>687</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
