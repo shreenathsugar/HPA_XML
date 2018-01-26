@@ -28994,4 +28994,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129823">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76014</GrowerCode>
+    <GrowerName>म्हेत्रे अविनाश विठ्ठल</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <SubVillageCode>287</SubVillageCode>
+    <SubVillageName>नाथाचीवाडी(१६)</SubVillageName>
+    <serveNo>1378</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129824">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67738</GrowerCode>
+    <GrowerName>नातु चंद्रकांत तान्हाजी</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <SubVillageCode>287</SubVillageCode>
+    <SubVillageName>नाथाचीवाडी(१६)</SubVillageName>
+    <serveNo>1278</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
