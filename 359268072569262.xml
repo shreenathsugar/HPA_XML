@@ -49818,4 +49818,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129841">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76009</GrowerCode>
+    <GrowerName>थोरात आप्पासो बाळू</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>1854</VillageCode>
+    <VillageName>मिरवडी</VillageName>
+    <SubVillageCode>1858</SubVillageCode>
+    <SubVillageName>मिरवडी(अष्टापूरमार्गे)(१९)</SubVillageName>
+    <serveNo>12</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
