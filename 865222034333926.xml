@@ -22078,4 +22078,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129891">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40937</GrowerCode>
+    <GrowerName>भोसले हनुमंत येदु</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>286</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129890">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76045</GrowerCode>
+    <GrowerName>शेलार विश्वनाथ रामभाऊ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>891</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
