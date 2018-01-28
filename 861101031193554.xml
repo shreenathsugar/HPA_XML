@@ -41230,4 +41230,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129826">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75996</GrowerCode>
+    <GrowerName>कांचन अलका ज्ञानदेव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>130</VillageCode>
+    <VillageName>भवरापूर</VillageName>
+    <SubVillageCode>1605</SubVillageCode>
+    <SubVillageName>भवरापूर(२४)गोळीबारमार्गे</SubVillageName>
+    <serveNo>151</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129828">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76001</GrowerCode>
+    <GrowerName>कानकाटे सुरेश लक्ष्मण</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>68</VillageCode>
+    <VillageName>उरुळी कांचन</VillageName>
+    <SubVillageCode>261</SubVillageCode>
+    <SubVillageName>उरुळीकांचन(३२)खामगावमार्गे]</SubVillageName>
+    <serveNo>344</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129829">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67876</GrowerCode>
+    <GrowerName>भरीतकर अमित रविंद्र</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>172</VillageCode>
+    <VillageName>कोरेगाव मूळ</VillageName>
+    <SubVillageCode>1542</SubVillageCode>
+    <SubVillageName>कोरेगाव मुळ(३५)प्रयागधाममार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129830">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76002</GrowerCode>
+    <GrowerName>भरीतकर गौरी अमित</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>172</VillageCode>
+    <VillageName>कोरेगाव मूळ</VillageName>
+    <SubVillageCode>1542</SubVillageCode>
+    <SubVillageName>कोरेगाव मुळ(३५)प्रयागधाममार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
