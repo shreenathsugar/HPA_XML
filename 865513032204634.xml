@@ -28576,4 +28576,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129911">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76053</GrowerCode>
+    <GrowerName>ताकवणे विजय सुरेश</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>118</VillageCode>
+    <VillageName>शिंदेवाडी (पारगाव)</VillageName>
+    <SubVillageCode>311</SubVillageCode>
+    <SubVillageName>शिंदेवाडी (२४)(पारगावमार्गे]</SubVillageName>
+    <serveNo>359</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="129912">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11575</GrowerCode>
+    <GrowerName>ताकवणे सचिन सुरेश</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>118</VillageCode>
+    <VillageName>शिंदेवाडी (पारगाव)</VillageName>
+    <SubVillageCode>311</SubVillageCode>
+    <SubVillageName>शिंदेवाडी (२४)(पारगावमार्गे]</SubVillageName>
+    <serveNo>853</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
