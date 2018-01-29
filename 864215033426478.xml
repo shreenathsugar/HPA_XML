@@ -61617,4 +61617,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129918">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>70386</GrowerCode>
+    <GrowerName>दरवडे सुरेखा प्रल्हाद</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>273</SubVillageCode>
+    <SubVillageName>पाटेठाण(२)</SubVillageName>
+    <serveNo>321</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="118356">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>366</GrowerCode>
+    <GrowerName>घाडगे चांगदेव बबन</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>273</SubVillageCode>
+    <SubVillageName>पाटेठाण(२)</SubVillageName>
+    <serveNo>256</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
