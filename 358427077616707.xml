@@ -22401,4 +22401,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130028">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75323</GrowerCode>
+    <GrowerName>तापकीर पल्लवी गणेश</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1738</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(१८)(ट्रॅ.गा)सहकारनगरमार्गे</SubVillageName>
+    <serveNo>245</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130029">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75322</GrowerCode>
+    <GrowerName>साबळे अतुल अंकुश</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1738</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(१८)(ट्रॅ.गा)सहकारनगरमार्गे</SubVillageName>
+    <serveNo>245</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
