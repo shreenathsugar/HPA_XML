@@ -50502,4 +50502,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130133">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50324</GrowerCode>
+    <GrowerName>हाके रामभाऊ किसन</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>519</SubVillageCode>
+    <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+    <serveNo>172</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130137">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11508</GrowerCode>
+    <GrowerName>थोरात दिपक शरद </GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>519</SubVillageCode>
+    <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+    <serveNo>314</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
