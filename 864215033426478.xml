@@ -62301,4 +62301,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130093">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11307</GrowerCode>
+    <GrowerName>मेटे उत्त्तम गुलाब</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>123</VillageCode>
+    <VillageName>मगरवाडी</VillageName>
+    <SubVillageCode>316</SubVillageCode>
+    <SubVillageName>मगरवाडी(७)</SubVillageName>
+    <serveNo>63</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
