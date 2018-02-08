@@ -42066,4 +42066,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130151">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76175</GrowerCode>
+    <GrowerName>कोंडे सर्जेराव बाबुराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>172</VillageCode>
+    <VillageName>कोरेगाव मूळ</VillageName>
+    <SubVillageCode>1542</SubVillageCode>
+    <SubVillageName>कोरेगाव मुळ(३५)प्रयागधाममार्गे</SubVillageName>
+    <serveNo>544</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
