@@ -34200,4 +34200,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130265">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76219</GrowerCode>
+    <GrowerName>ढमढेरे अरविंद व्यंकट</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1761</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2378</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130267">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76172</GrowerCode>
+    <GrowerName>गव्हाणे दीपाली हरीदास</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <SubVillageCode>1766</SubVillageCode>
+    <SubVillageName>डिंग्रजवाडी(२५)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>348</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

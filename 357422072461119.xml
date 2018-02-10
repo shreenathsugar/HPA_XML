@@ -62510,4 +62510,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130264">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76218</GrowerCode>
+    <GrowerName>ठोंबरे आनंदा नानाभाऊ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>87</VillageCode>
+    <VillageName>वडगाव बांडे</VillageName>
+    <SubVillageCode>1610</SubVillageCode>
+    <SubVillageName>वडगाव बांडे शिव(१३)</SubVillageName>
+    <serveNo>71</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130266">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76217</GrowerCode>
+    <GrowerName>खुंटे निलेश संजय</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>87</VillageCode>
+    <VillageName>वडगाव बांडे</VillageName>
+    <SubVillageCode>1610</SubVillageCode>
+    <SubVillageName>वडगाव बांडे शिव(१३)</SubVillageName>
+    <serveNo>192/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130258">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20821</GrowerCode>
+    <GrowerName>कुलाळ इंदुबाई दादासाहेब</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>87</VillageCode>
+    <VillageName>वडगाव बांडे</VillageName>
+    <SubVillageCode>1610</SubVillageCode>
+    <SubVillageName>वडगाव बांडे शिव(१३)</SubVillageName>
+    <serveNo>252</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
