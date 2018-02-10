@@ -29659,4 +29659,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130273">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76223</GrowerCode>
+    <GrowerName>टुले विलास भगवान</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>160</VillageCode>
+    <VillageName>खोपोडी</VillageName>
+    <SubVillageCode>1729</SubVillageCode>
+    <SubVillageName>खोपोडी(२६)</SubVillageName>
+    <serveNo>173</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
