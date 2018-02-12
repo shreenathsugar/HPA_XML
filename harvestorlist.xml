@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="76074">
-      <ContractorName>17-18 डुबे भाऊसो मारुती(बप्पा शिंदे)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74682">
-      <ContractorName>सोनवणे भाऊसो तानाजी(राठोड गणपत हंसराज)</ContractorName>
+    <ContractorCode Code="74612">
+      <ContractorName>शिवले निलेश ज्ञानेश्वर(राठोड कैलास दिनकर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74683">
       <ContractorName>सोनवणे नरसिंग साहेबराव(चव्हाण संजय दुधा)</ContractorName>
@@ -214,6 +211,12 @@
     <ContractorCode Code="76073">
       <ContractorName>गुंड पोपट रघुनाथ</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="76074">
+      <ContractorName>17-18 डुबे भाऊसो मारुती(बप्पा शिंदे)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="76161">
+      <ContractorName>वाघचौरे अक्षय राजेंद्र</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="74545">
       <ContractorName>आशान बापू बाळू</ContractorName>
     </ContractorCode>
@@ -408,9 +411,6 @@
     </ContractorCode>
     <ContractorCode Code="74611">
       <ContractorName>शिवले ए.के(राठोड पिंटू दिनकर)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74612">
-      <ContractorName>शिवले निलेश ज्ञानेश्वर(राठोड कैलास दिनकर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74613">
       <ContractorName>शिवले खंडू दामू(राठोड पिंटू दिनकर)</ContractorName>
@@ -616,6 +616,9 @@
     <ContractorCode Code="74681">
       <ContractorName>साळुंके शांताराम ज्ञानदेव(मोरे निंबा हिरामण)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="74682">
+      <ContractorName>सोनवणे भाऊसो तानाजी(राठोड गणपत हंसराज)</ContractorName>
+    </ContractorCode>
   </harvestorType>
   <harvestorType type="डोकी सेंटर">
     <ContractorCode Code="69184">
@@ -623,9 +626,6 @@
     </ContractorCode>
     <ContractorCode Code="72081">
       <ContractorName>कदम पांडुरंग तुकाराम</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="74750">
-      <ContractorName>सोडनवर अशोक अरुण(चव्हाण भिमराव सुपडू)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74751">
       <ContractorName>सातव दत्तात्रय गेनबा(शेख अली रमजू)</ContractorName>
@@ -833,6 +833,9 @@
     <ContractorCode Code="74746">
       <ContractorName>ढवळे प्रदीप नामदेव(ठाकरे संतोष दादा)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="76197">
+      <ContractorName>17-18 साठे पोपट भिकोबा</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="68861">
       <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
     </ContractorCode>
@@ -841,6 +844,9 @@
     </ContractorCode>
     <ContractorCode Code="74749">
       <ContractorName>साळुंके सोमनाथ ज्ञानदेव(राठोड पिंटू दिनकर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="74750">
+      <ContractorName>सोडनवर अशोक अरुण(चव्हाण भिमराव सुपडू)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
