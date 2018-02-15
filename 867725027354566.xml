@@ -38836,4 +38836,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130450">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76300</GrowerCode>
+    <GrowerName>करंजे शिला खंडेराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1739</SubVillageCode>
+    <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
+    <serveNo>1676</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130401">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76264</GrowerCode>
+    <GrowerName>बैलभर अनिल दत्तात्रय</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1739</SubVillageCode>
+    <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
+    <serveNo>1521</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130402">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76265</GrowerCode>
+    <GrowerName>बैलभर स्वप्नील अदिनाथ</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1739</SubVillageCode>
+    <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
+    <serveNo>1521</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130403">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76267</GrowerCode>
+    <GrowerName>खेडकर अमोल अशोक</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1739</SubVillageCode>
+    <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
+    <serveNo>1498</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
