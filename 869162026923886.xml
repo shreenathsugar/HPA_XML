@@ -34523,4 +34523,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130507">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76317</GrowerCode>
+    <GrowerName>भुजबळ संदिप धोंडीबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>भिमशेत</VillageName>
+    <SubVillageCode>1800</SubVillageCode>
+    <SubVillageName>भिमशेत(14)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>246</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
