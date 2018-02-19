@@ -26999,4 +26999,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130525">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76333</GrowerCode>
+    <GrowerName>धुमाल शशांक आनंदराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1383</VillageCode>
+    <VillageName>मुखई</VillageName>
+    <SubVillageCode>1835</SubVillageCode>
+    <SubVillageName>मुखई(३४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>334</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
