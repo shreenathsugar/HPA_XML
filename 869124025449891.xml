@@ -43339,4 +43339,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130541">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42331</GrowerCode>
+    <GrowerName>भंडारे बाळु बाबुराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>75</VillageCode>
+    <VillageName>वढू खुर्द</VillageName>
+    <SubVillageCode>1616</SubVillageCode>
+    <SubVillageName>वढू खुर्द (३३)आळंदीफाटामार्गे</SubVillageName>
+    <serveNo>343</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130488">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11881</GrowerCode>
+    <GrowerName>सरडे रामदास चिमाजी</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>65</VillageCode>
+    <VillageName>पेरणे</VillageName>
+    <SubVillageCode>258</SubVillageCode>
+    <SubVillageName>पेरणे(२७)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>758</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
