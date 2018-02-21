@@ -43054,4 +43054,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130583">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10933</GrowerCode>
+    <GrowerName>कंद बाळासाहेब आनंदराव </GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>179</VillageCode>
+    <VillageName>लोणीकंद</VillageName>
+    <SubVillageCode>641</SubVillageCode>
+    <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
+    <serveNo>656</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

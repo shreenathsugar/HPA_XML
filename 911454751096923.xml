@@ -23142,4 +23142,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130582">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76359</GrowerCode>
+    <GrowerName>शेलार मनोज बापूराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>543</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130581">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76337</GrowerCode>
+    <GrowerName>पापळ भाग्यश्री विश्वास</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>543</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
