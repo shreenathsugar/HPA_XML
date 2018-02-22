@@ -43,18 +43,6 @@
       <TrollyNoA>T76330-1</TrollyNoA>
       <TrollyNoB>T76330-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="74402">
-      <ContractorName>नातु दत्तोबा त्रिंबक</ContractorName>
-      <VehicleNo>MH-42-Y-7233</VehicleNo>
-      <TrollyNoA>T74402-1</TrollyNoA>
-      <TrollyNoB>T74402-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="74403">
-      <ContractorName>नातु विकास मच्छिंद्र</ContractorName>
-      <VehicleNo>MH-42-Q-1340</VehicleNo>
-      <TrollyNoA>T74403-1</TrollyNoA>
-      <TrollyNoB>T74403-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="74404">
       <ContractorName>नातु विनायक नामदेव</ContractorName>
       <VehicleNo>MH-42-Q-209</VehicleNo>
@@ -1441,6 +1429,18 @@
       <TrollyNoA>T74401-1</TrollyNoA>
       <TrollyNoB>T74401-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="74402">
+      <ContractorName>नातु दत्तोबा त्रिंबक</ContractorName>
+      <VehicleNo>MH-42-Y-7233</VehicleNo>
+      <TrollyNoA>T74402-1</TrollyNoA>
+      <TrollyNoB>T74402-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="74403">
+      <ContractorName>नातु विकास मच्छिंद्र</ContractorName>
+      <VehicleNo>MH-42-Q-1340</VehicleNo>
+      <TrollyNoA>T74403-1</TrollyNoA>
+      <TrollyNoB>T74403-2</TrollyNoB>
+    </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
     <ContractorCode Code="49261">
@@ -1677,12 +1677,6 @@
       <TrollyNoA>T75128-1</TrollyNoA>
       <TrollyNoB>T75128-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="75128">
-      <ContractorName>17-18 कोळपे लंकाबाई बाळासाहेब</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T75128-1</TrollyNoA>
-      <TrollyNoB>T75128-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="75195">
       <ContractorName>टुले काळूराम लक्ष्मण</ContractorName>
       <VehicleNo>MH-12-EB-4034</VehicleNo>
@@ -1730,12 +1724,6 @@
       <VehicleNo>MH-12-EB-4826</VehicleNo>
       <TrollyNoA>T75709-1</TrollyNoA>
       <TrollyNoB>T75709-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="75982">
-      <ContractorName>पवार मनोहर सुरेश</ContractorName>
-      <VehicleNo>MH-12-ED-2745</VehicleNo>
-      <TrollyNoA>T75982-1</TrollyNoA>
-      <TrollyNoB>T75982-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="75982">
       <ContractorName>पवार मनोहर सुरेश</ContractorName>
