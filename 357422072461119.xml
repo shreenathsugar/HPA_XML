@@ -63897,4 +63897,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130642">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11569</GrowerCode>
+    <GrowerName>शिंदे गौतमा विनायक</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>81</VillageCode>
+    <VillageName>राहु</VillageName>
+    <SubVillageCode>318</SubVillageCode>
+    <SubVillageName>शिंदेनगर(१०)</SubVillageName>
+    <serveNo>1093</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
