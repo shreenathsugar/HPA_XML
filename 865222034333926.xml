@@ -23693,4 +23693,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130861">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76467</GrowerCode>
+    <GrowerName>काळे निर्मला बाळासो</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>57</VillageCode>
+    <VillageName>शिरसगाव काटा</VillageName>
+    <SubVillageCode>250</SubVillageCode>
+    <SubVillageName>शिरसगांव काटा(पारगावमार्गे])(४५)</SubVillageName>
+    <serveNo>418</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130862">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76466</GrowerCode>
+    <GrowerName>कोळपे मोहन बाबासो</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>50</VillageCode>
+    <VillageName>मांडवगण फराटा</VillageName>
+    <SubVillageCode>1633</SubVillageCode>
+    <SubVillageName>मांडवगण फराटा(३७)पारगावमार्गे</SubVillageName>
+    <serveNo>364</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
