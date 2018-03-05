@@ -52554,4 +52554,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130989">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76491</GrowerCode>
+    <GrowerName>डुबे आप्पा सिदा</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>डुबेवाडी</VillageName>
+    <SubVillageCode>314</SubVillageCode>
+    <SubVillageName>डूबेवाडी(५)</SubVillageName>
+    <serveNo>145</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="130988">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49746</GrowerCode>
+    <GrowerName>डुबे शिवाजी मुक्त्ताराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>डुबेवाडी</VillageName>
+    <SubVillageCode>314</SubVillageCode>
+    <SubVillageName>डूबेवाडी(५)</SubVillageName>
+    <serveNo>258</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
