@@ -23750,4 +23750,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130866">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76473</GrowerCode>
+    <GrowerName>कोळेकर सोमनाथ लक्ष्मण</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>528</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
