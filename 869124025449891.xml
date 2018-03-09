@@ -30343,4 +30343,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="130938">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5383</GrowerCode>
+    <GrowerName>शिंदे नारायण खंडेराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>64</VillageCode>
+    <VillageName>डोंगरगाव</VillageName>
+    <SubVillageCode>257</SubVillageCode>
+    <SubVillageName>डोंगरगाव (२५)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>454</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="131870">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69495</GrowerCode>
+    <GrowerName>वाळके संभाजी महादेव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>65</VillageCode>
+    <VillageName>पेरणे</VillageName>
+    <SubVillageCode>1661</SubVillageCode>
+    <SubVillageName>पेरणे फाटा(२९)(अष्टापूरफाटामार्गे</SubVillageName>
+    <serveNo>857</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
