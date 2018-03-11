@@ -21071,4 +21071,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="132517">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15281</GrowerCode>
+    <GrowerName>वाळके रविंद्र किसन</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>65</VillageCode>
+    <VillageName>पेरणे</VillageName>
+    <SubVillageCode>1661</SubVillageCode>
+    <SubVillageName>पेरणे फाटा(२९)(अष्टापूरफाटामार्गे</SubVillageName>
+    <serveNo>930</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="132518">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54660</GrowerCode>
+    <GrowerName>कंद राहुल राघु</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>179</VillageCode>
+    <VillageName>लोणीकंद</VillageName>
+    <SubVillageCode>641</SubVillageCode>
+    <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
+    <serveNo>147</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
