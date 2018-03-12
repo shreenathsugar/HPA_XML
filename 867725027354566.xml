@@ -29450,4 +29450,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="132448">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16758</GrowerCode>
+    <GrowerName>वाडेकर तुकाराम आबुराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1106</VillageCode>
+    <VillageName>पिंपळे जगताप</VillageName>
+    <SubVillageCode>1755</SubVillageCode>
+    <SubVillageName>पिंपळे जगताप (३४) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>43</serveNo>
+    <CaneVariety>11</CaneVariety>
+    <CaneVarietyName>6847</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="132524">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44805</GrowerCode>
+    <GrowerName>गाडेकर रमेश शंकर</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>30</VillageCode>
+    <VillageName>आपटी</VillageName>
+    <SubVillageCode>1753</SubVillageCode>
+    <SubVillageName>आपटी (३५) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>897</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
