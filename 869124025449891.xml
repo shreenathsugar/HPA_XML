@@ -30894,4 +30894,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="133160">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23397</GrowerCode>
+    <GrowerName>वाळके मधुकर दामोदर</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>65</VillageCode>
+    <VillageName>पेरणे</VillageName>
+    <SubVillageCode>1661</SubVillageCode>
+    <SubVillageName>पेरणे फाटा(२९)(अष्टापूरफाटामार्गे</SubVillageName>
+    <serveNo>757</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="133204">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21588</GrowerCode>
+    <GrowerName>कंद बाबुराव नानाभाऊ</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>179</VillageCode>
+    <VillageName>लोणीकंद</VillageName>
+    <SubVillageCode>641</SubVillageCode>
+    <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
+    <serveNo>164</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
