@@ -20121,4 +20121,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="133091">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76645</GrowerCode>
+    <GrowerName>बेंद्रे वाल्मिक माधवराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1539</VillageCode>
+    <VillageName>आंबळे</VillageName>
+    <SubVillageCode>1638</SubVillageCode>
+    <SubVillageName>आंबळे(४०)पारगावमार्गे</SubVillageName>
+    <serveNo>368</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="133090">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76644</GrowerCode>
+    <GrowerName>बेंद्रे करण रमेश</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1539</VillageCode>
+    <VillageName>आंबळे</VillageName>
+    <SubVillageCode>1638</SubVillageCode>
+    <SubVillageName>आंबळे(४०)पारगावमार्गे</SubVillageName>
+    <serveNo>365</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
