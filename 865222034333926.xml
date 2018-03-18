@@ -20387,4 +20387,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="134033">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37039</GrowerCode>
+    <GrowerName>पापळ अशोक मल्हारी</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>46</VillageCode>
+    <VillageName>कुरुळी</VillageName>
+    <SubVillageCode>1631</SubVillageCode>
+    <SubVillageName>कुरुळी(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>354</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
