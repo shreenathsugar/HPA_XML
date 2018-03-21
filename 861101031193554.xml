@@ -22173,4 +22173,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="134515">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76789</GrowerCode>
+    <GrowerName>शिंदे अंकुश किसन</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>62</VillageCode>
+    <VillageName>बुर्केगावा</VillageName>
+    <SubVillageCode>255</SubVillageCode>
+    <SubVillageName>बुर्केगाव(२१)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>857</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="134530">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76790</GrowerCode>
+    <GrowerName>खेसे महादेव बबन</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>75</VillageCode>
+    <VillageName>वढू खुर्द</VillageName>
+    <SubVillageCode>1616</SubVillageCode>
+    <SubVillageName>वढू खुर्द (३३)आळंदीफाटामार्गे</SubVillageName>
+    <serveNo>767</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="134500">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4327</GrowerCode>
+    <GrowerName>बाजारे देविदास लक्ष्मण</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>62</VillageCode>
+    <VillageName>बुर्केगावा</VillageName>
+    <SubVillageCode>255</SubVillageCode>
+    <SubVillageName>बुर्केगाव(२१)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>565</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="134470">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62496</GrowerCode>
+    <GrowerName>वायकर वसंत गुलाब</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>61</VillageCode>
+    <VillageName>पिंप्री सांडस</VillageName>
+    <SubVillageCode>254</SubVillageCode>
+    <SubVillageName>पिंपरी सांडस(१९)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="134472">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7167</GrowerCode>
+    <GrowerName>वायकर किसन गुलाब</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>61</VillageCode>
+    <VillageName>पिंप्री सांडस</VillageName>
+    <SubVillageCode>254</SubVillageCode>
+    <SubVillageName>पिंपरी सांडस(१९)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
