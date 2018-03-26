@@ -32870,4 +32870,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="135110">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76872</GrowerCode>
+    <GrowerName>कुंजीर सदाशिव कृष्णाजी</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>191</VillageCode>
+    <VillageName>लोणी काळभोर</VillageName>
+    <SubVillageCode>686</SubVillageCode>
+    <SubVillageName>लोणी काळभोर(४२)</SubVillageName>
+    <serveNo>786</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="135107">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76863</GrowerCode>
+    <GrowerName>हराळे सचिन जगन्नाथ</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>166</VillageCode>
+    <VillageName>शिंदवणे</VillageName>
+    <SubVillageCode>616</SubVillageCode>
+    <SubVillageName>शिंदवणे(३५)खामगावमार्गे]</SubVillageName>
+    <serveNo>56</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
