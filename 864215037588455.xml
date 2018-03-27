@@ -29355,4 +29355,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="135167">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14012</GrowerCode>
+    <GrowerName>राऊत पांडुरंग आबाजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>193</VillageCode>
+    <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <SubVillageCode>1808</SubVillageCode>
+    <SubVillageName>माळीमळा(19) (टायर/ट्रॅ.गा) (म्हाळुंगीमार्गे)</SubVillageName>
+    <serveNo>567</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="135232">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56256</GrowerCode>
+    <GrowerName>अभंग सुरेश ज्ञानदेव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>रांजणगाव गणपती</VillageName>
+    <SubVillageCode>1770</SubVillageCode>
+    <SubVillageName>रांजनगाव गणपती(३७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>46</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
