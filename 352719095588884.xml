@@ -29583,4 +29583,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="135438">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60481</GrowerCode>
+    <GrowerName>वाळके सुहास सुरेश</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>भिमशेत</VillageName>
+    <SubVillageCode>1764</SubVillageCode>
+    <SubVillageName>भिमशेत(17)(टायर/टा.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2783</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="135440">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60480</GrowerCode>
+    <GrowerName>वाळके कौशल्या सुरेश</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>भिमशेत</VillageName>
+    <SubVillageCode>1764</SubVillageCode>
+    <SubVillageName>भिमशेत(17)(टायर/टा.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2783</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

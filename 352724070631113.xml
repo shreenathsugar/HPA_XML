@@ -33193,4 +33193,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="133049">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>43912</GrowerCode>
+    <GrowerName>पाबळे विलास नारायण</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>59</VillageCode>
+    <VillageName>सांगवी सांडस</VillageName>
+    <SubVillageCode>252</SubVillageCode>
+    <SubVillageName>सांगवी सांडस (राहूरोडमार्गे])(९)</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="135346">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39155</GrowerCode>
+    <GrowerName>शिंदे मंगल वाल्मिक</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>155</VillageCode>
+    <VillageName>शिंदेवाडी(हवेली)</VillageName>
+    <SubVillageCode>532</SubVillageCode>
+    <SubVillageName>शिंदेवाडी (१३)हिंगणगाव मार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
