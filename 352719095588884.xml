@@ -29735,4 +29735,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="135558">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74078</GrowerCode>
+    <GrowerName>टेमगिरे शरद बाळासो</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>37</VillageCode>
+    <VillageName>पारोडी</VillageName>
+    <SubVillageCode>1774</SubVillageCode>
+    <SubVillageName>पारोडी(33)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>467</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="135511">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39625</GrowerCode>
+    <GrowerName>साकोरे दत्तात्रय सहादु</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1777</SubVillageCode>
+    <SubVillageName>पाचर्णेवस्ती(२४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>467</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
