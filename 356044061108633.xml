@@ -43434,4 +43434,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="135743">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>66440</GrowerCode>
+    <GrowerName>कोळपे शशिकला दादाभाऊ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>86</VillageCode>
+    <VillageName>पानवली</VillageName>
+    <SubVillageCode>1658</SubVillageCode>
+    <SubVillageName>कांबळेनगर(१५)</SubVillageName>
+    <serveNo>35</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="135729">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>73257</GrowerCode>
+    <GrowerName>बोरावणे भाऊसो सखाराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>86</VillageCode>
+    <VillageName>पानवली</VillageName>
+    <SubVillageCode>1658</SubVillageCode>
+    <SubVillageName>कांबळेनगर(१५)</SubVillageName>
+    <serveNo>96</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="135731">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25475</GrowerCode>
+    <GrowerName>नवले संगिता सोमनाथ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>टेळेवाडी</VillageName>
+    <SubVillageCode>1602</SubVillageCode>
+    <SubVillageName>टेळेवाडीपाठार(१५)कोरेगाव घाटमार्गे</SubVillageName>
+    <serveNo>432</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
