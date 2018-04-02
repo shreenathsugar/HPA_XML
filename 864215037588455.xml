@@ -30419,4 +30419,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="136156">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>77075</GrowerCode>
+    <GrowerName>नरके कांता सुनिल</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1761</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2649</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="136155">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>77074</GrowerCode>
+    <GrowerName>नरके अरुण सोपान</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1761</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2573</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
