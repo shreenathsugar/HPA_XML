@@ -33801,4 +33801,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="136170">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44016</GrowerCode>
+    <GrowerName>काची राजेश वसंत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>हिंगणगाव</VillageName>
+    <SubVillageCode>1405</SubVillageCode>
+    <SubVillageName>हिंगणगाव(राहूरोडमार्गे)(१५)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
