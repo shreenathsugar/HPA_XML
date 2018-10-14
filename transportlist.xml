@@ -8,4 +8,18 @@
       <TrollyNoB>T68863-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
+  <VechicleType type="Truck">
+    <ContractorCode Code="75450">
+      <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली</ContractorName>
+      <VehicleNo>new</VehicleNo>
+    </ContractorCode>
+  </VechicleType>
+  <VechicleType type="TractorHarvestor">
+    <ContractorCode Code="62322">
+      <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली.</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T62322-1</TrollyNoA>
+      <TrollyNoB>T62322-2</TrollyNoB>
+    </ContractorCode>
+  </VechicleType>
 </ContractorDetails>

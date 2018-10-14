@@ -12,12 +12,6 @@
     <rstart>1386401</rstart>
     <rend>1386900</rend>
   </imeicode>
-  <imeicode imei="358674080543002">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/358674080543002.xml</url>
-    <version>1</version>
-    <rstart>1415901</rstart>
-    <rend>1417700</rend>
-  </imeicode>
   <imeicode imei="869162026923886">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/869162026923886.xml</url>
     <version>1</version>
@@ -102,11 +96,11 @@
     <rstart>1644801</rstart>
     <rend>1648800</rend>
   </imeicode>
-  <imeicode imei="355596061702617">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/355596061702617.xml</url>
+  <imeicode imei="358674080543002">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/358674080543002.xml</url>
     <version>1</version>
-    <rstart>1575801</rstart>
-    <rend>1578800</rend>
+    <rstart>1661651</rstart>
+    <rend>1665150</rend>
   </imeicode>
   <imeicode imei="864215033426478">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/864215033426478.xml</url>
@@ -204,11 +198,11 @@
     <rstart>1506001</rstart>
     <rend>1508000</rend>
   </imeicode>
-  <imeicode imei="359495050887610">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/359495050887610.xml</url>
+  <imeicode imei="865572032438071">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/865572032438071.xml</url>
     <version>1</version>
-    <rstart>1600801</rstart>
-    <rend>1603300</rend>
+    <rstart>1575801</rstart>
+    <rend>1578800</rend>
   </imeicode>
   <imeicode imei="352719095588884">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/352719095588884.xml</url>
@@ -371,5 +365,11 @@
     <version>1</version>
     <rstart>1501401</rstart>
     <rend>1502000</rend>
+  </imeicode>
+  <imeicode imei="868368030572145">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/868368030572145.xml</url>
+    <version>1</version>
+    <rstart>1600801</rstart>
+    <rend>1603300</rend>
   </imeicode>
 </devices>
