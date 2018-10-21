@@ -1323,9 +1323,69 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
+    <ContractorCode Code="49261">
+      <ContractorName>पाचपिल्ले अशोक सदाशिव</ContractorName>
+      <VehicleNo>MH-14-AH-6608</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68436">
+      <ContractorName>बीडगर एम. आर</ContractorName>
+      <VehicleNo>MH-12-QA-9584</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68438">
+      <ContractorName>भंडारी रविंद्र सूर्यकांत</ContractorName>
+      <VehicleNo>MH-04-H-6988</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68460">
+      <ContractorName>घाडगे राजेंद्र शिवाजी</ContractorName>
+      <VehicleNo>MH-12-KP-5902</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68478">
+      <ContractorName>पिलाणे जी.एन</ContractorName>
+      <VehicleNo>MH-12-HD-3529</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68506">
+      <ContractorName>कोळपे भाऊसो लक्ष्मण</ContractorName>
+      <VehicleNo>MH-14-AS-8009</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68527">
+      <ContractorName>मखर संजय अशोक</ContractorName>
+      <VehicleNo>MH-14-AH-6001</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="71558">
+      <ContractorName>श्रीराम बी.एम</ContractorName>
+      <VehicleNo>MH-12-CT-6438</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74337">
+      <ContractorName>भोरडे संपत गुलाबराव</ContractorName>
+      <VehicleNo>MH-12-DT-1161</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74393">
+      <ContractorName>कोंडे दादासो दत्तू</ContractorName>
+      <VehicleNo>MH-12-AF-8380</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74406">
+      <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव</ContractorName>
+      <VehicleNo>MH-12-CT-5483</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74416">
+      <ContractorName>शेरेकर सागर दिलीप</ContractorName>
+      <VehicleNo>MH-18-AA-1621</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="74423">
+      <ContractorName>श्रीराम बापू ज्ञानदेव</ContractorName>
+      <VehicleNo>MH-12-CT-4747</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="75450">
       <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली</ContractorName>
       <VehicleNo>new</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="79017">
+      <ContractorName>आगोणे देविदास अशोक</ContractorName>
+      <VehicleNo>MH-18-M-9477</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="79037">
+      <ContractorName>निकुंभ शिवाजी पोपट</ContractorName>
+      <VehicleNo>MH-12-0842</VehicleNo>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
