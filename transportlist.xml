@@ -1379,6 +1379,10 @@
       <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली</ContractorName>
       <VehicleNo>new</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="76162">
+      <ContractorName>वाघचौरे अक्षय राजेंद्र</ContractorName>
+      <VehicleNo>MH-12-FA-9296</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="79017">
       <ContractorName>आगोणे देविदास अशोक</ContractorName>
       <VehicleNo>MH-18-M-9477</VehicleNo>
@@ -1386,6 +1390,10 @@
     <ContractorCode Code="79037">
       <ContractorName>निकुंभ शिवाजी पोपट</ContractorName>
       <VehicleNo>MH-12-0842</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="79418">
+      <ContractorName>पाचपिल्ले ए.एस</ContractorName>
+      <VehicleNo>MH-12-HD-5506</VehicleNo>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
