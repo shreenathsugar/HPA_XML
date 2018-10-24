@@ -1,30 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="Doki">
-    <ContractorCode Code="79195">
-      <ContractorName>जाधव ताराचंद शंकर</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79261">
-      <ContractorName>टुले वैभव भगवान(ठाकरे संजय लालसिंग)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79196">
-      <ContractorName>ढवळे प्रदिप नामदेव(ठाकरे कांतीलाल सिताराम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79155">
-      <ContractorName>शिंदे एस.पी(राठोड राजेंद्र मल्लू)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79240">
-      <ContractorName>टिळेकर ईश्वर बाजीराव(तुपे रोहिदास भानुदास)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79198">
-      <ContractorName>जगताप गणेश नामदेव(माळीश रघुनाथ सोनू)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79156">
-      <ContractorName>शिंदे विकास वामन</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79200">
-      <ContractorName>जगताप सचिन नारायण(पवार रविंद्र तुळशिराम)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79269">
       <ContractorName>थोरात अक्षय सुभाष(ठाकरे नरसिंग रमेश)</ContractorName>
     </ContractorCode>
@@ -106,17 +82,41 @@
     <ContractorCode Code="79166">
       <ContractorName>नागरे धनंजय मुरलीधर(वाव्हळे अशोक श्रीधर)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="79195">
+      <ContractorName>जाधव ताराचंद शंकर</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79261">
+      <ContractorName>टुले वैभव भगवान(ठाकरे संजय लालसिंग)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79196">
+      <ContractorName>ढवळे प्रदिप नामदेव(ठाकरे कांतीलाल सिताराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79155">
+      <ContractorName>शिंदे एस.पी(राठोड राजेंद्र मल्लू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79240">
+      <ContractorName>टिळेकर ईश्वर बाजीराव(तुपे रोहिदास भानुदास)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79198">
+      <ContractorName>जगताप गणेश नामदेव(माळीश रघुनाथ सोनू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79450">
+      <ContractorName>दरगुडे विजय पोपट</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79156">
+      <ContractorName>शिंदे विकास वामन</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79455">
+      <ContractorName>वाघमोडे बाबाजी धुळा</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79200">
+      <ContractorName>जगताप सचिन नारायण(पवार रविंद्र तुळशिराम)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="68861">
       <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="79120">
-      <ContractorName>डुबे दिपक दादा(चव्हाण भाईदास भिल्लू)5987</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79121">
-      <ContractorName>डुबे दिपक दादा(चव्हाण भाईदास भिल्लू)9042</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79122">
       <ContractorName>डुबे मल्हारी विठ्ठल(राठोड राजेंद्र मल्लू)</ContractorName>
     </ContractorCode>
@@ -609,6 +609,30 @@
     <ContractorCode Code="79420">
       <ContractorName>ढमढेरे ज्ञानेश्वर कृष्णराव</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="79439">
+      <ContractorName>हंबीर नवनाथ ज्ञानोबा</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79440">
+      <ContractorName>बोरनारे मंजूषा महेंद्र</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79441">
+      <ContractorName>थोरात प्रविण उल्हास</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79443">
+      <ContractorName>गवारे रावसाहेब बाबासाहेब</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79445">
+      <ContractorName>गवारी विश्वनाथ कोंडीबा</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79451">
+      <ContractorName>लोले नानासाहेब गुलाब</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79456">
+      <ContractorName>मारणे विशाल पंढरीनाथ</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79457">
+      <ContractorName>ढमढेरे सागर बाळासाहेब</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="79082">
       <ContractorName>आगोणे देवीदास अशोक</ContractorName>
     </ContractorCode>
@@ -713,6 +737,12 @@
     </ContractorCode>
     <ContractorCode Code="79119">
       <ContractorName>डुबे दिपक दादा(चव्हाण अर्जुन सोमा)(4060)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79120">
+      <ContractorName>डुबे दिपक दादा(चव्हाण भाईदास भिल्लू)5987</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79121">
+      <ContractorName>डुबे दिपक दादा(चव्हाण भाईदास भिल्लू)9042</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
