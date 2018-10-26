@@ -23769,4 +23769,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145139">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39577</GrowerCode>
+    <GrowerName>कोतवाल कुंडलिक तुकाराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>273</SubVillageCode>
+    <SubVillageName>पाटेठाण(२)</SubVillageName>
+    <serveNo>190</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
