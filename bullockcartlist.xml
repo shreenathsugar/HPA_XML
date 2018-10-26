@@ -39,6 +39,9 @@
     <ContractorName>ढाकणे पांडुरंग नाथा</ContractorName>
     <GadiwanCode>227</GadiwanCode>
     <GadiwanName>पवार रामू भानुदास</GadiwanName>
+    <ContractorName>ढाकणे पांडुरंग नाथा</ContractorName>
+    <GadiwanCode>250</GadiwanCode>
+    <GadiwanName />
   </ContractorCode>
   <ContractorCode Code="12464">
     <ContractorName>बटुळे बाबासो लक्ष्मण</ContractorName>
@@ -59,6 +62,17 @@
     <ContractorName>बटुळे बाबासो लक्ष्मण</ContractorName>
     <GadiwanCode>191</GadiwanCode>
     <GadiwanName>जायभाये ज्ञानदेव निवृत्ती</GadiwanName>
+  </ContractorCode>
+  <ContractorCode Code="21360">
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>251</GadiwanCode>
+    <GadiwanName />
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>252</GadiwanCode>
+    <GadiwanName />
+    <ContractorName>गर्कळ महादेव बाजीराव</ContractorName>
+    <GadiwanCode>253</GadiwanCode>
+    <GadiwanName />
   </ContractorCode>
   <ContractorCode Code="21420">
     <ContractorName>बटुळे नामदेव कुंडलिक</ContractorName>
@@ -785,6 +799,15 @@
     <ContractorName>चव्हाण प्रेमसिंग पूनमचंद</ContractorName>
     <GadiwanCode>207</GadiwanCode>
     <GadiwanName>जाधव मोहन धनसिंग</GadiwanName>
+    <ContractorName>चव्हाण प्रेमसिंग पूनमचंद</ContractorName>
+    <GadiwanCode>247</GadiwanCode>
+    <GadiwanName />
+    <ContractorName>चव्हाण प्रेमसिंग पूनमचंद</ContractorName>
+    <GadiwanCode>248</GadiwanCode>
+    <GadiwanName />
+    <ContractorName>चव्हाण प्रेमसिंग पूनमचंद</ContractorName>
+    <GadiwanCode>249</GadiwanCode>
+    <GadiwanName />
   </ContractorCode>
   <ContractorCode Code="79470">
     <ContractorName>बटुळे नामदेव बापू</ContractorName>
