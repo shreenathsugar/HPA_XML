@@ -12939,4 +12939,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="129646">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50867</GrowerCode>
+    <GrowerName>कटके पोपट बाळासाहेब</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>63</VillageCode>
+    <VillageName>आष्टापूर</VillageName>
+    <SubVillageCode>256</SubVillageCode>
+    <SubVillageName>अष्टापूर(२०)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>100</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145265">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55434</GrowerCode>
+    <GrowerName>कंद सार्थक निवृत्ती</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>179</VillageCode>
+    <VillageName>लोणीकंद</VillageName>
+    <SubVillageCode>641</SubVillageCode>
+    <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
+    <serveNo>35</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145272">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>43406</GrowerCode>
+    <GrowerName>कंद बाजीराव बबन</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>179</VillageCode>
+    <VillageName>लोणीकंद</VillageName>
+    <SubVillageCode>641</SubVillageCode>
+    <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
+    <serveNo>134</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145273">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49247</GrowerCode>
+    <GrowerName>कंद किसन हरीभाऊ</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>179</VillageCode>
+    <VillageName>लोणीकंद</VillageName>
+    <SubVillageCode>641</SubVillageCode>
+    <SubVillageName>लोणी कंद(३१)पेरणेमार्गे]</SubVillageName>
+    <serveNo>321</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

@@ -18183,4 +18183,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145270">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42083</GrowerCode>
+    <GrowerName>जगताप संगिता राजेंद्र</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>99</VillageCode>
+    <VillageName>नांदूर</VillageName>
+    <SubVillageCode>292</SubVillageCode>
+    <SubVillageName>नांदूर(१६)</SubVillageName>
+    <serveNo>155</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145271">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32969</GrowerCode>
+    <GrowerName>शिंदे मंगेश रामभाऊ</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <SubVillageCode>287</SubVillageCode>
+    <SubVillageName>नाथाचीवाडी(१६)</SubVillageName>
+    <serveNo>1735</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

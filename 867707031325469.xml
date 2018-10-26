@@ -14459,4 +14459,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145268">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>71300</GrowerCode>
+    <GrowerName>गवारे सुनिल लक्ष्मण</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1762</SubVillageCode>
+    <SubVillageName>विठ्ठलवाडी(१२)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>159</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="134178">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40575</GrowerCode>
+    <GrowerName>दरेकर विठ्ठल बापुराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>26</VillageCode>
+    <VillageName>दरेकरवाडी</VillageName>
+    <SubVillageCode>1767</SubVillageCode>
+    <SubVillageName>दरेकरवाडी(२४)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>307</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="134179">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40575</GrowerCode>
+    <GrowerName>दरेकर विठ्ठल बापुराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>26</VillageCode>
+    <VillageName>दरेकरवाडी</VillageName>
+    <SubVillageCode>1767</SubVillageCode>
+    <SubVillageName>दरेकरवाडी(२४)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>465</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
