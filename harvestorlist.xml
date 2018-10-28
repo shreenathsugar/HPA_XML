@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="Doki">
-    <ContractorCode Code="79221">
-      <ContractorName>माळी जी.बी</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79157">
-      <ContractorName>शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79302">
-      <ContractorName>सातव तानाजी दत्तात्रय(शेख अलि रमजु)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79303">
-      <ContractorName>शेख अलि रमजू</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79304">
       <ContractorName>शेख गफुर रमजू</ContractorName>
     </ContractorCode>
@@ -112,13 +100,25 @@
     <ContractorCode Code="79299">
       <ContractorName>सातव दत्तात्रय गेनबा(शेख अली रमजू)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="79221">
+      <ContractorName>माळी जी.बी</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79157">
+      <ContractorName>शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79302">
+      <ContractorName>सातव तानाजी दत्तात्रय(शेख अलि रमजु)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79303">
+      <ContractorName>शेख अलि रमजू</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="68861">
       <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
     <ContractorCode Code="79121">
-      <ContractorName>डुबे दिपक दादा(चव्हाण भाईदास भिल्लू)9042</ContractorName>
+      <ContractorName>डुबे दिपक दादा(चव्हाण मिथुन साईदास)9042</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79122">
       <ContractorName>डुबे मल्हारी विठ्ठल(राठोड राजेंद्र मल्लू)</ContractorName>
@@ -644,6 +644,18 @@
     </ContractorCode>
     <ContractorCode Code="79482">
       <ContractorName>गवळी भुजंग दशरथ</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79489">
+      <ContractorName>भापकर आर.जी(राठोड युवराज किसन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79500">
+      <ContractorName>वराळे बबन तुकाराम</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79501">
+      <ContractorName>गायकवाड एस. सी(सोनवणे भगवान)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79502">
+      <ContractorName>गायकवाड एस.जी</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74606">
       <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
