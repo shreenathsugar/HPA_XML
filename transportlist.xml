@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="79026">
-      <ContractorName>चव्हाण बापु बन्सी</ContractorName>
-      <VehicleNo>MH-42-Q-3439</VehicleNo>
-      <TrollyNoA>T79026-1</TrollyNoA>
-      <TrollyNoB>T79026-2</TrollyNoB>
+    <ContractorCode Code="79503">
+      <ContractorName>गायकवाड एस.सी</ContractorName>
+      <VehicleNo>MH-42-Q-438</VehicleNo>
+      <TrollyNoA>T79503-1</TrollyNoA>
+      <TrollyNoB>T79503-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79038">
       <ContractorName>शिंदे एस.डी</ContractorName>
@@ -223,11 +223,11 @@
       <TrollyNoA>T79472-1</TrollyNoA>
       <TrollyNoB>T79472-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="79499">
-      <ContractorName>वराळे बबन तुकाराम</ContractorName>
-      <VehicleNo>MH-12-JN-5125</VehicleNo>
-      <TrollyNoA>T79499-1</TrollyNoA>
-      <TrollyNoB>T79499-2</TrollyNoB>
+    <ContractorCode Code="79492">
+      <ContractorName>भापकर आर.जी</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T79492-1</TrollyNoA>
+      <TrollyNoB>T79492-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79499">
       <ContractorName>वराळे बबन तुकाराम</ContractorName>
@@ -235,11 +235,11 @@
       <TrollyNoA>T79499-1</TrollyNoA>
       <TrollyNoB>T79499-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="79503">
-      <ContractorName>गायकवाड एस.सी</ContractorName>
-      <VehicleNo>MH-42-Q-438</VehicleNo>
-      <TrollyNoA>T79503-1</TrollyNoA>
-      <TrollyNoB>T79503-2</TrollyNoB>
+    <ContractorCode Code="79499">
+      <ContractorName>वराळे बबन तुकाराम</ContractorName>
+      <VehicleNo>MH-12-JN-5125</VehicleNo>
+      <TrollyNoA>T79499-1</TrollyNoA>
+      <TrollyNoB>T79499-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79503">
       <ContractorName>गायकवाड एस.सी</ContractorName>
@@ -1363,6 +1363,12 @@
       <TrollyNoA>T79025-1</TrollyNoA>
       <TrollyNoB>T79025-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="79026">
+      <ContractorName>चव्हाण बापु बन्सी</ContractorName>
+      <VehicleNo>MH-42-Q-3439</VehicleNo>
+      <TrollyNoA>T79026-1</TrollyNoA>
+      <TrollyNoB>T79026-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="79029">
       <ContractorName>चव्हाण सागर लक्ष्मण</ContractorName>
       <VehicleNo>MH-42-Y-4160</VehicleNo>
@@ -1413,38 +1419,6 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
-    <ContractorCode Code="74423">
-      <ContractorName>श्रीराम बापू ज्ञानदेव</ContractorName>
-      <VehicleNo>MH-12-CT-4747</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="75450">
-      <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली</ContractorName>
-      <VehicleNo>new</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="76162">
-      <ContractorName>वाघचौरे अक्षय राजेंद्र</ContractorName>
-      <VehicleNo>MH-12-FA-9296</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="79017">
-      <ContractorName>आगोणे देविदास अशोक</ContractorName>
-      <VehicleNo>MH-18-M-9477</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="79037">
-      <ContractorName>निकुंभ शिवाजी पोपट</ContractorName>
-      <VehicleNo>MH-12-0842</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="79418">
-      <ContractorName>पाचपिल्ले ए.एस</ContractorName>
-      <VehicleNo>MH-12-HD-5506</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="79462">
-      <ContractorName>पाचपिल्ले डी.एस</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="49261">
-      <ContractorName>पाचपिल्ले अशोक सदाशिव</ContractorName>
-      <VehicleNo>MH-14-AH-6608</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="64900">
       <ContractorName>शेरेकर डी.ए</ContractorName>
       <VehicleNo>MH-19-1705</VehicleNo>
@@ -1493,13 +1467,45 @@
       <ContractorName>शेरेकर सागर दिलीप</ContractorName>
       <VehicleNo>MH-18-AA-1621</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="74423">
+      <ContractorName>श्रीराम बापू ज्ञानदेव</ContractorName>
+      <VehicleNo>MH-12-CT-4747</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="75450">
+      <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली</ContractorName>
+      <VehicleNo>new</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="76162">
+      <ContractorName>वाघचौरे अक्षय राजेंद्र</ContractorName>
+      <VehicleNo>MH-12-FA-9296</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="79017">
+      <ContractorName>आगोणे देविदास अशोक</ContractorName>
+      <VehicleNo>MH-18-M-9477</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="79037">
+      <ContractorName>निकुंभ शिवाजी पोपट</ContractorName>
+      <VehicleNo>MH-12-0842</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="79418">
+      <ContractorName>पाचपिल्ले ए.एस</ContractorName>
+      <VehicleNo>MH-12-HD-5506</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="79462">
+      <ContractorName>पाचपिल्ले डी.एस</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="49261">
+      <ContractorName>पाचपिल्ले अशोक सदाशिव</ContractorName>
+      <VehicleNo>MH-14-AH-6608</VehicleNo>
+    </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
-    <ContractorCode Code="62322">
-      <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली.</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T62322-1</TrollyNoA>
-      <TrollyNoB>T62322-2</TrollyNoB>
+    <ContractorCode Code="57714">
+      <ContractorName>ताकवले गोरख शामराव</ContractorName>
+      <VehicleNo>MH-42-Q-2410</VehicleNo>
+      <TrollyNoA>T57714-1</TrollyNoA>
+      <TrollyNoB>T57714-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68809">
       <ContractorName>ताकवणे गोरख महादेव</ContractorName>
@@ -1609,11 +1615,11 @@
       <TrollyNoA>T79372-1</TrollyNoA>
       <TrollyNoB>T79372-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="57714">
-      <ContractorName>ताकवले गोरख शामराव</ContractorName>
-      <VehicleNo>MH-42-Q-2410</VehicleNo>
-      <TrollyNoA>T57714-1</TrollyNoA>
-      <TrollyNoB>T57714-2</TrollyNoB>
+    <ContractorCode Code="62322">
+      <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली.</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T62322-1</TrollyNoA>
+      <TrollyNoB>T62322-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
