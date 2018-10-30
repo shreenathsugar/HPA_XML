@@ -18563,4 +18563,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145006">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21976</GrowerCode>
+    <GrowerName>पवार विश्वास किसनराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>160</VillageCode>
+    <VillageName>खोपोडी</VillageName>
+    <SubVillageCode>1729</SubVillageCode>
+    <SubVillageName>खोपोडी(२६)</SubVillageName>
+    <serveNo>115</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145052">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79323</GrowerCode>
+    <GrowerName>पवार किसन दगडू</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>160</VillageCode>
+    <VillageName>खोपोडी</VillageName>
+    <SubVillageCode>1729</SubVillageCode>
+    <SubVillageName>खोपोडी(२६)</SubVillageName>
+    <serveNo>87/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145054">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79325</GrowerCode>
+    <GrowerName>पवार प्रमोद किसन</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>160</VillageCode>
+    <VillageName>खोपोडी</VillageName>
+    <SubVillageCode>1729</SubVillageCode>
+    <SubVillageName>खोपोडी(२६)</SubVillageName>
+    <serveNo>87/4</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145053">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79324</GrowerCode>
+    <GrowerName>पवार केशरबाई किसन</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>160</VillageCode>
+    <VillageName>खोपोडी</VillageName>
+    <SubVillageCode>1729</SubVillageCode>
+    <SubVillageName>खोपोडी(२६)</SubVillageName>
+    <serveNo>87/3</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145055">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>66726</GrowerCode>
+    <GrowerName>बोत्रे युवराज सुभाष</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>160</VillageCode>
+    <VillageName>खोपोडी</VillageName>
+    <SubVillageCode>1729</SubVillageCode>
+    <SubVillageName>खोपोडी(२६)</SubVillageName>
+    <serveNo>521</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
