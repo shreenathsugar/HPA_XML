@@ -13110,4 +13110,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145326">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79562</GrowerCode>
+    <GrowerName>गुंड राजेंद्र भिकोबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>62</VillageCode>
+    <VillageName>बुर्केगावा</VillageName>
+    <SubVillageCode>255</SubVillageCode>
+    <SubVillageName>बुर्केगाव(२१)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>356</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
