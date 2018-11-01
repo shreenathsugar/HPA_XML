@@ -25365,4 +25365,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145332">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75573</GrowerCode>
+    <GrowerName>कुंभार गोरक्ष तुळशिराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>86</VillageCode>
+    <VillageName>पानवली</VillageName>
+    <SubVillageCode>1658</SubVillageCode>
+    <SubVillageName>कांबळेनगर(१५)</SubVillageName>
+    <serveNo>84</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
