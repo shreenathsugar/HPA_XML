@@ -14174,4 +14174,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145363">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79600</GrowerCode>
+    <GrowerName>ढवळे प्रल्हाद मुरलीधर</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>20</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145361">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50182</GrowerCode>
+    <GrowerName>ढवळे महेंद्र पोपट</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>35</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
