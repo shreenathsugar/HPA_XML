@@ -19323,4 +19323,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145397">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1165</GrowerCode>
+    <GrowerName>ताकवणे चंद्रकांत रामराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>105</VillageCode>
+    <VillageName>पारगाव</VillageName>
+    <SubVillageCode>1639</SubVillageCode>
+    <SubVillageName>पारगाव(२१)देलवडीमार्गे</SubVillageName>
+    <serveNo>1380</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
