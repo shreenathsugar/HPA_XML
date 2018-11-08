@@ -14744,4 +14744,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145376">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64708</GrowerCode>
+    <GrowerName>लोहार दत्तात्रय साहेबराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>36</VillageCode>
+    <VillageName>शिवतक्रर म्हाळुंगी</VillageName>
+    <SubVillageCode>1773</SubVillageCode>
+    <SubVillageName>शिवतक्रर म्हाळुंगी(३०)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>122</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145399">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23999</GrowerCode>
+    <GrowerName>कर्पे अशोक नारायण</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>193</VillageCode>
+    <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <SubVillageCode>1772</SubVillageCode>
+    <SubVillageName>निमगाव म्हाळुंगी(31)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>112</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
