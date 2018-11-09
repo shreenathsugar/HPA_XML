@@ -1435,6 +1435,12 @@
       <TrollyNoA>T79522-1</TrollyNoA>
       <TrollyNoB>T79522-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="79607">
+      <ContractorName>भोंगळे जी.एन</ContractorName>
+      <VehicleNo>MTJ-9417</VehicleNo>
+      <TrollyNoA>T79607-1</TrollyNoA>
+      <TrollyNoB>T79607-2</TrollyNoB>
+    </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
     <ContractorCode Code="49261">
