@@ -25973,4 +25973,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145113">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49752</GrowerCode>
+    <GrowerName>शिंदे ज्ञानदेव दगडु</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>891</SubVillageCode>
+    <SubVillageName>वाढे(१३)</SubVillageName>
+    <serveNo>167</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145111">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39199</GrowerCode>
+    <GrowerName>शिंदे शोभा दगडु</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>891</SubVillageCode>
+    <SubVillageName>वाढे(१३)</SubVillageName>
+    <serveNo>67</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145110">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39107</GrowerCode>
+    <GrowerName>शिंदे साधना ज्ञानदेव</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>285</SubVillageCode>
+    <SubVillageName>पिंपळगाव (११)</SubVillageName>
+    <serveNo>111</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145156">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79381</GrowerCode>
+    <GrowerName>शिंदे रंजना रमेश</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>891</SubVillageCode>
+    <SubVillageName>वाढे(१३)</SubVillageName>
+    <serveNo>111</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145112">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36233</GrowerCode>
+    <GrowerName>शिंदे रमेश दगडु</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>891</SubVillageCode>
+    <SubVillageName>वाढे(१३)</SubVillageName>
+    <serveNo>111</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
