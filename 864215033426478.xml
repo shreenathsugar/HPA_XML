@@ -26410,4 +26410,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145514">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79642</GrowerCode>
+    <GrowerName>नवले तुळशिराम सिताराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1851</VillageCode>
+    <VillageName>परिचे</VillageName>
+    <SubVillageCode>1852</SubVillageCode>
+    <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
+    <serveNo>1224</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145488">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21957</GrowerCode>
+    <GrowerName>शिंदे राजेंद्र माधवराव</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>891</SubVillageCode>
+    <SubVillageName>वाढे(१३)</SubVillageName>
+    <serveNo>1942</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145489">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79014</GrowerCode>
+    <GrowerName>थोरात निलेश गोपाळराव</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>820</SubVillageCode>
+    <SubVillageName>शितोळेवस्ती(१४)</SubVillageName>
+    <serveNo>1831</serveNo>
+    <CaneVariety>9</CaneVariety>
+    <CaneVarietyName>2001</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
