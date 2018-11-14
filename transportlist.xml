@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="79607">
-      <ContractorName>भोंगळे जी.एन</ContractorName>
-      <VehicleNo>MTJ-9417</VehicleNo>
-      <TrollyNoA>T79607-1</TrollyNoA>
-      <TrollyNoB>T79607-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79040">
-      <ContractorName>विश्वासे संतोष केशव</ContractorName>
-      <VehicleNo>MH-14-DH-1774</VehicleNo>
-      <TrollyNoA>T79040-1</TrollyNoA>
-      <TrollyNoB>T79040-2</TrollyNoB>
+    <ContractorCode Code="79647">
+      <ContractorName>नवले सतिश वामन</ContractorName>
+      <VehicleNo>MH-42-Y-8186</VehicleNo>
+      <TrollyNoA>T79647-1</TrollyNoA>
+      <TrollyNoB>T79647-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79041">
       <ContractorName>जगताप गणेश नामदेव</ContractorName>
@@ -252,6 +246,12 @@
       <VehicleNo>MH-42-AS-6708</VehicleNo>
       <TrollyNoA>T79522-1</TrollyNoA>
       <TrollyNoB>T79522-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79607">
+      <ContractorName>भोंगळे जी.एन</ContractorName>
+      <VehicleNo>MTJ-9417</VehicleNo>
+      <TrollyNoA>T79607-1</TrollyNoA>
+      <TrollyNoB>T79607-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
@@ -1446,6 +1446,12 @@
       <VehicleNo>MH-42-Y-2486</VehicleNo>
       <TrollyNoA>T79039-1</TrollyNoA>
       <TrollyNoB>T79039-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79040">
+      <ContractorName>विश्वासे संतोष केशव</ContractorName>
+      <VehicleNo>MH-14-DH-1774</VehicleNo>
+      <TrollyNoA>T79040-1</TrollyNoA>
+      <TrollyNoB>T79040-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
