@@ -7,12 +7,6 @@
       <TrollyNoA>T79647-1</TrollyNoA>
       <TrollyNoB>T79647-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="79041">
-      <ContractorName>जगताप गणेश नामदेव</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T79041-1</TrollyNoA>
-      <TrollyNoB>T79041-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="79042">
       <ContractorName>कोकरे अभिषेक खंडू</ContractorName>
       <VehicleNo>MH-12-QM-1463</VehicleNo>
@@ -210,6 +204,12 @@
       <VehicleNo>NEW</VehicleNo>
       <TrollyNoA>T79492-1</TrollyNoA>
       <TrollyNoB>T79492-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79499">
+      <ContractorName>वराळे बबन तुकाराम</ContractorName>
+      <VehicleNo>MH-12-JN-5125</VehicleNo>
+      <TrollyNoA>T79499-1</TrollyNoA>
+      <TrollyNoB>T79499-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79499">
       <ContractorName>वराळे बबन तुकाराम</ContractorName>
@@ -1452,6 +1452,12 @@
       <VehicleNo>MH-14-DH-1774</VehicleNo>
       <TrollyNoA>T79040-1</TrollyNoA>
       <TrollyNoB>T79040-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79041">
+      <ContractorName>जगताप गणेश नामदेव</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T79041-1</TrollyNoA>
+      <TrollyNoB>T79041-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
