@@ -37,6 +37,9 @@
     <ContractorCode Code="79249">
       <ContractorName>ताकवणे शांताराम रामराव(गायकवाड बाळू शिवा)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="68861">
+      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="79154">
       <ContractorName>शिंदे एस.डी(मोरे भिमराव भिवसेन)</ContractorName>
     </ContractorCode>
@@ -49,14 +52,14 @@
     <ContractorCode Code="79253">
       <ContractorName>राठोड एकनाथ मल्लू</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79157">
-      <ContractorName>शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79321">
       <ContractorName>ताकवणे विठ्ठल नामदेव(राठोड नंदू हरसिंग)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79322">
       <ContractorName>ताकवणे मयूर चंद्रकांत(गायकवाड बाळू शिवा)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79157">
+      <ContractorName>शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79105">
       <ContractorName>भुजबळ अनिल जयवंतराव(गालफाडे माणिक सर्जेराव)</ContractorName>
@@ -76,17 +79,17 @@
     <ContractorCode Code="79173">
       <ContractorName>पाचपिल्ले अशोक सदाशिव(ठाकरे कांतीलाल सीताराम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79174">
-      <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव(ठाकरे कांतीलाल सिताराम)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79450">
       <ContractorName>दरगुडे विजय पोपट</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79142">
-      <ContractorName>गुंड पोपट रघुनाथ( लांडगे छगन निवृत्ती)</ContractorName>
+    <ContractorCode Code="79174">
+      <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव(ठाकरे कांतीलाल सिताराम)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79455">
       <ContractorName>वाघमोडे बाबाजी धुळा</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79142">
+      <ContractorName>गुंड पोपट रघुनाथ( लांडगे छगन निवृत्ती)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79261">
       <ContractorName>टुले वैभव भगवान(ठाकरे संजय लालसिंग)</ContractorName>
@@ -112,9 +115,6 @@
     <ContractorCode Code="79195">
       <ContractorName>जाधव ताराचंद शंकर</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79269">
-      <ContractorName>थोरात अक्षय सुभाष(ठाकरे नरसिंग रमेश)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79515">
       <ContractorName>टुले व्ही.बी</ContractorName>
     </ContractorCode>
@@ -124,23 +124,23 @@
     <ContractorCode Code="79521">
       <ContractorName>मोरे सागर महादेव</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="79269">
+      <ContractorName>थोरात अक्षय सुभाष(ठाकरे नरसिंग रमेश)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="79302">
       <ContractorName>सातव तानाजी दत्तात्रय(शेख अलि रमजु)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79303">
       <ContractorName>शेख अलि रमजू</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="68861">
-      <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+    <ContractorCode Code="79648">
+      <ContractorName>ताकवणे धर्मराज रामचंद्र(पवार कडू दबलू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79670">
+      <ContractorName>18-19 ताकवणे बाळासाहेब रामचंद्र</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="79127">
-      <ContractorName>घाडगे राजेंद्र शिवाजी(पाटील धनराज उत्तम)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79128">
-      <ContractorName>गाडेकर अमित दत्तात्रय(पवार हरी दलपत)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79129">
       <ContractorName>गावडे संतोष लक्ष्मण(वंजारी अशोक दशरथ)</ContractorName>
     </ContractorCode>
@@ -585,9 +585,6 @@
     <ContractorCode Code="79315">
       <ContractorName>ताकवणे अमोल बाळासाहेब(पठारे वाल्मिक उत्तम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79316">
-      <ContractorName>ताकवणे चंद्रकांत रामराव(माळी अशोक भावसिंग)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79317">
       <ContractorName>ताकवणे हनुमंत किसन(सोनवणे राजेंद्र बन्सी)</ContractorName>
     </ContractorCode>
@@ -659,6 +656,9 @@
     </ContractorCode>
     <ContractorCode Code="79646">
       <ContractorName>नवले सतिश  वामन</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79316">
+      <ContractorName>ताकवणे चंद्रकांत रामराव(माळी अशोक भावसिंग)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74606">
       <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
@@ -788,6 +788,12 @@
     </ContractorCode>
     <ContractorCode Code="79126">
       <ContractorName>फडके संतोष रंगनाथ(राठोड तुळशिराम नारायण)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79127">
+      <ContractorName>घाडगे राजेंद्र शिवाजी(पाटील धनराज उत्तम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79128">
+      <ContractorName>गाडेकर अमित दत्तात्रय(पवार हरी दलपत)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
