@@ -10,11 +10,11 @@
     <ContractorCode Code="69184">
       <ContractorName>व्ही.एस.आय</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="79272">
+      <ContractorName>राठोड राजेंद्र मल्लू</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="79198">
       <ContractorName>जगताप गणेश नामदेव(माळीश रघुनाथ सोनू)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79166">
-      <ContractorName>नागरे धनंजय मुरलीधर(वाव्हळे अशोक श्रीधर)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79309">
       <ContractorName>शेंडगे ज्ञानदेव रघुनाथ(मोरे मुन्ना रामसिंग)</ContractorName>
@@ -22,23 +22,26 @@
     <ContractorCode Code="79274">
       <ContractorName>थोरात शिवाजी भाऊसो(कारंडे सुभाष दाजी)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="79166">
+      <ContractorName>नागरे धनंजय मुरलीधर(वाव्हळे अशोक श्रीधर)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="79220">
       <ContractorName>माळी गिरीधर भास्कर</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79221">
       <ContractorName>माळी जी.बी</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79200">
-      <ContractorName>जगताप सचिन नारायण(पवार रविंद्र तुळशिराम)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79314">
       <ContractorName>ताकवणे अनिता निलेश(पठारे वाल्मिक उत्तम)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79249">
-      <ContractorName>ताकवणे शांताराम रामराव(गायकवाड बाळू शिवा)</ContractorName>
+    <ContractorCode Code="79200">
+      <ContractorName>जगताप सचिन नारायण(पवार रविंद्र तुळशिराम)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="68861">
       <ContractorName>१७-१८ श्रीनाथ म्हस्कोबा साखर कारखाना लि.</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79249">
+      <ContractorName>ताकवणे शांताराम रामराव(गायकवाड बाळू शिवा)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79154">
       <ContractorName>शिंदे एस.डी(मोरे भिमराव भिवसेन)</ContractorName>
@@ -49,26 +52,23 @@
     <ContractorCode Code="79156">
       <ContractorName>शिंदे विकास वामन</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79253">
-      <ContractorName>राठोड एकनाथ मल्लू</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79321">
       <ContractorName>ताकवणे विठ्ठल नामदेव(राठोड नंदू हरसिंग)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79322">
       <ContractorName>ताकवणे मयूर चंद्रकांत(गायकवाड बाळू शिवा)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="79253">
+      <ContractorName>राठोड एकनाथ मल्लू</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="79157">
       <ContractorName>शिंदे विनायक धोंडीबा(मोरे भिमराव भिवसेन)</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79105">
-      <ContractorName>भुजबळ अनिल जयवंतराव(गालफाडे माणिक सर्जेराव)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79285">
       <ContractorName>थोरात सुभाष शांताराम(ठाकरे नरसिंग रमेश)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79286">
-      <ContractorName>राठोड संजय मल्लू</ContractorName>
+    <ContractorCode Code="79105">
+      <ContractorName>भुजबळ अनिल जयवंतराव(गालफाडे माणिक सर्जेराव)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79159">
       <ContractorName>शिंदे सोमेश्वर दिनकर(मोरे भिमराव भिवसेन)</ContractorName>
@@ -483,9 +483,6 @@
     <ContractorCode Code="79271">
       <ContractorName>राठोड मोतीराम गुलाब</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79272">
-      <ContractorName>राठोड राजेंद्र मल्लू(राठोड राजेंद्र मल्लू)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="79273">
       <ContractorName>थोरात निळ्कंठ जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
     </ContractorCode>
@@ -518,6 +515,9 @@
     </ContractorCode>
     <ContractorCode Code="79284">
       <ContractorName>थोरात सुभाष पोपट(मोरे गणेश रूपचंद)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79286">
+      <ContractorName>राठोड संजय मल्लू</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79287">
       <ContractorName>थोरात सुचित दत्तात्रय(गायकवाड संतोष रंगनाथ)</ContractorName>
