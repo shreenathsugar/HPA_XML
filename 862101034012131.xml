@@ -14953,4 +14953,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145617">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58403</GrowerCode>
+    <GrowerName>रणदिवे चंद्रकांत दत्तात्रय</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1738</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(१८)(ट्रॅ.गा)सहकारनगरमार्गे</SubVillageName>
+    <serveNo>67</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145590">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>31991</GrowerCode>
+    <GrowerName>शेलार उषा बाबासो</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>45</VillageCode>
+    <VillageName>नागरगाव</VillageName>
+    <SubVillageCode>238</SubVillageCode>
+    <SubVillageName>नागरगाव(पारगावमार्गे])(२४)</SubVillageName>
+    <serveNo>67</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
