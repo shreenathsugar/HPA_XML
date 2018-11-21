@@ -14022,4 +14022,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145621">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55093</GrowerCode>
+    <GrowerName>ससाणे शंकर देवराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>70</VillageCode>
+    <VillageName>कोलवडी</VillageName>
+    <SubVillageCode>1620</SubVillageCode>
+    <SubVillageName>कोलवडी(४५)बोल्हाईमार्गे</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145619">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75463</GrowerCode>
+    <GrowerName>उंद्रे संतोष महादेव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>72</VillageCode>
+    <VillageName>मांजरी</VillageName>
+    <SubVillageCode>1523</SubVillageCode>
+    <SubVillageName>मांजरी  खुर्द(५०)बोल्हाईमार्गे</SubVillageName>
+    <serveNo>423</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
