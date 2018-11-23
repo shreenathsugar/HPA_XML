@@ -14991,4 +14991,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145022">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74114</GrowerCode>
+    <GrowerName>राऊत राजेंद्र प्रभाकर</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>1821</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(२६)वाळकीमार्गे</SubVillageName>
+    <serveNo>242</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145020">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>40965</GrowerCode>
+    <GrowerName>दुगाणे चंद्रकांत गेनबा</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>1821</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(२६)वाळकीमार्गे</SubVillageName>
+    <serveNo>243</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
