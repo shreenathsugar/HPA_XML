@@ -15257,4 +15257,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145685">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41917</GrowerCode>
+    <GrowerName>काटे विवेक चिमनराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1761</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2163</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145684">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41911</GrowerCode>
+    <GrowerName>काटे विजय ज्ञानोबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1761</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2254</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
