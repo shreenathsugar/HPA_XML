@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="79700">
-      <ContractorName>तावरे एस.एम</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T79700-1</TrollyNoA>
-      <TrollyNoB>T79700-2</TrollyNoB>
+    <ContractorCode Code="79736">
+      <ContractorName>थोरात मारुती किसन</ContractorName>
+      <VehicleNo>MH-12-JN-716</VehicleNo>
+      <TrollyNoA>T79736-1</TrollyNoA>
+      <TrollyNoB>T79736-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79050">
       <ContractorName>माळी गिरिधर भास्कर</ContractorName>
@@ -247,11 +247,11 @@
       <TrollyNoA>T79649-1</TrollyNoA>
       <TrollyNoB>T79649-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="79020">
-      <ContractorName>भदरगे विलास रंगनाथ</ContractorName>
-      <VehicleNo>MH-42-Q-0386</VehicleNo>
-      <TrollyNoA>T79020-1</TrollyNoA>
-      <TrollyNoB>T79020-2</TrollyNoB>
+    <ContractorCode Code="79700">
+      <ContractorName>तावरे एस.एम</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T79700-1</TrollyNoA>
+      <TrollyNoB>T79700-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
@@ -1344,6 +1344,12 @@
       <VehicleNo>MH-12-PZ-9039</VehicleNo>
       <TrollyNoA>T79019-1</TrollyNoA>
       <TrollyNoB>T79019-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79020">
+      <ContractorName>भदरगे विलास रंगनाथ</ContractorName>
+      <VehicleNo>MH-42-Q-0386</VehicleNo>
+      <TrollyNoA>T79020-1</TrollyNoA>
+      <TrollyNoB>T79020-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79021">
       <ContractorName>भंडारे संतोष मारुती</ContractorName>
