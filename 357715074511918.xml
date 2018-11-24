@@ -12217,4 +12217,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145709">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79765</GrowerCode>
+    <GrowerName>कोतवाल अतुल सुखदेव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>63</VillageCode>
+    <VillageName>आष्टापूर</VillageName>
+    <SubVillageCode>256</SubVillageCode>
+    <SubVillageName>अष्टापूर(२०)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145710">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9492</GrowerCode>
+    <GrowerName>गलांडे शामaराव वामनराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>63</VillageCode>
+    <VillageName>आष्टापूर</VillageName>
+    <SubVillageCode>256</SubVillageCode>
+    <SubVillageName>अष्टापूर(२०)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145712">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60323</GrowerCode>
+    <GrowerName>गलांडे राजीव चंद्रकांत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>हिंगणगाव</VillageName>
+    <SubVillageCode>1405</SubVillageCode>
+    <SubVillageName>हिंगणगाव(राहूरोडमार्गे)(१५)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="131273">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67901</GrowerCode>
+    <GrowerName>मेमाणे मंदाकिनी सर्जेराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>63</VillageCode>
+    <VillageName>आष्टापूर</VillageName>
+    <SubVillageCode>1622</SubVillageCode>
+    <SubVillageName>अष्टापूर(२१)पंपवस्तीमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
