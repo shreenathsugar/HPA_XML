@@ -15181,4 +15181,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145731">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>45170</GrowerCode>
+    <GrowerName>रासकर विकास रामचंद्र</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1867</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(२२) वाळकीमार्गे</SubVillageName>
+    <serveNo>97</serveNo>
+    <CaneVariety>6</CaneVariety>
+    <CaneVarietyName>671</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
