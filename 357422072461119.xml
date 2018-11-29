@@ -27930,4 +27930,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145891">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67510</GrowerCode>
+    <GrowerName>खेडेकर बापु जयवंत</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>891</SubVillageCode>
+    <SubVillageName>वाढे(१३)</SubVillageName>
+    <serveNo>124/2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145889">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79839</GrowerCode>
+    <GrowerName>लडकत नवनाथ आनंता</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>820</SubVillageCode>
+    <SubVillageName>शितोळेवस्ती(१४)</SubVillageName>
+    <serveNo>1812</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145892">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20899</GrowerCode>
+    <GrowerName>शितोळे नागेश नानासाहेब</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>891</SubVillageCode>
+    <SubVillageName>वाढे(१३)</SubVillageName>
+    <serveNo>7</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145890">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79838</GrowerCode>
+    <GrowerName>वचकल संदिप किसनराव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1845</VillageCode>
+    <VillageName>वीर</VillageName>
+    <SubVillageCode>1846</SubVillageCode>
+    <SubVillageName>वीर(११५) निरामार्गे</SubVillageName>
+    <serveNo>1126</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
