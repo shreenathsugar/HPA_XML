@@ -15789,4 +15789,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145913">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15959</GrowerCode>
+    <GrowerName>नर्के सुर्यकांत महादु</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1781</SubVillageCode>
+    <SubVillageName>रामवाडी(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2654</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145926">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14110</GrowerCode>
+    <GrowerName>झगडे मारुती सदाशिव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>धानोरे</VillageName>
+    <SubVillageCode>1765</SubVillageCode>
+    <SubVillageName>धानोरे(२१)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>412</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
