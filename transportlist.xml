@@ -1399,12 +1399,6 @@
       <TrollyNoA>T79030-1</TrollyNoA>
       <TrollyNoB>T79030-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="79031">
-      <ContractorName>डुबे यशवंत गेनबा</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T79031-1</TrollyNoA>
-      <TrollyNoB>T79031-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="79032">
       <ContractorName>फडके संतोष रंगनाथ</ContractorName>
       <VehicleNo>MH-42-Y-4435</VehicleNo>
@@ -1458,6 +1452,12 @@
       <VehicleNo>NEW</VehicleNo>
       <TrollyNoA>T79041-1</TrollyNoA>
       <TrollyNoB>T79041-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79031">
+      <ContractorName>डुबे यशवंत गेनबा</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T79031-1</TrollyNoA>
+      <TrollyNoB>T79031-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79042">
       <ContractorName>कोकरे अभिषेक खंडू</ContractorName>
