@@ -12654,4 +12654,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145948">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57847</GrowerCode>
+    <GrowerName>जाधव अशोक मधुकर</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>74</VillageCode>
+    <VillageName>भावडी</VillageName>
+    <SubVillageCode>267</SubVillageCode>
+    <SubVillageName>भावडी (४२)तुळापुर मार्गे]</SubVillageName>
+    <serveNo>24</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
