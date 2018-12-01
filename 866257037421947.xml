@@ -15542,4 +15542,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="145942">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>63454</GrowerCode>
+    <GrowerName>सातव संजय पंढरीनाथ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>इनामगाव</VillageName>
+    <SubVillageCode>1636</SubVillageCode>
+    <SubVillageName>इनामगाव (४५)पारगावमार्गे</SubVillageName>
+    <serveNo>534</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="145941">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58497</GrowerCode>
+    <GrowerName>सातव सुनंदा संजय</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>इनामगाव</VillageName>
+    <SubVillageCode>1636</SubVillageCode>
+    <SubVillageName>इनामगाव (४५)पारगावमार्गे</SubVillageName>
+    <serveNo>535</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
