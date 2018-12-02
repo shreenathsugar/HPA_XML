@@ -15257,4 +15257,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="135331">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>18837</GrowerCode>
+    <GrowerName>थोरात मधुकर अर्जुन</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>हिंगणगाव</VillageName>
+    <SubVillageCode>1813</SubVillageCode>
+    <SubVillageName>पाटीलवस्ती (१७) हिंगनगावमार्गे</SubVillageName>
+    <serveNo>42/15</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="137585">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69891</GrowerCode>
+    <GrowerName>काकडे मिना मोहन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <SubVillageCode>1814</SubVillageCode>
+    <SubVillageName>वडगाव शिंदे (४७)आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
