@@ -21071,4 +21071,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146009">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79861</GrowerCode>
+    <GrowerName>जाधव कल्याणी अमोल</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>110</VillageCode>
+    <VillageName>गलांडवाडी</VillageName>
+    <SubVillageCode>540</SubVillageCode>
+    <SubVillageName>गलांडवाडी (खुटबावमार्गे])(२४)</SubVillageName>
+    <serveNo>456</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
