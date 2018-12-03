@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="79736">
-      <ContractorName>थोरात मारुती किसन</ContractorName>
-      <VehicleNo>MH-12-JN-716</VehicleNo>
-      <TrollyNoA>T79736-1</TrollyNoA>
-      <TrollyNoB>T79736-2</TrollyNoB>
+    <ContractorCode Code="79522">
+      <ContractorName>मोरे सागर महादेव</ContractorName>
+      <VehicleNo>MH-42-AS-6708</VehicleNo>
+      <TrollyNoA>T79522-1</TrollyNoA>
+      <TrollyNoB>T79522-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79050">
       <ContractorName>माळी गिरिधर भास्कर</ContractorName>
@@ -223,12 +223,6 @@
       <TrollyNoA>T79517-1</TrollyNoA>
       <TrollyNoB>T79517-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="79522">
-      <ContractorName>मोरे सागर महादेव</ContractorName>
-      <VehicleNo>MH-42-AS-6708</VehicleNo>
-      <TrollyNoA>T79522-1</TrollyNoA>
-      <TrollyNoB>T79522-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="79607">
       <ContractorName>भोंगळे जी.एन</ContractorName>
       <VehicleNo>MTJ-9417</VehicleNo>
@@ -252,6 +246,12 @@
       <VehicleNo>NEW</VehicleNo>
       <TrollyNoA>T79700-1</TrollyNoA>
       <TrollyNoB>T79700-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79736">
+      <ContractorName>थोरात मारुती किसन</ContractorName>
+      <VehicleNo>MH-12-JN-716</VehicleNo>
+      <TrollyNoA>T79736-1</TrollyNoA>
+      <TrollyNoB>T79736-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
