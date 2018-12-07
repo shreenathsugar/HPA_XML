@@ -15694,4 +15694,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146110">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15746</GrowerCode>
+    <GrowerName>शितोळे संजय मनोहर</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>59</VillageCode>
+    <VillageName>सांगवी सांडस</VillageName>
+    <SubVillageCode>252</SubVillageCode>
+    <SubVillageName>सांगवी सांडस (राहूरोडमार्गे])(९)</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146111">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59066</GrowerCode>
+    <GrowerName>ढमढेरे मेघाराणी गणेश</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>60</VillageCode>
+    <VillageName>न्हावी सांडस</VillageName>
+    <SubVillageCode>754</SubVillageCode>
+    <SubVillageName>न्हावी सांडस (राहूरोडमार्गे])(१४)</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
