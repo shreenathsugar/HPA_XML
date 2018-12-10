@@ -1567,29 +1567,29 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
-    <ContractorCode Code="79372">
-      <ContractorName>दिवेकर गुलाब विनायक</ContractorName>
-      <VehicleNo>MH-42-Y-5866</VehicleNo>
-      <TrollyNoA>T79372-1</TrollyNoA>
-      <TrollyNoB>T79372-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79879">
-      <ContractorName>टुले काळूराम लक्ष्मण</ContractorName>
-      <VehicleNo>MH-12-4034</VehicleNo>
-      <TrollyNoA>T79879-1</TrollyNoA>
-      <TrollyNoB>T79879-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="79880">
       <ContractorName>शेलार नारायण दत्तोबा</ContractorName>
       <VehicleNo>MH-42-Y-0590</VehicleNo>
       <TrollyNoA>T79880-1</TrollyNoA>
       <TrollyNoB>T79880-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="79355">
+      <ContractorName>शेलार शुभम शरद</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T79355-1</TrollyNoA>
+      <TrollyNoB>T79355-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="79919">
       <ContractorName>पवार ज्ञानेश्वर रविंद्र</ContractorName>
       <VehicleNo>MH-42-Q-2913</VehicleNo>
       <TrollyNoA>T79919-1</TrollyNoA>
       <TrollyNoB>T79919-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79350">
+      <ContractorName>थोरात रमेश भाऊसाहेब</ContractorName>
+      <VehicleNo>MH-42-Y-5605</VehicleNo>
+      <TrollyNoA>T79350-1</TrollyNoA>
+      <TrollyNoB>T79350-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="57714">
       <ContractorName>ताकवले गोरख शामराव</ContractorName>
@@ -1639,12 +1639,6 @@
       <TrollyNoA>T79349-1</TrollyNoA>
       <TrollyNoB>T79349-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="79350">
-      <ContractorName>थोरात रमेश भाऊसाहेब</ContractorName>
-      <VehicleNo>MH-42-Y-5605</VehicleNo>
-      <TrollyNoA>T79350-1</TrollyNoA>
-      <TrollyNoB>T79350-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="79351">
       <ContractorName>थोरात नानासो मुरलीधर</ContractorName>
       <VehicleNo>NEW</VehicleNo>
@@ -1668,12 +1662,6 @@
       <VehicleNo>MH-42-Q-4199</VehicleNo>
       <TrollyNoA>T79354-1</TrollyNoA>
       <TrollyNoB>T79354-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79355">
-      <ContractorName>शेलार शुभम शरद</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T79355-1</TrollyNoA>
-      <TrollyNoB>T79355-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79366">
       <ContractorName>नातू मच्छिंद्र दत्तात्रय</ContractorName>
@@ -1710,6 +1698,18 @@
       <VehicleNo>MH-16-BM-4098</VehicleNo>
       <TrollyNoA>T79371-1</TrollyNoA>
       <TrollyNoB>T79371-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79372">
+      <ContractorName>दिवेकर गुलाब विनायक</ContractorName>
+      <VehicleNo>MH-42-Y-5866</VehicleNo>
+      <TrollyNoA>T79372-1</TrollyNoA>
+      <TrollyNoB>T79372-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79879">
+      <ContractorName>टुले काळूराम लक्ष्मण</ContractorName>
+      <VehicleNo>MH-12-4034</VehicleNo>
+      <TrollyNoA>T79879-1</TrollyNoA>
+      <TrollyNoB>T79879-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
