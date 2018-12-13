@@ -13452,4 +13452,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146292">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80021</GrowerCode>
+    <GrowerName>मुरकुटे छबुबाई तुकाराम</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>72</VillageCode>
+    <VillageName>मांजरी</VillageName>
+    <SubVillageCode>1523</SubVillageCode>
+    <SubVillageName>मांजरी  खुर्द(५०)बोल्हाईमार्गे</SubVillageName>
+    <serveNo>764</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146293">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80022</GrowerCode>
+    <GrowerName>चव्हाण सुरेखा दत्तात्रय</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>70</VillageCode>
+    <VillageName>कोलवडी</VillageName>
+    <SubVillageCode>1620</SubVillageCode>
+    <SubVillageName>कोलवडी(४५)बोल्हाईमार्गे</SubVillageName>
+    <serveNo>976</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
