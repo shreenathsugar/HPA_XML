@@ -16872,4 +16872,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146300">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41543</GrowerCode>
+    <GrowerName>तोडकर ज्ञानोबा नावजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1761</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>1874</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146301">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51758</GrowerCode>
+    <GrowerName>भुजबळ महेश गणपत</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1761</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>3398</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
