@@ -26866,4 +26866,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146322">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62759</GrowerCode>
+    <GrowerName>मदने कोंडीबा रामचंद्र</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>1854</VillageCode>
+    <VillageName>मिरवडी</VillageName>
+    <SubVillageCode>1856</SubVillageCode>
+    <SubVillageName>मिरवडी(राहुरोडमार्गे)(१४)</SubVillageName>
+    <serveNo>335</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
