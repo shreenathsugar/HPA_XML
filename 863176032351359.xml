@@ -33041,4 +33041,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146362">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79939</GrowerCode>
+    <GrowerName>होले श्रधा रविंद्र</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <SubVillageCode>1825</SubVillageCode>
+    <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+    <serveNo>1285</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146363">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14319</GrowerCode>
+    <GrowerName>टिळेकर  मिलिंद सुभाष</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <SubVillageCode>1825</SubVillageCode>
+    <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+    <serveNo>174</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
