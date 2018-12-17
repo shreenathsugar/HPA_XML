@@ -33174,4 +33174,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146361">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36495</GrowerCode>
+    <GrowerName>म्हेत्रे निलेश नारायण</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>177</VillageCode>
+    <VillageName>खामगांव टेक</VillageName>
+    <SubVillageCode>622</SubVillageCode>
+    <SubVillageName>खामगांव टेक(४०)उरुळीमार्गे]</SubVillageName>
+    <serveNo>54</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146345">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>10803</GrowerCode>
+    <GrowerName>म्हेत्रे अमोला धोंडिबा</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <SubVillageCode>293</SubVillageCode>
+    <SubVillageName>सहजपूर (२२)</SubVillageName>
+    <serveNo>255</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
