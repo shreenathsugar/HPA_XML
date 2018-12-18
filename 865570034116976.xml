@@ -24795,4 +24795,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146398">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7238</GrowerCode>
+    <GrowerName>दिघे अनिल मारुती</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>146</VillageCode>
+    <VillageName>बुरुजवाडी</VillageName>
+    <SubVillageCode>1836</SubVillageCode>
+    <SubVillageName>बुरंजवाडी(२४)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>605</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
