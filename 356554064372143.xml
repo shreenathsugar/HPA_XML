@@ -22895,4 +22895,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146437">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>43902</GrowerCode>
+    <GrowerName>सुर्वे संजय संभाजी</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1305</VillageCode>
+    <VillageName>गार</VillageName>
+    <SubVillageCode>1642</SubVillageCode>
+    <SubVillageName>गार(४५)नानगावमार्गे</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
