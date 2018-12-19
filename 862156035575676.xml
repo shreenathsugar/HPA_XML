@@ -22933,4 +22933,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146449">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80093</GrowerCode>
+    <GrowerName>रूपनवर अनिल सोमाजी</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1543</VillageCode>
+    <VillageName>कुसेगाव</VillageName>
+    <SubVillageCode>1726</SubVillageCode>
+    <SubVillageName>कुसेगाव(४५)पाटसमार्गे</SubVillageName>
+    <serveNo>54</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
