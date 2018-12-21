@@ -20254,4 +20254,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="135038">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50664</GrowerCode>
+    <GrowerName>खताळ विरेंद्र सुभाष</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <SubVillageCode>288</SubVillageCode>
+    <SubVillageName>खामगांव(१५)</SubVillageName>
+    <serveNo>226</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="136777">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>2457</GrowerCode>
+    <GrowerName>रुपनर संजय भिकोबा </GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>95</VillageCode>
+    <VillageName>खामगांव </VillageName>
+    <SubVillageCode>288</SubVillageCode>
+    <SubVillageName>खामगांव(१५)</SubVillageName>
+    <serveNo>1251</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
