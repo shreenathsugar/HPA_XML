@@ -22040,4 +22040,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146580">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80167</GrowerCode>
+    <GrowerName>रणदिवे प्रविण पोपट</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>42</VillageCode>
+    <VillageName>रांजणगाव सांडस</VillageName>
+    <SubVillageCode>1818</SubVillageCode>
+    <SubVillageName>रांजणगाव सांडस (२०) वाळकीमार्गे</SubVillageName>
+    <serveNo>2</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146584">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54148</GrowerCode>
+    <GrowerName>भोईटे विश्वनाथ हनुमंत</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1867</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(२२) वाळकीमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
