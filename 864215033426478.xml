@@ -49666,4 +49666,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="138513">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>39959</GrowerCode>
+    <GrowerName>धुमाळ सुनंदा पोपट</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>123</VillageCode>
+    <VillageName>मगरवाडी</VillageName>
+    <SubVillageCode>316</SubVillageCode>
+    <SubVillageName>मगरवाडी(७)</SubVillageName>
+    <serveNo>422</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
