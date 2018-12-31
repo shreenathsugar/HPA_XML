@@ -31236,4 +31236,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146704">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>8328</GrowerCode>
+    <GrowerName>भुजबळ हनुमंत मारुती</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>भिमशेत</VillageName>
+    <SubVillageCode>1800</SubVillageCode>
+    <SubVillageName>भिमशेत(14)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>128</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146705">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80230</GrowerCode>
+    <GrowerName>गव्हाणे अनिता मोहन</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <SubVillageCode>1766</SubVillageCode>
+    <SubVillageName>डिंग्रजवाडी(२५)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>252</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
