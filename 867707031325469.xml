@@ -31502,4 +31502,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="137698">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4567</GrowerCode>
+    <GrowerName>दोरगे बाळासाहेब पार्वती</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1763</SubVillageCode>
+    <SubVillageName>टाकळी भिमा (१९)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>188</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
