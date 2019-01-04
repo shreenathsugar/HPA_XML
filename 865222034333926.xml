@@ -22686,4 +22686,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146865">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80281</GrowerCode>
+    <GrowerName>खळदकर सुनिल आनंदराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>57</VillageCode>
+    <VillageName>शिरसगाव काटा</VillageName>
+    <SubVillageCode>250</SubVillageCode>
+    <SubVillageName>शिरसगांव काटा(पारगावमार्गे])(४५)</SubVillageName>
+    <serveNo>589</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146864">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54213</GrowerCode>
+    <GrowerName>घोगरे राजाराम चंद्रकांत</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>49</VillageCode>
+    <VillageName>साद्लगाव</VillageName>
+    <SubVillageCode>1634</SubVillageCode>
+    <SubVillageName>सादलगाव(३६)पारगावमार्गे</SubVillageName>
+    <serveNo>648</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
