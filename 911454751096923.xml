@@ -22724,4 +22724,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146881">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80292</GrowerCode>
+    <GrowerName>रणदिवे सतिश आण्णा</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1867</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(२२) वाळकीमार्गे</SubVillageName>
+    <serveNo>900</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146880">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80274</GrowerCode>
+    <GrowerName>थोरात सुनिल आप्पा</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>136</VillageCode>
+    <VillageName>आंधळगाव</VillageName>
+    <SubVillageCode>339</SubVillageCode>
+    <SubVillageName>आंधळगाव(पारगावमार्गे])(२७)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
