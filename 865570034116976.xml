@@ -25593,4 +25593,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="131528">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>24581</GrowerCode>
+    <GrowerName>थिटे विजय रामचंद्र</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>34</VillageCode>
+    <VillageName>करंदी</VillageName>
+    <SubVillageCode>1744</SubVillageCode>
+    <SubVillageName>करंदी (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>488</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
