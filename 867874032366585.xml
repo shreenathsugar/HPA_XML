@@ -31939,4 +31939,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146930">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>71013</GrowerCode>
+    <GrowerName>शिवले सदाशिव बाजीराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>36</VillageCode>
+    <VillageName>शिवतक्रर म्हाळुंगी</VillageName>
+    <SubVillageCode>1866</SubVillageCode>
+    <SubVillageName>शिवतक्रर म्हाळुंगी(१३)(टायर/ट्रॅ.गा)(वडगाव बांडे मार्गे)</SubVillageName>
+    <serveNo>123</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="139163">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>77421</GrowerCode>
+    <GrowerName>काळे संजय भरत</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1763</SubVillageCode>
+    <SubVillageName>टाकळी भिमा (१९)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>216</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
