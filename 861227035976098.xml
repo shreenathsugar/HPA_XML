@@ -18620,4 +18620,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146949">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15380</GrowerCode>
+    <GrowerName>गायकवाड मच्छिंद्र बाळासो</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1741</SubVillageCode>
+    <SubVillageName>बुरुंजवाडी (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>829</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="146948">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50827</GrowerCode>
+    <GrowerName>खेडकर सुरेश गेणभाऊ</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1833</SubVillageCode>
+    <SubVillageName>शिक्रापूर(२०)(टायर.ट्रॅ.गाडी)(विठ्ठलवाडी मार्गे)</SubVillageName>
+    <serveNo>123</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
