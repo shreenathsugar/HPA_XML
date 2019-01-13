@@ -33136,4 +33136,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147224">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80396</GrowerCode>
+    <GrowerName>सुपेकर सुरेश जगन्नाथ</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>112</VillageCode>
+    <VillageName>हातवळण</VillageName>
+    <SubVillageCode>1641</SubVillageCode>
+    <SubVillageName>हातवळण(३५)पारगावमार्गे</SubVillageName>
+    <serveNo>222</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147225">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>66865</GrowerCode>
+    <GrowerName>दुरेकर बापुराव येदू</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>111</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>1844</SubVillageCode>
+    <SubVillageName>नानगाव(पारगावमार्गे) २८</SubVillageName>
+    <serveNo>124</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
