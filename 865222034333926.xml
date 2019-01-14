@@ -23522,4 +23522,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147362">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80427</GrowerCode>
+    <GrowerName>निंबाळकर गणेश चंद्रकांत</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>42</VillageCode>
+    <VillageName>रांजणगाव सांडस</VillageName>
+    <SubVillageCode>1818</SubVillageCode>
+    <SubVillageName>रांजणगाव सांडस (२०) वाळकीमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147361">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50471</GrowerCode>
+    <GrowerName>साळुंके प्रताप पंढरीनाथ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>57</VillageCode>
+    <VillageName>शिरसगाव काटा</VillageName>
+    <SubVillageCode>250</SubVillageCode>
+    <SubVillageName>शिरसगांव काटा(पारगावमार्गे])(४५)</SubVillageName>
+    <serveNo>434</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
