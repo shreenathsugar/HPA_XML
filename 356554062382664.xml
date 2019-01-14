@@ -32509,4 +32509,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147360">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44295</GrowerCode>
+    <GrowerName>चाकणकर दत्तात्रय कोंडीबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>781</VillageCode>
+    <VillageName>फुरुसुंगी</VillageName>
+    <SubVillageCode>1549</SubVillageCode>
+    <SubVillageName>फुरसुंगी(६०)</SubVillageName>
+    <serveNo>655</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
