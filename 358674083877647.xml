@@ -32661,4 +32661,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147432">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80451</GrowerCode>
+    <GrowerName>राऊत चंद्रकांत बबन</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1845</VillageCode>
+    <VillageName>वीर</VillageName>
+    <SubVillageCode>1846</SubVillageCode>
+    <SubVillageName>वीर(११५) निरामार्गे</SubVillageName>
+    <serveNo>940</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
