@@ -23769,4 +23769,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147516">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5800</GrowerCode>
+    <GrowerName>बहिती ओमप्रकाश रामचंद्र</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>45</VillageCode>
+    <VillageName>नागरगाव</VillageName>
+    <SubVillageCode>238</SubVillageCode>
+    <SubVillageName>नागरगाव(पारगावमार्गे])(२४)</SubVillageName>
+    <serveNo>68</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147446">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80453</GrowerCode>
+    <GrowerName>दरडा अशोक शांतीलाल</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>1821</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(२६)वाळकीमार्गे</SubVillageName>
+    <serveNo>687</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147448">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80430</GrowerCode>
+    <GrowerName>कोकरे भानुदास रघुनाथ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>1821</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(२६)वाळकीमार्गे</SubVillageName>
+    <serveNo>100</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147450">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80429</GrowerCode>
+    <GrowerName>होलगुंडे भगवान गोविंद</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>1821</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(२६)वाळकीमार्गे</SubVillageName>
+    <serveNo>100</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147453">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80428</GrowerCode>
+    <GrowerName>कोकरे नवनाथ भिवराज</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>1821</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(२६)वाळकीमार्गे</SubVillageName>
+    <serveNo>100</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
