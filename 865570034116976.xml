@@ -26562,4 +26562,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="136989">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4387</GrowerCode>
+    <GrowerName>भुजबळ बाळासाहेब हरिभाऊ</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1739</SubVillageCode>
+    <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
+    <serveNo>1275</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="132393">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35885</GrowerCode>
+    <GrowerName>भुजबळ लक्ष्मण भाऊसाहेब</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1739</SubVillageCode>
+    <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
+    <serveNo>1278</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="132974">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1580</GrowerCode>
+    <GrowerName>भुजबळ सुनिल बापूसाहेब</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1739</SubVillageCode>
+    <SubVillageName>शिक्रापुर(विठ्ठलवाडीमार्गे)(२३)</SubVillageName>
+    <serveNo>1275</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
