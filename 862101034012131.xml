@@ -11020,4 +11020,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147771">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80521</GrowerCode>
+    <GrowerName> निंबाळकर दत्तात्रय जगन्नाथ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>45</VillageCode>
+    <VillageName>नागरगाव</VillageName>
+    <SubVillageCode>238</SubVillageCode>
+    <SubVillageName>नागरगाव(पारगावमार्गे])(२४)</SubVillageName>
+    <serveNo>564</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147772">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80516</GrowerCode>
+    <GrowerName>कुतवळ तुकाराम नामदेव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>46</VillageCode>
+    <VillageName>कुरुळी</VillageName>
+    <SubVillageCode>1631</SubVillageCode>
+    <SubVillageName>कुरुळी(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>578</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147758">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16041</GrowerCode>
+    <GrowerName>भागवत रावसो तुकाराम</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>45</VillageCode>
+    <VillageName>नागरगाव</VillageName>
+    <SubVillageCode>238</SubVillageCode>
+    <SubVillageName>नागरगाव(पारगावमार्गे])(२४)</SubVillageName>
+    <serveNo>453</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
