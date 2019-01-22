@@ -19969,4 +19969,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147804">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50770</GrowerCode>
+    <GrowerName>गावडे लंकाबाई दत्तात्रय</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>पिंपळे धुमाळ</VillageName>
+    <SubVillageCode>1748</SubVillageCode>
+    <SubVillageName>पिंपळे धुमाळ (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>122</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147805">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62930</GrowerCode>
+    <GrowerName>गावडे संजय साहेबराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>पिंपळे धुमाळ</VillageName>
+    <SubVillageCode>1748</SubVillageCode>
+    <SubVillageName>पिंपळे धुमाळ (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>322</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
