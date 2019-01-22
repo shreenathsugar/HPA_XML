@@ -36119,4 +36119,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147760">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75481</GrowerCode>
+    <GrowerName>भुजबळ मंगेश अशोक</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1761</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१९)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>1258</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147782">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>21026</GrowerCode>
+    <GrowerName>भोरडे संतोष रामभाऊ</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1777</SubVillageCode>
+    <SubVillageName>पाचर्णेवस्ती(२४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>510</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
