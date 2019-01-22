@@ -36176,4 +36176,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147828">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23133</GrowerCode>
+    <GrowerName>फुलसुंदर सिताराम भाऊसाहेब</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>रांजणगाव गणपती</VillageName>
+    <SubVillageCode>1770</SubVillageCode>
+    <SubVillageName>रांजनगाव गणपती(३७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>589</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147829">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56241</GrowerCode>
+    <GrowerName>सोनकांबळे मालीकार्जुन तिपन्ना</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>359</SubVillageCode>
+    <SubVillageName>बाळोबाच्री वाडी(१८)म्हाळुंगी डँममार्गे</SubVillageName>
+    <serveNo>790</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147900">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41991</GrowerCode>
+    <GrowerName>खेडेकर सुदाम भिकाजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1133</VillageCode>
+    <VillageName>रांजणगाव गणपती</VillageName>
+    <SubVillageCode>1770</SubVillageCode>
+    <SubVillageName>रांजनगाव गणपती(३७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>167</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
