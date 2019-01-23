@@ -31426,4 +31426,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147967">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25343</GrowerCode>
+    <GrowerName>हंबीर उध्दव बबन</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>1827</SubVillageCode>
+    <SubVillageName>पाटेठाणशिव(३)</SubVillageName>
+    <serveNo>432</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147969">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80532</GrowerCode>
+    <GrowerName>पिलाणे मधुकर संतोष</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>82</VillageCode>
+    <VillageName>दहीटणे</VillageName>
+    <SubVillageCode>1655</SubVillageCode>
+    <SubVillageName>दहीटणे(११)</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147970">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80541</GrowerCode>
+    <GrowerName>डुबे दिनेश भाऊसो</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>121</VillageCode>
+    <VillageName>डुबेवाडी</VillageName>
+    <SubVillageCode>314</SubVillageCode>
+    <SubVillageName>डूबेवाडी(५)</SubVillageName>
+    <serveNo>375</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
