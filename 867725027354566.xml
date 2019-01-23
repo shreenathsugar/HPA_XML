@@ -28747,4 +28747,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147957">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72783</GrowerCode>
+    <GrowerName>काटे बाळू दत्तोबा</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>पिंपळे धुमाळ</VillageName>
+    <SubVillageCode>1748</SubVillageCode>
+    <SubVillageName>पिंपळे धुमाळ (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>211</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="147958">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62878</GrowerCode>
+    <GrowerName>धुमाळ सुरेश सुखदेव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>पिंपळे धुमाळ</VillageName>
+    <SubVillageCode>1748</SubVillageCode>
+    <SubVillageName>पिंपळे धुमाळ (३१) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>322</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
