@@ -11210,4 +11210,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="148008">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80562</GrowerCode>
+    <GrowerName>जराड भिमराव मारुती</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>85</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="148010">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>50345</GrowerCode>
+    <GrowerName>चांदगुडे सचिन सुरेश</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>47</VillageCode>
+    <VillageName>वडगाव रासाई</VillageName>
+    <SubVillageCode>1632</SubVillageCode>
+    <SubVillageName>वडगाव रासाई(३१)पारगावमार्गे</SubVillageName>
+    <serveNo>389</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
