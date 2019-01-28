@@ -11571,4 +11571,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="148511">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>78849</GrowerCode>
+    <GrowerName>बोरकर लक्ष्मण दत्तात्रय</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>इनामगाव</VillageName>
+    <SubVillageCode>1636</SubVillageCode>
+    <SubVillageName>इनामगाव (४५)पारगावमार्गे</SubVillageName>
+    <serveNo>434</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="148512">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>78851</GrowerCode>
+    <GrowerName>बोरकर भरत दुर्योधन</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>इनामगाव</VillageName>
+    <SubVillageCode>1636</SubVillageCode>
+    <SubVillageName>इनामगाव (४५)पारगावमार्गे</SubVillageName>
+    <serveNo>434</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
