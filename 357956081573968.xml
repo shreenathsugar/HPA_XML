@@ -11001,4 +11001,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="148721">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75890</GrowerCode>
+    <GrowerName>कोकरे मुक्ताबाई शंकर</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>141</VillageCode>
+    <VillageName>दापोडी</VillageName>
+    <SubVillageCode>378</SubVillageCode>
+    <SubVillageName>दापोडी(२८) केडगावमार्गे</SubVillageName>
+    <serveNo>56</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
