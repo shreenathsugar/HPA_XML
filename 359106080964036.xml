@@ -11020,4 +11020,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="148786">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80651</GrowerCode>
+    <GrowerName>वाघ मधुकर सयाजी</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1864</VillageCode>
+    <VillageName>लोणारवाडी</VillageName>
+    <SubVillageCode>1865</SubVillageCode>
+    <SubVillageName>लोणारवाडी</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="148787">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80652</GrowerCode>
+    <GrowerName>गायकवाड नामदेव गुलाब(मळद)</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1839</VillageCode>
+    <VillageName>मळद</VillageName>
+    <SubVillageCode>1838</SubVillageCode>
+    <SubVillageName>मळद(६०)केडगावमार्गे</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="148789">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80653</GrowerCode>
+    <GrowerName>म्हेत्रे राहुल गणपत</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1839</VillageCode>
+    <VillageName>मळद</VillageName>
+    <SubVillageCode>1838</SubVillageCode>
+    <SubVillageName>मळद(६०)केडगावमार्गे</SubVillageName>
+    <serveNo>77</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="148784">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80649</GrowerCode>
+    <GrowerName>जगताप राणी गणेश</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>115</VillageCode>
+    <VillageName>कडेठाण</VillageName>
+    <SubVillageCode>308</SubVillageCode>
+    <SubVillageName>कडेठाण(पिंपळगाव मार्गे])(३२)</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
