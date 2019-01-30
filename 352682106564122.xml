@@ -36803,4 +36803,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="148844">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59108</GrowerCode>
+    <GrowerName>शिंदे अरविंद प्रल्हाद</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1532</VillageCode>
+    <VillageName>करजावणे</VillageName>
+    <SubVillageCode>1771</SubVillageCode>
+    <SubVillageName>करंजावणे(३७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>205</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="148845">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80665</GrowerCode>
+    <GrowerName>इंगळे रामदास भिमाजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>37</VillageCode>
+    <VillageName>पारोडी</VillageName>
+    <SubVillageCode>1806</SubVillageCode>
+    <SubVillageName>पारोडी(15)(टायर/टा.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>105</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
