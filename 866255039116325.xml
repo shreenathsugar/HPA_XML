@@ -20558,4 +20558,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149053">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60080</GrowerCode>
+    <GrowerName>वागसकर अशोक गुलाबराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>1101</VillageCode>
+    <VillageName>फुलगाव</VillageName>
+    <SubVillageCode>1094</SubVillageCode>
+    <SubVillageName>फुलगाव(३५)आळंदीफाटा मार्गे]</SubVillageName>
+    <serveNo>98</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
