@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="80680">
-      <ContractorName>डुबे अमोल दिनकर</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="79284">
-      <ContractorName>थोरात सुभाष पोपट(मोरे गणेश रूपचंद)</ContractorName>
+    <ContractorCode Code="80729">
+      <ContractorName>पुणेकर काळूराम सोपान</ContractorName>
     </ContractorCode>
     <ContractorCode Code="79286">
       <ContractorName>राठोड संजय मल्लू</ContractorName>
@@ -156,6 +153,9 @@
     </ContractorCode>
     <ContractorCode Code="79943">
       <ContractorName>राठोड एकनाथ मल्लू(गाडी सेंटर)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="80680">
+      <ContractorName>डुबे अमोल दिनकर</ContractorName>
     </ContractorCode>
     <ContractorCode Code="74606">
       <ContractorName>शिरसाठ रविंद्र सूर्यभान</ContractorName>
@@ -663,6 +663,9 @@
     </ContractorCode>
     <ContractorCode Code="79283">
       <ContractorName>थोरात संतोष भगवान(जाधव संजय चत्रू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="79284">
+      <ContractorName>थोरात सुभाष पोपट(मोरे गणेश रूपचंद)</ContractorName>
     </ContractorCode>
   </harvestorType>
   <harvestorType type="डोकी सेंटर">
