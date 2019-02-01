@@ -29545,4 +29545,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149173">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>14283</GrowerCode>
+    <GrowerName>साठे दिलीप दत्तोबा</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1497</VillageCode>
+    <VillageName>हिवरे</VillageName>
+    <SubVillageCode>1853</SubVillageCode>
+    <SubVillageName>हिवरे(०)</SubVillageName>
+    <serveNo>269</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149174">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80719</GrowerCode>
+    <GrowerName>गुंजाळ फक्कड कुशाबा</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1497</VillageCode>
+    <VillageName>हिवरे</VillageName>
+    <SubVillageCode>1853</SubVillageCode>
+    <SubVillageName>हिवरे(०)</SubVillageName>
+    <serveNo>51</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149175">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80718</GrowerCode>
+    <GrowerName>मासळकर संपत केरू</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>जातेगाव खुर्द</VillageName>
+    <SubVillageCode>1746</SubVillageCode>
+    <SubVillageName>जातेगाव खुर्द (३०) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>239</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
