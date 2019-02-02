@@ -29583,4 +29583,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149269">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80746</GrowerCode>
+    <GrowerName>मदने विट्टल शिवाजी</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1851</VillageCode>
+    <VillageName>परिचे</VillageName>
+    <SubVillageCode>1852</SubVillageCode>
+    <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
+    <serveNo>980</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149270">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80748</GrowerCode>
+    <GrowerName>वचकल भरत बाजीराव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1851</VillageCode>
+    <VillageName>परिचे</VillageName>
+    <SubVillageCode>1852</SubVillageCode>
+    <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
+    <serveNo>1066</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149271">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80749</GrowerCode>
+    <GrowerName>गवारे जालिंदर संपत</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1851</VillageCode>
+    <VillageName>परिचे</VillageName>
+    <SubVillageCode>1852</SubVillageCode>
+    <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
+    <serveNo>334</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
