@@ -362,6 +362,12 @@
         <SubVillageName>लोणारवाडी</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1886">
+      <VillageName>खडकी</VillageName>
+      <SubVillageCode Code="1887">
+        <SubVillageName>खडकी(०)</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="14">
     <GatName>रांजणगाव सांडस</GatName>
