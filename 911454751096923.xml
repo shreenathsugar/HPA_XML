@@ -11951,4 +11951,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149304">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80767</GrowerCode>
+    <GrowerName>वाघचौरे नेताजी लालासाहेब</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>1821</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(२६)वाळकीमार्गे</SubVillageName>
+    <serveNo>291</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149298">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58962</GrowerCode>
+    <GrowerName>देवकर संगिता प्रसाद</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1867</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(२२) वाळकीमार्गे</SubVillageName>
+    <serveNo>662</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149297">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80761</GrowerCode>
+    <GrowerName>देवकर प्रसाद चंद्रकांत</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1867</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(२२) वाळकीमार्गे</SubVillageName>
+    <serveNo>662</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149306">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16187</GrowerCode>
+    <GrowerName>कापरे  बबन रामभाऊ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>43</VillageCode>
+    <VillageName>राक्षेवाडी</VillageName>
+    <SubVillageCode>1867</SubVillageCode>
+    <SubVillageName>राक्षेवाडी(२२) वाळकीमार्गे</SubVillageName>
+    <serveNo>35</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
