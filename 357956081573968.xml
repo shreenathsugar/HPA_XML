@@ -11761,4 +11761,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149315">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80756</GrowerCode>
+    <GrowerName>डुबे मारुती नामदेव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1075</VillageCode>
+    <VillageName>पाटस</VillageName>
+    <SubVillageCode>174</SubVillageCode>
+    <SubVillageName>पाटस ( केडगावमार्गे ) (४२ )</SubVillageName>
+    <serveNo>87</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149316">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80773</GrowerCode>
+    <GrowerName>म्हेत्रे राजाराम बबन</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1839</VillageCode>
+    <VillageName>मळद</VillageName>
+    <SubVillageCode>1838</SubVillageCode>
+    <SubVillageName>मळद(६०)केडगावमार्गे</SubVillageName>
+    <serveNo>39</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
