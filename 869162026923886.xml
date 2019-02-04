@@ -37620,4 +37620,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149346">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>70894</GrowerCode>
+    <GrowerName>शिवले बाजीराव कारभारी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>36</VillageCode>
+    <VillageName>शिवतक्रर म्हाळुंगी</VillageName>
+    <SubVillageCode>1866</SubVillageCode>
+    <SubVillageName>शिवतक्रर म्हाळुंगी(१३)(टायर/ट्रॅ.गा)(वडगाव बांडे मार्गे)</SubVillageName>
+    <serveNo>244</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149347">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72225</GrowerCode>
+    <GrowerName>भाडळे काळूराम दगडू</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>193</VillageCode>
+    <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <SubVillageCode>1808</SubVillageCode>
+    <SubVillageName>माळीमळा(19) (टायर/ट्रॅ.गा) (म्हाळुंगीमार्गे)</SubVillageName>
+    <serveNo>366</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149348">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80782</GrowerCode>
+    <GrowerName>टेमगिरे संगिता सुरेश</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>359</SubVillageCode>
+    <SubVillageName>बाळोबाच्री वाडी(१८)म्हाळुंगी डँममार्गे</SubVillageName>
+    <serveNo>356</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
