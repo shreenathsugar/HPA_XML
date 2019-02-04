@@ -11837,4 +11837,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149367">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72940</GrowerCode>
+    <GrowerName>दगडे रूपेश मोहन</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1491</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <SubVillageCode>1527</SubVillageCode>
+    <SubVillageName>मलठण(दौंड-केडगावमार्गे)(७९)</SubVillageName>
+    <serveNo>78</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
