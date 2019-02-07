@@ -12103,4 +12103,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149597">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80852</GrowerCode>
+    <GrowerName>काळे हेमंत यशवंत</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1886</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <SubVillageCode>1887</SubVillageCode>
+    <SubVillageName>खडकी(०)</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
