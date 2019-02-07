@@ -32813,4 +32813,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149636">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80859</GrowerCode>
+    <GrowerName>डुबे हेमा दिपक</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>टेळेवाडी</VillageName>
+    <SubVillageCode>1602</SubVillageCode>
+    <SubVillageName>टेळेवाडीपाठार(१५)कोरेगाव घाटमार्गे</SubVillageName>
+    <serveNo>846</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149637">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11406</GrowerCode>
+    <GrowerName>ख़ेडेकर सिताराम परशराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>टेळेवाडी</VillageName>
+    <SubVillageCode>1602</SubVillageCode>
+    <SubVillageName>टेळेवाडीपाठार(१५)कोरेगाव घाटमार्गे</SubVillageName>
+    <serveNo>243</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
