@@ -29545,4 +29545,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149753">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41781</GrowerCode>
+    <GrowerName>झांजे गणपत बबन</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1103</VillageCode>
+    <VillageName>गणेगाव खालसा</VillageName>
+    <SubVillageCode>1742</SubVillageCode>
+    <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>55</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149755">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80870</GrowerCode>
+    <GrowerName>गोसावी किशोरकुमार गोविंद</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1103</VillageCode>
+    <VillageName>गणेगाव खालसा</VillageName>
+    <SubVillageCode>1742</SubVillageCode>
+    <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>26</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
