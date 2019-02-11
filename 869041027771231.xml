@@ -39007,4 +39007,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149947">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80966</GrowerCode>
+    <GrowerName>दरेकर शांतीलाल साहेबराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>26</VillageCode>
+    <VillageName>दरेकरवाडी</VillageName>
+    <SubVillageCode>1767</SubVillageCode>
+    <SubVillageName>दरेकरवाडी(२४)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>342</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149949">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80967</GrowerCode>
+    <GrowerName>दरेकर मारुती गोमाजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>26</VillageCode>
+    <VillageName>दरेकरवाडी</VillageName>
+    <SubVillageCode>1767</SubVillageCode>
+    <SubVillageName>दरेकरवाडी(२४)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>333</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
