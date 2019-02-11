@@ -12559,4 +12559,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="149919">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80937</GrowerCode>
+    <GrowerName>दरडा मंगल अशोक</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>923</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(१५)डँममार्गे</SubVillageName>
+    <serveNo>435</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149920">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80938</GrowerCode>
+    <GrowerName>कुलाळ मीना चांगदेव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>39</VillageCode>
+    <VillageName>आरणगाव</VillageName>
+    <SubVillageCode>1822</SubVillageCode>
+    <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+    <serveNo>645</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149921">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80944</GrowerCode>
+    <GrowerName>काळे लता अशोक</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1034</VillageCode>
+    <VillageName>निमोणे</VillageName>
+    <SubVillageCode>1863</SubVillageCode>
+    <SubVillageName>निमोणे(४१)पारगावमार्गे</SubVillageName>
+    <serveNo>534</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="149922">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80949</GrowerCode>
+    <GrowerName>मखर हनुमंत विठ्ठल</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>39</VillageCode>
+    <VillageName>आरणगाव</VillageName>
+    <SubVillageCode>1822</SubVillageCode>
+    <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+    <serveNo>43</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
