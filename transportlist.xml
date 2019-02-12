@@ -421,12 +421,6 @@
       <TrollyNoA>T68536-1</TrollyNoA>
       <TrollyNoB>T68536-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68542">
-      <ContractorName>पवार शरद हनुमंत</ContractorName>
-      <VehicleNo>MH-42-Q-4241</VehicleNo>
-      <TrollyNoA>T68542-1</TrollyNoA>
-      <TrollyNoB>T68542-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="68543">
       <ContractorName>ढमे सुखदेव  विठ्ठल</ContractorName>
       <VehicleNo>MH-42-A-6343</VehicleNo>
@@ -522,6 +516,12 @@
       <VehicleNo>MH-42-Q-2118</VehicleNo>
       <TrollyNoA>T68573-1</TrollyNoA>
       <TrollyNoB>T68573-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68542">
+      <ContractorName>पवार शरद हनुमंत</ContractorName>
+      <VehicleNo>MH-42-Q-4241</VehicleNo>
+      <TrollyNoA>T68542-1</TrollyNoA>
+      <TrollyNoB>T68542-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68575">
       <ContractorName>ताकवणे चंद्रकांत रामराव</ContractorName>
@@ -642,12 +642,6 @@
       <VehicleNo>MH-42-Q-4231</VehicleNo>
       <TrollyNoA>T68882-1</TrollyNoA>
       <TrollyNoB>T68882-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="69185">
-      <ContractorName>व्ही.एस.आय</ContractorName>
-      <VehicleNo>MH-12-JA-2764</VehicleNo>
-      <TrollyNoA>T69185-1</TrollyNoA>
-      <TrollyNoB>T69185-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="69702">
       <ContractorName>सोनवणे रोहिदास नरसिंग</ContractorName>
@@ -906,6 +900,12 @@
       <VehicleNo>MH-14-BM-1293</VehicleNo>
       <TrollyNoA>T74397-1</TrollyNoA>
       <TrollyNoB>T74397-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="69185">
+      <ContractorName>व्ही.एस.आय</ContractorName>
+      <VehicleNo>MH-12-JA-2764</VehicleNo>
+      <TrollyNoA>T69185-1</TrollyNoA>
+      <TrollyNoB>T69185-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74400">
       <ContractorName>नागरे धनंजय मुरलीधर</ContractorName>
@@ -1615,18 +1615,6 @@
       <TrollyNoA>T68809-1</TrollyNoA>
       <TrollyNoB>T68809-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="68814">
-      <ContractorName>वाघोले जगदीश उत्तम</ContractorName>
-      <VehicleNo>MH-42-Y-1118</VehicleNo>
-      <TrollyNoA>T68814-1</TrollyNoA>
-      <TrollyNoB>T68814-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68815">
-      <ContractorName>वाघोले कृष्णाजी ज्ञानदेव</ContractorName>
-      <VehicleNo>MH-42-Y-1729</VehicleNo>
-      <TrollyNoA>T68815-1</TrollyNoA>
-      <TrollyNoB>T68815-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="68816">
       <ContractorName>वाघोले सदाशिव धोंडीबा</ContractorName>
       <VehicleNo>MH-12-AH-3498</VehicleNo>
@@ -1705,6 +1693,12 @@
       <TrollyNoA>T79355-1</TrollyNoA>
       <TrollyNoB>T79355-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="68815">
+      <ContractorName>वाघोले कृष्णाजी ज्ञानदेव</ContractorName>
+      <VehicleNo>MH-42-Y-1729</VehicleNo>
+      <TrollyNoA>T68815-1</TrollyNoA>
+      <TrollyNoB>T68815-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="79354">
       <ContractorName>शेलार शरद विठ्ठल</ContractorName>
       <VehicleNo>MH-42-Q-4199</VehicleNo>
@@ -1722,6 +1716,12 @@
       <VehicleNo>MH-42-Y-0590</VehicleNo>
       <TrollyNoA>T79880-1</TrollyNoA>
       <TrollyNoB>T79880-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68814">
+      <ContractorName>वाघोले जगदीश उत्तम</ContractorName>
+      <VehicleNo>MH-42-Y-1118</VehicleNo>
+      <TrollyNoA>T68814-1</TrollyNoA>
+      <TrollyNoB>T68814-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="79919">
       <ContractorName>पवार ज्ञानेश्वर रविंद्र</ContractorName>
