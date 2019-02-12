@@ -42921,4 +42921,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150001">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80995</GrowerCode>
+    <GrowerName>थिटे प्रभु महादु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <SubVillageCode>1534</SubVillageCode>
+    <SubVillageName>शेल पिंपळगाव (०)</SubVillageName>
+    <serveNo>239</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
