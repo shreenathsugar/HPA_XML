@@ -22325,4 +22325,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150007">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1227</GrowerCode>
+    <GrowerName>टेमगिरे बबन बाबुराव </GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>146</VillageCode>
+    <VillageName>बुरुजवाडी</VillageName>
+    <SubVillageCode>1836</SubVillageCode>
+    <SubVillageName>बुरंजवाडी(२४)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>855</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
