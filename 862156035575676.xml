@@ -13053,4 +13053,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150225">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81100</GrowerCode>
+    <GrowerName>म्हेत्रे वंदना शंकर</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1839</VillageCode>
+    <VillageName>मळद</VillageName>
+    <SubVillageCode>1838</SubVillageCode>
+    <SubVillageName>मळद(६०)केडगावमार्गे</SubVillageName>
+    <serveNo>77</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

@@ -18183,4 +18183,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150233">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81105</GrowerCode>
+    <GrowerName>ठाकुर उत्कर्ष चंद्रानंद</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1540</VillageCode>
+    <VillageName>सोळू</VillageName>
+    <SubVillageCode>1817</SubVillageCode>
+    <SubVillageName>सोळू(४५)मरकळमार्गे</SubVillageName>
+    <serveNo>456</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
