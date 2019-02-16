@@ -39672,4 +39672,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150222">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81058</GrowerCode>
+    <GrowerName>भुजबळ रविंद्र मारुती</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1379</VillageCode>
+    <VillageName>कासारी</VillageName>
+    <SubVillageCode>1769</SubVillageCode>
+    <SubVillageName>कासारी(२७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>366</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150223">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81103</GrowerCode>
+    <GrowerName>भुजबळ शंकर पिराजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1379</VillageCode>
+    <VillageName>कासारी</VillageName>
+    <SubVillageCode>1811</SubVillageCode>
+    <SubVillageName>कासारी(१७)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>253</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
