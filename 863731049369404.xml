@@ -13072,4 +13072,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150306">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81133</GrowerCode>
+    <GrowerName>कुलाळ शुभांगी नवनाथ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>39</VillageCode>
+    <VillageName>आरणगाव</VillageName>
+    <SubVillageCode>1822</SubVillageCode>
+    <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+    <serveNo>546</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150307">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81137</GrowerCode>
+    <GrowerName>तोंडे मंगेश पिराजी</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>39</VillageCode>
+    <VillageName>आरणगाव</VillageName>
+    <SubVillageCode>1822</SubVillageCode>
+    <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+    <serveNo>,534</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150308">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81136</GrowerCode>
+    <GrowerName>तोंडे सुभाष सोन्याबापु</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>39</VillageCode>
+    <VillageName>आरणगाव</VillageName>
+    <SubVillageCode>1822</SubVillageCode>
+    <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+    <serveNo>,436</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150300">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20595</GrowerCode>
+    <GrowerName>थोरात शिवाजी बाबुराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>42</VillageCode>
+    <VillageName>रांजणगाव सांडस</VillageName>
+    <SubVillageCode>1818</SubVillageCode>
+    <SubVillageName>रांजणगाव सांडस (२०) वाळकीमार्गे</SubVillageName>
+    <serveNo>435</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
