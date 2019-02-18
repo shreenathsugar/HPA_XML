@@ -13262,4 +13262,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150389">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81170</GrowerCode>
+    <GrowerName>चव्हाण पदमावती सखाराम</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1839</VillageCode>
+    <VillageName>मळद</VillageName>
+    <SubVillageCode>1838</SubVillageCode>
+    <SubVillageName>मळद(६०)केडगावमार्गे</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150411">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81181</GrowerCode>
+    <GrowerName>वाघ दिपक प्रल्हाद</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1864</VillageCode>
+    <VillageName>लोणारवाडी</VillageName>
+    <SubVillageCode>1865</SubVillageCode>
+    <SubVillageName>लोणारवाडी</SubVillageName>
+    <serveNo>65</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
