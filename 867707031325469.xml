@@ -40166,4 +40166,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150410">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>1637</GrowerCode>
+    <GrowerName>दरवडे सुरेश नामदेव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1875</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे(१७) (विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>1012</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150409">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81182</GrowerCode>
+    <GrowerName>इंगळे रामदास भाऊसाहेब</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>1532</VillageCode>
+    <VillageName>करजावणे</VillageName>
+    <SubVillageCode>1771</SubVillageCode>
+    <SubVillageName>करंजावणे(३७)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>85</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
