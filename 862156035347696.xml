@@ -34333,4 +34333,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150508">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81219</GrowerCode>
+    <GrowerName>आवाळे महेंद्र दिलीप</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>88</VillageCode>
+    <VillageName>कोरेगाव भिवर</VillageName>
+    <SubVillageCode>281</SubVillageCode>
+    <SubVillageName>कोरेगाव भिवर (१५)(बै)</SubVillageName>
+    <serveNo>14</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150513">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81218</GrowerCode>
+    <GrowerName>आवाळे सारीका रविंद्र</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>88</VillageCode>
+    <VillageName>कोरेगाव भिवर</VillageName>
+    <SubVillageCode>281</SubVillageCode>
+    <SubVillageName>कोरेगाव भिवर (१५)(बै)</SubVillageName>
+    <serveNo>14</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
