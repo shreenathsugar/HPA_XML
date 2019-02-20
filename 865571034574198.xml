@@ -31597,4 +31597,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150496">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81206</GrowerCode>
+    <GrowerName>हिंगे राहुल पंढरिनाथ</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1103</VillageCode>
+    <VillageName>गणेगाव खालसा</VillageName>
+    <SubVillageCode>1742</SubVillageCode>
+    <SubVillageName>गणेगाव खालसा (३३) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>66</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150497">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>5527</GrowerCode>
+    <GrowerName>टेमगिरे रामदास मारुती</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>146</VillageCode>
+    <VillageName>बुरुजवाडी</VillageName>
+    <SubVillageCode>1836</SubVillageCode>
+    <SubVillageName>बुरंजवाडी(२४)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>0-10</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
