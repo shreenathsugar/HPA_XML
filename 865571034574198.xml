@@ -31844,4 +31844,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150611">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81212</GrowerCode>
+    <GrowerName>पलांडे अजित चंद्रकांत</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1383</VillageCode>
+    <VillageName>मुखई</VillageName>
+    <SubVillageCode>1835</SubVillageCode>
+    <SubVillageName>मुखई(३४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>433</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
