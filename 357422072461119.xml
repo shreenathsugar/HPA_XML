@@ -44707,4 +44707,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150624">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44523</GrowerCode>
+    <GrowerName>कदम विठ्ठल आप्पाजी</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>820</SubVillageCode>
+    <SubVillageName>शितोळेवस्ती(१४)</SubVillageName>
+    <serveNo>1870</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
