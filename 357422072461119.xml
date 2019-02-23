@@ -44916,4 +44916,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150669">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81279</GrowerCode>
+    <GrowerName>भाकरे रविंद्र शिवराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>645</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="150668">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72714</GrowerCode>
+    <GrowerName>चत्तुर सुनिलकुमार गौतमचंद</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>688</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
