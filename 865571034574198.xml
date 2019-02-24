@@ -32053,4 +32053,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="150682">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>19822</GrowerCode>
+    <GrowerName>खैरे अर्जुन बाबुराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>31</VillageCode>
+    <VillageName>जातेगाव खुर्द</VillageName>
+    <SubVillageCode>1746</SubVillageCode>
+    <SubVillageName>जातेगाव खुर्द (३०) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>56</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
