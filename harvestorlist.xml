@@ -1,8 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <harvestorType type="गाडी सेंटर">
-    <ContractorCode Code="82449">
-      <ContractorName>गवळी चंद्रकांत मनाजी(चव्हाण भिमदेव उत्तम)</ContractorName>
+    <ContractorCode Code="82447">
+      <ContractorName>गवारे सुदाम चांगदेव(राठोड नामदेव म्हारू)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="82565">
+      <ContractorName>राठोड मोतीराम धर्मा</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="82566">
+      <ContractorName>राठोड राजेंद्र मल्लु</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82567">
       <ContractorName>राठोड सी.एम(राठोड चुनिलाल मलखान)</ContractorName>
@@ -295,11 +301,11 @@
     <ContractorCode Code="82446">
       <ContractorName>गुंड प्रकाश महादेव(वारे कडुबा किसन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="82447">
-      <ContractorName>गवारे सुदाम चांगदेव(राठोड नामदेव म्हारू)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="82448">
       <ContractorName>गवळी भुजंग दशरथ(भिल्ल तानाजी मोहन)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="82449">
+      <ContractorName>गवळी चंद्रकांत मनाजी(चव्हाण भिमदेव उत्तम)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82450">
       <ContractorName>गवळी गोरख सुदाम(माळी सोमनाथ वसंत)</ContractorName>
@@ -565,14 +571,14 @@
     <ContractorCode Code="82564">
       <ContractorName>राठोड मोतीराम गुलाब</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="82565">
-      <ContractorName>राठोड मोतीराम धर्मा</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="82566">
-      <ContractorName>राठोड राजेंद्र मल्लु</ContractorName>
-    </ContractorCode>
   </harvestorType>
   <harvestorType type="डोकी सेंटर">
+    <ContractorCode Code="79647">
+      <ContractorName>19-20 नवले सतिष वामन</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="82381">
+      <ContractorName>आखाडे दत्तात्रय बबन(पवार राजू मोहन)</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="82384">
       <ContractorName>आवाळे भाऊसाहेब गुलाब(ठाकरे शांतीलाल सिताराम)</ContractorName>
     </ContractorCode>
@@ -603,14 +609,14 @@
     <ContractorCode Code="82490">
       <ContractorName>जगताप वसंत माणिक(पिंपळे कापलेश्वर तोरण्या)</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="79646">
+      <ContractorName>1119-20 नवले सतिष वामन</ContractorName>
+    </ContractorCode>
     <ContractorCode Code="82579">
       <ContractorName>शेख अलि रमजु</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82580">
       <ContractorName>शेख गफुर रमजु</ContractorName>
-    </ContractorCode>
-    <ContractorCode Code="82381">
-      <ContractorName>आखाडे दत्तात्रय बबन(पवार राजू मोहन)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82595">
       <ContractorName>ताकवणे धर्मराज रामचंद्र(पवार कडू दबलू)</ContractorName>
