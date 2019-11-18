@@ -1,29 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="82365">
-      <ContractorName>शेंडगे अशोक बाळासाहेब</ContractorName>
-      <VehicleNo>MH-04-DB-7316</VehicleNo>
-      <TrollyNoA>T-82365-1</TrollyNoA>
-      <TrollyNoB>T-82365-2</TrollyNoB>
+    <ContractorCode Code="82323">
+      <ContractorName>टेंगले आप्पा शिवाजी</ContractorName>
+      <VehicleNo>MH-42-Y-3191</VehicleNo>
+      <TrollyNoA>T-82323-1</TrollyNoA>
+      <TrollyNoB>T-82323-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="82366">
+      <ContractorName>वनवे वसुदेव पंढरीनाथ</ContractorName>
+      <VehicleNo>MH-16-AM-4240</VehicleNo>
+      <TrollyNoA>T-82366-1</TrollyNoA>
+      <TrollyNoB>T-82366-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82367">
       <ContractorName>थोरात एस.के</ContractorName>
-      <VehicleNo>MH-42-F-1764</VehicleNo>
-      <TrollyNoA>T-82367-1</TrollyNoA>
-      <TrollyNoB>T-82367-2</TrollyNoB>
+      <VehicleNo>MH-42-Y-5585</VehicleNo>
+      <TrollyNoA>T82367-1</TrollyNoA>
+      <TrollyNoB>T82367-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82368">
       <ContractorName>थोरात संतोष कैलास 5585</ContractorName>
-      <VehicleNo>MH-42-Y-5585</VehicleNo>
-      <TrollyNoA>T-82368-1</TrollyNoA>
-      <TrollyNoB>T-82368-2</TrollyNoB>
+      <VehicleNo>MH-42-AS-5585</VehicleNo>
+      <TrollyNoA>T82368-1</TrollyNoA>
+      <TrollyNoB>T82368-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82369">
       <ContractorName>थोरात संतोष कैलास १७६४</ContractorName>
-      <VehicleNo>MH-42-AS-5585</VehicleNo>
-      <TrollyNoA>T-82369-1</TrollyNoA>
-      <TrollyNoB>T-82369-2</TrollyNoB>
+      <VehicleNo>MH-42-F-1764</VehicleNo>
+      <TrollyNoA>T82369-1</TrollyNoA>
+      <TrollyNoB>T82369-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82372">
       <ContractorName>दाभाडे रणजितसिंग लक्ष्मण</ContractorName>
@@ -73,11 +79,11 @@
       <TrollyNoA>T82745-1</TrollyNoA>
       <TrollyNoB>T82745-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="82763">
-      <ContractorName>19-20 नवले सतिष वामन</ContractorName>
-      <VehicleNo>MH-42-Y-8186</VehicleNo>
-      <TrollyNoA>T82763-1</TrollyNoA>
-      <TrollyNoB>T82763-2</TrollyNoB>
+    <ContractorCode Code="82314">
+      <ContractorName>पवार एस.ए</ContractorName>
+      <VehicleNo>MH-42-AS-8179</VehicleNo>
+      <TrollyNoA>T-82314-1</TrollyNoA>
+      <TrollyNoB>T-82314-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82315">
       <ContractorName>पवार गणपत गिरजाप्पा</ContractorName>
@@ -120,12 +126,6 @@
       <VehicleNo>MH-42-Q-2185</VehicleNo>
       <TrollyNoA>T-82322-1</TrollyNoA>
       <TrollyNoB>T-82322-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="82323">
-      <ContractorName>टेंगले आप्पा शिवाजी</ContractorName>
-      <VehicleNo>MH-42-Y-3191</VehicleNo>
-      <TrollyNoA>T-82323-1</TrollyNoA>
-      <TrollyNoB>T-82323-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82324">
       <ContractorName>थोरात विशाल शहाजी</ContractorName>
@@ -247,11 +247,11 @@
       <TrollyNoA>T-82364-1</TrollyNoA>
       <TrollyNoB>T-82364-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="82366">
-      <ContractorName>वनवे वसुदेव पंढरीनाथ</ContractorName>
-      <VehicleNo>MH-16-AM-4240</VehicleNo>
-      <TrollyNoA>T-82366-1</TrollyNoA>
-      <TrollyNoB>T-82366-2</TrollyNoB>
+    <ContractorCode Code="82763">
+      <ContractorName>19-20 नवले सतिश वामन</ContractorName>
+      <VehicleNo>MH-42-Y-8186</VehicleNo>
+      <TrollyNoA>T82763-1</TrollyNoA>
+      <TrollyNoB>T82763-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
@@ -1404,12 +1404,6 @@
       <VehicleNo>MH-42-Y-5085</VehicleNo>
       <TrollyNoA>T-82313-1</TrollyNoA>
       <TrollyNoB>T-82313-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="82314">
-      <ContractorName>पवार एस.ए</ContractorName>
-      <VehicleNo>MH-42-AS-8179</VehicleNo>
-      <TrollyNoA>T-82314-1</TrollyNoA>
-      <TrollyNoB>T-82314-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
