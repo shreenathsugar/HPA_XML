@@ -8227,4 +8227,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="143451">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60323</GrowerCode>
+    <GrowerName>गलांडे राजीव चंद्रकांत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>हिंगणगाव</VillageName>
+    <SubVillageCode>1405</SubVillageCode>
+    <SubVillageName>हिंगणगाव(राहूरोडमार्गे)(१५)</SubVillageName>
+    <serveNo>141</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="143462">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>54862</GrowerCode>
+    <GrowerName>गलांडे संजय चंद्रकांत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>66</VillageCode>
+    <VillageName>हिंगणगाव</VillageName>
+    <SubVillageCode>1405</SubVillageCode>
+    <SubVillageName>हिंगणगाव(राहूरोडमार्गे)(१५)</SubVillageName>
+    <serveNo>140</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160545">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60175</GrowerCode>
+    <GrowerName>भंडारे सुरेखा रामदास</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>75</VillageCode>
+    <VillageName>वढू खुर्द</VillageName>
+    <SubVillageCode>1616</SubVillageCode>
+    <SubVillageName>वढू खुर्द (३३)आळंदीफाटामार्गे</SubVillageName>
+    <serveNo>24/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

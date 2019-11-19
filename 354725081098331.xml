@@ -12635,4 +12635,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160511">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>73985</GrowerCode>
+    <GrowerName>थोरात जयसिंग पांडुरंग</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>109</VillageCode>
+    <VillageName>खुटबाव</VillageName>
+    <SubVillageCode>302</SubVillageCode>
+    <SubVillageName>खुटबाव(पिंपळगाव मार्गे])(१९)</SubVillageName>
+    <serveNo>647</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160253">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79335</GrowerCode>
+    <GrowerName>गुंड गणेश रघुनाथ</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>111</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>1844</SubVillageCode>
+    <SubVillageName>नानगाव(पारगावमार्गे) २८</SubVillageName>
+    <serveNo>136</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160537">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82780</GrowerCode>
+    <GrowerName>शेलार संगिता दत्तात्रय</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>107</VillageCode>
+    <VillageName>देलवडी</VillageName>
+    <SubVillageCode>301</SubVillageCode>
+    <SubVillageName>एकेरीवाडी(देलवडीमार्गे])(१८)</SubVillageName>
+    <serveNo>432</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160558">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74024</GrowerCode>
+    <GrowerName>थोरात चंद्रकांत जयसिंग</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>139</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <SubVillageCode>361</SubVillageCode>
+    <SubVillageName>भांडगाव(२५)</SubVillageName>
+    <serveNo>456</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
