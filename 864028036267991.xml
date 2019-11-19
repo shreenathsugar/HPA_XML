@@ -74385,4 +74385,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160574">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82802</GrowerCode>
+    <GrowerName>शितोळे संजय कमलाकर</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>820</SubVillageCode>
+    <SubVillageName>शितोळेवस्ती(१४)</SubVillageName>
+    <serveNo>55</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="155092">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69713</GrowerCode>
+    <GrowerName>पिंपळे जनाबापू शामराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>193</VillageCode>
+    <VillageName>निमगाव म्हाळुंगी</VillageName>
+    <SubVillageCode>1772</SubVillageCode>
+    <SubVillageName>निमगाव म्हाळुंगी(31)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>575</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160564">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67794</GrowerCode>
+    <GrowerName>शितोळे संभाजी शिवाजी</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>59</VillageCode>
+    <VillageName>सांगवी सांडस</VillageName>
+    <SubVillageCode>252</SubVillageCode>
+    <SubVillageName>सांगवी सांडस (राहूरोडमार्गे])(९)</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160575">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82805</GrowerCode>
+    <GrowerName>पोतले अंकुश दत्तोबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <SubVillageCode>1534</SubVillageCode>
+    <SubVillageName>शेल पिंपळगाव (०)</SubVillageName>
+    <serveNo>960</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
