@@ -20159,4 +20159,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160626">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82820</GrowerCode>
+    <GrowerName>चौधरी नारायण पोपट</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1840</VillageCode>
+    <VillageName>पिंपळगाव फडके</VillageName>
+    <SubVillageCode>1816</SubVillageCode>
+    <SubVillageName>पिपंळगाव फडके(४५) मरकळमार्गे</SubVillageName>
+    <serveNo>53</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160628">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82821</GrowerCode>
+    <GrowerName>चौधरी गोविंद पोपट</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1840</VillageCode>
+    <VillageName>पिंपळगाव फडके</VillageName>
+    <SubVillageCode>1816</SubVillageCode>
+    <SubVillageName>पिपंळगाव फडके(४५) मरकळमार्गे</SubVillageName>
+    <serveNo>57</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160629">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82822</GrowerCode>
+    <GrowerName>दिघे संतोष ज्ञानेश्वर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1861</VillageCode>
+    <VillageName>निरगुडी</VillageName>
+    <SubVillageCode>1862</SubVillageCode>
+    <SubVillageName>निरगुडी(०)</SubVillageName>
+    <serveNo>612</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
