@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="12202">
-      <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
-      <VehicleNo>MH-16-F-7266</VehicleNo>
-      <TrollyNoA>T-12202-1</TrollyNoA>
-      <TrollyNoB>T-12202-2</TrollyNoB>
+    <ContractorCode Code="82840">
+      <ContractorName>गुंड नारायण महादेव</ContractorName>
+      <VehicleNo>MH-42-AS-7814</VehicleNo>
+      <TrollyNoA>T82840-1</TrollyNoA>
+      <TrollyNoB>T82840-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="13058">
       <ContractorName>थोरात महादेव भगवान</ContractorName>
@@ -1405,12 +1405,14 @@
       <TrollyNoA>T82763-1</TrollyNoA>
       <TrollyNoB>T82763-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="12202">
+      <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
+      <VehicleNo>MH-16-F-7266</VehicleNo>
+      <TrollyNoA>T-12202-1</TrollyNoA>
+      <TrollyNoB>T-12202-2</TrollyNoB>
+    </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
-    <ContractorCode Code="68438">
-      <ContractorName>भंडारी रविंद्र सूर्यकांत</ContractorName>
-      <VehicleNo>MH-04-H-6988</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="68506">
       <ContractorName>कोळपे भाऊसो लक्ष्मण</ContractorName>
       <VehicleNo>MH-12-GN-8192</VehicleNo>
@@ -1439,14 +1441,12 @@
       <ContractorName>रफिक मदुमिया मोमीन</ContractorName>
       <VehicleNo>MH-12-FC-8134</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="68438">
+      <ContractorName>भंडारी रविंद्र सूर्यकांत</ContractorName>
+      <VehicleNo>MH-04-H-6988</VehicleNo>
+    </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
-    <ContractorCode Code="57714">
-      <ContractorName>ताकवले गोरख शामराव</ContractorName>
-      <VehicleNo>MH-42-Q-2470</VehicleNo>
-      <TrollyNoA>TH-57714-1</TrollyNoA>
-      <TrollyNoB>TH-57714-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="62322">
       <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली.</ContractorName>
       <VehicleNo>NEW</VehicleNo>
@@ -1566,6 +1566,12 @@
       <VehicleNo>MH-42-AX-2139</VehicleNo>
       <TrollyNoA>TH-82637-1</TrollyNoA>
       <TrollyNoB>TH-82637-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="57714">
+      <ContractorName>ताकवले गोरख शामराव</ContractorName>
+      <VehicleNo>MH-42-Q-2470</VehicleNo>
+      <TrollyNoA>TH-57714-1</TrollyNoA>
+      <TrollyNoB>TH-57714-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
