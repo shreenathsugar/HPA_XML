@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="12202">
-      <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
-      <VehicleNo>MH-16-F-7266</VehicleNo>
-      <TrollyNoA>T-12202-1</TrollyNoA>
-      <TrollyNoB>T-12202-2</TrollyNoB>
+    <ContractorCode Code="82319">
+      <ContractorName>राठोड जी.पी</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T-82319-1</TrollyNoA>
+      <TrollyNoB>T-82319-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12350">
       <ContractorName>शेंडगे बिरदेव मारुती</ContractorName>
@@ -1201,11 +1201,11 @@
       <TrollyNoA>T-82318-1</TrollyNoA>
       <TrollyNoB>T-82318-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="82319">
-      <ContractorName>राठोड जी.पी</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T-82319-1</TrollyNoA>
-      <TrollyNoB>T-82319-2</TrollyNoB>
+    <ContractorCode Code="12202">
+      <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
+      <VehicleNo>MH-16-F-7266</VehicleNo>
+      <TrollyNoA>T-12202-1</TrollyNoA>
+      <TrollyNoB>T-12202-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82320">
       <ContractorName>गवळी धनंजय बबन</ContractorName>
@@ -1453,17 +1453,93 @@
       <ContractorName>निकुंभ शिवदास पोपट</ContractorName>
       <VehicleNo>MH-12-0842</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="82365">
+      <ContractorName>शेंडगे अशोक बाळासाहेब</ContractorName>
+      <VehicleNo>MH-04-DB-7316</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="82738">
       <ContractorName>रफिक मदुमिया मोमीन</ContractorName>
       <VehicleNo>MH-12-FC-8134</VehicleNo>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
+    <ContractorCode Code="79350">
+      <ContractorName>थोरात रमेश भाऊसाहेब</ContractorName>
+      <VehicleNo>MH-42-Y-5605</VehicleNo>
+      <TrollyNoA>TH-79350-1</TrollyNoA>
+      <TrollyNoB>TH-79350-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79352">
+      <ContractorName>थोरात सचिन रोहिदास</ContractorName>
+      <VehicleNo>MH-42-Q-454</VehicleNo>
+      <TrollyNoA>TH-79352-1</TrollyNoA>
+      <TrollyNoB>TH-79352-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79353">
+      <ContractorName>शेलार अक्षय शरद</ContractorName>
+      <VehicleNo>MH-42-AX-1199</VehicleNo>
+      <TrollyNoA>TH-79353-1</TrollyNoA>
+      <TrollyNoB>TH-79353-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79354">
+      <ContractorName>शेलार शरद विठ्ठल</ContractorName>
+      <VehicleNo>MH-42-Q-4199</VehicleNo>
+      <TrollyNoA>TH-79354-1</TrollyNoA>
+      <TrollyNoB>TH-79354-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79355">
+      <ContractorName>शेलार शुभम शरद</ContractorName>
+      <VehicleNo>MH 42 AX 1299</VehicleNo>
+      <TrollyNoA>TH-79355-1</TrollyNoA>
+      <TrollyNoB>TH-79355-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79369">
+      <ContractorName>दिवेकर विलास पोपट</ContractorName>
+      <VehicleNo>MH-42-F-2023</VehicleNo>
+      <TrollyNoA>TH-79369-1</TrollyNoA>
+      <TrollyNoB>TH-79369-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="57714">
       <ContractorName>ताकवले गोरख शामराव</ContractorName>
       <VehicleNo>MH-42-Q-2470</VehicleNo>
       <TrollyNoA>TH-57714-1</TrollyNoA>
       <TrollyNoB>TH-57714-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79372">
+      <ContractorName>दिवेकर गुलाब विनायक</ContractorName>
+      <VehicleNo>MH-42-Y-5866</VehicleNo>
+      <TrollyNoA>TH-79372-1</TrollyNoA>
+      <TrollyNoB>TH-79372-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79879">
+      <ContractorName>टुले काळूराम लक्ष्मण</ContractorName>
+      <VehicleNo>MH-12-F-4034</VehicleNo>
+      <TrollyNoA>TH-79879-1</TrollyNoA>
+      <TrollyNoB>TH-79879-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79880">
+      <ContractorName>शेलार नारायण दत्तोबा</ContractorName>
+      <VehicleNo>MH-42-Y-0590</VehicleNo>
+      <TrollyNoA>TH-79880-1</TrollyNoA>
+      <TrollyNoB>TH-79880-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79919">
+      <ContractorName>पवार ज्ञानेश्वर रविंद्र</ContractorName>
+      <VehicleNo>MH-42-Q-2913</VehicleNo>
+      <TrollyNoA>TH-79919-1</TrollyNoA>
+      <TrollyNoB>TH-79919-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="82637">
+      <ContractorName>शेलार निलेश विलास</ContractorName>
+      <VehicleNo>MH-42-AX-2139</VehicleNo>
+      <TrollyNoA>TH-82637-1</TrollyNoA>
+      <TrollyNoB>TH-82637-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79370">
+      <ContractorName>दिवेकर राजाराम दत्तात्रय</ContractorName>
+      <VehicleNo>MH-42-M-541</VehicleNo>
+      <TrollyNoA>TH-79370-1</TrollyNoA>
+      <TrollyNoB>TH-79370-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="62322">
       <ContractorName>Tag-श्रीनाथ म्हस्कोबा साखर कारखाना ली.</ContractorName>
@@ -1512,78 +1588,6 @@
       <VehicleNo>MH-42-AS-3674</VehicleNo>
       <TrollyNoA>TH-79349-1</TrollyNoA>
       <TrollyNoB>TH-79349-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79350">
-      <ContractorName>थोरात रमेश भाऊसाहेब</ContractorName>
-      <VehicleNo>MH-42-Y-5605</VehicleNo>
-      <TrollyNoA>TH-79350-1</TrollyNoA>
-      <TrollyNoB>TH-79350-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79352">
-      <ContractorName>थोरात सचिन रोहिदास</ContractorName>
-      <VehicleNo>MH-42-Q-454</VehicleNo>
-      <TrollyNoA>TH-79352-1</TrollyNoA>
-      <TrollyNoB>TH-79352-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79353">
-      <ContractorName>शेलार अक्षय शरद</ContractorName>
-      <VehicleNo>MH-42-AX-1199</VehicleNo>
-      <TrollyNoA>TH-79353-1</TrollyNoA>
-      <TrollyNoB>TH-79353-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79354">
-      <ContractorName>शेलार शरद विठ्ठल</ContractorName>
-      <VehicleNo>MH-42-Q-4199</VehicleNo>
-      <TrollyNoA>TH-79354-1</TrollyNoA>
-      <TrollyNoB>TH-79354-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79355">
-      <ContractorName>शेलार शुभम शरद</ContractorName>
-      <VehicleNo>MH 42 AX 1299</VehicleNo>
-      <TrollyNoA>TH-79355-1</TrollyNoA>
-      <TrollyNoB>TH-79355-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79369">
-      <ContractorName>दिवेकर विलास पोपट</ContractorName>
-      <VehicleNo>MH-42-F-2023</VehicleNo>
-      <TrollyNoA>TH-79369-1</TrollyNoA>
-      <TrollyNoB>TH-79369-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79370">
-      <ContractorName>दिवेकर राजाराम दत्तात्रय</ContractorName>
-      <VehicleNo>MH-42-M-541</VehicleNo>
-      <TrollyNoA>TH-79370-1</TrollyNoA>
-      <TrollyNoB>TH-79370-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79372">
-      <ContractorName>दिवेकर गुलाब विनायक</ContractorName>
-      <VehicleNo>MH-42-Y-5866</VehicleNo>
-      <TrollyNoA>TH-79372-1</TrollyNoA>
-      <TrollyNoB>TH-79372-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79879">
-      <ContractorName>टुले काळूराम लक्ष्मण</ContractorName>
-      <VehicleNo>MH-12-F-4034</VehicleNo>
-      <TrollyNoA>TH-79879-1</TrollyNoA>
-      <TrollyNoB>TH-79879-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79880">
-      <ContractorName>शेलार नारायण दत्तोबा</ContractorName>
-      <VehicleNo>MH-42-Y-0590</VehicleNo>
-      <TrollyNoA>TH-79880-1</TrollyNoA>
-      <TrollyNoB>TH-79880-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="79919">
-      <ContractorName>पवार ज्ञानेश्वर रविंद्र</ContractorName>
-      <VehicleNo>MH-42-Q-2913</VehicleNo>
-      <TrollyNoA>TH-79919-1</TrollyNoA>
-      <TrollyNoB>TH-79919-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="82637">
-      <ContractorName>शेलार निलेश विलास</ContractorName>
-      <VehicleNo>MH-42-AX-2139</VehicleNo>
-      <TrollyNoA>TH-82637-1</TrollyNoA>
-      <TrollyNoB>TH-82637-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
