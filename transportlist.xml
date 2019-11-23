@@ -1033,6 +1033,12 @@
       <TrollyNoA>T-75135-1</TrollyNoA>
       <TrollyNoB>T-75135-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="75416">
+      <ContractorName>गायकवाड धनेश चांगदेव</ContractorName>
+      <VehicleNo>MH-16-F-3474</VehicleNo>
+      <TrollyNoA>T75416-1</TrollyNoA>
+      <TrollyNoB>T75416-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="76042">
       <ContractorName>पाटील नथू झिप्रू</ContractorName>
       <VehicleNo>MH-19-AL-4559</VehicleNo>
@@ -1425,6 +1431,10 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
+    <ContractorCode Code="68438">
+      <ContractorName>भंडारी रविंद्र सूर्यकांत</ContractorName>
+      <VehicleNo>MH-04-H-6988</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="68464">
       <ContractorName>घुगे भारत वाल्मीक</ContractorName>
       <VehicleNo>MH-15-1806</VehicleNo>
@@ -1437,9 +1447,9 @@
       <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव</ContractorName>
       <VehicleNo>MH-19-J-3702</VehicleNo>
     </ContractorCode>
-    <ContractorCode Code="68438">
-      <ContractorName>भंडारी रविंद्र सूर्यकांत</ContractorName>
-      <VehicleNo>MH-04-H-6988</VehicleNo>
+    <ContractorCode Code="82738">
+      <ContractorName>रफिक मदुमिया मोमीन</ContractorName>
+      <VehicleNo>MH-12-FC-8134</VehicleNo>
     </ContractorCode>
     <ContractorCode Code="74416">
       <ContractorName>शेरेकर सागर दिलीप</ContractorName>
@@ -1460,10 +1470,6 @@
     <ContractorCode Code="82365">
       <ContractorName>शेंडगे अशोक बाळासाहेब</ContractorName>
       <VehicleNo>MH-04-DB-7316</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="82738">
-      <ContractorName>रफिक मदुमिया मोमीन</ContractorName>
-      <VehicleNo>MH-12-FC-8134</VehicleNo>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
