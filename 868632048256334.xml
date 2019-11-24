@@ -13794,4 +13794,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160763">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80091</GrowerCode>
+    <GrowerName>कड ज्योती चंद्रकांत</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>109</VillageCode>
+    <VillageName>खुटबाव</VillageName>
+    <SubVillageCode>302</SubVillageCode>
+    <SubVillageName>खुटबाव(पिंपळगाव मार्गे])(१९)</SubVillageName>
+    <serveNo>577</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160765">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>12774</GrowerCode>
+    <GrowerName>थोरात लक्ष्मण खंडु</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>109</VillageCode>
+    <VillageName>खुटबाव</VillageName>
+    <SubVillageCode>302</SubVillageCode>
+    <SubVillageName>खुटबाव(पिंपळगाव मार्गे])(१९)</SubVillageName>
+    <serveNo>477</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
