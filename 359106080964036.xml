@@ -13870,4 +13870,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160792">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82914</GrowerCode>
+    <GrowerName>थोरात प्रातिभा योगेश</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>139</VillageCode>
+    <VillageName>भांडगाव</VillageName>
+    <SubVillageCode>361</SubVillageCode>
+    <SubVillageName>भांडगाव(२५)</SubVillageName>
+    <serveNo>35</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
