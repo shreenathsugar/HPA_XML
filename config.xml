@@ -42,12 +42,6 @@
     <rstart>1698301</rstart>
     <rend>1701300</rend>
   </imeicode>
-  <imeicode imei="353508073110772">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/353508073110772.xml</url>
-    <version>1</version>
-    <rstart>1789101</rstart>
-    <rend>1792100</rend>
-  </imeicode>
   <imeicode imei="865570034116976">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/865570034116976.xml</url>
     <version>1</version>
@@ -65,6 +59,24 @@
     <version>1</version>
     <rstart>1718801</rstart>
     <rend>1720800</rend>
+  </imeicode>
+  <imeicode imei="353508073110772">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/353508073110772.xml</url>
+    <version>1</version>
+    <rstart>1789101</rstart>
+    <rend>1792100</rend>
+  </imeicode>
+  <imeicode imei="352719095588884">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/352719095588884.xml</url>
+    <version>1</version>
+    <rstart>1804102</rstart>
+    <rend>1807600</rend>
+  </imeicode>
+  <imeicode imei="866257037421947">
+    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/866257037421947.xml</url>
+    <version>1</version>
+    <rstart>1807601</rstart>
+    <rend>1811100</rend>
   </imeicode>
   <imeicode imei="351595110887530">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/351595110887530.xml</url>
@@ -156,12 +168,6 @@
     <rstart>1688301</rstart>
     <rend>1692300</rend>
   </imeicode>
-  <imeicode imei="866257037421947">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/866257037421947.xml</url>
-    <version>1</version>
-    <rstart>1807601</rstart>
-    <rend>1811100</rend>
-  </imeicode>
   <imeicode imei="352801081838257">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/352801081838257.xml</url>
     <version>1</version>
@@ -227,12 +233,6 @@
     <version>1</version>
     <rstart>1742601</rstart>
     <rend>1748600</rend>
-  </imeicode>
-  <imeicode imei="352719095588884">
-    <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/352719095588884.xml</url>
-    <version>1</version>
-    <rstart>1804102</rstart>
-    <rend>1807600</rend>
   </imeicode>
   <imeicode imei="869571049665896">
     <url>https://raw.githubusercontent.com/shreenathsugar/HPA_XML/master/869571049665896.xml</url>
