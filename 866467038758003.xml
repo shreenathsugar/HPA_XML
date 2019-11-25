@@ -78242,4 +78242,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160813">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79996</GrowerCode>
+    <GrowerName>झुरुंगे नर्मदा परसराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>273</SubVillageCode>
+    <SubVillageName>पाटेठाण(२)</SubVillageName>
+    <serveNo>231</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160814">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80112</GrowerCode>
+    <GrowerName>घिगे मंगेश बाळासो</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>80</VillageCode>
+    <VillageName>पाटेठाण</VillageName>
+    <SubVillageCode>273</SubVillageCode>
+    <SubVillageName>पाटेठाण(२)</SubVillageName>
+    <serveNo>5</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160815">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11407</GrowerCode>
+    <GrowerName>ख़ेडेकर जालिंदर परशराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>टेळेवाडी</VillageName>
+    <SubVillageCode>1602</SubVillageCode>
+    <SubVillageName>टेळेवाडीपाठार(१५)कोरेगाव घाटमार्गे</SubVillageName>
+    <serveNo>432</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
