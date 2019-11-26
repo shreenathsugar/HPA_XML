@@ -19076,4 +19076,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160857">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69920</GrowerCode>
+    <GrowerName>काळे संजय राजाराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>88</VillageCode>
+    <VillageName>कोरेगाव भिवर</VillageName>
+    <SubVillageCode>281</SubVillageCode>
+    <SubVillageName>कोरेगाव भिवर (१५)(बै)</SubVillageName>
+    <serveNo>215</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160855">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67583</GrowerCode>
+    <GrowerName>शेख जयमून अल्लउद्दीन</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>519</SubVillageCode>
+    <SubVillageName>पिराची वाडी(१७)राहूमार्गे]</SubVillageName>
+    <serveNo>65</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
