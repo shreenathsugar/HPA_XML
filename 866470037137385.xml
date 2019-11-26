@@ -78698,4 +78698,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160830">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>49026</GrowerCode>
+    <GrowerName>शिवले भिवाजी जिजाबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>128</VillageCode>
+    <VillageName>तुळापुर</VillageName>
+    <SubVillageCode>333</SubVillageCode>
+    <SubVillageName>तुळापुर(३९)आळंदी फाटा मार्गे]</SubVillageName>
+    <serveNo>33</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160831">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37129</GrowerCode>
+    <GrowerName>गोते सुदाम रामचंद्र</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>175</VillageCode>
+    <VillageName>बिवरी</VillageName>
+    <SubVillageCode>615</SubVillageCode>
+    <SubVillageName>बिवरी(अष्टापूरमार्गे])(२९)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160832">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69275</GrowerCode>
+    <GrowerName>भन्साळी निलेश देवदास एच,यू एफ</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>172</VillageCode>
+    <VillageName>कोरेगाव मूळ</VillageName>
+    <SubVillageCode>608</SubVillageCode>
+    <SubVillageName>कोरेगाव मूळ(२६)भवरापूरमार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="151906">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69497</GrowerCode>
+    <GrowerName>अल्हाट गणेश सर्जेराव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>566</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
