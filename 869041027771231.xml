@@ -7885,4 +7885,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160837">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82933</GrowerCode>
+    <GrowerName>खांदवे मारुती भिकु</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1840</VillageCode>
+    <VillageName>पिंपळगाव फडके</VillageName>
+    <SubVillageCode>1816</SubVillageCode>
+    <SubVillageName>पिपंळगाव फडके(४५) मरकळमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
