@@ -79819,4 +79819,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160894">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23995</GrowerCode>
+    <GrowerName>जगताप उत्तम मारूतराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1878</SubVillageCode>
+    <SubVillageName>गुरवमळा(२२) विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>1581</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160895">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16882</GrowerCode>
+    <GrowerName>भुजबळ किशोर मारुती</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1782</SubVillageCode>
+    <SubVillageName>गुरवमळा(१८)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>1681</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
