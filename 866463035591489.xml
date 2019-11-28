@@ -11362,4 +11362,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160906">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41271</GrowerCode>
+    <GrowerName>दोरगे राहुल संपत</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <SubVillageCode>1825</SubVillageCode>
+    <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+    <serveNo>113</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160905">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41275</GrowerCode>
+    <GrowerName>दोरगे संदिप भुजंग</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <SubVillageCode>1825</SubVillageCode>
+    <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+    <serveNo>116</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160904">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41269</GrowerCode>
+    <GrowerName>दोरगे रोहीत संपत</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <SubVillageCode>1825</SubVillageCode>
+    <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+    <serveNo>115</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
