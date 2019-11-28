@@ -80218,4 +80218,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160914">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>70509</GrowerCode>
+    <GrowerName>टेमगिरे ललिता शिवाजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>37</VillageCode>
+    <VillageName>पारोडी</VillageName>
+    <SubVillageCode>1774</SubVillageCode>
+    <SubVillageName>पारोडी(33)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>818</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160910">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79895</GrowerCode>
+    <GrowerName>थेऊरकर रोहीत राजु</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1777</SubVillageCode>
+    <SubVillageName>पाचर्णेवस्ती(२४)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>82</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
