@@ -6099,4 +6099,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="160976">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37995</GrowerCode>
+    <GrowerName>कदम सुवर्णा राजेंद्र</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>58</VillageCode>
+    <VillageName>जातेगाव ब्रु</VillageName>
+    <SubVillageCode>1747</SubVillageCode>
+    <SubVillageName>जातेगाव बु (२८) (विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>395</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="160978">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>66074</GrowerCode>
+    <GrowerName>बांदल प्रतापराव विठ्ठलराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1833</SubVillageCode>
+    <SubVillageName>शिक्रापूर(२०)(टायर.ट्रॅ.गाडी)(विठ्ठलवाडी मार्गे)</SubVillageName>
+    <serveNo>1006</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
