@@ -21413,4 +21413,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161004">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80763</GrowerCode>
+    <GrowerName>खांदवे विशाल रामदास</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1530</VillageCode>
+    <VillageName>गोलेगाव</VillageName>
+    <SubVillageCode>1815</SubVillageCode>
+    <SubVillageName>गोलेगाव(४७) आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>354</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161001">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>71134</GrowerCode>
+    <GrowerName>गव्हाणे सर्जेराव रावसाहेब</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <SubVillageCode>1814</SubVillageCode>
+    <SubVillageName>वडगाव शिंदे (४७)आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161002">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57056</GrowerCode>
+    <GrowerName>गव्हाणे आशा दशरथ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <SubVillageCode>1814</SubVillageCode>
+    <SubVillageName>वडगाव शिंदे (४७)आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161003">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60422</GrowerCode>
+    <GrowerName>शिंदे नवनाथ नामदेव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>78</VillageCode>
+    <VillageName>वडगाव शिंदे</VillageName>
+    <SubVillageCode>1814</SubVillageCode>
+    <SubVillageName>वडगाव शिंदे (४७)आळंदीखिंडीमार्गे</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
