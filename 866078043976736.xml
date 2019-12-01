@@ -83353,4 +83353,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161099">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75956</GrowerCode>
+    <GrowerName>भुजबळ अशोक ज्ञानोबा</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>1244</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
