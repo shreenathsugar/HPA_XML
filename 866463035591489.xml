@@ -11628,4 +11628,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161146">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83088</GrowerCode>
+    <GrowerName>कुदळे दिनकर सिदू</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>167</VillageCode>
+    <VillageName>बोरीऐंदी</VillageName>
+    <SubVillageCode>1648</SubVillageCode>
+    <SubVillageName>बोरीऐंदी(३२)</SubVillageName>
+    <serveNo>770</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161147">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83078</GrowerCode>
+    <GrowerName>कुदळे संतोष दिनकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>167</VillageCode>
+    <VillageName>बोरीऐंदी</VillageName>
+    <SubVillageCode>1648</SubVillageCode>
+    <SubVillageName>बोरीऐंदी(३२)</SubVillageName>
+    <serveNo>770</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161140">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60964</GrowerCode>
+    <GrowerName>म्हेत्रे निलेश अर्जुन</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>184</VillageCode>
+    <VillageName>बोरीभडक</VillageName>
+    <SubVillageCode>1650</SubVillageCode>
+    <SubVillageName>बोरीभडक(३०)</SubVillageName>
+    <serveNo>71</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
