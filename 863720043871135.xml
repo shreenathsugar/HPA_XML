@@ -9918,4 +9918,99 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="156417">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>69728</GrowerCode>
+    <GrowerName>भोसले छाया पिराजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>36</VillageCode>
+    <VillageName>शिवतक्रर म्हाळुंगी</VillageName>
+    <SubVillageCode>1773</SubVillageCode>
+    <SubVillageName>शिवतक्रर म्हाळुंगी(३०)(विठ्ठलवाडीमार्गे)</SubVillageName>
+    <serveNo>17</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161148">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>77462</GrowerCode>
+    <GrowerName>कोल्हे महादेव किसन</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1788</SubVillageCode>
+    <SubVillageName>केवटेमळा(१३)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2841</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161149">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83065</GrowerCode>
+    <GrowerName>काळे विलास सदाशिव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1789</SubVillageCode>
+    <SubVillageName>माथेमळी(१२)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>4158</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161165">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>11072</GrowerCode>
+    <GrowerName>नर्के बबन महादेव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1876</SubVillageCode>
+    <SubVillageName>रामवाडी(२२)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2281</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161168">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>17338</GrowerCode>
+    <GrowerName>शिंदे नामदेव रामभाऊ</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1783</SubVillageCode>
+    <SubVillageName>शिंदेवस्ती(१६)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>1878</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
