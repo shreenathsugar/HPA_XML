@@ -22192,4 +22192,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161151">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25723</GrowerCode>
+    <GrowerName>पायगुडे मोहन पंढरीनाथ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>312</SubVillageCode>
+    <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
+    <serveNo>84</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161152">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>68287</GrowerCode>
+    <GrowerName>पायगुडे बाळासाहेब पंढरीनाथ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>312</SubVillageCode>
+    <SubVillageName>वाळकी संगम (१९)राहूमार्गे]</SubVillageName>
+    <serveNo>84/1</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
