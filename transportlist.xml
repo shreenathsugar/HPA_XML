@@ -1,23 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="83069">
-      <ContractorName>नवले मोहन गोविंद</ContractorName>
-      <VehicleNo>MH-42-Y-5868</VehicleNo>
-      <TrollyNoA>T-83069-1</TrollyNoA>
-      <TrollyNoB>T-83069-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="82312">
-      <ContractorName>पवार आबासो गेनबा</ContractorName>
-      <VehicleNo>MH-42-Q-1494</VehicleNo>
-      <TrollyNoA>T-82312-1</TrollyNoA>
-      <TrollyNoB>T-82312-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="82313">
-      <ContractorName>पवार बापु आनंदराव</ContractorName>
-      <VehicleNo>MH-42-Y-5085</VehicleNo>
-      <TrollyNoA>T-82313-1</TrollyNoA>
-      <TrollyNoB>T-82313-2</TrollyNoB>
+    <ContractorCode Code="83113">
+      <ContractorName>गायकवाड अतुल अशोक</ContractorName>
+      <VehicleNo>MH-12-JL-9405</VehicleNo>
+      <TrollyNoA>T83113-1</TrollyNoA>
+      <TrollyNoB>T83113-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82314">
       <ContractorName>पवार एस.ए</ContractorName>
@@ -288,6 +276,18 @@
       <VehicleNo>MH-42-AX-4523</VehicleNo>
       <TrollyNoA>T83056-1</TrollyNoA>
       <TrollyNoB>T83056-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="83069">
+      <ContractorName>नवले मोहन गोविंद</ContractorName>
+      <VehicleNo>MH-42-Y-5868</VehicleNo>
+      <TrollyNoA>T-83069-1</TrollyNoA>
+      <TrollyNoB>T-83069-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="75958">
+      <ContractorName>भोसले अजिंक्य प्रकाश</ContractorName>
+      <VehicleNo>MH-42-Y-5880</VehicleNo>
+      <TrollyNoA>T-75958-1</TrollyNoA>
+      <TrollyNoB>T-75958-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
@@ -1453,6 +1453,18 @@
       <TrollyNoA>T-82310-1</TrollyNoA>
       <TrollyNoB>T-82310-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="82312">
+      <ContractorName>पवार आबासो गेनबा</ContractorName>
+      <VehicleNo>MH-42-Q-1494</VehicleNo>
+      <TrollyNoA>T-82312-1</TrollyNoA>
+      <TrollyNoB>T-82312-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="82313">
+      <ContractorName>पवार बापु आनंदराव</ContractorName>
+      <VehicleNo>MH-42-Y-5085</VehicleNo>
+      <TrollyNoA>T-82313-1</TrollyNoA>
+      <TrollyNoB>T-82313-2</TrollyNoB>
+    </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
     <ContractorCode Code="79462">
@@ -1635,12 +1647,6 @@
       <TrollyNoA>TH-83038-1</TrollyNoA>
       <TrollyNoB>TH-83038-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="83048">
-      <ContractorName>झुगे बाळासाहेब सोन्याबापू</ContractorName>
-      <VehicleNo>MH-17-F-8122</VehicleNo>
-      <TrollyNoA>TH-83048-1</TrollyNoA>
-      <TrollyNoB>TH-83048-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="83049">
       <ContractorName>चोथे बाबासाहेब खेमा</ContractorName>
       <VehicleNo>MH-17-AE-8475</VehicleNo>
@@ -1664,6 +1670,12 @@
       <VehicleNo>MH-24-7842</VehicleNo>
       <TrollyNoA>TH-83044-1</TrollyNoA>
       <TrollyNoB>TH-83044-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="83048">
+      <ContractorName>झुगे बाळासाहेब सोन्याबापू</ContractorName>
+      <VehicleNo>MH-17-F-8122</VehicleNo>
+      <TrollyNoA>TH-83048-1</TrollyNoA>
+      <TrollyNoB>TH-83048-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="57714">
       <ContractorName>ताकवले गोरख शामराव</ContractorName>
