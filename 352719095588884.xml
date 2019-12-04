@@ -10051,4 +10051,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161194">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83111</GrowerCode>
+    <GrowerName>झगडे बेबी नारायण</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>25</VillageCode>
+    <VillageName>धानोरे</VillageName>
+    <SubVillageCode>1765</SubVillageCode>
+    <SubVillageName>धानोरे(२१)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>403</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161195">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16568</GrowerCode>
+    <GrowerName>झगडे अरुण पार्वती</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>26</VillageCode>
+    <VillageName>दरेकरवाडी</VillageName>
+    <SubVillageCode>1767</SubVillageCode>
+    <SubVillageName>दरेकरवाडी(२४)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>428</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
