@@ -16017,4 +16017,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161219">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>65700</GrowerCode>
+    <GrowerName>भापकर हनुमंत बबन</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>115</VillageCode>
+    <VillageName>कडेठाण</VillageName>
+    <SubVillageCode>308</SubVillageCode>
+    <SubVillageName>कडेठाण(पिंपळगाव मार्गे])(३२)</SubVillageName>
+    <serveNo>742</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161218">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83122</GrowerCode>
+    <GrowerName>जगताप योगेश विठ्ठल</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>105</VillageCode>
+    <VillageName>पारगाव</VillageName>
+    <SubVillageCode>1639</SubVillageCode>
+    <SubVillageName>पारगाव(२१)देलवडीमार्गे</SubVillageName>
+    <serveNo>1400</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
