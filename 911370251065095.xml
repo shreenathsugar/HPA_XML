@@ -85671,4 +85671,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161204">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>15361</GrowerCode>
+    <GrowerName>तोडकर समीर सुभाष</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1833</SubVillageCode>
+    <SubVillageName>शिक्रापूर(२०)(टायर.ट्रॅ.गाडी)(विठ्ठलवाडी मार्गे)</SubVillageName>
+    <serveNo>2145</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161205">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>4387</GrowerCode>
+    <GrowerName>भुजबळ बाळासाहेब हरिभाऊ</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1833</SubVillageCode>
+    <SubVillageName>शिक्रापूर(२०)(टायर.ट्रॅ.गाडी)(विठ्ठलवाडी मार्गे)</SubVillageName>
+    <serveNo>1072</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
