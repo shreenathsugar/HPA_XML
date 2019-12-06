@@ -187,11 +187,11 @@
     <ContractorCode Code="83085">
       <ContractorName>भोसले अजिंक्य प्रकाश</ContractorName>
     </ContractorCode>
+    <ContractorCode Code="83158">
+      <ContractorName>19-20 कोंडे बापु म्हस्कु ( आडे विजु नामदेव )</ContractorName>
+    </ContractorCode>
   </harvestorType>
   <harvestorType type="Gadi">
-    <ContractorCode Code="82471">
-      <ContractorName>शिंदे सचिन परशराम(राठोड राजेंद्र मल्लु)</ContractorName>
-    </ContractorCode>
     <ContractorCode Code="82472">
       <ContractorName>शिंदे तान्हाजी नामदेव(पाटील शादिक साहेबराव)</ContractorName>
     </ContractorCode>
@@ -378,8 +378,8 @@
     <ContractorCode Code="82549">
       <ContractorName>पवार विकास तुकाराम(वारे कडुबा किसन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="82550">
-      <ContractorName>पवार शरद आनंदराव(जाधव अशोक रामराव)</ContractorName>
+    <ContractorCode Code="79114">
+      <ContractorName>चव्हाण सागर लक्ष्मण(राठोड विजय कुर्‍हा)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82551">
       <ContractorName>ढमे सुखदेव विठ्ठल(मोरे निंबा हिरामण)</ContractorName>
@@ -513,8 +513,8 @@
     <ContractorCode Code="82612">
       <ContractorName>थोरात नंदकुमार दत्तोबा(चव्हाण वासुदेव जगन)</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="79114">
-      <ContractorName>चव्हाण सागर लक्ष्मण(राठोड विजय कुर्‍हा)</ContractorName>
+    <ContractorCode Code="82613">
+      <ContractorName>थोरात राजकुमार जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82614">
       <ContractorName>थोरात राजेश बाजीराव(धनगर नथु किसन)</ContractorName>
@@ -573,8 +573,8 @@
     <ContractorCode Code="83010">
       <ContractorName>पवार योगेश अशोक</ContractorName>
     </ContractorCode>
-    <ContractorCode Code="82613">
-      <ContractorName>थोरात राजकुमार जनार्धन(राठोड अनिल तुळशिराम)</ContractorName>
+    <ContractorCode Code="82550">
+      <ContractorName>पवार शरद आनंदराव(जाधव अशोक रामराव)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82388">
       <ContractorName>आवाळे नंदु उत्तम(निकुंभ शिवदास पोपट)</ContractorName>
@@ -655,7 +655,7 @@
       <ContractorName>दगडे भागोजी मुकींदा(मोरे निंबा हिरामण)</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82421">
-      <ContractorName>डुबे एम.एल(चव्हाण जोहरसिंग धर्मा)</ContractorName>
+      <ContractorName>डुबे एम.एल(चव्हाण योगेश जोहरसिंग )</ContractorName>
     </ContractorCode>
     <ContractorCode Code="82422">
       <ContractorName>डुबे दिपक दादा(राठोड प्रकाश रेवा)</ContractorName>
@@ -758,6 +758,9 @@
     </ContractorCode>
     <ContractorCode Code="82470">
       <ContractorName>शिंदे नवनाथ मारुती(पाटील भिमराव सिताराम)</ContractorName>
+    </ContractorCode>
+    <ContractorCode Code="82471">
+      <ContractorName>शिंदे सचिन परशराम(राठोड राजेंद्र मल्लु)</ContractorName>
     </ContractorCode>
   </harvestorType>
 </ContractorDetails>
