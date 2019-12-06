@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="79649">
-      <ContractorName>ताकवणे धर्मराज रामचंद्र</ContractorName>
-      <VehicleNo>MH-10-BX-1065</VehicleNo>
-      <TrollyNoA>T-79649-1</TrollyNoA>
-      <TrollyNoB>T-79649-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="82314">
-      <ContractorName>पवार एस.ए</ContractorName>
-      <VehicleNo>MH-42-AS-8179</VehicleNo>
-      <TrollyNoA>T-82314-1</TrollyNoA>
-      <TrollyNoB>T-82314-2</TrollyNoB>
+    <ContractorCode Code="68456">
+      <ContractorName>डुबे मालोजी लक्ष्मण</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T-68456-1</TrollyNoA>
+      <TrollyNoB>T-68456-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82315">
       <ContractorName>पवार गणपत गिरजाप्पा</ContractorName>
@@ -295,6 +289,12 @@
       <TrollyNoA>T83113-1</TrollyNoA>
       <TrollyNoB>T83113-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="68507">
+      <ContractorName>19-20 कोंडे बापु म्हस्कु</ContractorName>
+      <VehicleNo>MH-42-Q-1573</VehicleNo>
+      <TrollyNoA>T68507-1</TrollyNoA>
+      <TrollyNoB>T68507-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
       <VehicleNo>MH-16-F-7266</VehicleNo>
@@ -450,12 +450,6 @@
       <VehicleNo>MH-12-QM-1363</VehicleNo>
       <TrollyNoA>T-68454-1</TrollyNoA>
       <TrollyNoB>T-68454-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="68456">
-      <ContractorName>डुबे मालोजी लक्ष्मण</ContractorName>
-      <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T-68456-1</TrollyNoA>
-      <TrollyNoB>T-68456-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="68458">
       <ContractorName>फडके सोमनाथ मल्हारी</ContractorName>
@@ -985,12 +979,6 @@
       <TrollyNoA>T-74371-1</TrollyNoA>
       <TrollyNoB>T-74371-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="74372">
-      <ContractorName>डुबे एम.एल</ContractorName>
-      <VehicleNo>MH-45-A-5846</VehicleNo>
-      <TrollyNoA>T-74372-1</TrollyNoA>
-      <TrollyNoB>T-74372-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="74373">
       <ContractorName>डुबे दिपक दादा(5987)</ContractorName>
       <VehicleNo>MH-42-Y-5987</VehicleNo>
@@ -1110,6 +1098,12 @@
       <VehicleNo>MH-42-AS-6891</VehicleNo>
       <TrollyNoA>T-74430-1</TrollyNoA>
       <TrollyNoB>T-74430-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="74372">
+      <ContractorName>डुबे एम.एल</ContractorName>
+      <VehicleNo>MH-45-A-5846</VehicleNo>
+      <TrollyNoA>T-74372-1</TrollyNoA>
+      <TrollyNoB>T-74372-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="74780">
       <ContractorName>तावरे सतिश मुरलीधर</ContractorName>
@@ -1327,6 +1321,12 @@
       <TrollyNoA>T-79522-1</TrollyNoA>
       <TrollyNoB>T-79522-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="79649">
+      <ContractorName>ताकवणे धर्मराज रामचंद्र</ContractorName>
+      <VehicleNo>MH-10-BX-1065</VehicleNo>
+      <TrollyNoA>T-79649-1</TrollyNoA>
+      <TrollyNoB>T-79649-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="79736">
       <ContractorName>थोरात मारुती किसन</ContractorName>
       <VehicleNo>MH-12-JN-2716</VehicleNo>
@@ -1464,6 +1464,12 @@
       <VehicleNo>MH-42-Y-5085</VehicleNo>
       <TrollyNoA>T-82313-1</TrollyNoA>
       <TrollyNoB>T-82313-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="82314">
+      <ContractorName>पवार एस.ए</ContractorName>
+      <VehicleNo>MH-42-AS-8179</VehicleNo>
+      <TrollyNoA>T-82314-1</TrollyNoA>
+      <TrollyNoB>T-82314-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
