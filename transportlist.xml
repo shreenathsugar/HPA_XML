@@ -7,6 +7,12 @@
       <TrollyNoA>T-68456-1</TrollyNoA>
       <TrollyNoB>T-68456-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="82314">
+      <ContractorName>पवार एस.ए</ContractorName>
+      <VehicleNo>MH-42-AS-8179</VehicleNo>
+      <TrollyNoA>T-82314-1</TrollyNoA>
+      <TrollyNoB>T-82314-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="82315">
       <ContractorName>पवार गणपत गिरजाप्पा</ContractorName>
       <VehicleNo>MH-42-Y-6522</VehicleNo>
@@ -1465,30 +1471,8 @@
       <TrollyNoA>T-82313-1</TrollyNoA>
       <TrollyNoB>T-82313-2</TrollyNoB>
     </ContractorCode>
-    <ContractorCode Code="82314">
-      <ContractorName>पवार एस.ए</ContractorName>
-      <VehicleNo>MH-42-AS-8179</VehicleNo>
-      <TrollyNoA>T-82314-1</TrollyNoA>
-      <TrollyNoB>T-82314-2</TrollyNoB>
-    </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
-    <ContractorCode Code="82332">
-      <ContractorName>निकुंभ शिवदास पोपट</ContractorName>
-      <VehicleNo>MH-12-0842</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="82365">
-      <ContractorName>शेंडगे अशोक बाळासाहेब</ContractorName>
-      <VehicleNo>MH-04-DB-7316</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="82738">
-      <ContractorName>रफिक मदुमिया मोमीन</ContractorName>
-      <VehicleNo>MH-12-FC-8134</VehicleNo>
-    </ContractorCode>
-    <ContractorCode Code="68506">
-      <ContractorName>कोळपे भाऊसो लक्ष्मण</ContractorName>
-      <VehicleNo>MH-12-GN-8192</VehicleNo>
-    </ContractorCode>
     <ContractorCode Code="74406">
       <ContractorName>पाचपिल्ले दत्तात्रय सदाशिव</ContractorName>
       <VehicleNo>MH-19-J-3702</VehicleNo>
@@ -1505,6 +1489,26 @@
       <ContractorName>पाचपिल्ले डी.एस</ContractorName>
       <VehicleNo>MH-12-CT-5483</VehicleNo>
     </ContractorCode>
+    <ContractorCode Code="82332">
+      <ContractorName>निकुंभ शिवदास पोपट</ContractorName>
+      <VehicleNo>MH-12-0842</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="82350">
+      <ContractorName>महानुभव एम.ए</ContractorName>
+      <VehicleNo>MH-18-M-8714</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="82365">
+      <ContractorName>शेंडगे अशोक बाळासाहेब</ContractorName>
+      <VehicleNo>MH-04-DB-7316</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="82738">
+      <ContractorName>रफिक मदुमिया मोमीन</ContractorName>
+      <VehicleNo>MH-12-FC-8134</VehicleNo>
+    </ContractorCode>
+    <ContractorCode Code="68506">
+      <ContractorName>कोळपे भाऊसो लक्ष्मण</ContractorName>
+      <VehicleNo>MH-12-GN-8192</VehicleNo>
+    </ContractorCode>
     <ContractorCode Code="68438">
       <ContractorName>भंडारी रविंद्र सूर्यकांत</ContractorName>
       <VehicleNo>MH-04-H-6988</VehicleNo>
@@ -1515,12 +1519,6 @@
     </ContractorCode>
   </VechicleType>
   <VechicleType type="TractorHarvestor">
-    <ContractorCode Code="79350">
-      <ContractorName>थोरात रमेश भाऊसाहेब</ContractorName>
-      <VehicleNo>MH-42-Y-5605</VehicleNo>
-      <TrollyNoA>TH-79350-1</TrollyNoA>
-      <TrollyNoB>TH-79350-2</TrollyNoB>
-    </ContractorCode>
     <ContractorCode Code="79352">
       <ContractorName>थोरात सचिन रोहिदास</ContractorName>
       <VehicleNo>MH-42-Q-454</VehicleNo>
@@ -1742,6 +1740,12 @@
       <VehicleNo>MH-42-AS-3674</VehicleNo>
       <TrollyNoA>TH-79349-1</TrollyNoA>
       <TrollyNoB>TH-79349-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="79350">
+      <ContractorName>थोरात रमेश भाऊसाहेब</ContractorName>
+      <VehicleNo>MH-42-Y-5605</VehicleNo>
+      <TrollyNoA>TH-79350-1</TrollyNoA>
+      <TrollyNoB>TH-79350-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
 </ContractorDetails>
