@@ -88350,4 +88350,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161343">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83146</GrowerCode>
+    <GrowerName>मचाले निर्मला बन्सी</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>41</VillageCode>
+    <VillageName>आलेगाव पागा</VillageName>
+    <SubVillageCode>923</SubVillageCode>
+    <SubVillageName>आलेगाव पागा(१५)डँममार्गे</SubVillageName>
+    <serveNo>689</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161356">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83184</GrowerCode>
+    <GrowerName>दुगाणे रूपाली किसन</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>191</VillageCode>
+    <VillageName>लोणी काळभोर</VillageName>
+    <SubVillageCode>686</SubVillageCode>
+    <SubVillageName>लोणी काळभोर(४२)</SubVillageName>
+    <serveNo>65</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
