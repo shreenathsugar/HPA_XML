@@ -16796,4 +16796,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161370">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72066</GrowerCode>
+    <GrowerName>परकाळे सुजाता शिवाजी</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>111</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>1844</SubVillageCode>
+    <SubVillageName>नानगाव(पारगावमार्गे) २८</SubVillageName>
+    <serveNo>39</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161371">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59897</GrowerCode>
+    <GrowerName>ताकवणे जालिंदर भाऊसाहेब</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>105</VillageCode>
+    <VillageName>पारगाव</VillageName>
+    <SubVillageCode>458</SubVillageCode>
+    <SubVillageName>लिफ्ट वस्ती(२३)पारगाव मार्गे]</SubVillageName>
+    <serveNo>245</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
