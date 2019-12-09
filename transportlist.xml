@@ -1,17 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="68456">
-      <ContractorName>डुबे मालोजी लक्ष्मण</ContractorName>
+    <ContractorCode Code="74872">
+      <ContractorName>जगताप सचिन नारायण</ContractorName>
       <VehicleNo>NEW</VehicleNo>
-      <TrollyNoA>T-68456-1</TrollyNoA>
-      <TrollyNoB>T-68456-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="82314">
-      <ContractorName>पवार एस.ए</ContractorName>
-      <VehicleNo>MH-42-AS-8179</VehicleNo>
-      <TrollyNoA>T-82314-1</TrollyNoA>
-      <TrollyNoB>T-82314-2</TrollyNoB>
+      <TrollyNoA>T74872-1</TrollyNoA>
+      <TrollyNoB>T74872-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82315">
       <ContractorName>पवार गणपत गिरजाप्पा</ContractorName>
@@ -300,6 +294,12 @@
       <VehicleNo>MH-42-Q-1573</VehicleNo>
       <TrollyNoA>T68507-1</TrollyNoA>
       <TrollyNoB>T68507-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="68456">
+      <ContractorName>डुबे मालोजी लक्ष्मण</ContractorName>
+      <VehicleNo>NEW</VehicleNo>
+      <TrollyNoA>T-68456-1</TrollyNoA>
+      <TrollyNoB>T-68456-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
@@ -1470,6 +1470,12 @@
       <VehicleNo>MH-42-Y-5085</VehicleNo>
       <TrollyNoA>T-82313-1</TrollyNoA>
       <TrollyNoB>T-82313-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="82314">
+      <ContractorName>पवार एस.ए</ContractorName>
+      <VehicleNo>MH-42-AS-8179</VehicleNo>
+      <TrollyNoA>T-82314-1</TrollyNoA>
+      <TrollyNoB>T-82314-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
