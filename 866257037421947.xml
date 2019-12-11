@@ -11039,4 +11039,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161458">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>51144</GrowerCode>
+    <GrowerName>साबळे अशोक ज्ञानोबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1782</SubVillageCode>
+    <SubVillageName>गुरवमळा(१८)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>1965</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161459">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55527</GrowerCode>
+    <GrowerName>भुजबळ दत्तात्रय सोपाना</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1787</SubVillageCode>
+    <SubVillageName>जगतापवस्ती(१८)(टायर/ट्रॅ.गा)(विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2251</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161460">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>58243</GrowerCode>
+    <GrowerName>ढमढेरे गजानन बाबासाहेब</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1879</SubVillageCode>
+    <SubVillageName>कवठीचा मळा (२१) विठ्ठलवाडीमार्गे</SubVillageName>
+    <serveNo>2518</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
