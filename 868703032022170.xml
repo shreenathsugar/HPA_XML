@@ -85462,4 +85462,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161540">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36049</GrowerCode>
+    <GrowerName>डुबे नवनाथ तुकाराम</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>90</VillageCode>
+    <VillageName>टेळेवाडी</VillageName>
+    <SubVillageCode>1602</SubVillageCode>
+    <SubVillageName>टेळेवाडीपाठार(१५)कोरेगाव घाटमार्गे</SubVillageName>
+    <serveNo>846</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
