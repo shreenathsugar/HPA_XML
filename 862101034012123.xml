@@ -9633,4 +9633,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161647">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83296</GrowerCode>
+    <GrowerName>पुणेकर आशा गुलाब</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>39</VillageCode>
+    <VillageName>आरणगाव</VillageName>
+    <SubVillageCode>1822</SubVillageCode>
+    <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+    <serveNo>256</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161643">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62599</GrowerCode>
+    <GrowerName>बनकर कविता राजेश</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>39</VillageCode>
+    <VillageName>आरणगाव</VillageName>
+    <SubVillageCode>1822</SubVillageCode>
+    <SubVillageName>अरणगाव(३४)वाळकीमार्गे</SubVillageName>
+    <serveNo>324</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
