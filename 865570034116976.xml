@@ -7201,4 +7201,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161678">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>20083</GrowerCode>
+    <GrowerName>भंडारे नानासो जगन्नाथ</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1917</SubVillageCode>
+    <SubVillageName>वढू बु(३२)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>170</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161677">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>53546</GrowerCode>
+    <GrowerName>कांचन तुकाराम लक्ष्मण</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>30</VillageCode>
+    <VillageName>आपटी</VillageName>
+    <SubVillageCode>1918</SubVillageCode>
+    <SubVillageName>आपटी(३६)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>543</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
