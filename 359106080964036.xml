@@ -18544,4 +18544,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161725">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33425</GrowerCode>
+    <GrowerName>केदारी भावना शिवाजी</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1207</VillageCode>
+    <VillageName>देऊळगाव गाडा</VillageName>
+    <SubVillageCode>1205</SubVillageCode>
+    <SubVillageName>देऊळ्गाव गाडा(३२)</SubVillageName>
+    <serveNo>12</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161726">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62344</GrowerCode>
+    <GrowerName>केदारी शिवाजी बापुराव (देऊळगाव)</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1207</VillageCode>
+    <VillageName>देऊळगाव गाडा</VillageName>
+    <SubVillageCode>1205</SubVillageCode>
+    <SubVillageName>देऊळ्गाव गाडा(३२)</SubVillageName>
+    <serveNo>13</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
