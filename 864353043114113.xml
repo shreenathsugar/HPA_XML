@@ -24833,4 +24833,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161799">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75039</GrowerCode>
+    <GrowerName>वाघ विनायक दत्तात्रय</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1845</VillageCode>
+    <VillageName>वीर</VillageName>
+    <SubVillageCode>1846</SubVillageCode>
+    <SubVillageName>वीर(११५) निरामार्गे</SubVillageName>
+    <serveNo>1102</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161797">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37385</GrowerCode>
+    <GrowerName>चोरमले अर्जुन बाबा</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>89</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <SubVillageCode>327</SubVillageCode>
+    <SubVillageName>थोरात मळा(११)</SubVillageName>
+    <serveNo>80</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
