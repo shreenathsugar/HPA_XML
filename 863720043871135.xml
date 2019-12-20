@@ -12103,4 +12103,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="156374">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22803</GrowerCode>
+    <GrowerName>वडघुले राजेंद्र अर्जुन</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1763</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>201</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
