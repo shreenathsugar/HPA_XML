@@ -12977,4 +12977,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161847">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64204</GrowerCode>
+    <GrowerName>इनामके मंगल संजय</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>48</VillageCode>
+    <VillageName>शेलारवाडी</VillageName>
+    <SubVillageCode>241</SubVillageCode>
+    <SubVillageName>शेलारवाडी (१८)</SubVillageName>
+    <serveNo>1232</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
