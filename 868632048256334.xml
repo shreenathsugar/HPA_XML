@@ -19437,4 +19437,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161911">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82672</GrowerCode>
+    <GrowerName>भागवत मेघा महेश</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1727</VillageCode>
+    <VillageName>मेरगळ वाडी</VillageName>
+    <SubVillageCode>1728</SubVillageCode>
+    <SubVillageName>मेरगळवाडी(६०)पाटसमार्गे</SubVillageName>
+    <serveNo>17</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161912">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80567</GrowerCode>
+    <GrowerName>शेलार दत्तात्रय नरसिंगराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1839</VillageCode>
+    <VillageName>मळद</VillageName>
+    <SubVillageCode>1838</SubVillageCode>
+    <SubVillageName>मळद(६०)केडगावमार्गे</SubVillageName>
+    <serveNo>42</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
