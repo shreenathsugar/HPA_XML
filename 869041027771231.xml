@@ -11096,4 +11096,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161851">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>73846</GrowerCode>
+    <GrowerName>कदम मंगेश दशरथ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1861</VillageCode>
+    <VillageName>निरगुडी</VillageName>
+    <SubVillageCode>1862</SubVillageCode>
+    <SubVillageName>निरगुडी(०)</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
