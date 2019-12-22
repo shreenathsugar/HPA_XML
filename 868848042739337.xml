@@ -10773,4 +10773,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="147541">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59677</GrowerCode>
+    <GrowerName>शिवले कृष्णाबाई धोंडीबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>128</VillageCode>
+    <VillageName>तुळापुर</VillageName>
+    <SubVillageCode>333</SubVillageCode>
+    <SubVillageName>तुळापुर(३९)आळंदी फाटा मार्गे]</SubVillageName>
+    <serveNo>585</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161871">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80873</GrowerCode>
+    <GrowerName>नखाते प्रकाश काशिनाथ</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>128</VillageCode>
+    <VillageName>तुळापुर</VillageName>
+    <SubVillageCode>333</SubVillageCode>
+    <SubVillageName>तुळापुर(३९)आळंदी फाटा मार्गे]</SubVillageName>
+    <serveNo>369</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
