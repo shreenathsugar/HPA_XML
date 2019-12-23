@@ -14421,4 +14421,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161942">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83394</GrowerCode>
+    <GrowerName>कोतवाल अनिल अभिमन्यु</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>63</VillageCode>
+    <VillageName>आष्टापूर</VillageName>
+    <SubVillageCode>1619</SubVillageCode>
+    <SubVillageName>ढाशी(अष्टापूरमार्गे)(२३)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>4</CaneVariety>
+    <CaneVarietyName>8014</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
