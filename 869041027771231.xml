@@ -11115,4 +11115,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="146836">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76951</GrowerCode>
+    <GrowerName>जगताप प्रमिला संजय</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1497</VillageCode>
+    <VillageName>हिवरे</VillageName>
+    <SubVillageCode>1923</SubVillageCode>
+    <SubVillageName>हिवरे(३८)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>333</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161908">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>82777</GrowerCode>
+    <GrowerName>पोतले रामदास गेणभाऊ</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <SubVillageCode>1916</SubVillageCode>
+    <SubVillageName>मोहितेवाडी(४६)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>143</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
