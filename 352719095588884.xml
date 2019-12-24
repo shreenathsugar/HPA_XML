@@ -12597,4 +12597,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161923">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83401</GrowerCode>
+    <GrowerName>गवारे गुलाब बबन</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1944</SubVillageCode>
+    <SubVillageName>विठ्ठलवाडी(२३)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>567</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
