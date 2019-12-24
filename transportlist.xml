@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ContractorDetails>
   <VechicleType type="Tractor">
-    <ContractorCode Code="82359">
-      <ContractorName>पाटील दादाभाऊ निंबा</ContractorName>
-      <VehicleNo>MH-19-BG-9144</VehicleNo>
-      <TrollyNoA>T-82359-1</TrollyNoA>
-      <TrollyNoB>T-82359-2</TrollyNoB>
+    <ContractorCode Code="82360">
+      <ContractorName>पाटील डी.एन</ContractorName>
+      <VehicleNo>MH-19-AP-6866</VehicleNo>
+      <TrollyNoA>T-82360-1</TrollyNoA>
+      <TrollyNoB>T-82360-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="12350">
       <ContractorName>शेंडगे बिरदेव मारुती</ContractorName>
@@ -1327,17 +1327,17 @@
       <TrollyNoA>T-82352-1</TrollyNoA>
       <TrollyNoB>T-82352-2</TrollyNoB>
     </ContractorCode>
+    <ContractorCode Code="82359">
+      <ContractorName>पाटील दादाभाऊ निंबा</ContractorName>
+      <VehicleNo>MH-19-BG-9144</VehicleNo>
+      <TrollyNoA>T-82359-1</TrollyNoA>
+      <TrollyNoB>T-82359-2</TrollyNoB>
+    </ContractorCode>
     <ContractorCode Code="12202">
       <ContractorName>सोनवणे नरसिंग साहेबराव</ContractorName>
       <VehicleNo>MH-16-F-7266</VehicleNo>
       <TrollyNoA>T-12202-1</TrollyNoA>
       <TrollyNoB>T-12202-2</TrollyNoB>
-    </ContractorCode>
-    <ContractorCode Code="82360">
-      <ContractorName>पाटील डी.एन</ContractorName>
-      <VehicleNo>MH-19-AP-6866</VehicleNo>
-      <TrollyNoA>T-82360-1</TrollyNoA>
-      <TrollyNoB>T-82360-2</TrollyNoB>
     </ContractorCode>
     <ContractorCode Code="82361">
       <ContractorName>पाटील सिमाबाई दादाभाऊ</ContractorName>
@@ -1482,6 +1482,12 @@
       <VehicleNo>MH-42-AS-2073</VehicleNo>
       <TrollyNoA>T83354-1</TrollyNoA>
       <TrollyNoB>T83354-2</TrollyNoB>
+    </ContractorCode>
+    <ContractorCode Code="69185">
+      <ContractorName>व्ही.एस.आय</ContractorName>
+      <VehicleNo>MH-12-JA-2764</VehicleNo>
+      <TrollyNoA>T69185-1</TrollyNoA>
+      <TrollyNoB>T69185-2</TrollyNoB>
     </ContractorCode>
   </VechicleType>
   <VechicleType type="Truck">
