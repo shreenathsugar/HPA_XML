@@ -12711,4 +12711,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161976">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16061</GrowerCode>
+    <GrowerName>गायकवाड दगडु सोपान </GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1954</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे वाडीवस्ती(२०)टायर /ट्रॅ.गा)पिंपरी -न्हावी-सांगवीमार्गे)</SubVillageName>
+    <serveNo>2741</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161977">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74445</GrowerCode>
+    <GrowerName>जगताप बबन गोविंद</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1943</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे वाडीवस्ती(२६)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>3487</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
