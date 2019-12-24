@@ -11267,4 +11267,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="161964">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80896</GrowerCode>
+    <GrowerName>पोतले लक्ष्मीबाई शांताराम</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1528</VillageCode>
+    <VillageName>मोहीतेवाडी</VillageName>
+    <SubVillageCode>1916</SubVillageCode>
+    <SubVillageName>मोहितेवाडी(४६)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>268</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161963">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>38693</GrowerCode>
+    <GrowerName>ढमढेरे आत्माराम सोपानराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>32</VillageCode>
+    <VillageName>शिक्रापूर</VillageName>
+    <SubVillageCode>1903</SubVillageCode>
+    <SubVillageName>शिक्रापूर(२७)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>2135</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
