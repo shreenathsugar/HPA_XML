@@ -14782,4 +14782,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162000">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57200</GrowerCode>
+    <GrowerName>कांबळे राजेंद्र घनशाम</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>195</VillageCode>
+    <VillageName>नायगाव</VillageName>
+    <SubVillageCode>693</SubVillageCode>
+    <SubVillageName>नायगाव(४०)प्रयागधाम मार्गे]</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="161997">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56769</GrowerCode>
+    <GrowerName>मुलाणी रफिक इब्राहीम</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>178</VillageCode>
+    <VillageName>भवरापूर</VillageName>
+    <SubVillageCode>335</SubVillageCode>
+    <SubVillageName>भवरापूर(अष्टापूरमार्गे])(२२)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
