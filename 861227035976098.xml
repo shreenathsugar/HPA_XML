@@ -6308,4 +6308,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162105">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6927</GrowerCode>
+    <GrowerName>शिवले मोहन कृष्णाजी</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1921</SubVillageCode>
+    <SubVillageName>रानोबाचीवाडी(३५)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>411</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
