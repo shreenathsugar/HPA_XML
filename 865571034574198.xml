@@ -17272,4 +17272,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162245">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83509</GrowerCode>
+    <GrowerName>इनामके निळ्कंठ मधुकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>94</VillageCode>
+    <VillageName>नाथाचीवाडी</VillageName>
+    <SubVillageCode>287</SubVillageCode>
+    <SubVillageName>नाथाचीवाडी(१६)</SubVillageName>
+    <serveNo>1653</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
