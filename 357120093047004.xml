@@ -27892,4 +27892,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162338">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83542</GrowerCode>
+    <GrowerName>भुजबळ सचिन सतिश</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>105</VillageCode>
+    <VillageName>पारगाव</VillageName>
+    <SubVillageCode>458</SubVillageCode>
+    <SubVillageName>लिफ्ट वस्ती(२३)पारगाव मार्गे]</SubVillageName>
+    <serveNo>1205</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
