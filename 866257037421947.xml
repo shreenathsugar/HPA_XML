@@ -26258,4 +26258,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162403">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83560</GrowerCode>
+    <GrowerName>ढेखणे अशोक महादेव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1956</SubVillageCode>
+    <SubVillageName>टाकळी भिमा(१७)(टायर /ट्रॅ.गा)म्हाळुंगी डँममार्गे</SubVillageName>
+    <serveNo>10</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162404">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80426</GrowerCode>
+    <GrowerName>कोंडे स्मिता सागर</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1945</SubVillageCode>
+    <SubVillageName>टाकळी भिमा(२७)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>83</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162405">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>35961</GrowerCode>
+    <GrowerName>वडघुले गंगाराम शंकर</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1945</SubVillageCode>
+    <SubVillageName>टाकळी भिमा(२७)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>82</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="152641">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>7488</GrowerCode>
+    <GrowerName>गवारे अरविंद बाळासाहेब</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1762</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>153</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
