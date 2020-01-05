@@ -17576,4 +17576,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162442">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>79844</GrowerCode>
+    <GrowerName>आठवले महेश अनंता</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>144</VillageCode>
+    <VillageName>यवत स्टेशन</VillageName>
+    <SubVillageCode>1825</SubVillageCode>
+    <SubVillageName>यवत स्टेशन(१९)</SubVillageName>
+    <serveNo>1232</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162443">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67727</GrowerCode>
+    <GrowerName>मेमाणे अनिल बाजीराव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>127</VillageCode>
+    <VillageName>उंडवडी</VillageName>
+    <SubVillageCode>1644</SubVillageCode>
+    <SubVillageName>उंडवडी(१४)</SubVillageName>
+    <serveNo>17</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
