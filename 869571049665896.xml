@@ -37753,4 +37753,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162435">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>53793</GrowerCode>
+    <GrowerName>गलांडे सागर रमेश</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>1854</VillageCode>
+    <VillageName>मिरवडी</VillageName>
+    <SubVillageCode>1857</SubVillageCode>
+    <SubVillageName>मेमाणेवाडी(राहुरोडमार्गे)(१२)</SubVillageName>
+    <serveNo>387</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
