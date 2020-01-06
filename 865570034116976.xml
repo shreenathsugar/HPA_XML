@@ -13433,4 +13433,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162496">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74511</GrowerCode>
+    <GrowerName>शिवले रंगनाथ सोपान</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1917</SubVillageCode>
+    <SubVillageName>वढू बु(३२)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>230</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162497">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>22247</GrowerCode>
+    <GrowerName>दौंडकर विजय आनंदराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1089</VillageCode>
+    <VillageName>वाजेवाडी</VillageName>
+    <SubVillageCode>1915</SubVillageCode>
+    <SubVillageName>वाजेवाडी(३७)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>12</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
