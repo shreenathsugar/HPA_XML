@@ -16511,4 +16511,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162520">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>78854</GrowerCode>
+    <GrowerName>बोरकर बाळासो मारुती</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>इनामगाव</VillageName>
+    <SubVillageCode>1636</SubVillageCode>
+    <SubVillageName>इनामगाव (४५)पारगावमार्गे</SubVillageName>
+    <serveNo>690</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162519">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83618</GrowerCode>
+    <GrowerName>कुदळे चंद्रकांत बापूराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>921</VillageCode>
+    <VillageName>गणेगाव दुमला</VillageName>
+    <SubVillageCode>714</SubVillageCode>
+    <SubVillageName>गणेगाव दुमाला(४५)पारगावमार्गे]</SubVillageName>
+    <serveNo>432</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
