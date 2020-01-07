@@ -17880,4 +17880,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162538">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>19265</GrowerCode>
+    <GrowerName>बोरटे नरसिंग महादेव</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>93</VillageCode>
+    <VillageName>लडकतवाडी</VillageName>
+    <SubVillageCode>286</SubVillageCode>
+    <SubVillageName>लडकतवाडी (१५)</SubVillageName>
+    <serveNo>1265</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
