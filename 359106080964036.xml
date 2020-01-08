@@ -28785,4 +28785,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162575">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>18688</GrowerCode>
+    <GrowerName>थोरात संदिप दिलीप</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>109</VillageCode>
+    <VillageName>खुटबाव</VillageName>
+    <SubVillageCode>302</SubVillageCode>
+    <SubVillageName>खुटबाव(पिंपळगाव मार्गे])(१९)</SubVillageName>
+    <serveNo>456</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162574">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32667</GrowerCode>
+    <GrowerName>गायकवाड छगन मारुती</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>110</VillageCode>
+    <VillageName>गलांडवाडी</VillageName>
+    <SubVillageCode>540</SubVillageCode>
+    <SubVillageName>गलांडवाडी (खुटबावमार्गे])(२४)</SubVillageName>
+    <serveNo>567</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
