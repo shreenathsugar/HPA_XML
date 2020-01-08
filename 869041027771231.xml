@@ -20843,4 +20843,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="148833">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56142</GrowerCode>
+    <GrowerName>आल्हाट भिका बाबुराव</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>1157</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="151979">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>55422</GrowerCode>
+    <GrowerName>बनसोडे रामदास शंकर</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>426</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162585">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>63160</GrowerCode>
+    <GrowerName>दिघे मारूती हिरामण</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>77</VillageCode>
+    <VillageName>कोयाळी</VillageName>
+    <SubVillageCode>1623</SubVillageCode>
+    <SubVillageName>कोयाळी(४७)मरकळमार्गे</SubVillageName>
+    <serveNo>233</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
