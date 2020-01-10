@@ -26828,4 +26828,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162725">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>57960</GrowerCode>
+    <GrowerName>गवारे नानासाहेब आबु</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1945</SubVillageCode>
+    <SubVillageName>टाकळी भिमा(२७)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>85</serveNo>
+    <CaneVariety>5</CaneVariety>
+    <CaneVarietyName>740</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162724">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>71314</GrowerCode>
+    <GrowerName>वडघुले नानासो रोहिदास</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>35</VillageCode>
+    <VillageName>टाकळी भिमा</VillageName>
+    <SubVillageCode>1945</SubVillageCode>
+    <SubVillageName>टाकळी भिमा(२७)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>83</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
