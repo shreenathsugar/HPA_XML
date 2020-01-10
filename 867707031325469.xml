@@ -18070,4 +18070,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162698">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56486</GrowerCode>
+    <GrowerName>शिंदे शामराव हरिभाऊ</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>100</VillageCode>
+    <VillageName>सहजपूर</VillageName>
+    <SubVillageCode>293</SubVillageCode>
+    <SubVillageName>सहजपूर (२२)</SubVillageName>
+    <serveNo>867</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162699">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>41193</GrowerCode>
+    <GrowerName>टिळेकर गोपाळ प्रभाकर</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <SubVillageCode>1099</SubVillageCode>
+    <SubVillageName>टिळेकर वाडी(३५)उरुळीमार्गे]</SubVillageName>
+    <serveNo>1391</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162700">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56671</GrowerCode>
+    <GrowerName>होले चैताली अनिल</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>1100</VillageCode>
+    <VillageName>टिळेकर वाडी</VillageName>
+    <SubVillageCode>1099</SubVillageCode>
+    <SubVillageName>टिळेकर वाडी(३५)उरुळीमार्गे]</SubVillageName>
+    <serveNo>1256</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162659">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83670</GrowerCode>
+    <GrowerName>थोरात कुणाल काळुराम</GrowerName>
+    <GatCode>19</GatCode>
+    <GatName>खामगाव</GatName>
+    <VillageCode>177</VillageCode>
+    <VillageName>खामगांव टेक</VillageName>
+    <SubVillageCode>622</SubVillageCode>
+    <SubVillageName>खामगांव टेक(४०)उरुळीमार्गे]</SubVillageName>
+    <serveNo>47</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
