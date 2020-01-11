@@ -21375,4 +21375,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162727">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>26497</GrowerCode>
+    <GrowerName>शिवले ज्ञानेश्वर ठकाराम</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1921</SubVillageCode>
+    <SubVillageName>रानोबाचीवाडी(३५)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>256</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162728">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16555</GrowerCode>
+    <GrowerName>शिवले चंद्रकांत जयसिंग</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1921</SubVillageCode>
+    <SubVillageName>रानोबाचीवाडी(३५)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>790</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162729">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>19898</GrowerCode>
+    <GrowerName>शिवले सुरेश जयसिंग</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1921</SubVillageCode>
+    <SubVillageName>रानोबाचीवाडी(३५)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>790</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
