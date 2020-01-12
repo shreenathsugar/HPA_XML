@@ -16891,4 +16891,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="162835">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83721</GrowerCode>
+    <GrowerName>नागवडे मोहन अमुतराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>54</VillageCode>
+    <VillageName>बाभूळसर</VillageName>
+    <SubVillageCode>247</SubVillageCode>
+    <SubVillageName>बाभुळसर(४४)पारगावमार्गे</SubVillageName>
+    <serveNo>543</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="162834">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83720</GrowerCode>
+    <GrowerName>भगत सोमनाथ गोरख</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>54</VillageCode>
+    <VillageName>बाभूळसर</VillageName>
+    <SubVillageCode>247</SubVillageCode>
+    <SubVillageName>बाभुळसर(४४)पारगावमार्गे</SubVillageName>
+    <serveNo>673</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
