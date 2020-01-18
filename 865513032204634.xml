@@ -30780,4 +30780,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163106">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>75665</GrowerCode>
+    <GrowerName>पवार विकास तुकाराम</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>111</VillageCode>
+    <VillageName>नानगाव</VillageName>
+    <SubVillageCode>1844</SubVillageCode>
+    <SubVillageName>नानगाव(पारगावमार्गे) २८</SubVillageName>
+    <serveNo>77</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163100">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83797</GrowerCode>
+    <GrowerName>मोटे सागर बाबुराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>109</VillageCode>
+    <VillageName>खुटबाव</VillageName>
+    <SubVillageCode>302</SubVillageCode>
+    <SubVillageName>खुटबाव(पिंपळगाव मार्गे])(१९)</SubVillageName>
+    <serveNo>578</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163102">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83798</GrowerCode>
+    <GrowerName>शिंदे दामोदर बबन</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>110</VillageCode>
+    <VillageName>गलांडवाडी</VillageName>
+    <SubVillageCode>540</SubVillageCode>
+    <SubVillageName>गलांडवाडी (खुटबावमार्गे])(२४)</SubVillageName>
+    <serveNo>570</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163105">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83811</GrowerCode>
+    <GrowerName>शेलार अमोल माणिकराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>109</VillageCode>
+    <VillageName>खुटबाव</VillageName>
+    <SubVillageCode>302</SubVillageCode>
+    <SubVillageName>खुटबाव(पिंपळगाव मार्गे])(१९)</SubVillageName>
+    <serveNo>578</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
