@@ -47481,4 +47481,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163163">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83826</GrowerCode>
+    <GrowerName>कोळी चंद्रकांत दशरथ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>92</VillageCode>
+    <VillageName>पिपंळगाव</VillageName>
+    <SubVillageCode>1901</SubVillageCode>
+    <SubVillageName>शितोळेवस्ती(१६)वाहणटोळी</SubVillageName>
+    <serveNo>302</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>1</CaneCode>
+    <CaneType>आडसाली</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163164">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83825</GrowerCode>
+    <GrowerName>झरांडे अलका भगवान</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>91</VillageCode>
+    <VillageName>पिलाणवाडी</VillageName>
+    <SubVillageCode>284</SubVillageCode>
+    <SubVillageName>पिलाणवाडी(५)</SubVillageName>
+    <serveNo>392</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
