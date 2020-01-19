@@ -14383,4 +14383,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163194">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>33263</GrowerCode>
+    <GrowerName>आहेर संभाजी विष्णु</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1917</SubVillageCode>
+    <SubVillageName>वढू बु(३२)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>234</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="152231">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81144</GrowerCode>
+    <GrowerName>नळकांडे दिपक कारभारी</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>146</VillageCode>
+    <VillageName>बुरुजवाडी</VillageName>
+    <SubVillageCode>1836</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>399</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
