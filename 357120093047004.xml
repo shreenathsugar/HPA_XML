@@ -31274,4 +31274,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163262">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>70473</GrowerCode>
+    <GrowerName>यादव महादेव बाबासो</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>106</VillageCode>
+    <VillageName>कानगाव</VillageName>
+    <SubVillageCode>897</SubVillageCode>
+    <SubVillageName>कानगांव(पारगावमार्गे])(४२)</SubVillageName>
+    <serveNo>722</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163263">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83863</GrowerCode>
+    <GrowerName>शितोळे बाळासो बबनराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1305</VillageCode>
+    <VillageName>गार</VillageName>
+    <SubVillageCode>1642</SubVillageCode>
+    <SubVillageName>गार(४५)नानगावमार्गे</SubVillageName>
+    <serveNo>1018</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163264">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83864</GrowerCode>
+    <GrowerName>शितोळे उर्मिला बाळासो</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1305</VillageCode>
+    <VillageName>गार</VillageName>
+    <SubVillageCode>1642</SubVillageCode>
+    <SubVillageName>गार(४५)नानगावमार्गे</SubVillageName>
+    <serveNo>1145</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
