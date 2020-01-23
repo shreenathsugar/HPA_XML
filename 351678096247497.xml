@@ -30324,4 +30324,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163366">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83907</GrowerCode>
+    <GrowerName>भोर श्रीरंग काशिनाथ</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>1513</VillageCode>
+    <VillageName>साष्टे</VillageName>
+    <SubVillageCode>1621</SubVillageCode>
+    <SubVillageName>साष्टे(३८)बोल्हाईमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
