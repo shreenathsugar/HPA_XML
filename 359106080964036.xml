@@ -32053,4 +32053,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163442">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>74861</GrowerCode>
+    <GrowerName>गाढवे गोरख तुकाराम</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1864</VillageCode>
+    <VillageName>लोणारवाडी</VillageName>
+    <SubVillageCode>1865</SubVillageCode>
+    <SubVillageName>लोणारवाडी(७०)पाटसमार्गे</SubVillageName>
+    <serveNo>46</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163441">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83945</GrowerCode>
+    <GrowerName>टेंगले संदीप आनंदा</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>114</VillageCode>
+    <VillageName>वरवंड</VillageName>
+    <SubVillageCode>1643</SubVillageCode>
+    <SubVillageName>वरवंड(३५)कडेठाणमार्गे</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
