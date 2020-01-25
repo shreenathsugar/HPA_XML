@@ -37677,4 +37677,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163504">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42928</GrowerCode>
+    <GrowerName>दाभाडे मारुती दत्तोबा</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>62</VillageCode>
+    <VillageName>बुर्केगावा</VillageName>
+    <SubVillageCode>255</SubVillageCode>
+    <SubVillageName>बुर्केगाव(२१)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>321</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
