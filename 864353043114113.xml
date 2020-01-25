@@ -58444,4 +58444,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163449">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>25351</GrowerCode>
+    <GrowerName>लेंडे रामदास गणपत</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>86</VillageCode>
+    <VillageName>पानवली</VillageName>
+    <SubVillageCode>279</SubVillageCode>
+    <SubVillageName>पानवली(१२)</SubVillageName>
+    <serveNo>63</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
