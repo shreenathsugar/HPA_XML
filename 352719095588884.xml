@@ -39007,4 +39007,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163470">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>62885</GrowerCode>
+    <GrowerName>झगडे गोविंद शंकर</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>26</VillageCode>
+    <VillageName>दरेकरवाडी</VillageName>
+    <SubVillageCode>1949</SubVillageCode>
+    <SubVillageName>दरेकरवाडी(२५)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>321</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163471">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>60504</GrowerCode>
+    <GrowerName>गव्हाणे शिवाजी सुखदेव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <SubVillageCode>1948</SubVillageCode>
+    <SubVillageName>डिंग्रजवाडी(२७)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>122</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
