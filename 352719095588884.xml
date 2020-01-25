@@ -39045,4 +39045,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163502">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64409</GrowerCode>
+    <GrowerName>ढमढेरे संतोष मल्हारराव</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1943</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे वाडीवस्ती(२६)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>2488</serveNo>
+    <CaneVariety>4</CaneVariety>
+    <CaneVarietyName>8014</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163501">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83964</GrowerCode>
+    <GrowerName>भुजबळ बंडू पांडुरंग</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1943</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे वाडीवस्ती(२६)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>1685</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163500">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64336</GrowerCode>
+    <GrowerName>भुजबळ शंकर श्रीपती</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1954</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे वाडीवस्ती(२०)टायर /ट्रॅ.गा)पिंपरी -न्हावी-सांगवीमार्गे)</SubVillageName>
+    <serveNo>3449</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
