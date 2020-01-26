@@ -19646,4 +19646,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163521">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6018</GrowerCode>
+    <GrowerName>ढोकले बाबासाहेब अंकुश</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>34</VillageCode>
+    <VillageName>करंदी</VillageName>
+    <SubVillageCode>1909</SubVillageCode>
+    <SubVillageName>करंदी(३५)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>766</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>

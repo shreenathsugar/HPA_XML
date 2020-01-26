@@ -37810,4 +37810,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163515">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>53110</GrowerCode>
+    <GrowerName>शिवले ज्ञानोबा तुकाराम</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>74</VillageCode>
+    <VillageName>भावडी</VillageName>
+    <SubVillageCode>267</SubVillageCode>
+    <SubVillageName>भावडी (४२)तुळापुर मार्गे]</SubVillageName>
+    <serveNo>56</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
