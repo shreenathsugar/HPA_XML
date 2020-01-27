@@ -34352,4 +34352,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163581">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84002</GrowerCode>
+    <GrowerName>गवळी निवृत्ती विठ्ठल</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1207</VillageCode>
+    <VillageName>देऊळगाव गाडा</VillageName>
+    <SubVillageCode>1205</SubVillageCode>
+    <SubVillageName>देऊळ्गाव गाडा(३२)</SubVillageName>
+    <serveNo>6890</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163582">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84003</GrowerCode>
+    <GrowerName>गवळी शिला निवृत्ती</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1207</VillageCode>
+    <VillageName>देऊळगाव गाडा</VillageName>
+    <SubVillageCode>1205</SubVillageCode>
+    <SubVillageName>देऊळ्गाव गाडा(३२)</SubVillageName>
+    <serveNo>567</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
