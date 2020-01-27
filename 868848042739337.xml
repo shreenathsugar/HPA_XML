@@ -25745,4 +25745,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163592">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84006</GrowerCode>
+    <GrowerName>गोते विजय पोपट</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>63</VillageCode>
+    <VillageName>आष्टापूर</VillageName>
+    <SubVillageCode>1622</SubVillageCode>
+    <SubVillageName>अष्टापूर(२१)पंपवस्तीमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
