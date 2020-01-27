@@ -19817,4 +19817,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="152509">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>44666</GrowerCode>
+    <GrowerName>धुमाळ खंडेराव आनंदराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>148</VillageCode>
+    <VillageName>पिंपळे धुमाळ</VillageName>
+    <SubVillageCode>1748</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>256</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
