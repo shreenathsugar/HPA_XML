@@ -32642,4 +32642,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163730">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72171</GrowerCode>
+    <GrowerName>ठाकुर बाळासाहेब लक्ष्मण</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1540</VillageCode>
+    <VillageName>सोळू</VillageName>
+    <SubVillageCode>1817</SubVillageCode>
+    <SubVillageName>सोळू(४५)मरकळमार्गे</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
