@@ -39482,4 +39482,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163725">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>53744</GrowerCode>
+    <GrowerName>वाळके भगवान ज्ञानोबा</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>22</VillageCode>
+    <VillageName>तळेगाव ढमढेरे</VillageName>
+    <SubVillageCode>1943</SubVillageCode>
+    <SubVillageName>तळेगाव ढमढेरे वाडीवस्ती(२६)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>4135</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163726">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>13659</GrowerCode>
+    <GrowerName>पवार पांडुरंग नारायण</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>24</VillageCode>
+    <VillageName>विठ्ठलवाडी</VillageName>
+    <SubVillageCode>1955</SubVillageCode>
+    <SubVillageName>विठ्ठलवाडी(१७)(टायर /ट्रॅ.गा)पिंपरी -न्हावी-सांगवीमार्गे)</SubVillageName>
+    <serveNo>1571</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
