@@ -47101,4 +47101,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163736">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84063</GrowerCode>
+    <GrowerName>टुले लक्ष्मण दादाभाऊ</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>1854</VillageCode>
+    <VillageName>मिरवडी</VillageName>
+    <SubVillageCode>1858</SubVillageCode>
+    <SubVillageName>मिरवडी(अष्टापूरमार्गे)(१९)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
