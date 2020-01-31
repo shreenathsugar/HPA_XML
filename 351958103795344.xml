@@ -20083,4 +20083,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163747">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>59552</GrowerCode>
+    <GrowerName>वाघोले  मल्हारी  दत्तोबा   </GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1904</VillageCode>
+    <VillageName>राऊतवाडी</VillageName>
+    <SubVillageCode>1927</SubVillageCode>
+    <SubVillageName>राऊतवाडी(२५)(टायर/ट्रॅ.गा)पिंपरी न्हावी-सांगवी मार्गे</SubVillageName>
+    <serveNo>453</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163746">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84062</GrowerCode>
+    <GrowerName>शिवले रामदास ज्ञानोबा</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1921</SubVillageCode>
+    <SubVillageName>रानोबाचीवाडी(३५)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>342</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
