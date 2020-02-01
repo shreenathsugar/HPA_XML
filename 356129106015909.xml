@@ -38836,4 +38836,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163817">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>63967</GrowerCode>
+    <GrowerName>भोंडवे बबनराव अमृतराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>75</VillageCode>
+    <VillageName>वढू खुर्द</VillageName>
+    <SubVillageCode>1616</SubVillageCode>
+    <SubVillageName>वढू खुर्द (३३)आळंदीफाटामार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163774">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>9743</GrowerCode>
+    <GrowerName>वाळके शंकर रामभाऊ</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>65</VillageCode>
+    <VillageName>पेरणे</VillageName>
+    <SubVillageCode>258</SubVillageCode>
+    <SubVillageName>पेरणे(२७)अष्टापूरफाटामार्गे]</SubVillageName>
+    <serveNo>877</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>4</CaneCode>
+    <CaneType>पु.हंगामी</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163825">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>53981</GrowerCode>
+    <GrowerName>गावडे संदिप बाळासाहेब</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>75</VillageCode>
+    <VillageName>वढू खुर्द</VillageName>
+    <SubVillageCode>1616</SubVillageCode>
+    <SubVillageName>वढू खुर्द (३३)आळंदीफाटामार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
