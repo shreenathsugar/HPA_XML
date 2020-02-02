@@ -26410,4 +26410,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163902">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>72252</GrowerCode>
+    <GrowerName>कोद्रे मिलिंद प्रल्हाद</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>786</VillageCode>
+    <VillageName>मुंढवा</VillageName>
+    <SubVillageCode>854</SubVillageCode>
+    <SubVillageName>मुंढवा (५६)पुणे</SubVillageName>
+    <serveNo>584</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
