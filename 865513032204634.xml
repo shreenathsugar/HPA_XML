@@ -35378,4 +35378,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="163950">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84135</GrowerCode>
+    <GrowerName>लोणकर बबन गेणबा</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1727</VillageCode>
+    <VillageName>मेरगळ वाडी</VillageName>
+    <SubVillageCode>1728</SubVillageCode>
+    <SubVillageName>मेरगळवाडी(६०)पाटसमार्गे</SubVillageName>
+    <serveNo>35</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163946">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84137</GrowerCode>
+    <GrowerName>पडळकर संपत महादु</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1892</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <SubVillageCode>1893</SubVillageCode>
+    <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
+    <serveNo>68</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="163945">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84136</GrowerCode>
+    <GrowerName>भागवत कैलास मारुती</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1892</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <SubVillageCode>1893</SubVillageCode>
+    <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
+    <serveNo>25</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
