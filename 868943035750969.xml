@@ -21090,4 +21090,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164068">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84165</GrowerCode>
+    <GrowerName>वाघमोडे बिरा पांडुरंग</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>136</VillageCode>
+    <VillageName>आंधळगाव</VillageName>
+    <SubVillageCode>339</SubVillageCode>
+    <SubVillageName>आंधळगाव(पारगावमार्गे])(२७)</SubVillageName>
+    <serveNo>325</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164069">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84164</GrowerCode>
+    <GrowerName>पांढरे भिमराव गणपत</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>136</VillageCode>
+    <VillageName>आंधळगाव</VillageName>
+    <SubVillageCode>339</SubVillageCode>
+    <SubVillageName>आंधळगाव(पारगावमार्गे])(२७)</SubVillageName>
+    <serveNo>394</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
