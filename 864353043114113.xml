@@ -60591,4 +60591,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164077">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84159</GrowerCode>
+    <GrowerName>नागरगोजे बाळासाहेब लक्ष्मण</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1851</VillageCode>
+    <VillageName>परिचे</VillageName>
+    <SubVillageCode>1852</SubVillageCode>
+    <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
+    <serveNo>238</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164078">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84160</GrowerCode>
+    <GrowerName>नागरगोजे दिनकर दगडू</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1851</VillageCode>
+    <VillageName>परिचे</VillageName>
+    <SubVillageCode>1852</SubVillageCode>
+    <SubVillageName>परिचे(१२०)निरामार्गे</SubVillageName>
+    <serveNo>241</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
