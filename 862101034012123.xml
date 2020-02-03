@@ -21128,4 +21128,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164073">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84146</GrowerCode>
+    <GrowerName>होलगुंडे हनुमंत चांगदेव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>40</VillageCode>
+    <VillageName>उरळगाव</VillageName>
+    <SubVillageCode>1637</SubVillageCode>
+    <SubVillageName>उरळगाव (४०)पारगावमार्गे</SubVillageName>
+    <serveNo>100</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164074">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84147</GrowerCode>
+    <GrowerName>वाघमोडे सतीश महादु</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>147</VillageCode>
+    <VillageName>न्हावरा</VillageName>
+    <SubVillageCode>1736</SubVillageCode>
+    <SubVillageName>न्हावरा(३४)पारगावमार्गे</SubVillageName>
+    <serveNo>564</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
