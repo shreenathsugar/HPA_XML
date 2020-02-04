@@ -21223,4 +21223,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164110">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84174</GrowerCode>
+    <GrowerName>कुदळे अभिजीत शिवराम</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>921</VillageCode>
+    <VillageName>गणेगाव दुमला</VillageName>
+    <SubVillageCode>714</SubVillageCode>
+    <SubVillageName>गणेगाव दुमाला(४५)पारगावमार्गे]</SubVillageName>
+    <serveNo>467</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164112">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>19512</GrowerCode>
+    <GrowerName>थोरात संतोष भगवान</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>55</VillageCode>
+    <VillageName>इनामगाव</VillageName>
+    <SubVillageCode>1636</SubVillageCode>
+    <SubVillageName>इनामगाव (४५)पारगावमार्गे</SubVillageName>
+    <serveNo>467</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
