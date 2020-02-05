@@ -21299,4 +21299,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164263">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84193</GrowerCode>
+    <GrowerName>शेंडगे नवनाथ बबन</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1471</VillageCode>
+    <VillageName>श्रीगोंदा</VillageName>
+    <SubVillageCode>1149</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>432</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164271">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84194</GrowerCode>
+    <GrowerName>शेंडगे बबन पर्वती</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1471</VillageCode>
+    <VillageName>श्रीगोंदा</VillageName>
+    <SubVillageCode>1149</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>32</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164274">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>29131</GrowerCode>
+    <GrowerName>मोरे लक्ष्मण मारुती</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1471</VillageCode>
+    <VillageName>श्रीगोंदा</VillageName>
+    <SubVillageCode>1149</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>437</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बा बि सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
