@@ -36499,4 +36499,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164603">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84267</GrowerCode>
+    <GrowerName>बिचकुले जिजाबाई रामचंद्र</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1075</VillageCode>
+    <VillageName>पाटस</VillageName>
+    <SubVillageCode>174</SubVillageCode>
+    <SubVillageName>पाटस ( केडगावमार्गे ) (४२ )</SubVillageName>
+    <serveNo>55</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164605">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84286</GrowerCode>
+    <GrowerName>गावडे गेणबा बापू</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1892</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <SubVillageCode>1893</SubVillageCode>
+    <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
+    <serveNo>77</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164614">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84290</GrowerCode>
+    <GrowerName>दगडे बाबू रामा</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1892</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <SubVillageCode>1893</SubVillageCode>
+    <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
