@@ -40584,4 +40584,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164668">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84300</GrowerCode>
+    <GrowerName>ढेरंगे हेमंत भिवाजी</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>27</VillageCode>
+    <VillageName>डिंग्रजवाडी</VillageName>
+    <SubVillageCode>1959</SubVillageCode>
+    <SubVillageName>डिंग्रजवाडी(२३)टायर /ट्रॅ.गा)पिंपरी -न्हावी-सांगवीमार्गे)</SubVillageName>
+    <serveNo>1012</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164681">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84311</GrowerCode>
+    <GrowerName>दरेकर राहुल सिताराम</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>26</VillageCode>
+    <VillageName>दरेकरवाडी</VillageName>
+    <SubVillageCode>1803</SubVillageCode>
+    <SubVillageName>दरेकरवाडी(२१)(टायर /ट्रॅ.गा)पिंपरी -न्हावी-सांगवीमार्गे)</SubVillageName>
+    <serveNo>331</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
