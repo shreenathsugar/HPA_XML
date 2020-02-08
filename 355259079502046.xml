@@ -27265,4 +27265,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164673">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>83871</GrowerCode>
+    <GrowerName>गोते ज्योती सुनिल</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>175</VillageCode>
+    <VillageName>बिवरी</VillageName>
+    <SubVillageCode>615</SubVillageCode>
+    <SubVillageName>बिवरी(अष्टापूरमार्गे])(२९)</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
