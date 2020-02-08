@@ -36556,4 +36556,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164624">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84292</GrowerCode>
+    <GrowerName>धावडे ठकशेन लक्ष्मण</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1892</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <SubVillageCode>1893</SubVillageCode>
+    <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
+    <serveNo>22</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
