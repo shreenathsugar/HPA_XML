@@ -21033,4 +21033,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="154409">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80138</GrowerCode>
+    <GrowerName>वाळके संगिता शिवाजी</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1106</VillageCode>
+    <VillageName>पिंपळे जगताप</VillageName>
+    <SubVillageCode>1755</SubVillageCode>
+    <SubVillageName>--</SubVillageName>
+    <serveNo>75</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
