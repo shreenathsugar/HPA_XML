@@ -40565,4 +40565,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164706">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>37807</GrowerCode>
+    <GrowerName>साठे आशा संपत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>130</VillageCode>
+    <VillageName>भवरापूर</VillageName>
+    <SubVillageCode>1605</SubVillageCode>
+    <SubVillageName>भवरापूर(२४)गोळीबारमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164705">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>42157</GrowerCode>
+    <GrowerName>साठे संपत भिकु</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>130</VillageCode>
+    <VillageName>भवरापूर</VillageName>
+    <SubVillageCode>1605</SubVillageCode>
+    <SubVillageName>भवरापूर(२४)गोळीबारमार्गे</SubVillageName>
+    <serveNo>0</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
