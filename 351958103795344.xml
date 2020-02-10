@@ -21337,4 +21337,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164817">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84381</GrowerCode>
+    <GrowerName>शेडगे बबन रामा</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1087</VillageCode>
+    <VillageName>कोंढापुरी</VillageName>
+    <SubVillageCode>1908</SubVillageCode>
+    <SubVillageName>कोंढापूरी(३५)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>258</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164816">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84382</GrowerCode>
+    <GrowerName>नळकांडे सयाजी विष्णु</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>146</VillageCode>
+    <VillageName>बुरुजवाडी</VillageName>
+    <SubVillageCode>1906</SubVillageCode>
+    <SubVillageName>बुरुंजवाडी(३२)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>452</serveNo>
+    <CaneVariety>7</CaneVariety>
+    <CaneVarietyName>7527</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
