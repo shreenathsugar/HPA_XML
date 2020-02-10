@@ -34580,4 +34580,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164776">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>23609</GrowerCode>
+    <GrowerName>वाडेकर पंढरीनाथ दामू</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>29</VillageCode>
+    <VillageName>वढू बु </VillageName>
+    <SubVillageCode>1921</SubVillageCode>
+    <SubVillageName>रानोबाचीवाडी(३५)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>231</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164777">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>45284</GrowerCode>
+    <GrowerName>फडतरे भाऊसाहेब नामदेव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1096</VillageCode>
+    <VillageName>कोरेगाव भिमा</VillageName>
+    <SubVillageCode>1919</SubVillageCode>
+    <SubVillageName>कोरेगाव भिमा(२९)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>345</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
