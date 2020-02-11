@@ -21432,4 +21432,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164858">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>34223</GrowerCode>
+    <GrowerName>भंडारे लक्ष्मण गुलाब</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>30</VillageCode>
+    <VillageName>आपटी</VillageName>
+    <SubVillageCode>1918</SubVillageCode>
+    <SubVillageName>आपटी(३६)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>233</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
