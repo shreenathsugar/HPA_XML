@@ -41059,4 +41059,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164584">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>64698</GrowerCode>
+    <GrowerName>शिवले अमित रमेश</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>128</VillageCode>
+    <VillageName>तुळापुर</VillageName>
+    <SubVillageCode>333</SubVillageCode>
+    <SubVillageName>तुळापुर(३९)आळंदी फाटा मार्गे]</SubVillageName>
+    <serveNo>632</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164589">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>80728</GrowerCode>
+    <GrowerName>शिवले अक्षय हनुमंत</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>128</VillageCode>
+    <VillageName>तुळापुर</VillageName>
+    <SubVillageCode>333</SubVillageCode>
+    <SubVillageName>तुळापुर(३९)आळंदी फाटा मार्गे]</SubVillageName>
+    <serveNo>75</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
