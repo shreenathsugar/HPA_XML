@@ -37335,4 +37335,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164912">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84401</GrowerCode>
+    <GrowerName>दगडे सावळाराम पांगरू</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1892</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <SubVillageCode>1893</SubVillageCode>
+    <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
+    <serveNo>56</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164891">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81803</GrowerCode>
+    <GrowerName>पुणेकर दत्तात्रय बाबुराव</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1864</VillageCode>
+    <VillageName>लोणारवाडी</VillageName>
+    <SubVillageCode>1865</SubVillageCode>
+    <SubVillageName>लोणारवाडी(७०)पाटसमार्गे</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="164914">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84402</GrowerCode>
+    <GrowerName>डोंगरे कोंडाबाई झुंबर</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1892</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <SubVillageCode>1893</SubVillageCode>
+    <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
