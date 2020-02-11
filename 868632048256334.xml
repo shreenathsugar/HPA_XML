@@ -37392,4 +37392,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="164982">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84365</GrowerCode>
+    <GrowerName>वाघमोडे भारती सुभाष</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>116</VillageCode>
+    <VillageName>नानवीज</VillageName>
+    <SubVillageCode>309</SubVillageCode>
+    <SubVillageName>नानवीज(५८)पारगावमार्गे</SubVillageName>
+    <serveNo>64</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
