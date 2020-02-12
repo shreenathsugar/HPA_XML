@@ -35150,4 +35150,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165044">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84419</GrowerCode>
+    <GrowerName>गावडे ईश्वर महादू</GrowerName>
+    <GatCode>18</GatCode>
+    <GatName>गेटकेन</GatName>
+    <VillageCode>1859</VillageCode>
+    <VillageName>धानोरे(गेटकेन)</VillageName>
+    <SubVillageCode>1860</SubVillageCode>
+    <SubVillageName>धानोरे(०)गेटकेन</SubVillageName>
+    <serveNo>00</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
