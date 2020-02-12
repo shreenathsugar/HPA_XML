@@ -41135,4 +41135,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165024">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>32319</GrowerCode>
+    <GrowerName>भुजबळ कैलास सहादु</GrowerName>
+    <GatCode>20</GatCode>
+    <GatName>तळेगाव ढमढेरे</GatName>
+    <VillageCode>23</VillageCode>
+    <VillageName>भिमशेत</VillageName>
+    <SubVillageCode>1946</SubVillageCode>
+    <SubVillageName>भिमशेत(२०)पिंपरी-आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>131</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
