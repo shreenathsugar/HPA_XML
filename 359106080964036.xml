@@ -37696,4 +37696,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165086">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84410</GrowerCode>
+    <GrowerName>पवार गणपत गिरजाप्पा</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1961</VillageCode>
+    <VillageName>गोपाळवाडी</VillageName>
+    <SubVillageCode>1962</SubVillageCode>
+    <SubVillageName>गोपाळवाडी(५३)पारगाव मार्गे</SubVillageName>
+    <serveNo>33</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
