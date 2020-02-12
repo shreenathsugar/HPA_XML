@@ -37639,4 +37639,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165083">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84431</GrowerCode>
+    <GrowerName>गाढवे संपत दगडू</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1892</VillageCode>
+    <VillageName>बोरीबेल</VillageName>
+    <SubVillageCode>1893</SubVillageCode>
+    <SubVillageName>बोरीबेल(६५) पाटसमार्गे</SubVillageName>
+    <serveNo>33</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165084">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84432</GrowerCode>
+    <GrowerName>काळभोर प्रतीक संजय</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1886</VillageCode>
+    <VillageName>खडकी</VillageName>
+    <SubVillageCode>1887</SubVillageCode>
+    <SubVillageName>खडकी(६४) पाटसमार्गे</SubVillageName>
+    <serveNo>55</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
