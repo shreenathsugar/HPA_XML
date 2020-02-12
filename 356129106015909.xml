@@ -41230,4 +41230,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165007">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>76175</GrowerCode>
+    <GrowerName>कोंडे सर्जेराव बाबुराव</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>172</VillageCode>
+    <VillageName>कोरेगाव मूळ</VillageName>
+    <SubVillageCode>1542</SubVillageCode>
+    <SubVillageName>कोरेगाव मुळ(३५)प्रयागधाममार्गे</SubVillageName>
+    <serveNo>?</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165025">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84426</GrowerCode>
+    <GrowerName>माने तुषार दादासाहेब</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>65</VillageCode>
+    <VillageName>पेरणे</VillageName>
+    <SubVillageCode>1661</SubVillageCode>
+    <SubVillageName>पेरणे फाटा(२९)(अष्टापूरफाटामार्गे</SubVillageName>
+    <serveNo>321</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
