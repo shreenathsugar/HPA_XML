@@ -22270,4 +22270,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165091">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>6185</GrowerCode>
+    <GrowerName>गुंड दत्तात्रय महादेव </GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1034</VillageCode>
+    <VillageName>निमोणे</VillageName>
+    <SubVillageCode>1863</SubVillageCode>
+    <SubVillageName>निमोणे(४१)पारगावमार्गे</SubVillageName>
+    <serveNo>100</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
