@@ -63156,4 +63156,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165101">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84443</GrowerCode>
+    <GrowerName>सोनवणे शोभा सोपान</GrowerName>
+    <GatCode>12</GatCode>
+    <GatName>राहु</GatName>
+    <VillageCode>81</VillageCode>
+    <VillageName>राहु</VillageName>
+    <SubVillageCode>274</SubVillageCode>
+    <SubVillageName>राहू(७)</SubVillageName>
+    <serveNo>1416</serveNo>
+    <CaneVariety>24</CaneVariety>
+    <CaneVarietyName>10001</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
