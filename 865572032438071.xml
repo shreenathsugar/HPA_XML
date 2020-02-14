@@ -22365,4 +22365,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165160">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84484</GrowerCode>
+    <GrowerName>साळुंके मनोहर बापू</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>53</VillageCode>
+    <VillageName>तांदळी</VillageName>
+    <SubVillageCode>1635</SubVillageCode>
+    <SubVillageName>तांदळी(४५)पारगावमार्गे</SubVillageName>
+    <serveNo>654</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165162">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84485</GrowerCode>
+    <GrowerName>गायकवाड ज्ञानदेव रंगनाथ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>53</VillageCode>
+    <VillageName>तांदळी</VillageName>
+    <SubVillageCode>1635</SubVillageCode>
+    <SubVillageName>तांदळी(४५)पारगावमार्गे</SubVillageName>
+    <serveNo>652</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
