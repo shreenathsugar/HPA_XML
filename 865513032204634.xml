@@ -38152,4 +38152,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165186">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>81209</GrowerCode>
+    <GrowerName>बालटकर शांताराम निव्रुत्ती</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1864</VillageCode>
+    <VillageName>लोणारवाडी</VillageName>
+    <SubVillageCode>1865</SubVillageCode>
+    <SubVillageName>लोणारवाडी(७०)पाटसमार्गे</SubVillageName>
+    <serveNo>22</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165189">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84502</GrowerCode>
+    <GrowerName>येडे दिलीप निवृत्ती</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1864</VillageCode>
+    <VillageName>लोणारवाडी</VillageName>
+    <SubVillageCode>1865</SubVillageCode>
+    <SubVillageName>लोणारवाडी(७०)पाटसमार्गे</SubVillageName>
+    <serveNo>45</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
