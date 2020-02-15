@@ -41610,4 +41610,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165194">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84511</GrowerCode>
+    <GrowerName>तांबे दत्तात्रय निळाराम</GrowerName>
+    <GatCode>15</GatCode>
+    <GatName>हवेली</GatName>
+    <VillageCode>74</VillageCode>
+    <VillageName>भावडी</VillageName>
+    <SubVillageCode>267</SubVillageCode>
+    <SubVillageName>भावडी (४२)तुळापुर मार्गे]</SubVillageName>
+    <serveNo>42</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
