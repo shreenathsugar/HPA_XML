@@ -35948,4 +35948,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165305">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>36899</GrowerCode>
+    <GrowerName>वाडेकर राजाराम बबन</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1106</VillageCode>
+    <VillageName>पिंपळे जगताप</VillageName>
+    <SubVillageCode>1920</SubVillageCode>
+    <SubVillageName>पिंपळे जगताप(३४)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>543</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165306">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>16092</GrowerCode>
+    <GrowerName>वाडेकर अशोक गुलाबराव</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1106</VillageCode>
+    <VillageName>पिंपळे जगताप</VillageName>
+    <SubVillageCode>1920</SubVillageCode>
+    <SubVillageName>पिंपळे जगताप(३४)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>221</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
