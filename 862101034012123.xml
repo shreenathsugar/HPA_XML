@@ -22688,4 +22688,80 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165333">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84564</GrowerCode>
+    <GrowerName>भोयटे संतोष शांताराम</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1177</VillageCode>
+    <VillageName>पेडगाव</VillageName>
+    <SubVillageCode>1179</SubVillageCode>
+    <SubVillageName>पेडगाव(०)</SubVillageName>
+    <serveNo>???</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165334">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84565</GrowerCode>
+    <GrowerName>कोकाटे योगेश मनोहर</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>53</VillageCode>
+    <VillageName>तांदळी</VillageName>
+    <SubVillageCode>1635</SubVillageCode>
+    <SubVillageName>तांदळी(४५)पारगावमार्गे</SubVillageName>
+    <serveNo>???</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165335">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84566</GrowerCode>
+    <GrowerName>गायकवाड सुवर्णा साहेबराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1963</VillageCode>
+    <VillageName>सांगवी दुमाला</VillageName>
+    <SubVillageCode>1964</SubVillageCode>
+    <SubVillageName>सांगवी दुमाला(५८)निमगाव खलु मार्गे</SubVillageName>
+    <serveNo>??</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165336">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84567</GrowerCode>
+    <GrowerName>जगताप महादेव व्यंकट</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1277</VillageCode>
+    <VillageName>कौढा</VillageName>
+    <SubVillageCode>1275</SubVillageCode>
+    <SubVillageName>कौठा(५७)पारगावमार्गे</SubVillageName>
+    <serveNo>???</serveNo>
+    <CaneVariety>25</CaneVariety>
+    <CaneVarietyName>8005</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
