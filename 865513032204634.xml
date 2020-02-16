@@ -38570,4 +38570,61 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165310">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84539</GrowerCode>
+    <GrowerName>येवले शुभम अजिनाथ</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1491</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <SubVillageCode>1527</SubVillageCode>
+    <SubVillageName>मलठण(दौंड-केडगावमार्गे)(७९)</SubVillageName>
+    <serveNo>566</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165311">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>56547</GrowerCode>
+    <GrowerName>कोपनर शरद दशरथ</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1491</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <SubVillageCode>1527</SubVillageCode>
+    <SubVillageName>मलठण(दौंड-केडगावमार्गे)(७९)</SubVillageName>
+    <serveNo>123</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165312">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84554</GrowerCode>
+    <GrowerName>गलांडे प्रणव राजकुमार</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1491</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <SubVillageCode>1527</SubVillageCode>
+    <SubVillageName>मलठण(दौंड-केडगावमार्गे)(७९)</SubVillageName>
+    <serveNo>911</serveNo>
+    <CaneVariety>19</CaneVariety>
+    <CaneVarietyName>265</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
