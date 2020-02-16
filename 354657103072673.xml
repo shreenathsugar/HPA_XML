@@ -22574,4 +22574,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165287">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84540</GrowerCode>
+    <GrowerName>कुरुमकर रविंद्र जनार्दन</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1471</VillageCode>
+    <VillageName>श्रीगोंदा</VillageName>
+    <SubVillageCode>1149</SubVillageCode>
+    <SubVillageName>श्रीगोंदा(०)</SubVillageName>
+    <serveNo>462</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
