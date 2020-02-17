@@ -22783,4 +22783,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165401">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84575</GrowerCode>
+    <GrowerName>माने नारायण आप्पासो</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1471</VillageCode>
+    <VillageName>श्रीगोंदा</VillageName>
+    <SubVillageCode>1149</SubVillageCode>
+    <SubVillageName>श्रीगोंदा(०)</SubVillageName>
+    <serveNo>463</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165402">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84576</GrowerCode>
+    <GrowerName>माने स्वप्नील नवनाथ</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>1471</VillageCode>
+    <VillageName>श्रीगोंदा</VillageName>
+    <SubVillageCode>1149</SubVillageCode>
+    <SubVillageName>श्रीगोंदा(०)</SubVillageName>
+    <serveNo>47</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
