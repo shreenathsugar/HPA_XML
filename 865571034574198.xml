@@ -39007,4 +39007,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165586">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84653</GrowerCode>
+    <GrowerName>वाळके रेश्मा सुरेश</GrowerName>
+    <GatCode>13</GatCode>
+    <GatName>पारगाव</GatName>
+    <VillageCode>1491</VillageCode>
+    <VillageName>मलठण</VillageName>
+    <SubVillageCode>1527</SubVillageCode>
+    <SubVillageName>मलठण(दौंड-केडगावमार्गे)(७९)</SubVillageName>
+    <serveNo>578</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
