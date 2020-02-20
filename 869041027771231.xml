@@ -36537,4 +36537,42 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165702">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>67139</GrowerCode>
+    <GrowerName>सासवडे काळूराम बबन</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1106</VillageCode>
+    <VillageName>पिंपळे जगताप</VillageName>
+    <SubVillageCode>1936</SubVillageCode>
+    <SubVillageName>पिंपळे जगताप(२६)(टायर/ट्रॅ.गा)पिंपरी न्हावी-सांगवी मार्गे</SubVillageName>
+    <serveNo>245</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
+  <PlotList plotNo="165703">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84638</GrowerCode>
+    <GrowerName>गव्हाणे मच्छिंद्र नानासाहेब</GrowerName>
+    <GatCode>1083</GatCode>
+    <GatName>शिक्रापूर</GatName>
+    <VillageCode>1096</VillageCode>
+    <VillageName>कोरेगाव भिमा</VillageName>
+    <SubVillageCode>1919</SubVillageCode>
+    <SubVillageName>कोरेगाव भिमा(२९)पिंपरी आष्टापुर फाटामार्गे</SubVillageName>
+    <serveNo>178</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>2</CaneCode>
+    <CaneType>सुरु</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
