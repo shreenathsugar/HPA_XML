@@ -23106,4 +23106,23 @@
     <Irrigation>विहीर</Irrigation>
     <Plotend>N</Plotend>
   </PlotList>
+  <PlotList plotNo="165740">
+    <ProgramNo>1</ProgramNo>
+    <GrowerCode>84687</GrowerCode>
+    <GrowerName>कोळपे अर्जुन बाबुराव</GrowerName>
+    <GatCode>14</GatCode>
+    <GatName>रांजणगाव सांडस</GatName>
+    <VillageCode>40</VillageCode>
+    <VillageName>उरळगाव</VillageName>
+    <SubVillageCode>1637</SubVillageCode>
+    <SubVillageName>उरळगाव (४०)पारगावमार्गे</SubVillageName>
+    <serveNo>100</serveNo>
+    <CaneVariety>1</CaneVariety>
+    <CaneVarietyName>86032</CaneVarietyName>
+    <CaneCode>3</CaneCode>
+    <CaneType>खोडवा</CaneType>
+    <CanegrowerType>का.क्षे.बिगर सभासद</CanegrowerType>
+    <Irrigation>विहीर</Irrigation>
+    <Plotend>N</Plotend>
+  </PlotList>
 </HarvestingProgramDetailsList>
